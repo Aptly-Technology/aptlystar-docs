@@ -1,0 +1,566 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+16:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+1b:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+1c:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+1d:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+1e:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+74:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+75:"$Sreact.suspense"
+77:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+7e:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+9d:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Google 群组\",\"description\":\"管理 Google Workspace 群组及其成员\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_groups\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_groups\"},\"inLanguage\":\"zh\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_groups\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Google 群组\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_groups\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#使用说明","title":"使用说明"},{"depth":2,"url":"#工具","title":"工具"},{"depth":3,"url":"#google_groups_list_groups","title":["$","code",null,{"children":"google_groups_list_groups"}]},{"depth":4,"url":"#输入","title":"输入"},{"depth":4,"url":"#输出","title":"输出"},{"depth":3,"url":"#google_groups_get_group","title":["$","code",null,{"children":"google_groups_get_group"}]},{"depth":4,"url":"#输入-1","title":"输入"},{"depth":4,"url":"#输出-1","title":"输出"},{"depth":3,"url":"#google_groups_create_group","title":["$","code",null,{"children":"google_groups_create_group"}]},{"depth":4,"url":"#输入-2","title":"输入"},{"depth":4,"url":"#输出-2","title":"输出"},{"depth":3,"url":"#google_groups_update_group","title":["$","code",null,{"children":"google_groups_update_group"}]},{"depth":4,"url":"#输入-3","title":"输入"},{"depth":4,"url":"#输出-3","title":"输出"},{"depth":3,"url":"#google_groups_delete_group","title":["$","code",null,{"children":"google_groups_delete_group"}]},{"depth":4,"url":"#输入-4","title":"输入"},{"depth":4,"url":"#输出-4","title":"输出"},{"depth":3,"url":"#google_groups_list_members","title":["$","code",null,{"children":"google_groups_list_members"}]},{"depth":4,"url":"#输入-5","title":"输入"},{"depth":4,"url":"#输出-5","title":"输出"},{"depth":3,"url":"#google_groups_get_member","title":["$","code",null,{"children":"google_groups_get_member"}]},{"depth":4,"url":"#输入-6","title":"输入"},{"depth":4,"url":"#输出-6","title":"输出"},{"depth":3,"url":"#google_groups_add_member","title":["$","code",null,{"children":"google_groups_add_member"}]},{"depth":4,"url":"#输入-7","title":"输入"},{"depth":4,"url":"#输出-7","title":"输出"},{"depth":3,"url":"#google_groups_remove_member","title":["$","code",null,{"children":"google_groups_remove_member"}]},{"depth":4,"url":"#输入-8","title":"输入"},{"depth":4,"url":"#输出-8","title":"输出"},{"depth":3,"url":"#google_groups_update_member","title":["$","code",null,{"children":"google_groups_update_member"}]},{"depth":4,"url":"#输入-9","title":"输入"},{"depth":4,"url":"#输出-9","title":"输出"},{"depth":3,"url":"#google_groups_has_member","title":["$","code",null,{"children":"google_groups_has_member"}]},{"depth":4,"url":"#输入-10","title":"输入"},{"depth":4,"url":"#输出-10","title":"输出"},{"depth":2,"url":"#注意事项","title":"注意事项"},{"depth":4,"url":"#输出-11","title":"输出"},{"depth":3,"url":"#google_groups_list_aliases","title":["$","code",null,{"children":"google_groups_list_aliases"}]},{"depth":4,"url":"#输入-11","title":"输入"},{"depth":4,"url":"#输出-12","title":"输出"},{"depth":3,"url":"#google_groups_add_alias","title":["$","code",null,{"children":"google_groups_add_alias"}]},{"depth":4,"url":"#输入-12","title":"$L3"},{"depth":4,"url":"#输出-13","title":"$L4"},{"depth":3,"url":"#google_groups_remove_alias","title":"$L5"},{"depth":4,"url":"#输入-13","title":"$L6"},{"depth":4,"url":"#输出-14","title":"$L7"},{"depth":3,"url":"#google_groups_get_settings","title":"$L8"},{"depth":4,"url":"#输入-14","title":"$L9"},{"depth":4,"url":"#输出-15","title":"$La"},{"depth":3,"url":"#google_groups_update_settings","title":"$Lb"},{"depth":4,"url":"#输入-15","title":"$Lc"},{"depth":4,"url":"#输出-16","title":"$Ld"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$Le"},"children":["$Lf","$L10"]}]],["$L11","$L12","$L13","$L14"],"$L15"]}],"loading":null,"isPartial":false}
+3:"输入"
+4:"输出"
+5:["$","code",null,{"children":"google_groups_remove_alias"}]
+6:"输入"
+7:"输出"
+8:["$","code",null,{"children":"google_groups_get_settings"}]
+9:"输入"
+a:"输出"
+b:["$","code",null,{"children":"google_groups_update_settings"}]
+c:"输入"
+d:"输出"
+e:null
+17:T6e34,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="google_groups" color="#E8F0FE" />
+
+使用说明 [#使用说明]
+
+连接到 Google Workspace，使用 Admin SDK Directory API 创建、更新和管理群组及其成员。
+
+工具 [#工具]
+
+google_groups_list_groups [#google_groups_list_groups]
+
+列出 Google Workspace 域中的所有群组
+
+输入 [#输入]
+
+| 参数           | 类型     | 必需 | 描述                               |
+| ------------ | ------ | -- | -------------------------------- |
+| `customer`   | string | 否  | 客户 ID 或 "my\_customer" 表示已认证用户的域 |
+| `domain`     | string | 否  | 用于筛选群组的域名                        |
+| `maxResults` | number | 否  | 返回的最大结果数 (1-200)                 |
+| `pageToken`  | string | 否  | 分页的令牌                            |
+| `query`      | string | 否  | 用于筛选群组的搜索查询 (例如："email:admin\*") |
+
+输出 [#输出]
+
+| 参数              | 类型     | 描述           |
+| --------------- | ------ | ------------ |
+| `groups`        | json   | 群组对象的数组      |
+| `nextPageToken` | string | 用于获取下一页结果的令牌 |
+
+google_groups_get_group [#google_groups_get_group]
+
+通过电子邮件或群组 ID 获取特定 Google 群组的详细信息
+
+输入 [#输入-1]
+
+| 参数         | 类型     | 必需 | 描述               |
+| ---------- | ------ | -- | ---------------- |
+| `groupKey` | string | 是  | 群组电子邮件地址或唯一群组 ID |
+
+输出 [#输出-1]
+
+| 参数      | 类型   | 描述   |
+| ------- | ---- | ---- |
+| `group` | json | 群组对象 |
+
+google_groups_create_group [#google_groups_create_group]
+
+在域中创建一个新的 Google 群组
+
+输入 [#输入-2]
+
+| 参数            | 类型     | 必需 | 描述                                                               |
+| ------------- | ------ | -- | ---------------------------------------------------------------- |
+| `email`       | string | 是  | 新组的电子邮件地址 (例如：[team@yourdomain.com](mailto:team@yourdomain.com)) |
+| `name`        | string | 是  | 组的显示名称                                                           |
+| `description` | string | 否  | 组的描述                                                             |
+
+输出 [#输出-2]
+
+| 参数      | 类型   | 描述      |
+| ------- | ---- | ------- |
+| `group` | json | 创建的群组对象 |
+
+google_groups_update_group [#google_groups_update_group]
+
+更新现有的 Google 群组
+
+输入 [#输入-3]
+
+| 参数            | 类型     | 必需 | 描述                |
+| ------------- | ------ | -- | ----------------- |
+| `groupKey`    | string | 是  | 群组的电子邮件地址或唯一群组 ID |
+| `name`        | string | 否  | 群组的新显示名称          |
+| `description` | string | 否  | 群组的新描述            |
+| `email`       | string | 否  | 群组的新电子邮件地址        |
+
+输出 [#输出-3]
+
+| 参数      | 类型   | 描述      |
+| ------- | ---- | ------- |
+| `group` | json | 更新的群组对象 |
+
+google_groups_delete_group [#google_groups_delete_group]
+
+删除 Google 群组
+
+输入 [#输入-4]
+
+| 参数         | 类型     | 必需 | 描述                   |
+| ---------- | ------ | -- | -------------------- |
+| `groupKey` | string | 是  | 要删除的群组电子邮件地址或唯一群组 ID |
+
+输出 [#输出-4]
+
+| 参数        | 类型     | 描述   |
+| --------- | ------ | ---- |
+| `message` | string | 成功消息 |
+
+google_groups_list_members [#google_groups_list_members]
+
+列出 Google 群组的所有成员
+
+输入 [#输入-5]
+
+| 参数           | 类型     | 必需 | 描述                                  |
+| ------------ | ------ | -- | ----------------------------------- |
+| `groupKey`   | string | 是  | 群组的电子邮件地址或唯一群组 ID                   |
+| `maxResults` | number | 否  | 返回的最大结果数 (1-200)                    |
+| `pageToken`  | string | 否  | 分页的令牌                               |
+| `roles`      | string | 否  | 按角色筛选 (逗号分隔：OWNER, MANAGER, MEMBER) |
+
+输出 [#输出-5]
+
+| 参数              | 类型     | 描述           |
+| --------------- | ------ | ------------ |
+| `members`       | json   | 成员对象的数组      |
+| `nextPageToken` | string | 用于获取下一页结果的令牌 |
+
+google_groups_get_member [#google_groups_get_member]
+
+获取 Google 群组中特定成员的详细信息
+
+输入 [#输入-6]
+
+| 参数          | 类型     | 必需 | 描述                |
+| ----------- | ------ | -- | ----------------- |
+| `groupKey`  | string | 是  | 群组的电子邮件地址或唯一群组 ID |
+| `memberKey` | string | 是  | 成员的电子邮件地址或唯一成员 ID |
+
+输出 [#输出-6]
+
+| 参数       | 类型   | 描述   |
+| -------- | ---- | ---- |
+| `member` | json | 成员对象 |
+
+google_groups_add_member [#google_groups_add_member]
+
+向 Google 群组添加新成员
+
+输入 [#输入-7]
+
+| 参数         | 类型     | 必需 | 描述                                           |
+| ---------- | ------ | -- | -------------------------------------------- |
+| `groupKey` | string | 是  | 群组的电子邮件地址或唯一群组 ID                            |
+| `email`    | string | 是  | 要添加成员的电子邮件地址                                 |
+| `role`     | string | 否  | 成员的角色 (MEMBER, MANAGER, 或 OWNER)。默认为 MEMBER。 |
+
+输出 [#输出-7]
+
+| 参数       | 类型   | 描述      |
+| -------- | ---- | ------- |
+| `member` | json | 添加的成员对象 |
+
+google_groups_remove_member [#google_groups_remove_member]
+
+从 Google 群组中移除成员
+
+输入 [#输入-8]
+
+| 参数          | 类型     | 必需 | 描述                  |
+| ----------- | ------ | -- | ------------------- |
+| `groupKey`  | string | 是  | 群组的电子邮件地址或唯一群组 ID   |
+| `memberKey` | string | 是  | 要移除的成员的电子邮件地址或唯一 ID |
+
+输出 [#输出-8]
+
+| 参数        | 类型     | 描述   |
+| --------- | ------ | ---- |
+| `message` | string | 成功消息 |
+
+google_groups_update_member [#google_groups_update_member]
+
+更新成员信息
+
+输入 [#输入-9]
+
+| 参数          | 类型     | 必需 | 描述                                |
+| ----------- | ------ | -- | --------------------------------- |
+| `groupKey`  | string | 是  | 群组的电子邮件地址或唯一群组 ID                 |
+| `memberKey` | string | 是  | 成员的电子邮件地址或唯一成员 ID                 |
+| `role`      | string | 是  | 成员的新角色 (MEMBER, MANAGER, 或 OWNER) |
+
+输出 [#输出-9]
+
+| 参数       | 类型   | 描述      |
+| -------- | ---- | ------- |
+| `member` | json | 更新的成员对象 |
+
+google_groups_has_member [#google_groups_has_member]
+
+检查用户是否为 Google 群组的成员
+
+输入 [#输入-10]
+
+| 参数          | 类型     | 必需 | 描述                    |
+| ----------- | ------ | -- | --------------------- |
+| `groupKey`  | string | 是  | 群组的电子邮件地址或唯一群组 ID     |
+| `memberKey` | string | 是  | 要检查的成员的电子邮件地址或唯一成员 ID |
+
+输出 [#输出-10]
+
+| 参数         | 类型      | 描述          |
+| ---------- | ------- | ----------- |
+| `isMember` | boolean | 用户是否是该群组的成员 |
+
+注意事项 [#注意事项]
+
+* 类别：`tools`
+* 类型：`google_groups`
+
+| 参数          | 类型     | 必需 | 描述                                                                            |
+| ----------- | ------ | -- | ----------------------------------------------------------------------------- |
+| `groupKey`  | string | 是  | 群组标识符。可以是群组电子邮件地址（例如 [team@example.com](mailto:team@example.com)）或唯一群组 ID     |
+| `memberKey` | string | 是  | 要检查的成员标识符。可以是成员电子邮件地址（例如 [user@example.com](mailto:user@example.com)）或唯一成员 ID |
+
+输出 [#输出-11]
+
+| 参数         | 类型      | 描述         |
+| ---------- | ------- | ---------- |
+| `isMember` | boolean | 用户是否为该群组成员 |
+
+google_groups_list_aliases [#google_groups_list_aliases]
+
+列出 Google 群组的所有电子邮件别名
+
+输入 [#输入-11]
+
+| 参数         | 类型     | 必需 | 描述                                                                        |
+| ---------- | ------ | -- | ------------------------------------------------------------------------- |
+| `groupKey` | string | 是  | 群组标识符。可以是群组电子邮件地址（例如 [team@example.com](mailto:team@example.com)）或唯一群组 ID |
+
+输出 [#输出-12]
+
+| 参数               | 类型     | 描述          |
+| ---------------- | ------ | ----------- |
+| `aliases`        | array  | 群组的电子邮件别名列表 |
+| ↳ `id`           | string | 唯一群组标识符     |
+| ↳ `primaryEmail` | string | 群组主电子邮件地址   |
+| ↳ `alias`        | string | 别名电子邮件地址    |
+| ↳ `kind`         | string | API 资源类型    |
+| ↳ `etag`         | string | 资源版本标识符     |
+
+google_groups_add_alias [#google_groups_add_alias]
+
+为 Google 群组添加电子邮件别名
+
+输入 [#输入-12]
+
+| 参数         | 类型     | 必需 | 描述                                                                        |
+| ---------- | ------ | -- | ------------------------------------------------------------------------- |
+| `groupKey` | string | 是  | 群组标识符。可以是群组电子邮件地址（例如 [team@example.com](mailto:team@example.com)）或唯一群组 ID |
+| `alias`    | string | 是  | 要添加到群组的电子邮件别名                                                             |
+
+输出 [#输出-13]
+
+| 参数             | 类型     | 描述        |
+| -------------- | ------ | --------- |
+| `id`           | string | 唯一群组标识符   |
+| `primaryEmail` | string | 群组主电子邮件地址 |
+| `alias`        | string | 新增的别名     |
+| `kind`         | string | API 资源类型  |
+| `etag`         | string | 资源版本标识符   |
+
+google_groups_remove_alias [#google_groups_remove_alias]
+
+从 Google 群组中移除电子邮件别名
+
+输入 [#输入-13]
+
+| 参数         | 类型     | 必需 | 描述                                                                        |
+| ---------- | ------ | -- | ------------------------------------------------------------------------- |
+| `groupKey` | string | 是  | 群组标识符。可以是群组电子邮件地址（例如 [team@example.com](mailto:team@example.com)）或唯一群组 ID |
+| `alias`    | string | 是  | 要从群组中移除的电子邮件别名                                                            |
+
+输出 [#输出-14]
+
+| 参数        | 类型      | 描述        |
+| --------- | ------- | --------- |
+| `deleted` | boolean | 是否成功删除了别名 |
+
+google_groups_get_settings [#google_groups_get_settings]
+
+获取 Google 群组的设置，包括访问权限、审核和发帖选项
+
+输入 [#输入-14]
+
+| 参数           | 类型     | 必需 | 描述                                                        |
+| ------------ | ------ | -- | --------------------------------------------------------- |
+| `groupEmail` | string | 是  | 群组的电子邮件地址（例如 [team@example.com](mailto:team@example.com)） |
+
+输出 [#输出-15]
+
+| 参数                                   | 类型     | 描述                                                                                              |
+| ------------------------------------ | ------ | ----------------------------------------------------------------------------------------------- |
+| `email`                              | string | 群组电子邮件地址                                                                                        |
+| `name`                               | string | 群组名称（最多 75 个字符）                                                                                 |
+| `description`                        | string | 群组描述（最多 4096 个字符）                                                                               |
+| `whoCanJoin`                         | string | 谁可以加入群组（ANYONE\_CAN\_JOIN、ALL\_IN\_DOMAIN\_CAN\_JOIN、INVITED\_CAN\_JOIN、CAN\_REQUEST\_TO\_JOIN） |
+| `whoCanViewMembership`               | string | 谁可以查看群组成员                                                                                       |
+| `whoCanViewGroup`                    | string | 谁可以查看群组消息                                                                                       |
+| `whoCanPostMessage`                  | string | 谁可以向群组发送消息                                                                                      |
+| `allowExternalMembers`               | string | 是否允许外部用户成为成员                                                                                    |
+| `allowWebPosting`                    | string | 是否允许网页发帖                                                                                        |
+| `primaryLanguage`                    | string | 群组的主要语言                                                                                         |
+| `isArchived`                         | string | 是否存档消息                                                                                          |
+| `archiveOnly`                        | string | 群组是否仅限归档（非活跃）                                                                                   |
+| `messageModerationLevel`             | string | 消息审核级别                                                                                          |
+| `spamModerationLevel`                | string | 垃圾邮件处理级别（ALLOW、MODERATE、SILENTLY\_MODERATE、REJECT）                                              |
+| `replyTo`                            | string | 默认回复目标                                                                                          |
+| `customReplyTo`                      | string | 自定义回复邮箱                                                                                         |
+| `includeCustomFooter`                | string | 是否包含自定义页脚                                                                                       |
+| `customFooterText`                   | string | 自定义页脚文本（最多 1000 个字符）                                                                            |
+| `sendMessageDenyNotification`        | string | 是否发送拒绝通知                                                                                        |
+| `defaultMessageDenyNotificationText` | string | 默认拒绝消息文本                                                                                        |
+| `membersCanPostAsTheGroup`           | string | 成员是否可以以群组身份发帖                                                                                   |
+| `includeInGlobalAddressList`         | string | 是否包含在全局地址列表中                                                                                    |
+| `whoCanLeaveGroup`                   | string | 谁可以退出群组                                                                                         |
+| `whoCanContactOwner`                 | string | 谁可以联系群组所有者                                                                                      |
+| `favoriteRepliesOnTop`               | string | 收藏回复是否置顶                                                                                        |
+| `whoCanApproveMembers`               | string | 谁可以批准新成员                                                                                        |
+| `whoCanBanUsers`                     | string | 谁可以封禁用户                                                                                         |
+| `whoCanModerateMembers`              | string | 谁可以管理成员                                                                                         |
+| `whoCanModerateContent`              | string | 谁可以审核内容                                                                                         |
+| `whoCanAssistContent`                | string | 谁可以协助内容元数据                                                                                      |
+| `enableCollaborativeInbox`           | string | 是否启用协作收件箱                                                                                       |
+| `whoCanDiscoverGroup`                | string | 谁可以发现该群组                                                                                        |
+| `defaultSender`                      | string | 默认发件人身份（DEFAULT\_SELF 或 GROUP）                                                                  |
+
+google_groups_update_settings [#google_groups_update_settings]
+
+更新 Google 群组的设置，包括访问权限、审核和发帖选项
+
+输入 [#输入-15]
+
+| 参数                                   | 类型     | 是否必填 | 描述                                                                                                                                         |
+| ------------------------------------ | ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `groupEmail`                         | string | 是    | 群组的电子邮件地址（例如 [team@example.com](mailto:team@example.com)）                                                                                  |
+| `name`                               | string | 否    | 群组名称（最多 75 个字符）                                                                                                                            |
+| `description`                        | string | 否    | 群组描述（最多 4096 个字符）                                                                                                                          |
+| `whoCanJoin`                         | string | 否    | 谁可以加入：ANYONE\_CAN\_JOIN、ALL\_IN\_DOMAIN\_CAN\_JOIN、INVITED\_CAN\_JOIN、CAN\_REQUEST\_TO\_JOIN                                               |
+| `whoCanViewMembership`               | string | 否    | 谁可以查看成员：ALL\_IN\_DOMAIN\_CAN\_VIEW、ALL\_MEMBERS\_CAN\_VIEW、ALL\_MANAGERS\_CAN\_VIEW                                                        |
+| `whoCanViewGroup`                    | string | 否    | 谁可以查看群组消息：ANYONE\_CAN\_VIEW、ALL\_IN\_DOMAIN\_CAN\_VIEW、ALL\_MEMBERS\_CAN\_VIEW、ALL\_MANAGERS\_CAN\_VIEW                                    |
+| `whoCanPostMessage`                  | string | 否    | 谁可以发帖：NONE\_CAN\_POST、ALL\_MANAGERS\_CAN\_POST、ALL\_MEMBERS\_CAN\_POST、ALL\_OWNERS\_CAN\_POST、ALL\_IN\_DOMAIN\_CAN\_POST、ANYONE\_CAN\_POST |
+| `allowExternalMembers`               | string | 否    | 是否允许外部用户成为成员：true 或 false                                                                                                                  |
+| `allowWebPosting`                    | string | 否    | 是否允许网页发帖：true 或 false                                                                                                                      |
+| `primaryLanguage`                    | string | 否    | 群组的主要语言（例如 en）                                                                                                                             |
+| `isArchived`                         | string | 否    | 是否归档消息：true 或 false                                                                                                                        |
+| `archiveOnly`                        | string | 否    | 群组是否仅归档（非活跃）：true 或 false                                                                                                                  |
+| `messageModerationLevel`             | string | 否    | 消息审核：MODERATE\_ALL\_MESSAGES、MODERATE\_NON\_MEMBERS、MODERATE\_NEW\_MEMBERS、MODERATE\_NONE                                                  |
+| `spamModerationLevel`                | string | 否    | 垃圾邮件处理：ALLOW、MODERATE、SILENTLY\_MODERATE、REJECT                                                                                            |
+| `replyTo`                            | string | 否    | 默认回复：REPLY\_TO\_CUSTOM、REPLY\_TO\_SENDER、REPLY\_TO\_LIST、REPLY\_TO\_OWNER、REPLY\_TO\_IGNORE、REPLY\_TO\_MANAGERS                            |
+| `customReplyTo`                      | string | 否    | 自定义回复邮箱（当 replyTo 为 REPLY\_TO\_CUSTOM 时）                                                                                                   |
+| `includeCustomFooter`                | string | 否    | 是否包含自定义页脚：true 或 false                                                                                                                     |
+| `customFooterText`                   | string | 否    | 自定义页脚文本（最多 1000 个字符）                                                                                                                       |
+| `sendMessageDenyNotification`        | string | 否    | 是否发送拒绝通知：true 或 false                                                                                                                      |
+| `defaultMessageDenyNotificationText` | string | 否    | 默认拒绝消息文本                                                                                                                                   |
+| `membersCanPostAsTheGroup`           | string | 否    | 成员是否可以以群组身份发帖：true 或 false                                                                                                                 |
+| `includeInGlobalAddressList`         | string | 否    | 是否包含在全局地址列表中：true 或 false                                                                                                                  |
+| `whoCanLeaveGroup`                   | string | 否    | 谁可以退出：ALL\_MANAGERS\_CAN\_LEAVE、ALL\_MEMBERS\_CAN\_LEAVE、NONE\_CAN\_LEAVE                                                                  |
+| `whoCanContactOwner`                 | string | 否    | 谁可以联系所有者：ALL\_IN\_DOMAIN\_CAN\_CONTACT、ALL\_MANAGERS\_CAN\_CONTACT、ALL\_MEMBERS\_CAN\_CONTACT、ANYONE\_CAN\_CONTACT                         |
+| `favoriteRepliesOnTop`               | string | 否    | 收藏回复是否置顶：true 或 false                                                                                                                      |
+| `whoCanApproveMembers`               | string | 否    | 谁可以批准成员：ALL\_OWNERS\_CAN\_APPROVE、ALL\_MANAGERS\_CAN\_APPROVE、ALL\_MEMBERS\_CAN\_APPROVE、NONE\_CAN\_APPROVE                                |
+| `whoCanBanUsers`                     | string | 否    | 谁可以封禁用户：OWNERS\_ONLY、OWNERS\_AND\_MANAGERS、NONE                                                                                            |
+| `whoCanModerateMembers`              | string | 否    | 谁可以管理成员：OWNERS\_ONLY、OWNERS\_AND\_MANAGERS、ALL\_MEMBERS、NONE                                                                               |
+| `whoCanModerateContent`              | string | 否    | 谁可以审核内容：OWNERS\_ONLY、OWNERS\_AND\_MANAGERS、ALL\_MEMBERS、NONE                                                                               |
+| `whoCanAssistContent`                | string | 否    | 谁可以协助内容元数据：OWNERS\_ONLY、OWNERS\_AND\_MANAGERS、ALL\_MEMBERS、NONE                                                                            |
+| `enableCollaborativeInbox`           | string | 否    | 是否启用协作收件箱：true 或 false                                                                                                                     |
+| `whoCanDiscoverGroup`                | string | 否    | 谁可以发现：ANYONE\_CAN\_DISCOVER、ALL\_IN\_DOMAIN\_CAN\_DISCOVER、ALL\_MEMBERS\_CAN\_DISCOVER                                                     |
+| `defaultSender`                      | string | 否    | 默认发件人：DEFAULT\_SELF 或 GROUP                                                                                                                |
+
+输出 [#输出-16]
+
+| 参数                                   | 类型     | 描述            |
+| ------------------------------------ | ------ | ------------- |
+| `email`                              | string | 群组的电子邮件地址     |
+| `name`                               | string | 群组名称          |
+| `description`                        | string | 群组描述          |
+| `whoCanJoin`                         | string | 谁可以加入该群组      |
+| `whoCanViewMembership`               | string | 谁可以查看群组成员     |
+| `whoCanViewGroup`                    | string | 谁可以查看群组消息     |
+| `whoCanPostMessage`                  | string | 谁可以向群组发送消息    |
+| `allowExternalMembers`               | string | 外部用户是否可以成为成员  |
+| `allowWebPosting`                    | string | 是否允许网页发帖      |
+| `primaryLanguage`                    | string | 群组的主要语言       |
+| `isArchived`                         | string | 是否存档消息        |
+| `archiveOnly`                        | string | 群组是否仅限存档      |
+| `messageModerationLevel`             | string | 消息审核级别        |
+| `spamModerationLevel`                | string | 垃圾邮件处理级别      |
+| `replyTo`                            | string | 默认回复目标        |
+| `customReplyTo`                      | string | 自定义回复邮箱       |
+| `includeCustomFooter`                | string | 是否包含自定义页脚     |
+| `customFooterText`                   | string | 自定义页脚文本       |
+| `sendMessageDenyNotification`        | string | 是否发送拒绝通知      |
+| `defaultMessageDenyNotificationText` | string | 默认拒绝消息文本      |
+| `membersCanPostAsTheGroup`           | string | 成员是否可以以群组身份发帖 |
+| `includeInGlobalAddressList`         | string | 是否包含在全局地址列表中  |
+| `whoCanLeaveGroup`                   | string | 谁可以退出群组       |
+| `whoCanContactOwner`                 | string | 谁可以联系群组所有者    |
+| `favoriteRepliesOnTop`               | string | 收藏回复是否置顶      |
+| `whoCanApproveMembers`               | string | 谁可以批准新成员      |
+| `whoCanBanUsers`                     | string | 谁可以封禁用户       |
+| `whoCanModerateMembers`              | string | 谁可以管理成员       |
+| `whoCanModerateContent`              | string | 谁可以审核内容       |
+| `whoCanAssistContent`                | string | 谁可以协助内容元数据    |
+| `enableCollaborativeInbox`           | string | 是否启用协作收件箱     |
+| `whoCanDiscoverGroup`                | string | 谁可以发现该群组      |
+| `defaultSender`                      | string | 默认发件人身份       |
+f:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L16",null,{"content":"$17"}]}],"$L18"]}],"$L19","$L1a"]}]
+10:["$","$L1b",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L1c",null,{"type":"google_groups","color":"#E8F0FE"}],"\n",["$","$L1d",null,{"as":"h2","id":"使用说明","children":"使用说明"}],"\n",["$","p",null,{"children":"连接到 Google Workspace，使用 Admin SDK Directory API 创建、更新和管理群组及其成员。"}],"\n",["$","$L1d",null,{"as":"h2","id":"工具","children":"工具"}],"\n",["$","$L1d",null,{"as":"h3","id":"google_groups_list_groups","children":["$","code",null,{"children":"google_groups_list_groups"}]}],"\n",["$","p",null,{"children":"列出 Google Workspace 域中的所有群组"}],"\n",["$","$L1d",null,{"as":"h4","id":"输入","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customer"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"客户 ID 或 \"my_customer\" 表示已认证用户的域"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用于筛选群组的域名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"返回的最大结果数 (1-200)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分页的令牌"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用于筛选群组的搜索查询 (例如：\"email:admin*\")"}]]}]]}]]}]}],"\n",["$","$L1d",null,{"as":"h4","id":"输出","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groups"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"群组对象的数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextPageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于获取下一页结果的令牌"}]]}]]}]]}]}],"\n",["$","$L1d",null,{"as":"h3","id":"google_groups_get_group","children":["$","code",null,{"children":"google_groups_get_group"}]}],"\n",["$","p",null,{"children":"通过电子邮件或群组 ID 获取特定 Google 群组的详细信息"}],"\n",["$","$L1d",null,{"as":"h4","id":"输入-1","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组电子邮件地址或唯一群组 ID"}]]}]}]]}]}],"\n",["$","$L1d",null,{"as":"h4","id":"输出-1","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"group"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"群组对象"}]]}]}]]}]}],"\n",["$","$L1d",null,{"as":"h3","id":"google_groups_create_group","children":["$","code",null,{"children":"google_groups_create_group"}]}],"\n",["$","p",null,{"children":"在域中创建一个新的 Google 群组"}],"\n",["$","$L1d",null,{"as":"h4","id":"输入-2","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["新组的电子邮件地址 (例如：",["$","$L1e",null,{"href":"mailto:team@yourdomain.com","children":"team@yourdomain.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"组的显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"组的描述"}]]}]]}]]}]}],"\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73"]}]}]
+11:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+12:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+13:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+14:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+15:["$","$L74",null,{"children":["$","$75",null,{"name":"Next.MetadataOutlet","children":"$@76"}]}]
+18:["$","$L77",null,{}]
+78:Ta97,M0 0 C0.94 0.16 1.89 0.32 2.86 0.49 C41.4 7.38 77.61 23.6 108.36 47.75 C110.83 49.63 113.4 51.31 116 53 C116.46 52.57 116.93 52.15 117.4 51.71 C122.6 47.03 128.04 43.03 133.88 39.19 C134.79 38.58 135.71 37.97 136.66 37.35 C193.07 0.5 260.71 -11.47 326.56 2.19 C345.07 6.3 362.98 12.66 380 21 C380.84 21.41 381.68 21.82 382.55 22.25 C394.72 28.26 406.12 34.88 417 43 C417.91 43.68 417.91 43.68 418.85 44.38 C427.34 50.76 435.33 57.63 443 65 C443.89 65.85 443.89 65.85 444.8 66.72 C453.7 75.25 461.7 84.07 469 94 C469.43 94.57 469.85 95.14 470.29 95.73 C480.43 109.34 488.67 123.71 496 139 C496.45 139.92 496.9 140.84 497.36 141.79 C507.87 163.93 513.87 187.76 517 212 C517.17 213.28 517.34 214.55 517.52 215.87 C518.23 222.32 518.2 228.79 518.24 235.27 C518.24 236.28 518.24 236.28 518.25 237.31 C518.27 240.87 518.29 244.43 518.3 247.99 C518.31 251.63 518.34 255.28 518.38 258.92 C518.41 261.75 518.41 264.59 518.42 267.42 C518.43 269.41 518.45 271.39 518.48 273.38 C518.45 285.76 515.12 295.57 507 305 C499.87 312.03 489.29 317.89 479.06 318.03 C476.62 317.96 474.2 317.86 471.76 317.75 C470.83 317.71 469.89 317.67 468.92 317.63 C466.86 317.54 464.8 317.45 462.73 317.36 C458.16 317.16 453.58 316.97 449 316.78 C445.21 316.63 441.43 316.47 437.64 316.31 C398.91 314.7 360.18 313.33 321.43 312.45 C320.24 312.42 320.24 312.42 319.03 312.4 C302.6 312.03 286.17 311.68 269.74 311.37 C260.42 311.19 251.11 311 241.79 310.81 C240.95 310.8 240.11 310.78 239.24 310.76 C214.74 310.26 190.27 309.43 165.79 308.3 C125.9 306.45 86.04 305.18 46.1 305.15 C44.51 305.15 42.92 305.14 41.33 305.14 C-37.51 305.01 -103.97 308.91 -163.53 367.12 C-188.38 391.98 -210.6 420.04 -229.42 449.72 C-234.45 457.53 -238 461.22 -247.02 463.9 C-257.46 465.68 -265.75 464.63 -274.71 458.77 C-282.12 453.05 -286.55 446.3 -288 437 C-288.09 434.22 -288.14 431.46 -288.13 428.68 C-288.14 427.85 -288.14 427.01 -288.14 426.15 C-288.15 423.36 -288.15 420.56 -288.15 417.76 C-288.15 415.76 -288.15 413.75 -288.16 411.75 C-288.16 406.29 -288.17 400.84 -288.17 395.39 C-288.17 391.97 -288.17 388.56 -288.17 385.14 C-288.18 373.21 -288.19 361.27 -288.19 349.34 C-288.18 338.25 -288.2 327.17 -288.21 316.09 C-288.22 306.54 -288.23 297 -288.23 287.46 C-288.23 281.78 -288.23 276.09 -288.24 270.4 C-288.25 265.04 -288.25 259.67 -288.24 254.31 C-288.24 252.36 -288.25 250.4 -288.25 248.45 C-288.3 231.58 -287.44 214.67 -284.25 198.06 C-284.08 197.16 -283.91 196.26 -283.73 195.34 C-277.33 162.81 -264.84 129.81 -245 103 C-244.31 102.04 -243.62 101.08 -242.9 100.09 C-231.62 84.69 -218.86 69.07 -204 57 C-202.83 56.02 -201.66 55.03 -200.48 54.05 C-165.05 24.48 -123.48 6.45 -78 -1 C-77.21 -1.13 -76.42 -1.26 -75.61 -1.4 C-51.08 -5.27 -24.38 -4.17 0 0 Z 79:T7d4,M0 0 C0.84 0.41 1.68 0.82 2.55 1.25 C14.72 7.26 26.12 13.88 37 22 C37.91 22.68 37.91 22.68 38.85 23.38 C47.34 29.76 55.33 36.63 63 44 C63.59 44.57 64.19 45.13 64.8 45.72 C73.7 54.25 81.7 63.07 89 73 C89.64 73.86 89.64 73.86 90.29 74.73 C100.43 88.34 108.67 102.71 116 118 C116.67 119.38 116.67 119.38 117.36 120.79 C127.87 142.93 133.87 166.76 137 191 C137.17 192.28 137.34 193.55 137.52 194.87 C138.23 201.32 138.2 207.79 138.24 214.27 C138.24 215.28 138.24 215.28 138.25 216.31 C138.27 219.87 138.29 223.43 138.3 226.99 C138.31 230.63 138.34 234.28 138.38 237.92 C138.41 240.75 138.41 243.59 138.42 246.42 C138.43 248.41 138.45 250.39 138.48 252.38 C138.45 264.76 135.12 274.57 127 284 C118.58 292.31 107.26 297.13 95.43 297.12 C94.32 297.13 93.21 297.13 92.06 297.13 C90.84 297.13 89.62 297.12 88.36 297.12 C86.42 297.12 86.42 297.12 84.43 297.12 C80.83 297.13 77.22 297.12 73.62 297.12 C69.73 297.11 65.85 297.11 61.96 297.11 C55.23 297.11 48.5 297.11 41.76 297.11 C32.03 297.1 22.3 297.09 12.56 297.09 C-3.23 297.09 -19.02 297.08 -34.81 297.08 C-50.16 297.07 -65.5 297.06 -80.84 297.05 C-81.78 297.05 -82.73 297.05 -83.7 297.05 C-88.45 297.05 -93.19 297.05 -97.93 297.05 C-137.29 297.04 -176.64 297.02 -216 297 C-216 296.67 -216 296.34 -216 296 C-215.11 295.78 -214.21 295.56 -213.29 295.34 C-199.61 291.75 -190.3 286.45 -182.34 274.51 C-175.87 262.19 -177.25 248.41 -177.47 234.87 C-177.51 232.14 -177.52 229.42 -177.53 226.69 C-177.59 206.54 -178.59 187.22 -183.19 167.56 C-183.34 166.9 -183.49 166.24 -183.65 165.56 C-193.06 125.06 -212.75 88.11 -240.78 57.45 C-242.91 55.1 -244.99 52.71 -247.06 50.31 C-250.75 46.16 -254.73 42.54 -259 39 C-259.91 38.24 -259.91 38.24 -260.84 37.46 C-262.22 36.3 -263.61 35.15 -265 34 C-261.24 29.06 -257.23 25.68 -252.12 22.19 C-251.38 21.67 -250.63 21.15 -249.85 20.61 C-242.76 15.74 -235.49 11.23 -228 7 C-227.35 6.63 -226.69 6.26 -226.02 5.87 C-214.75 -0.49 -203.12 -5.49 -191 -10 C-189.78 -10.46 -188.57 -10.92 -187.31 -11.4 C-127.13 -32.87 -57.15 -28 0 0 Z 19:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 950 950","children":[["$","path",null,{"d":"$78","fill":"#4185F3","transform":"translate(394,440)"}],["$","path",null,{"d":"$79","fill":"#4185F3","transform":"translate(774,461)"}],"$L7a","$L7b","$L7c"]}]}],"$L7d"]}]
+1a:["$","$L7e",null,{"children":"管理 Google Workspace 群组及其成员"}]
+1f:["$","$L1d",null,{"as":"h4","id":"输出-2","children":"输出"}]
+20:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"group"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"创建的群组对象"}]]}]}]]}]}]
+21:["$","$L1d",null,{"as":"h3","id":"google_groups_update_group","children":["$","code",null,{"children":"google_groups_update_group"}]}]
+22:["$","p",null,{"children":"更新现有的 Google 群组"}]
+23:["$","$L1d",null,{"as":"h4","id":"输入-3","children":"输入"}]
+24:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组的新显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组的新描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组的新电子邮件地址"}]]}]]}]]}]}]
+25:["$","$L1d",null,{"as":"h4","id":"输出-3","children":"输出"}]
+26:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"group"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"更新的群组对象"}]]}]}]]}]}]
+27:["$","$L1d",null,{"as":"h3","id":"google_groups_delete_group","children":["$","code",null,{"children":"google_groups_delete_group"}]}]
+28:["$","p",null,{"children":"删除 Google 群组"}]
+29:["$","$L1d",null,{"as":"h4","id":"输入-4","children":"输入"}]
+2a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要删除的群组电子邮件地址或唯一群组 ID"}]]}]}]]}]}]
+2b:["$","$L1d",null,{"as":"h4","id":"输出-4","children":"输出"}]
+2c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"成功消息"}]]}]}]]}]}]
+2d:["$","$L1d",null,{"as":"h3","id":"google_groups_list_members","children":["$","code",null,{"children":"google_groups_list_members"}]}]
+2e:["$","p",null,{"children":"列出 Google 群组的所有成员"}]
+2f:["$","$L1d",null,{"as":"h4","id":"输入-5","children":"输入"}]
+30:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"返回的最大结果数 (1-200)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分页的令牌"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"roles"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"按角色筛选 (逗号分隔：OWNER, MANAGER, MEMBER)"}]]}]]}]]}]}]
+31:["$","$L1d",null,{"as":"h4","id":"输出-5","children":"输出"}]
+32:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"members"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"成员对象的数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextPageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于获取下一页结果的令牌"}]]}]]}]]}]}]
+33:["$","$L1d",null,{"as":"h3","id":"google_groups_get_member","children":["$","code",null,{"children":"google_groups_get_member"}]}]
+34:["$","p",null,{"children":"获取 Google 群组中特定成员的详细信息"}]
+35:["$","$L1d",null,{"as":"h4","id":"输入-6","children":"输入"}]
+36:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"memberKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"成员的电子邮件地址或唯一成员 ID"}]]}]]}]]}]}]
+37:["$","$L1d",null,{"as":"h4","id":"输出-6","children":"输出"}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"member"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"成员对象"}]]}]}]]}]}]
+39:["$","$L1d",null,{"as":"h3","id":"google_groups_add_member","children":["$","code",null,{"children":"google_groups_add_member"}]}]
+3a:["$","p",null,{"children":"向 Google 群组添加新成员"}]
+3b:["$","$L1d",null,{"as":"h4","id":"输入-7","children":"输入"}]
+3c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要添加成员的电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"成员的角色 (MEMBER, MANAGER, 或 OWNER)。默认为 MEMBER。"}]]}]]}]]}]}]
+3d:["$","$L1d",null,{"as":"h4","id":"输出-7","children":"输出"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"member"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"添加的成员对象"}]]}]}]]}]}]
+3f:["$","$L1d",null,{"as":"h3","id":"google_groups_remove_member","children":["$","code",null,{"children":"google_groups_remove_member"}]}]
+40:["$","p",null,{"children":"从 Google 群组中移除成员"}]
+41:["$","$L1d",null,{"as":"h4","id":"输入-8","children":"输入"}]
+42:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"memberKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要移除的成员的电子邮件地址或唯一 ID"}]]}]]}]]}]}]
+43:["$","$L1d",null,{"as":"h4","id":"输出-8","children":"输出"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"成功消息"}]]}]}]]}]}]
+45:["$","$L1d",null,{"as":"h3","id":"google_groups_update_member","children":["$","code",null,{"children":"google_groups_update_member"}]}]
+46:["$","p",null,{"children":"更新成员信息"}]
+47:["$","$L1d",null,{"as":"h4","id":"输入-9","children":"输入"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"memberKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"成员的电子邮件地址或唯一成员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"成员的新角色 (MEMBER, MANAGER, 或 OWNER)"}]]}]]}]]}]}]
+49:["$","$L1d",null,{"as":"h4","id":"输出-9","children":"输出"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"member"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"更新的成员对象"}]]}]}]]}]}]
+4b:["$","$L1d",null,{"as":"h3","id":"google_groups_has_member","children":["$","code",null,{"children":"google_groups_has_member"}]}]
+4c:["$","p",null,{"children":"检查用户是否为 Google 群组的成员"}]
+4d:["$","$L1d",null,{"as":"h4","id":"输入-10","children":"输入"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"群组的电子邮件地址或唯一群组 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"memberKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检查的成员的电子邮件地址或唯一成员 ID"}]]}]]}]]}]}]
+4f:["$","$L1d",null,{"as":"h4","id":"输出-10","children":"输出"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isMember"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"用户是否是该群组的成员"}]]}]}]]}]}]
+51:["$","$L1d",null,{"as":"h2","id":"注意事项","children":"注意事项"}]
+52:["$","ul",null,{"children":["\n",["$","li",null,{"children":["类别：",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["类型：",["$","code",null,{"children":"google_groups"}]]}],"\n"]}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["群组标识符。可以是群组电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:team@example.com","children":"team@example.com"}],"）或唯一群组 ID"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"memberKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要检查的成员标识符。可以是成员电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:user@example.com","children":"user@example.com"}],"）或唯一成员 ID"]}]]}]]}]]}]}]
+54:["$","$L1d",null,{"as":"h4","id":"输出-11","children":"输出"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isMember"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"用户是否为该群组成员"}]]}]}]]}]}]
+56:["$","$L1d",null,{"as":"h3","id":"google_groups_list_aliases","children":["$","code",null,{"children":"google_groups_list_aliases"}]}]
+57:["$","p",null,{"children":"列出 Google 群组的所有电子邮件别名"}]
+58:["$","$L1d",null,{"as":"h4","id":"输入-11","children":"输入"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["群组标识符。可以是群组电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:team@example.com","children":"team@example.com"}],"）或唯一群组 ID"]}]]}]}]]}]}]
+5a:["$","$L1d",null,{"as":"h4","id":"输出-12","children":"输出"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"aliases"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"群组的电子邮件别名列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"唯一群组标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"primaryEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组主电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"alias"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"别名电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"API 资源类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"etag"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"资源版本标识符"}]]}]]}]]}]}]
+5c:["$","$L1d",null,{"as":"h3","id":"google_groups_add_alias","children":["$","code",null,{"children":"google_groups_add_alias"}]}]
+5d:["$","p",null,{"children":"为 Google 群组添加电子邮件别名"}]
+5e:["$","$L1d",null,{"as":"h4","id":"输入-12","children":"输入"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["群组标识符。可以是群组电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:team@example.com","children":"team@example.com"}],"）或唯一群组 ID"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alias"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要添加到群组的电子邮件别名"}]]}]]}]]}]}]
+60:["$","$L1d",null,{"as":"h4","id":"输出-13","children":"输出"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"唯一群组标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"primaryEmail"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组主电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alias"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"新增的别名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"kind"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"API 资源类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"etag"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"资源版本标识符"}]]}]]}]]}]}]
+62:["$","$L1d",null,{"as":"h3","id":"google_groups_remove_alias","children":["$","code",null,{"children":"google_groups_remove_alias"}]}]
+63:["$","p",null,{"children":"从 Google 群组中移除电子邮件别名"}]
+64:["$","$L1d",null,{"as":"h4","id":"输入-13","children":"输入"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["群组标识符。可以是群组电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:team@example.com","children":"team@example.com"}],"）或唯一群组 ID"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alias"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要从群组中移除的电子邮件别名"}]]}]]}]]}]}]
+66:["$","$L1d",null,{"as":"h4","id":"输出-14","children":"输出"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否成功删除了别名"}]]}]}]]}]}]
+68:["$","$L1d",null,{"as":"h3","id":"google_groups_get_settings","children":["$","code",null,{"children":"google_groups_get_settings"}]}]
+69:["$","p",null,{"children":"获取 Google 群组的设置，包括访问权限、审核和发帖选项"}]
+6a:["$","$L1d",null,{"as":"h4","id":"输入-14","children":"输入"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupEmail"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["群组的电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:team@example.com","children":"team@example.com"}],"）"]}]]}]}]]}]}]
+6c:["$","$L1d",null,{"as":"h4","id":"输出-15","children":"输出"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组名称（最多 75 个字符）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组描述（最多 4096 个字符）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanJoin"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以加入群组（ANYONE_CAN_JOIN、ALL_IN_DOMAIN_CAN_JOIN、INVITED_CAN_JOIN、CAN_REQUEST_TO_JOIN）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanViewMembership"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以查看群组成员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanViewGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以查看群组消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanPostMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以向群组发送消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowExternalMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否允许外部用户成为成员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowWebPosting"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否允许网页发帖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"primaryLanguage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组的主要语言"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isArchived"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否存档消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"archiveOnly"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组是否仅限归档（非活跃）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageModerationLevel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"消息审核级别"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"spamModerationLevel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"垃圾邮件处理级别（ALLOW、MODERATE、SILENTLY_MODERATE、REJECT）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"replyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"默认回复目标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customReplyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"自定义回复邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeCustomFooter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否包含自定义页脚"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFooterText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"自定义页脚文本（最多 1000 个字符）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sendMessageDenyNotification"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否发送拒绝通知"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"defaultMessageDenyNotificationText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"默认拒绝消息文本"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"membersCanPostAsTheGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"成员是否可以以群组身份发帖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeInGlobalAddressList"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否包含在全局地址列表中"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanLeaveGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以退出群组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanContactOwner"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以联系群组所有者"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"favoriteRepliesOnTop"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"收藏回复是否置顶"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanApproveMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以批准新成员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanBanUsers"}]}],["$","td",null,{"children":"string"}],"$L7f"]}],"$L80","$L81","$L82","$L83","$L84","$L85"]}]]}]}]
+6e:["$","$L1d",null,{"as":"h3","id":"google_groups_update_settings","children":["$","code",null,{"children":"google_groups_update_settings"}]}]
+6f:["$","p",null,{"children":"更新 Google 群组的设置，包括访问权限、审核和发帖选项"}]
+70:["$","$L1d",null,{"as":"h4","id":"输入-15","children":"输入"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"groupEmail"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["群组的电子邮件地址（例如 ",["$","$L1e",null,{"href":"mailto:team@example.com","children":"team@example.com"}],"）"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组名称（最多 75 个字符）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组描述（最多 4096 个字符）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanJoin"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以加入：ANYONE_CAN_JOIN、ALL_IN_DOMAIN_CAN_JOIN、INVITED_CAN_JOIN、CAN_REQUEST_TO_JOIN"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanViewMembership"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以查看成员：ALL_IN_DOMAIN_CAN_VIEW、ALL_MEMBERS_CAN_VIEW、ALL_MANAGERS_CAN_VIEW"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanViewGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以查看群组消息：ANYONE_CAN_VIEW、ALL_IN_DOMAIN_CAN_VIEW、ALL_MEMBERS_CAN_VIEW、ALL_MANAGERS_CAN_VIEW"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanPostMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以发帖：NONE_CAN_POST、ALL_MANAGERS_CAN_POST、ALL_MEMBERS_CAN_POST、ALL_OWNERS_CAN_POST、ALL_IN_DOMAIN_CAN_POST、ANYONE_CAN_POST"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowExternalMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否允许外部用户成为成员：true 或 false"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowWebPosting"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否允许网页发帖：true 或 false"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"primaryLanguage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组的主要语言（例如 en）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isArchived"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否归档消息：true 或 false"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"archiveOnly"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"群组是否仅归档（非活跃）：true 或 false"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageModerationLevel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"消息审核：MODERATE_ALL_MESSAGES、MODERATE_NON_MEMBERS、MODERATE_NEW_MEMBERS、MODERATE_NONE"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"spamModerationLevel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"垃圾邮件处理：ALLOW、MODERATE、SILENTLY_MODERATE、REJECT"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"replyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"默认回复：REPLY_TO_CUSTOM、REPLY_TO_SENDER、REPLY_TO_LIST、REPLY_TO_OWNER、REPLY_TO_IGNORE、REPLY_TO_MANAGERS"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customReplyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"自定义回复邮箱（当 replyTo 为 REPLY_TO_CUSTOM 时）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeCustomFooter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否包含自定义页脚：true 或 false"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFooterText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"自定义页脚文本（最多 1000 个字符）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sendMessageDenyNotification"}]}],["$","td",null,{"children":"string"}],"$L86","$L87"]}],"$L88","$L89","$L8a","$L8b","$L8c","$L8d","$L8e","$L8f","$L90","$L91","$L92","$L93","$L94","$L95"]}]]}]}]
+72:["$","$L1d",null,{"as":"h4","id":"输出-16","children":"输出"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组的电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanJoin"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以加入该群组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanViewMembership"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以查看群组成员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanViewGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以查看群组消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanPostMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以向群组发送消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowExternalMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"外部用户是否可以成为成员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowWebPosting"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否允许网页发帖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"primaryLanguage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组的主要语言"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isArchived"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否存档消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"archiveOnly"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"群组是否仅限存档"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageModerationLevel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"消息审核级别"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"spamModerationLevel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"垃圾邮件处理级别"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"replyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"默认回复目标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customReplyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"自定义回复邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeCustomFooter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否包含自定义页脚"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFooterText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"自定义页脚文本"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sendMessageDenyNotification"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否发送拒绝通知"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"defaultMessageDenyNotificationText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"默认拒绝消息文本"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"membersCanPostAsTheGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"成员是否可以以群组身份发帖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeInGlobalAddressList"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否包含在全局地址列表中"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanLeaveGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以退出群组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanContactOwner"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以联系群组所有者"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"favoriteRepliesOnTop"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"收藏回复是否置顶"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanApproveMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以批准新成员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanBanUsers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以封禁用户"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanModerateMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以管理成员"}]]}],["$","tr",null,{"children":["$L96","$L97","$L98"]}],"$L99","$L9a","$L9b","$L9c"]}]]}]}]
+76:null
+7a:["$","path",null,{"d":"M0 0 C2.51 2.22 4.94 4.5 7.35 6.81 C8.23 7.62 9.12 8.43 10.03 9.26 C26.83 25.16 37.11 45.77 43.35 67.81 C43.69 68.99 44.03 70.17 44.39 71.38 C50.59 97.64 47.12 127.31 36.35 151.81 C35.93 152.79 35.93 152.79 35.49 153.79 C25.53 176.37 8.35 195.89 -12.65 208.81 C-13.55 209.41 -14.45 210.01 -15.38 210.63 C-42.35 227.69 -77.57 232.41 -108.65 226.19 C-132.14 220.89 -153.29 209.45 -170.65 192.81 C-171.53 192 -172.41 191.2 -173.32 190.36 C-190.13 174.46 -200.41 153.86 -206.65 131.81 C-206.99 130.63 -207.33 129.46 -207.68 128.24 C-213.89 101.98 -210.42 72.32 -199.65 47.81 C-199.37 47.16 -199.08 46.5 -198.79 45.83 C-188.82 23.25 -171.65 3.74 -150.65 -9.19 C-149.29 -10.08 -149.29 -10.08 -147.91 -11 C-102.93 -39.46 -40.5 -33.45 0 0 Z ","fill":"#4285F4","transform":"translate(753.65,172.19)"}]
+7b:["$","path",null,{"d":"M0 0 C2.51 2.22 4.94 4.5 7.35 6.81 C8.23 7.62 9.12 8.43 10.03 9.26 C26.83 25.16 37.11 45.77 43.35 67.81 C43.69 68.99 44.03 70.17 44.39 71.38 C50.59 97.64 47.12 127.31 36.35 151.81 C35.93 152.79 35.93 152.79 35.49 153.79 C25.53 176.37 8.35 195.89 -12.65 208.81 C-13.55 209.41 -14.45 210.01 -15.38 210.63 C-42.35 227.69 -77.57 232.41 -108.65 226.19 C-132.14 220.89 -153.29 209.45 -170.65 192.81 C-171.53 192 -172.41 191.2 -173.32 190.36 C-190.13 174.46 -200.41 153.86 -206.65 131.81 C-206.99 130.63 -207.33 129.46 -207.68 128.24 C-213.89 101.98 -210.42 72.32 -199.65 47.81 C-199.37 47.16 -199.08 46.5 -198.79 45.83 C-188.82 23.25 -171.65 3.74 -150.65 -9.19 C-149.29 -10.08 -149.29 -10.08 -147.91 -11 C-102.93 -39.46 -40.5 -33.45 0 0 Z ","fill":"#4285F4","transform":"translate(433.65,172.19)"}]
+7c:["$","path",null,{"d":"M0 0 C3.82 1.3 6.07 2.75 8.81 5.69 C11.42 8.41 14.05 10.95 16.94 13.38 C52 43.74 74.27 91.46 84.38 135.81 C84.61 136.85 84.85 137.88 85.1 138.95 C89.07 157.38 89.43 175.94 89.48 194.73 C89.49 197.46 89.52 200.19 89.56 202.93 C90.07 234.51 90.07 234.51 78.75 248.5 C67.1 260.32 52.91 263.39 36.86 263.53 C33.85 263.53 30.84 263.51 27.84 263.5 C25.71 263.5 23.58 263.5 21.46 263.5 C17.03 263.5 12.59 263.49 8.16 263.47 C2.51 263.44 -3.15 263.44 -8.8 263.45 C-13.18 263.46 -17.56 263.45 -21.94 263.44 C-24.03 263.44 -26.11 263.44 -28.2 263.44 C-45.28 263.46 -61.11 262.68 -74.25 250.44 C-84.29 239.84 -87.3 227.81 -87.34 213.64 C-87.34 212.56 -87.35 211.47 -87.36 210.35 C-87.38 206.84 -87.38 203.32 -87.37 199.81 C-87.38 198.62 -87.38 197.43 -87.38 196.2 C-87.36 178.1 -86.46 160.8 -83 143 C-82.75 141.55 -82.51 140.1 -82.28 138.64 C-78.04 114.58 -68.49 91.45 -57 70 C-56.39 68.85 -55.78 67.69 -55.14 66.5 C-47.06 51.82 -37.09 38.53 -26 26 C-25.23 25.12 -24.46 24.24 -23.66 23.33 C-16.3 15 -8.58 7.08 0 0 Z ","fill":"#1967D2","transform":"translate(508,495)"}]
+7d:["$","$L9d",null,{"className":"mb-0 min-w-0 flex-1","children":"Google 群组"}]
+7f:["$","td",null,{"children":"谁可以封禁用户"}]
+80:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanModerateMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以管理成员"}]]}]
+81:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanModerateContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以审核内容"}]]}]
+82:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanAssistContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以协助内容元数据"}]]}]
+83:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"enableCollaborativeInbox"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否启用协作收件箱"}]]}]
+84:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanDiscoverGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以发现该群组"}]]}]
+85:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"defaultSender"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"默认发件人身份（DEFAULT_SELF 或 GROUP）"}]]}]
+86:["$","td",null,{"children":"否"}]
+87:["$","td",null,{"children":"是否发送拒绝通知：true 或 false"}]
+88:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"defaultMessageDenyNotificationText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"默认拒绝消息文本"}]]}]
+89:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"membersCanPostAsTheGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"成员是否可以以群组身份发帖：true 或 false"}]]}]
+8a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeInGlobalAddressList"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否包含在全局地址列表中：true 或 false"}]]}]
+8b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanLeaveGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以退出：ALL_MANAGERS_CAN_LEAVE、ALL_MEMBERS_CAN_LEAVE、NONE_CAN_LEAVE"}]]}]
+8c:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanContactOwner"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以联系所有者：ALL_IN_DOMAIN_CAN_CONTACT、ALL_MANAGERS_CAN_CONTACT、ALL_MEMBERS_CAN_CONTACT、ANYONE_CAN_CONTACT"}]]}]
+8d:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"favoriteRepliesOnTop"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"收藏回复是否置顶：true 或 false"}]]}]
+8e:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanApproveMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以批准成员：ALL_OWNERS_CAN_APPROVE、ALL_MANAGERS_CAN_APPROVE、ALL_MEMBERS_CAN_APPROVE、NONE_CAN_APPROVE"}]]}]
+8f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanBanUsers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以封禁用户：OWNERS_ONLY、OWNERS_AND_MANAGERS、NONE"}]]}]
+90:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanModerateMembers"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以管理成员：OWNERS_ONLY、OWNERS_AND_MANAGERS、ALL_MEMBERS、NONE"}]]}]
+91:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanModerateContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以审核内容：OWNERS_ONLY、OWNERS_AND_MANAGERS、ALL_MEMBERS、NONE"}]]}]
+92:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanAssistContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以协助内容元数据：OWNERS_ONLY、OWNERS_AND_MANAGERS、ALL_MEMBERS、NONE"}]]}]
+93:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"enableCollaborativeInbox"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否启用协作收件箱：true 或 false"}]]}]
+94:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanDiscoverGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"谁可以发现：ANYONE_CAN_DISCOVER、ALL_IN_DOMAIN_CAN_DISCOVER、ALL_MEMBERS_CAN_DISCOVER"}]]}]
+95:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"defaultSender"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"默认发件人：DEFAULT_SELF 或 GROUP"}]]}]
+96:["$","td",null,{"children":["$","code",null,{"children":"whoCanModerateContent"}]}]
+97:["$","td",null,{"children":"string"}]
+98:["$","td",null,{"children":"谁可以审核内容"}]
+99:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanAssistContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以协助内容元数据"}]]}]
+9a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"enableCollaborativeInbox"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是否启用协作收件箱"}]]}]
+9b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"whoCanDiscoverGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"谁可以发现该群组"}]]}]
+9c:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"defaultSender"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"默认发件人身份"}]]}]

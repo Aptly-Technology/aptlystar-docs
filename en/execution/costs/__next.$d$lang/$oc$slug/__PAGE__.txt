@@ -1,0 +1,654 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+3:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+f:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+14:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+15:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+16:I[315927,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlock"]
+17:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Pre"]
+78:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+79:"$Sreact.suspense"
+7b:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+7c:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+7d:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+7e:I[213758,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Tabs"]
+7f:I[213758,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Tab"]
+97:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+98:I[678364,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"FAQ"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Cost Calculation\",\"description\":\"\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/en/execution/costs\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/en/execution/costs\"},\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/en/execution/costs\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Execution\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/execution\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cost Calculation\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/execution/costs\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#credits","title":"Credits"},{"depth":2,"url":"#how-costs-are-calculated","title":"How Costs Are Calculated"},{"depth":2,"url":"#model-breakdown-in-logs","title":"Model Breakdown in Logs"},{"depth":2,"url":"#pricing-options","title":"Pricing Options"},{"depth":2,"url":"#hosted-tool-pricing","title":"Hosted Tool Pricing"},{"depth":2,"url":"#bring-your-own-key-byok","title":"Bring Your Own Key (BYOK)"},{"depth":3,"url":"#supported-providers","title":"Supported Providers"},{"depth":3,"url":"#setup","title":"Setup"},{"depth":2,"url":"#voice-input","title":"Voice Input"},{"depth":2,"url":"#plans","title":"Plans"},{"depth":3,"url":"#daily-refresh-credits","title":"Daily Refresh Credits"},{"depth":3,"url":"#annual-billing","title":"Annual Billing"},{"depth":3,"url":"#on-demand-billing","title":"On-Demand Billing"},{"depth":2,"url":"#plan-limits","title":"Plan Limits"},{"depth":3,"url":"#workspaces","title":"Workspaces"},{"depth":3,"url":"#rate-limits","title":"Rate Limits"},{"depth":3,"url":"#file-storage","title":"File Storage"},{"depth":3,"url":"#run-time-limits","title":"Run Time Limits"},{"depth":2,"url":"#billing-model","title":"Billing Model"},{"depth":3,"url":"#how-it-works","title":"How It Works"},{"depth":3,"url":"#threshold-billing","title":"Threshold Billing"},{"depth":2,"url":"#usage-monitoring","title":"Usage Monitoring"},{"depth":3,"url":"#programmatic-usage-tracking","title":"Programmatic Usage Tracking"},{"depth":2,"url":"#purchasing-additional-credits","title":"Purchasing Additional Credits"},{"depth":2,"url":"#cost-optimization-strategies","title":"Cost Optimization Strategies"},{"depth":2,"url":"#next-steps","title":"Next Steps"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L3",null,{"href":"/en/execution/logging","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":["$L4","$L5"]}],"$L6","$L7"]}]]}]},"children":["$L8","$L9"]}]],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+4:["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}]
+5:["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Logging"]}]
+6:["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}]
+7:["$","$L3",null,{"href":"/en/permissions/roles-and-permissions","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Roles and Permissions",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]
+10:T5dea,
+
+import { Callout } from 'fumadocs-ui/components/callout'
+import { Tab, Tabs } from 'fumadocs-ui/components/tabs'
+
+Aptlystar automatically calculates costs for all workflow runs, providing transparent pricing based on AI model usage and run charges. Understanding these costs helps you optimize workflows and manage your budget effectively.
+
+Credits [#credits]
+
+Aptlystar uses **credits** as the unit of measurement for all usage. **1 credit = $0.005**.
+
+All plan limits, usage meters, and billing thresholds are displayed in credits throughout the Aptlystar UI. Dollar amounts in this documentation are provided for reference.
+
+How Costs Are Calculated [#how-costs-are-calculated]
+
+Every workflow run includes two cost components:
+
+**Base Run Charge**: 1 credit ($0.005) per run
+
+**AI Model Usage**: Variable cost based on token consumption
+
+```javascript
+modelCost = (inputTokens × inputPrice + outputTokens × outputPrice) / 1,000,000
+totalCredits = baseRunCharge + modelCost × 200
+```
+
+<Callout type="info">
+  AI model prices are per million tokens. The calculation divides by 1,000,000 to get the actual cost. Workflows without AI blocks only incur the base run charge.
+</Callout>
+
+Model Breakdown in Logs [#model-breakdown-in-logs]
+
+For workflows using AI blocks, you can view detailed cost information in the logs:
+
+The model breakdown shows:
+
+* **Token Usage**: Input and output token counts for each model
+* **Cost Breakdown**: Individual costs per model and operation
+* **Model Distribution**: Which models were used and how many times
+* **Total Cost**: Aggregate cost for the entire workflow run
+
+Pricing Options [#pricing-options]
+
+<Tabs items={['Hosted Models', 'Bring Your Own API Key']}>
+  <Tab>
+    **Hosted Models** - Aptlystar provides API keys with a 1.1x pricing multiplier for Agent blocks:
+
+    **OpenAI**
+
+    | Model        | Base Price (Input/Output) | Hosted Price (Input/Output) |
+    | ------------ | ------------------------- | --------------------------- |
+    | GPT-5.1      | $1.25 / $10.00            | $1.38 / $11.00              |
+    | GPT-5        | $1.25 / $10.00            | $1.38 / $11.00              |
+    | GPT-5 Mini   | $0.25 / $2.00             | $0.28 / $2.20               |
+    | GPT-5 Nano   | $0.05 / $0.40             | $0.06 / $0.44               |
+    | GPT-4o       | $2.50 / $10.00            | $2.75 / $11.00              |
+    | GPT-4.1      | $2.00 / $8.00             | $2.20 / $8.80               |
+    | GPT-4.1 Mini | $0.40 / $1.60             | $0.44 / $1.76               |
+    | GPT-4.1 Nano | $0.10 / $0.40             | $0.11 / $0.44               |
+    | o1           | $15.00 / $60.00           | $16.50 / $66.00             |
+    | o3           | $2.00 / $8.00             | $2.20 / $8.80               |
+    | o4 Mini      | $1.10 / $4.40             | $1.21 / $4.84               |
+
+    **Anthropic**
+
+    | Model             | Base Price (Input/Output) | Hosted Price (Input/Output) |
+    | ----------------- | ------------------------- | --------------------------- |
+    | Claude Opus 4.5   | $5.00 / $25.00            | $5.50 / $27.50              |
+    | Claude Opus 4.1   | $15.00 / $75.00           | $16.50 / $82.50             |
+    | Claude Sonnet 4.5 | $3.00 / $15.00            | $3.30 / $16.50              |
+    | Claude Sonnet 4.0 | $3.00 / $15.00            | $3.30 / $16.50              |
+    | Claude Haiku 4.5  | $1.00 / $5.00             | $1.10 / $5.50               |
+
+    **Google**
+
+    | Model                | Base Price (Input/Output) | Hosted Price (Input/Output) |
+    | -------------------- | ------------------------- | --------------------------- |
+    | Gemini 3 Pro Preview | $2.00 / $12.00            | $2.20 / $13.20              |
+    | Gemini 2.5 Pro       | $1.25 / $10.00            | $1.38 / $11.00              |
+    | Gemini 2.5 Flash     | $0.30 / $2.50             | $0.33 / $2.75               |
+
+    *The 1.1x multiplier covers infrastructure and API management costs.*
+  </Tab>
+
+  <Tab>
+    **Your Own API Keys** - Use any model at base pricing:
+
+    | Provider | Example Models               | Input / Output |
+    | -------- | ---------------------------- | -------------- |
+    | Deepseek | V3, R1                       | $0.75 / $1.00  |
+    | xAI      | Grok 4 Latest, Grok 3        | $3.00 / $15.00 |
+    | Groq     | Llama 4 Scout, Llama 3.3 70B | $0.11 / $0.34  |
+    | Cerebras | Llama 4 Scout, Llama 3.3 70B | $0.11 / $0.34  |
+    | Ollama   | Local models                 | Free           |
+    | VLLM     | Local models                 | Free           |
+
+    *Pay providers directly with no markup*
+  </Tab>
+</Tabs>
+
+<Callout type="warning">
+  Pricing shown reflects rates as of September 10, 2025. Check provider documentation for current pricing.
+</Callout>
+
+Hosted Tool Pricing [#hosted-tool-pricing]
+
+When workflows use tool blocks with Aptlystar's hosted API keys, costs are charged per operation. Use your own keys via BYOK to pay providers directly instead.
+
+<Tabs items={['Firecrawl', 'Exa', 'Serper', 'Perplexity', 'Linkup', 'Parallel AI', 'Jina AI', 'Google Cloud', 'Brandfetch']}>
+  <Tab>
+    **Firecrawl** - Web scraping, crawling, search, and extraction
+
+    | Operation | Cost                   |
+    | --------- | ---------------------- |
+    | Scrape    | $0.001 per credit used |
+    | Crawl     | $0.001 per credit used |
+    | Search    | $0.001 per credit used |
+    | Extract   | $0.001 per credit used |
+    | Map       | $0.001 per credit used |
+  </Tab>
+
+  <Tab>
+    **Exa** - AI-powered search and research
+
+    | Operation          | Cost                      |
+    | ------------------ | ------------------------- |
+    | Search             | Dynamic (returned by API) |
+    | Get Contents       | Dynamic (returned by API) |
+    | Find Similar Links | Dynamic (returned by API) |
+    | Answer             | Dynamic (returned by API) |
+  </Tab>
+
+  <Tab>
+    **Serper** - Google search API
+
+    | Operation            | Cost   |
+    | -------------------- | ------ |
+    | Search (≤10 results) | $0.001 |
+    | Search (>10 results) | $0.002 |
+  </Tab>
+
+  <Tab>
+    **Perplexity** - AI-powered chat and web search
+
+    | Operation | Cost                          |
+    | --------- | ----------------------------- |
+    | Search    | $0.005 per request            |
+    | Chat      | Token-based (varies by model) |
+  </Tab>
+
+  <Tab>
+    **Linkup** - Web search and content retrieval
+
+    | Operation       | Cost     |
+    | --------------- | -------- |
+    | Standard search | \~$0.006 |
+    | Deep search     | \~$0.055 |
+  </Tab>
+
+  <Tab>
+    **Parallel AI** - Web search, extraction, and deep research
+
+    | Operation            | Cost                                    |
+    | -------------------- | --------------------------------------- |
+    | Search (≤10 results) | $0.005                                  |
+    | Search (>10 results) | $0.005 + $0.001 per additional result   |
+    | Extract              | $0.001 per URL                          |
+    | Deep Research        | $0.005–$2.40 (varies by processor tier) |
+  </Tab>
+
+  <Tab>
+    **Jina AI** - Web reading and search
+
+    | Operation | Cost                                     |
+    | --------- | ---------------------------------------- |
+    | Read URL  | $0.20 per 1M tokens                      |
+    | Search    | $0.20 per 1M tokens (minimum 10K tokens) |
+  </Tab>
+
+  <Tab>
+    **Google Cloud** - Translate, Maps, PageSpeed, and Books APIs
+
+    | Operation                                                                                                      | Cost                   |
+    | -------------------------------------------------------------------------------------------------------------- | ---------------------- |
+    | Translate / Detect                                                                                             | $0.00002 per character |
+    | Maps (Geocode, Directions, Distance Matrix, Elevation, Timezone, Reverse Geocode, Geolocate, Validate Address) | $0.005 per request     |
+    | Maps (Snap to Roads)                                                                                           | $0.01 per request      |
+    | Maps (Place Details)                                                                                           | $0.017 per request     |
+    | Maps (Places Search)                                                                                           | $0.032 per request     |
+    | PageSpeed                                                                                                      | Free                   |
+    | Books (Search, Details)                                                                                        | Free                   |
+  </Tab>
+
+  <Tab>
+    **Brandfetch** - Brand assets, logos, colors, and company info
+
+    | Operation | Cost              |
+    | --------- | ----------------- |
+    | Search    | Free              |
+    | Get Brand | $0.04 per request |
+  </Tab>
+</Tabs>
+
+Bring Your Own Key (BYOK) [#bring-your-own-key-byok]
+
+Use your own API keys for supported providers instead of Aptlystar's hosted keys to pay base prices with no markup.
+
+Supported Providers [#supported-providers]
+
+| Provider     | Usage                                          |
+| ------------ | ---------------------------------------------- |
+| OpenAI       | Knowledge Base embeddings, Agent block         |
+| Anthropic    | Agent block                                    |
+| Google       | Agent block                                    |
+| Mistral      | Knowledge Base OCR, Agent block                |
+| Fireworks    | Agent block                                    |
+| Firecrawl    | Web scraping, crawling, search, and extraction |
+| Exa          | AI-powered search and research                 |
+| Serper       | Google search API                              |
+| Linkup       | Web search and content retrieval               |
+| Parallel AI  | Web search, extraction, and deep research      |
+| Perplexity   | AI-powered chat and web search                 |
+| Jina AI      | Web reading and search                         |
+| Google Cloud | Translate, Maps, PageSpeed, and Books APIs     |
+| Brandfetch   | Brand assets, logos, colors, and company info  |
+
+Setup [#setup]
+
+1. Navigate to **Settings** → **BYOK** in your workspace
+2. Click **Add Key** for your provider
+3. Enter your API key and save
+
+<Callout type="info">
+  BYOK keys are encrypted at rest. Only workspace admins can manage keys.
+</Callout>
+
+When configured, workflows use your key instead of Aptlystar's hosted keys. If removed, workflows automatically fall back to hosted keys with the multiplier.
+
+Voice Input [#voice-input]
+
+Voice input uses ElevenLabs Scribe v2 Realtime for speech-to-text transcription. It is available in the Astra chat and in deployed chat voice mode.
+
+| Context                    | Cost per session     | Max duration |
+| -------------------------- | -------------------- | ------------ |
+| Astra (workspace)          | \~5 credits ($0.024) | 3 minutes    |
+| Deployed chat (voice mode) | \~2 credits ($0.008) | 1 minute     |
+
+Each voice session is billed when it starts. In deployed chat voice mode, each conversation turn (speak → agent responds → speak again) is a separate session. Multi-turn conversations are billed per turn.
+
+<Callout type="info">
+  Voice input requires `ELEVENLABS_API_KEY` to be configured. When the key is not set, voice input controls are hidden.
+</Callout>
+
+Plans [#plans]
+
+Aptlystar has two paid plan tiers - **Pro** and **Max**. Either can be used individually or with a team. Team plans pool credits across all seats in the organization.
+
+| Plan           | Price   | Credits Included | Daily Refresh |
+| -------------- | ------- | ---------------- | ------------- |
+| **Community**  | $0      | 1,000 (one-time) | -             |
+| **Pro**        | $25/mo  | 6,000/mo         | +50/day       |
+| **Max**        | $100/mo | 25,000/mo        | +200/day      |
+| **Enterprise** | Custom  | Custom           | -             |
+
+To use Pro or Max with a team, select **Get For Team** in subscription settings and choose the tier and number of seats. Credits are pooled across the organization at the per-seat rate (e.g. Max for Teams with 3 seats = 75,000 credits/mo pooled).
+
+Internal organization members use seats and contribute to the team's pooled credit allocation. External workspace members do not join your organization, do not appear in the organization roster, and do not count toward your seat total.
+
+Daily Refresh Credits [#daily-refresh-credits]
+
+Paid plans include a small daily credit allowance that does not count toward your plan limit. Each day, usage up to the daily refresh amount is excluded from billable usage. This allowance resets every 24 hours and does not carry over - use it or lose it.
+
+| Plan    | Daily Refresh           |
+| ------- | ----------------------- |
+| **Pro** | 50 credits/day ($0.25)  |
+| **Max** | 200 credits/day ($1.00) |
+
+For team plans, the daily refresh scales with seats (e.g. Max for Teams with 3 seats = 600 credits/day).
+
+Annual Billing [#annual-billing]
+
+All paid plans are available with annual billing at a **15% discount**. Switch between monthly and annual billing in Settings → Subscription.
+
+| Plan    | Monthly | Annual (per month) | Annual Total |
+| ------- | ------- | ------------------ | ------------ |
+| **Pro** | $25/mo  | $21.25/mo          | $255/yr      |
+| **Max** | $100/mo | $85/mo             | $1,020/yr    |
+
+Team plans follow the same pricing per seat.
+
+On-Demand Billing [#on-demand-billing]
+
+By default, your usage is capped at the credits included in your plan. To allow usage beyond your plan's included amount, you can either enable **on-demand billing** or manually edit your usage limit to any value above your plan's minimum.
+
+* **Enable On-Demand**: Removes the usage cap entirely. You pay for any overage at the end of the billing period.
+* **Edit Usage Limit**: Set a specific cap above your plan's included amount to control how much overage you're willing to allow.
+* **Disable On-Demand**: Resets your usage limit back to the plan's included amount (only available if your current usage hasn't already exceeded it).
+
+<Callout type="info">
+  On-demand billing is managed by workspace admins for team plans. Non-admin team members cannot toggle on-demand billing.
+</Callout>
+
+Plan Limits [#plan-limits]
+
+Workspaces [#workspaces]
+
+| Plan                  | Personal Workspaces | Shared (Organization) Workspaces |
+| --------------------- | ------------------- | -------------------------------- |
+| **Free**              | 1                   | —                                |
+| **Pro**               | Up to 3             | —                                |
+| **Max**               | Up to 10            | —                                |
+| **Team / Enterprise** | Unlimited           | Unlimited                        |
+
+Team and Enterprise plans unlock shared workspaces that belong to your organization. Internal members invited to a shared workspace join the organization and count toward your seat total. Existing Aptlystar users who already belong to another organization can be added as external workspace members; they get workspace access without joining your organization or using one of your seats. When a Team or Enterprise subscription is cancelled or downgraded, existing shared workspaces remain accessible to current members but new invites are disabled until the organization is upgraded again.
+
+Rate Limits [#rate-limits]
+
+| Plan           | Sync (req/min) | Async (req/min) |
+| -------------- | -------------- | --------------- |
+| **Free**       | 50             | 200             |
+| **Pro**        | 150            | 1,000           |
+| **Max**        | 300            | 2,500           |
+| **Enterprise** | 600            | 5,000           |
+
+Max (individual) shares the same rate limits as team plans. Team plans (Pro or Max for Teams) use the Max-tier rate limits.
+
+File Storage [#file-storage]
+
+| Plan           | Storage               |
+| -------------- | --------------------- |
+| **Free**       | 5 GB                  |
+| **Pro**        | 50 GB                 |
+| **Max**        | 500 GB                |
+| **Enterprise** | 500 GB (customizable) |
+
+Team plans (Pro or Max for Teams) use 500 GB.
+
+Run Time Limits [#run-time-limits]
+
+| Plan                              | Sync       | Async      |
+| --------------------------------- | ---------- | ---------- |
+| **Free**                          | 5 minutes  | 90 minutes |
+| **Pro / Max / Team / Enterprise** | 50 minutes | 90 minutes |
+
+**Sync runs** complete immediately and return results directly. These are triggered via the API with `async: false` (default) or through the UI.
+**Async runs** (triggered via API with `async: true`, webhooks, or schedules) run in the background.
+
+<Callout type="info">
+  If a workflow exceeds its time limit, it will be terminated and marked as failed with a timeout error. Design long-running workflows to use async runs or break them into smaller workflows.
+</Callout>
+
+Billing Model [#billing-model]
+
+Aptlystar uses a **base subscription + overage** billing model:
+
+How It Works [#how-it-works]
+
+**Pro Plan ($25/month - 6,000 credits):**
+
+* Monthly subscription includes 6,000 credits of usage
+* Usage under 6,000 credits → No additional charges
+* Usage over 6,000 credits (with on-demand enabled) → Pay the overage at month end
+* Example: 7,000 credits used = $25 (subscription) + $5 (overage for 1,000 extra credits at $0.005/credit)
+
+**Team Plans:**
+
+* Usage is pooled across internal team members in the organization
+* External workspace members keep their own organization or personal billing context for runs where they are the billing actor
+* Overage is calculated from total team usage against the pooled limit
+* Organization owner receives one bill
+
+**Enterprise Plans:**
+
+* Fixed monthly price, no overages
+* Custom usage limits per agreement
+
+Threshold Billing [#threshold-billing]
+
+When on-demand is enabled and unbilled overage reaches $100, Aptlystar automatically bills the full unbilled amount.
+
+**Example:**
+
+* Day 10: $120 overage → Bill $120 immediately
+* Day 15: Additional $60 usage ($180 total) → Already billed, no action
+* Day 20: Another $80 usage ($260 total, $140 unbilled) → Bill $140 immediately
+
+This spreads large overage charges throughout the month instead of one large bill at period end.
+
+Usage Monitoring [#usage-monitoring]
+
+Monitor your usage and billing in Settings → Subscription:
+
+* **Current Usage**: Real-time credit usage for the current billing period
+* **Usage Limits**: Plan limits with a visual progress bar
+* **On-Demand Billing**: Toggle on-demand billing to allow usage beyond your plan's included credits
+* **Plan Management**: Upgrade, downgrade, or switch between monthly and annual billing
+
+Programmatic Usage Tracking [#programmatic-usage-tracking]
+
+You can query your current usage and limits programmatically using the API:
+
+**Endpoint:**
+
+```text
+GET /api/users/me/usage-limits
+```
+
+**Authentication:**
+
+* Include your API key in the `X-API-Key` header
+
+**Example Request:**
+
+```bash
+curl -X GET -H "X-API-Key: YOUR_API_KEY" -H "Content-Type: application/json" https://aptlystar.ai/api/users/me/usage-limits
+```
+
+**Example Response:**
+
+```json
+{
+  "success": true,
+  "rateLimit": {
+    "sync": {
+      "isLimited": false,
+      "requestsPerMinute": 150,
+      "maxBurst": 300,
+      "remaining": 300,
+      "resetAt": "2025-09-08T22:51:55.999Z"
+    },
+    "async": {
+      "isLimited": false,
+      "requestsPerMinute": 1000,
+      "maxBurst": 2000,
+      "remaining": 2000,
+      "resetAt": "2025-09-08T22:51:56.155Z"
+    },
+    "authType": "api"
+  },
+  "usage": {
+    "currentPeriodCost": 12.34,
+    "limit": 100,
+    "plan": "pro_6000"
+  }
+}
+```
+
+**Rate Limit Fields:**
+
+* `requestsPerMinute`: Sustained rate limit (tokens refill at this rate)
+* `maxBurst`: Maximum tokens you can accumulate (burst capacity)
+* `remaining`: Current tokens available (can be up to `maxBurst`)
+
+**Response Fields:**
+
+* `currentPeriodCost` reflects usage in the current billing period (in dollars)
+* `limit` is derived from individual limits (Free/Pro/Max) or pooled organization limits (Team/Enterprise)
+* `plan` is the highest-priority active plan associated with your user
+
+Purchasing Additional Credits [#purchasing-additional-credits]
+
+Pro and Team plan users can buy additional credits at any time in **Settings → Subscription → Credit Balance**:
+
+* **Range**: $10 to $1,000 per purchase
+* **Conversion**: 1 credit = $0.005 (a $10 purchase adds 2,000 credits)
+* **Availability**: Credits are added immediately after payment
+* **Expiration**: Purchased credits do not expire
+* **Refunds**: Purchases are non-refundable
+* **Team plans**: Only organization owners and admins can purchase credits. Purchased credits are added to the team's shared pool.
+
+<Callout type="info">
+  Enterprise users should contact support for credit adjustments.
+</Callout>
+
+Cost Optimization Strategies [#cost-optimization-strategies]
+
+* **Model Selection**: Choose models based on task complexity. Simple tasks can use GPT-4.1-nano while complex reasoning might need o1 or Claude Opus.
+* **Prompt Engineering**: Well-structured, concise prompts reduce token usage without sacrificing quality.
+* **Local Models**: Use Ollama or VLLM for non-critical tasks to eliminate API costs entirely.
+* **Caching and Reuse**: Store frequently used results in variables or files to avoid repeated AI model calls.
+* **Batch Processing**: Process multiple items in a single AI request rather than making individual calls.
+
+Next Steps [#next-steps]
+
+* Review your current usage in [Settings → Subscription](https://aptlystar.ai/settings/subscription)
+* Learn about [Logging](/execution/logging) to track run details
+* Explore the [External API](/execution/api) for programmatic cost monitoring
+* Check out [workflow optimization techniques](/blocks) to reduce costs
+
+import { FAQ } from '@/components/ui/faq'
+
+<FAQ
+  items={[
+{ question: "How much does a single workflow run cost?", answer: "Every run incurs a base charge of 1 credit ($0.005). On top of that, any AI model usage is billed based on token consumption. Workflows that do not use AI blocks only pay the base run charge." },
+{ question: "What is the credit-to-dollar conversion rate?", answer: "1 credit equals $0.005. All plan limits, usage meters, and billing thresholds in the Aptlystar UI are displayed in credits." },
+{ question: "Do unused daily refresh credits carry over?", answer: "No. Daily refresh credits reset every 24 hours and do not accumulate. If you do not use them within the day, they are lost." },
+{ question: "What happens when I exceed my plan's credit limit?", answer: "By default, your usage is capped at your plan's included credits and runs will stop. If you enable on-demand billing or manually raise your usage limit in Settings, you can continue running workflows and pay for the overage at the end of the billing period." },
+{ question: "How does the 1.1x hosted model multiplier work?", answer: "When you use Aptlystar's hosted API keys (instead of bringing your own), a 1.1x multiplier is applied to the base model pricing for Agent blocks. This covers infrastructure and API management costs. You can avoid this multiplier by using your own API keys via the BYOK feature." },
+{ question: "Are there any free options for AI models?", answer: "Yes. If you run local models through Ollama or VLLM, there are no API costs for those model calls. You still pay the base run charge of 1 credit per run." },
+{ question: "When does threshold billing trigger?", answer: "When on-demand billing is enabled and your unbilled overage reaches $100, Aptlystar automatically bills the full unbilled amount. This spreads large charges throughout the month instead of accumulating one large bill at period end." },
+]}
+/>
+8:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$Lf",null,{"content":"$10"}]}],"$L11"]}],"$L12","$L13"]}]
+9:["$","$L14",null,{"children":["$","div",null,{"className":"","children":[["$","p",null,{"children":"Aptlystar automatically calculates costs for all workflow runs, providing transparent pricing based on AI model usage and run charges. Understanding these costs helps you optimize workflows and manage your budget effectively."}],"\n",["$","$L15",null,{"as":"h2","id":"credits","children":"Credits"}],"\n",["$","p",null,{"children":["Aptlystar uses ",["$","strong",null,{"children":"credits"}]," as the unit of measurement for all usage. ",["$","strong",null,{"children":"1 credit = $0.005"}],"."]}],"\n",["$","p",null,{"children":"All plan limits, usage meters, and billing thresholds are displayed in credits throughout the Aptlystar UI. Dollar amounts in this documentation are provided for reference."}],"\n",["$","$L15",null,{"as":"h2","id":"how-costs-are-calculated","children":"How Costs Are Calculated"}],"\n",["$","p",null,{"children":"Every workflow run includes two cost components:"}],"\n",["$","p",null,{"children":[["$","strong",null,{"children":"Base Run Charge"}],": 1 credit ($0.005) per run"]}],"\n",["$","p",null,{"children":[["$","strong",null,{"children":"AI Model Usage"}],": Variable cost based on token consumption"]}],"\n",["$","$L16",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z\" fill=\"currentColor\" /></svg>","children":["$","$L17",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"modelCost "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" (inputTokens × inputPrice "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"+"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" outputTokens × outputPrice) "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"/"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" 1"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"000"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"000"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"totalCredits "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" baseRunCharge "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"+"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" modelCost × "}],"$L18"]}]]}]}]}],"\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","\n","$L77"]}]}]
+a:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+b:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+c:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+d:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+e:["$","$L78",null,{"children":["$","$79",null,{"name":"Next.MetadataOutlet","children":"$@7a"}]}]
+11:["$","$L7b",null,{"previous":{"$id":"en:execution/logging.mdx","type":"page","name":"Logging","url":"/en/execution/logging","$ref":{"file":"execution/logging.mdx"}},"next":{"$id":"en:permissions/roles-and-permissions.mdx","type":"page","name":"Roles and Permissions","url":"/en/permissions/roles-and-permissions","$ref":{"file":"permissions/roles-and-permissions.mdx"}}}]
+12:["$","$L7c",null,{"className":"mb-2","children":"Cost Calculation"}]
+13:["$","$L7d",null,{}]
+18:["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"200"}]
+19:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"AI model prices are per million tokens. The calculation divides by 1,000,000 to get the actual cost. Workflows without AI blocks only incur the base run charge."}]}]]}]]}]
+1a:["$","$L15",null,{"as":"h2","id":"model-breakdown-in-logs","children":"Model Breakdown in Logs"}]
+1b:["$","p",null,{"children":"For workflows using AI blocks, you can view detailed cost information in the logs:"}]
+1c:["$","p",null,{"children":"The model breakdown shows:"}]
+1d:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Token Usage"}],": Input and output token counts for each model"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Cost Breakdown"}],": Individual costs per model and operation"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Model Distribution"}],": Which models were used and how many times"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Total Cost"}],": Aggregate cost for the entire workflow run"]}],"\n"]}]
+1e:["$","$L15",null,{"as":"h2","id":"pricing-options","children":"Pricing Options"}]
+1f:["$","$L7e",null,{"items":["Hosted Models","Bring Your Own API Key"],"children":[["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Hosted Models"}]," - Aptlystar provides API keys with a 1.1x pricing multiplier for Agent blocks:"]}],["$","p",null,{"children":["$","strong",null,{"children":"OpenAI"}]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Model"}],["$","th",null,{"children":"Base Price (Input/Output)"}],["$","th",null,{"children":"Hosted Price (Input/Output)"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"GPT-5.1"}],["$","td",null,{"children":"$$1.25 / $10.00"}],["$","td",null,{"children":"$$1.38 / $11.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-5"}],["$","td",null,{"children":"$$1.25 / $10.00"}],["$","td",null,{"children":"$$1.38 / $11.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-5 Mini"}],["$","td",null,{"children":"$$0.25 / $2.00"}],["$","td",null,{"children":"$$0.28 / $2.20"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-5 Nano"}],["$","td",null,{"children":"$$0.05 / $0.40"}],["$","td",null,{"children":"$$0.06 / $0.44"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-4o"}],["$","td",null,{"children":"$$2.50 / $10.00"}],["$","td",null,{"children":"$$2.75 / $11.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-4.1"}],["$","td",null,{"children":"$$2.00 / $8.00"}],["$","td",null,{"children":"$$2.20 / $8.80"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-4.1 Mini"}],["$","td",null,{"children":"$$0.40 / $1.60"}],["$","td",null,{"children":"$$0.44 / $1.76"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"GPT-4.1 Nano"}],["$","td",null,{"children":"$$0.10 / $0.40"}],["$","td",null,{"children":"$$0.11 / $0.44"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"o1"}],["$","td",null,{"children":"$$15.00 / $60.00"}],["$","td",null,{"children":"$$16.50 / $66.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"o3"}],["$","td",null,{"children":"$$2.00 / $8.00"}],["$","td",null,{"children":"$$2.20 / $8.80"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"o4 Mini"}],["$","td",null,{"children":"$$1.10 / $4.40"}],["$","td",null,{"children":"$$1.21 / $4.84"}]]}]]}]]}]}],["$","p",null,{"children":["$","strong",null,{"children":"Anthropic"}]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Model"}],["$","th",null,{"children":"Base Price (Input/Output)"}],["$","th",null,{"children":"Hosted Price (Input/Output)"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Claude Opus 4.5"}],["$","td",null,{"children":"$$5.00 / $25.00"}],["$","td",null,{"children":"$$5.50 / $27.50"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Claude Opus 4.1"}],["$","td",null,{"children":"$$15.00 / $75.00"}],["$","td",null,{"children":"$$16.50 / $82.50"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Claude Sonnet 4.5"}],["$","td",null,{"children":"$$3.00 / $15.00"}],["$","td",null,{"children":"$$3.30 / $16.50"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Claude Sonnet 4.0"}],["$","td",null,{"children":"$$3.00 / $15.00"}],["$","td",null,{"children":"$$3.30 / $16.50"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Claude Haiku 4.5"}],["$","td",null,{"children":"$$1.00 / $5.00"}],["$","td",null,{"children":"$$1.10 / $5.50"}]]}]]}]]}]}],["$","p",null,{"children":["$","strong",null,{"children":"Google"}]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Model"}],["$","th",null,{"children":"Base Price (Input/Output)"}],["$","th",null,{"children":"Hosted Price (Input/Output)"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Gemini 3 Pro Preview"}],["$","td",null,{"children":"$$2.00 / $12.00"}],["$","td",null,{"children":"$$2.20 / $13.20"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Gemini 2.5 Pro"}],["$","td",null,{"children":"$$1.25 / $10.00"}],["$","td",null,{"children":"$$1.38 / $11.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Gemini 2.5 Flash"}],["$","td",null,{"children":"$$0.30 / $2.50"}],["$","td",null,{"children":"$$0.33 / $2.75"}]]}]]}]]}]}],["$","p",null,{"children":["$","em",null,{"children":"The 1.1x multiplier covers infrastructure and API management costs."}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Your Own API Keys"}]," - Use any model at base pricing:"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Provider"}],"$L80","$L81"]}]}],"$L82"]}]}],"$L83"]}]]}]
+20:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-warning, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-triangle-alert size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","path","wmoenq",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"}],["$","path","juzpu7",{"d":"M12 9v4"}],["$","path","p32p05",{"d":"M12 17h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"Pricing shown reflects rates as of September 10, 2025. Check provider documentation for current pricing."}]}]]}]]}]
+21:["$","$L15",null,{"as":"h2","id":"hosted-tool-pricing","children":"Hosted Tool Pricing"}]
+22:["$","p",null,{"children":"When workflows use tool blocks with Aptlystar's hosted API keys, costs are charged per operation. Use your own keys via BYOK to pay providers directly instead."}]
+23:["$","$L7e",null,{"items":["Firecrawl","Exa","Serper","Perplexity","Linkup","Parallel AI","Jina AI","Google Cloud","Brandfetch"],"children":[["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Firecrawl"}]," - Web scraping, crawling, search, and extraction"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Scrape"}],["$","td",null,{"children":"$$0.001 per credit used"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Crawl"}],["$","td",null,{"children":"$$0.001 per credit used"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Search"}],["$","td",null,{"children":"$$0.001 per credit used"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Extract"}],["$","td",null,{"children":"$$0.001 per credit used"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Map"}],["$","td",null,{"children":"$$0.001 per credit used"}]]}]]}]]}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Exa"}]," - AI-powered search and research"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Search"}],["$","td",null,{"children":"Dynamic (returned by API)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Get Contents"}],["$","td",null,{"children":"Dynamic (returned by API)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Find Similar Links"}],["$","td",null,{"children":"Dynamic (returned by API)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Answer"}],["$","td",null,{"children":"Dynamic (returned by API)"}]]}]]}]]}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Serper"}]," - Google search API"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Search (≤10 results)"}],["$","td",null,{"children":"$$0.001"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Search (>10 results)"}],["$","td",null,{"children":"$$0.002"}]]}]]}]]}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Perplexity"}]," - AI-powered chat and web search"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Search"}],["$","td",null,{"children":"$$0.005 per request"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Chat"}],["$","td",null,{"children":"Token-based (varies by model)"}]]}]]}]]}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Linkup"}]," - Web search and content retrieval"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Standard search"}],["$","td",null,{"children":"~$0.006"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Deep search"}],["$","td",null,{"children":"~$0.055"}]]}]]}]]}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Parallel AI"}]," - Web search, extraction, and deep research"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Search (≤10 results)"}],["$","td",null,{"children":"$$0.005"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Search (>10 results)"}],["$","td",null,{"children":"$$0.005 + $0.001 per additional result"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Extract"}],["$","td",null,{"children":"$$0.001 per URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Deep Research"}],["$","td",null,{"children":"$$0.005–$2.40 (varies by processor tier)"}]]}]]}]]}]}]]}],["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Jina AI"}]," - Web reading and search"]}],"$L84"]}],"$L85","$L86"]}]
+24:["$","$L15",null,{"as":"h2","id":"bring-your-own-key-byok","children":"Bring Your Own Key (BYOK)"}]
+25:["$","p",null,{"children":"Use your own API keys for supported providers instead of Aptlystar's hosted keys to pay base prices with no markup."}]
+26:["$","$L15",null,{"as":"h3","id":"supported-providers","children":"Supported Providers"}]
+27:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Provider"}],["$","th",null,{"children":"Usage"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"OpenAI"}],["$","td",null,{"children":"Knowledge Base embeddings, Agent block"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Anthropic"}],["$","td",null,{"children":"Agent block"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Google"}],["$","td",null,{"children":"Agent block"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Mistral"}],["$","td",null,{"children":"Knowledge Base OCR, Agent block"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Fireworks"}],["$","td",null,{"children":"Agent block"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Firecrawl"}],["$","td",null,{"children":"Web scraping, crawling, search, and extraction"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Exa"}],["$","td",null,{"children":"AI-powered search and research"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Serper"}],["$","td",null,{"children":"Google search API"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Linkup"}],["$","td",null,{"children":"Web search and content retrieval"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Parallel AI"}],["$","td",null,{"children":"Web search, extraction, and deep research"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Perplexity"}],["$","td",null,{"children":"AI-powered chat and web search"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Jina AI"}],["$","td",null,{"children":"Web reading and search"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Google Cloud"}],["$","td",null,{"children":"Translate, Maps, PageSpeed, and Books APIs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Brandfetch"}],["$","td",null,{"children":"Brand assets, logos, colors, and company info"}]]}]]}]]}]}]
+28:["$","$L15",null,{"as":"h3","id":"setup","children":"Setup"}]
+29:["$","ol",null,{"children":["\n",["$","li",null,{"children":["Navigate to ",["$","strong",null,{"children":"Settings"}]," → ",["$","strong",null,{"children":"BYOK"}]," in your workspace"]}],"\n",["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Add Key"}]," for your provider"]}],"\n",["$","li",null,{"children":"Enter your API key and save"}],"\n"]}]
+2a:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"BYOK keys are encrypted at rest. Only workspace admins can manage keys."}]}]]}]]}]
+2b:["$","p",null,{"children":"When configured, workflows use your key instead of Aptlystar's hosted keys. If removed, workflows automatically fall back to hosted keys with the multiplier."}]
+2c:["$","$L15",null,{"as":"h2","id":"voice-input","children":"Voice Input"}]
+2d:["$","p",null,{"children":"Voice input uses ElevenLabs Scribe v2 Realtime for speech-to-text transcription. It is available in the Astra chat and in deployed chat voice mode."}]
+2e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Context"}],["$","th",null,{"children":"Cost per session"}],["$","th",null,{"children":"Max duration"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Astra (workspace)"}],["$","td",null,{"children":"~5 credits ($0.024)"}],["$","td",null,{"children":"3 minutes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Deployed chat (voice mode)"}],["$","td",null,{"children":"~2 credits ($0.008)"}],["$","td",null,{"children":"1 minute"}]]}]]}]]}]}]
+2f:["$","p",null,{"children":"Each voice session is billed when it starts. In deployed chat voice mode, each conversation turn (speak → agent responds → speak again) is a separate session. Multi-turn conversations are billed per turn."}]
+30:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":["Voice input requires ",["$","code",null,{"children":"ELEVENLABS_API_KEY"}]," to be configured. When the key is not set, voice input controls are hidden."]}]}]]}]]}]
+31:["$","$L15",null,{"as":"h2","id":"plans","children":"Plans"}]
+32:["$","p",null,{"children":["Aptlystar has two paid plan tiers - ",["$","strong",null,{"children":"Pro"}]," and ",["$","strong",null,{"children":"Max"}],". Either can be used individually or with a team. Team plans pool credits across all seats in the organization."]}]
+33:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Price"}],["$","th",null,{"children":"Credits Included"}],["$","th",null,{"children":"Daily Refresh"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Community"}]}],["$","td",null,{"children":"$$0"}],["$","td",null,{"children":"1,000 (one-time)"}],["$","td",null,{"children":"-"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro"}]}],["$","td",null,{"children":"$$25/mo"}],["$","td",null,{"children":"6,000/mo"}],["$","td",null,{"children":"+50/day"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Max"}]}],["$","td",null,{"children":"$$100/mo"}],["$","td",null,{"children":"25,000/mo"}],["$","td",null,{"children":"+200/day"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Enterprise"}]}],["$","td",null,{"children":"Custom"}],["$","td",null,{"children":"Custom"}],["$","td",null,{"children":"-"}]]}]]}]]}]}]
+34:["$","p",null,{"children":["To use Pro or Max with a team, select ",["$","strong",null,{"children":"Get For Team"}]," in subscription settings and choose the tier and number of seats. Credits are pooled across the organization at the per-seat rate (e.g. Max for Teams with 3 seats = 75,000 credits/mo pooled)."]}]
+35:["$","p",null,{"children":"Internal organization members use seats and contribute to the team's pooled credit allocation. External workspace members do not join your organization, do not appear in the organization roster, and do not count toward your seat total."}]
+36:["$","$L15",null,{"as":"h3","id":"daily-refresh-credits","children":"Daily Refresh Credits"}]
+37:["$","p",null,{"children":"Paid plans include a small daily credit allowance that does not count toward your plan limit. Each day, usage up to the daily refresh amount is excluded from billable usage. This allowance resets every 24 hours and does not carry over - use it or lose it."}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Daily Refresh"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro"}]}],["$","td",null,{"children":"50 credits/day ($0.25)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Max"}]}],["$","td",null,{"children":"200 credits/day ($1.00)"}]]}]]}]]}]}]
+39:["$","p",null,{"children":"For team plans, the daily refresh scales with seats (e.g. Max for Teams with 3 seats = 600 credits/day)."}]
+3a:["$","$L15",null,{"as":"h3","id":"annual-billing","children":"Annual Billing"}]
+3b:["$","p",null,{"children":["All paid plans are available with annual billing at a ",["$","strong",null,{"children":"15% discount"}],". Switch between monthly and annual billing in Settings → Subscription."]}]
+3c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Monthly"}],["$","th",null,{"children":"Annual (per month)"}],["$","th",null,{"children":"Annual Total"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro"}]}],["$","td",null,{"children":"$$25/mo"}],["$","td",null,{"children":"$$21.25/mo"}],["$","td",null,{"children":"$$255/yr"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Max"}]}],["$","td",null,{"children":"$$100/mo"}],["$","td",null,{"children":"$$85/mo"}],["$","td",null,{"children":"$$1,020/yr"}]]}]]}]]}]}]
+3d:["$","p",null,{"children":"Team plans follow the same pricing per seat."}]
+3e:["$","$L15",null,{"as":"h3","id":"on-demand-billing","children":"On-Demand Billing"}]
+3f:["$","p",null,{"children":["By default, your usage is capped at the credits included in your plan. To allow usage beyond your plan's included amount, you can either enable ",["$","strong",null,{"children":"on-demand billing"}]," or manually edit your usage limit to any value above your plan's minimum."]}]
+40:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Enable On-Demand"}],": Removes the usage cap entirely. You pay for any overage at the end of the billing period."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Edit Usage Limit"}],": Set a specific cap above your plan's included amount to control how much overage you're willing to allow."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Disable On-Demand"}],": Resets your usage limit back to the plan's included amount (only available if your current usage hasn't already exceeded it)."]}],"\n"]}]
+41:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"On-demand billing is managed by workspace admins for team plans. Non-admin team members cannot toggle on-demand billing."}]}]]}]]}]
+42:["$","$L15",null,{"as":"h2","id":"plan-limits","children":"Plan Limits"}]
+43:["$","$L15",null,{"as":"h3","id":"workspaces","children":"Workspaces"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Personal Workspaces"}],["$","th",null,{"children":"Shared (Organization) Workspaces"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Free"}]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"—"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro"}]}],["$","td",null,{"children":"Up to 3"}],["$","td",null,{"children":"—"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Max"}]}],["$","td",null,{"children":"Up to 10"}],["$","td",null,{"children":"—"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Team / Enterprise"}]}],["$","td",null,{"children":"Unlimited"}],["$","td",null,{"children":"Unlimited"}]]}]]}]]}]}]
+45:["$","p",null,{"children":"Team and Enterprise plans unlock shared workspaces that belong to your organization. Internal members invited to a shared workspace join the organization and count toward your seat total. Existing Aptlystar users who already belong to another organization can be added as external workspace members; they get workspace access without joining your organization or using one of your seats. When a Team or Enterprise subscription is cancelled or downgraded, existing shared workspaces remain accessible to current members but new invites are disabled until the organization is upgraded again."}]
+46:["$","$L15",null,{"as":"h3","id":"rate-limits","children":"Rate Limits"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Sync (req/min)"}],["$","th",null,{"children":"Async (req/min)"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Free"}]}],["$","td",null,{"children":"50"}],["$","td",null,{"children":"200"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro"}]}],["$","td",null,{"children":"150"}],["$","td",null,{"children":"1,000"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Max"}]}],["$","td",null,{"children":"300"}],["$","td",null,{"children":"2,500"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Enterprise"}]}],["$","td",null,{"children":"600"}],["$","td",null,{"children":"5,000"}]]}]]}]]}]}]
+48:["$","p",null,{"children":"Max (individual) shares the same rate limits as team plans. Team plans (Pro or Max for Teams) use the Max-tier rate limits."}]
+49:["$","$L15",null,{"as":"h3","id":"file-storage","children":"File Storage"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Storage"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Free"}]}],["$","td",null,{"children":"5 GB"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro"}]}],["$","td",null,{"children":"50 GB"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Max"}]}],["$","td",null,{"children":"500 GB"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Enterprise"}]}],["$","td",null,{"children":"500 GB (customizable)"}]]}]]}]]}]}]
+4b:["$","p",null,{"children":"Team plans (Pro or Max for Teams) use 500 GB."}]
+4c:["$","$L15",null,{"as":"h3","id":"run-time-limits","children":"Run Time Limits"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Plan"}],["$","th",null,{"children":"Sync"}],["$","th",null,{"children":"Async"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Free"}]}],["$","td",null,{"children":"5 minutes"}],["$","td",null,{"children":"90 minutes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Pro / Max / Team / Enterprise"}]}],["$","td",null,{"children":"50 minutes"}],["$","td",null,{"children":"90 minutes"}]]}]]}]]}]}]
+4e:["$","p",null,{"children":[["$","strong",null,{"children":"Sync runs"}]," complete immediately and return results directly. These are triggered via the API with ",["$","code",null,{"children":"async: false"}]," (default) or through the UI.\n",["$","strong",null,{"children":"Async runs"}]," (triggered via API with ",["$","code",null,{"children":"async: true"}],", webhooks, or schedules) run in the background."]}]
+4f:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"If a workflow exceeds its time limit, it will be terminated and marked as failed with a timeout error. Design long-running workflows to use async runs or break them into smaller workflows."}]}]]}]]}]
+50:["$","$L15",null,{"as":"h2","id":"billing-model","children":"Billing Model"}]
+51:["$","p",null,{"children":["Aptlystar uses a ",["$","strong",null,{"children":"base subscription + overage"}]," billing model:"]}]
+52:["$","$L15",null,{"as":"h3","id":"how-it-works","children":"How It Works"}]
+53:["$","p",null,{"children":["$","strong",null,{"children":"Pro Plan ($25/month - 6,000 credits):"}]}]
+54:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Monthly subscription includes 6,000 credits of usage"}],"\n",["$","li",null,{"children":"Usage under 6,000 credits → No additional charges"}],"\n",["$","li",null,{"children":"Usage over 6,000 credits (with on-demand enabled) → Pay the overage at month end"}],"\n",["$","li",null,{"children":"Example: 7,000 credits used = $25 (subscription) + $5 (overage for 1,000 extra credits at $0.005/credit)"}],"\n"]}]
+55:["$","p",null,{"children":["$","strong",null,{"children":"Team Plans:"}]}]
+56:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Usage is pooled across internal team members in the organization"}],"\n",["$","li",null,{"children":"External workspace members keep their own organization or personal billing context for runs where they are the billing actor"}],"\n",["$","li",null,{"children":"Overage is calculated from total team usage against the pooled limit"}],"\n",["$","li",null,{"children":"Organization owner receives one bill"}],"\n"]}]
+57:["$","p",null,{"children":["$","strong",null,{"children":"Enterprise Plans:"}]}]
+58:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Fixed monthly price, no overages"}],"\n",["$","li",null,{"children":"Custom usage limits per agreement"}],"\n"]}]
+59:["$","$L15",null,{"as":"h3","id":"threshold-billing","children":"Threshold Billing"}]
+5a:["$","p",null,{"children":"When on-demand is enabled and unbilled overage reaches $100, Aptlystar automatically bills the full unbilled amount."}]
+5b:["$","p",null,{"children":["$","strong",null,{"children":"Example:"}]}]
+5c:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Day 10: $120 overage → Bill $120 immediately"}],"\n",["$","li",null,{"children":"Day 15: Additional $60 usage ($180 total) → Already billed, no action"}],"\n",["$","li",null,{"children":"Day 20: Another $80 usage ($260 total, $140 unbilled) → Bill $140 immediately"}],"\n"]}]
+5d:["$","p",null,{"children":"This spreads large overage charges throughout the month instead of one large bill at period end."}]
+5e:["$","$L15",null,{"as":"h2","id":"usage-monitoring","children":"Usage Monitoring"}]
+5f:["$","p",null,{"children":"Monitor your usage and billing in Settings → Subscription:"}]
+60:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Current Usage"}],": Real-time credit usage for the current billing period"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Usage Limits"}],": Plan limits with a visual progress bar"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"On-Demand Billing"}],": Toggle on-demand billing to allow usage beyond your plan's included credits"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Plan Management"}],": Upgrade, downgrade, or switch between monthly and annual billing"]}],"\n"]}]
+61:["$","$L15",null,{"as":"h3","id":"programmatic-usage-tracking","children":"Programmatic Usage Tracking"}]
+62:["$","p",null,{"children":"You can query your current usage and limits programmatically using the API:"}]
+63:["$","p",null,{"children":["$","strong",null,{"children":"Endpoint:"}]}]
+64:["$","$L16",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L17",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":["$","span",null,{"children":"GET /api/users/me/usage-limits"}]}]}]}]}]
+65:["$","p",null,{"children":["$","strong",null,{"children":"Authentication:"}]}]
+66:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Include your API key in the ",["$","code",null,{"children":"X-API-Key"}]," header"]}],"\n"]}]
+67:["$","p",null,{"children":["$","strong",null,{"children":"Example Request:"}]}]
+68:["$","$L16",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L17",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"curl"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" -X"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" GET"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" -H"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" \"X-API-Key: YOUR_API_KEY\""}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" -H"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" \"Content-Type: application/json\""}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" https://aptlystar.ai/api/users/me/usage-limits"}]]}]}]}]}]
+69:["$","p",null,{"children":["$","strong",null,{"children":"Example Response:"}]}]
+6a:["$","$L16",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L17",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"success\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"true"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"rateLimit\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"sync\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"isLimited\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"false"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"requestsPerMinute\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"150"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"maxBurst\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"300"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"remaining\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"300"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"resetAt\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2025-09-08T22:51:55.999Z\""}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    },"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"async\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"isLimited\""}],"$L87","$L88","$L89"]}],"\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96"]}]}]}]
+6b:["$","p",null,{"children":["$","strong",null,{"children":"Rate Limit Fields:"}]}]
+6c:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","code",null,{"children":"requestsPerMinute"}],": Sustained rate limit (tokens refill at this rate)"]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"maxBurst"}],": Maximum tokens you can accumulate (burst capacity)"]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"remaining"}],": Current tokens available (can be up to ",["$","code",null,{"children":"maxBurst"}],")"]}],"\n"]}]
+6d:["$","p",null,{"children":["$","strong",null,{"children":"Response Fields:"}]}]
+6e:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","code",null,{"children":"currentPeriodCost"}]," reflects usage in the current billing period (in dollars)"]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"limit"}]," is derived from individual limits (Free/Pro/Max) or pooled organization limits (Team/Enterprise)"]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"plan"}]," is the highest-priority active plan associated with your user"]}],"\n"]}]
+6f:["$","$L15",null,{"as":"h2","id":"purchasing-additional-credits","children":"Purchasing Additional Credits"}]
+70:["$","p",null,{"children":["Pro and Team plan users can buy additional credits at any time in ",["$","strong",null,{"children":"Settings → Subscription → Credit Balance"}],":"]}]
+71:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Range"}],": $10 to $1,000 per purchase"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Conversion"}],": 1 credit = $0.005 (a $10 purchase adds 2,000 credits)"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Availability"}],": Credits are added immediately after payment"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Expiration"}],": Purchased credits do not expire"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Refunds"}],": Purchases are non-refundable"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Team plans"}],": Only organization owners and admins can purchase credits. Purchased credits are added to the team's shared pool."]}],"\n"]}]
+72:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"Enterprise users should contact support for credit adjustments."}]}]]}]]}]
+73:["$","$L15",null,{"as":"h2","id":"cost-optimization-strategies","children":"Cost Optimization Strategies"}]
+74:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Model Selection"}],": Choose models based on task complexity. Simple tasks can use GPT-4.1-nano while complex reasoning might need o1 or Claude Opus."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Prompt Engineering"}],": Well-structured, concise prompts reduce token usage without sacrificing quality."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Local Models"}],": Use Ollama or VLLM for non-critical tasks to eliminate API costs entirely."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Caching and Reuse"}],": Store frequently used results in variables or files to avoid repeated AI model calls."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Batch Processing"}],": Process multiple items in a single AI request rather than making individual calls."]}],"\n"]}]
+75:["$","$L15",null,{"as":"h2","id":"next-steps","children":"Next Steps"}]
+76:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Review your current usage in ",["$","$L97",null,{"href":"https://aptlystar.ai/settings/subscription","children":"Settings → Subscription"}]]}],"\n",["$","li",null,{"children":["Learn about ",["$","$L97",null,{"href":"/execution/logging","children":"Logging"}]," to track run details"]}],"\n",["$","li",null,{"children":["Explore the ",["$","$L97",null,{"href":"/execution/api","children":"External API"}]," for programmatic cost monitoring"]}],"\n",["$","li",null,{"children":["Check out ",["$","$L97",null,{"href":"/blocks","children":"workflow optimization techniques"}]," to reduce costs"]}],"\n"]}]
+77:["$","$L98",null,{"items":[{"question":"How much does a single workflow run cost?","answer":"Every run incurs a base charge of 1 credit ($0.005). On top of that, any AI model usage is billed based on token consumption. Workflows that do not use AI blocks only pay the base run charge."},{"question":"What is the credit-to-dollar conversion rate?","answer":"1 credit equals $0.005. All plan limits, usage meters, and billing thresholds in the Aptlystar UI are displayed in credits."},{"question":"Do unused daily refresh credits carry over?","answer":"No. Daily refresh credits reset every 24 hours and do not accumulate. If you do not use them within the day, they are lost."},{"question":"What happens when I exceed my plan's credit limit?","answer":"By default, your usage is capped at your plan's included credits and runs will stop. If you enable on-demand billing or manually raise your usage limit in Settings, you can continue running workflows and pay for the overage at the end of the billing period."},{"question":"How does the 1.1x hosted model multiplier work?","answer":"When you use Aptlystar's hosted API keys (instead of bringing your own), a 1.1x multiplier is applied to the base model pricing for Agent blocks. This covers infrastructure and API management costs. You can avoid this multiplier by using your own API keys via the BYOK feature."},{"question":"Are there any free options for AI models?","answer":"Yes. If you run local models through Ollama or VLLM, there are no API costs for those model calls. You still pay the base run charge of 1 credit per run."},{"question":"When does threshold billing trigger?","answer":"When on-demand billing is enabled and your unbilled overage reaches $100, Aptlystar automatically bills the full unbilled amount. This spreads large charges throughout the month instead of accumulating one large bill at period end."}]}]
+7a:null
+80:["$","th",null,{"children":"Example Models"}]
+81:["$","th",null,{"children":"Input / Output"}]
+82:["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Deepseek"}],["$","td",null,{"children":"V3, R1"}],["$","td",null,{"children":"$$0.75 / $1.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"xAI"}],["$","td",null,{"children":"Grok 4 Latest, Grok 3"}],["$","td",null,{"children":"$$3.00 / $15.00"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Groq"}],["$","td",null,{"children":"Llama 4 Scout, Llama 3.3 70B"}],["$","td",null,{"children":"$$0.11 / $0.34"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Cerebras"}],["$","td",null,{"children":"Llama 4 Scout, Llama 3.3 70B"}],["$","td",null,{"children":"$$0.11 / $0.34"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Ollama"}],["$","td",null,{"children":"Local models"}],["$","td",null,{"children":"Free"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"VLLM"}],["$","td",null,{"children":"Local models"}],["$","td",null,{"children":"Free"}]]}]]}]
+83:["$","p",null,{"children":["$","em",null,{"children":"Pay providers directly with no markup"}]}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Read URL"}],["$","td",null,{"children":"$$0.20 per 1M tokens"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Search"}],["$","td",null,{"children":"$$0.20 per 1M tokens (minimum 10K tokens)"}]]}]]}]]}]}]
+85:["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Google Cloud"}]," - Translate, Maps, PageSpeed, and Books APIs"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Translate / Detect"}],["$","td",null,{"children":"$$0.00002 per character"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Maps (Geocode, Directions, Distance Matrix, Elevation, Timezone, Reverse Geocode, Geolocate, Validate Address)"}],["$","td",null,{"children":"$$0.005 per request"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Maps (Snap to Roads)"}],["$","td",null,{"children":"$$0.01 per request"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Maps (Place Details)"}],["$","td",null,{"children":"$$0.017 per request"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Maps (Places Search)"}],["$","td",null,{"children":"$$0.032 per request"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"PageSpeed"}],["$","td",null,{"children":"Free"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Books (Search, Details)"}],["$","td",null,{"children":"Free"}]]}]]}]]}]}]]}]
+86:["$","$L7f",null,{"children":[["$","p",null,{"children":[["$","strong",null,{"children":"Brandfetch"}]," - Brand assets, logos, colors, and company info"]}],["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Operation"}],["$","th",null,{"children":"Cost"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Search"}],["$","td",null,{"children":"Free"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Get Brand"}],["$","td",null,{"children":"$$0.04 per request"}]]}]]}]]}]}]]}]
+87:["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}]
+88:["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"false"}]
+89:["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]
+8a:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"requestsPerMinute\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"1000"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8b:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"maxBurst\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"2000"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8c:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"remaining\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"2000"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8d:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"resetAt\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2025-09-08T22:51:56.155Z\""}]]}]
+8e:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    },"}]}]
+8f:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"authType\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"api\""}]]}]
+90:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  },"}]}]
+91:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"usage\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}]
+92:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"currentPeriodCost\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"12.34"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+93:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"limit\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"100"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+94:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"plan\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"pro_6000\""}]]}]
+95:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  }"}]}]
+96:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]

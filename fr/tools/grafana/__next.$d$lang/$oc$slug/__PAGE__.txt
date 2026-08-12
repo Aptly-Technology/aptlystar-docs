@@ -1,0 +1,660 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+23:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+28:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+29:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+2a:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+2b:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+9e:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9f:"$Sreact.suspense"
+a1:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+a5:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+a6:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Grafana\",\"description\":\"Interagissez avec les tableaux de bord, les alertes et les annotations Grafana\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/grafana\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/grafana\"},\"inLanguage\":\"fr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/grafana\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Grafana\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/grafana\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instructions-dutilisation","title":"Instructions d'utilisation"},{"depth":2,"url":"#outils","title":"Outils"},{"depth":3,"url":"#grafana_get_dashboard","title":["$","code",null,{"children":"grafana_get_dashboard"}]},{"depth":4,"url":"#entrée","title":"Entrée"},{"depth":4,"url":"#sortie","title":"Sortie"},{"depth":3,"url":"#grafana_list_dashboards","title":["$","code",null,{"children":"grafana_list_dashboards"}]},{"depth":4,"url":"#entrée-1","title":"Entrée"},{"depth":4,"url":"#sortie-1","title":"Sortie"},{"depth":3,"url":"#grafana_create_dashboard","title":["$","code",null,{"children":"grafana_create_dashboard"}]},{"depth":4,"url":"#entrée-2","title":"Entrée"},{"depth":4,"url":"#sortie-2","title":"Sortie"},{"depth":3,"url":"#grafana_update_dashboard","title":["$","code",null,{"children":"grafana_update_dashboard"}]},{"depth":4,"url":"#entrée-3","title":"Entrée"},{"depth":4,"url":"#sortie-3","title":"Sortie"},{"depth":3,"url":"#grafana_delete_dashboard","title":["$","code",null,{"children":"grafana_delete_dashboard"}]},{"depth":4,"url":"#entrée-4","title":"Entrée"},{"depth":4,"url":"#sortie-4","title":"Sortie"},{"depth":3,"url":"#grafana_list_alert_rules","title":["$","code",null,{"children":"grafana_list_alert_rules"}]},{"depth":4,"url":"#entrée-5","title":"Entrée"},{"depth":4,"url":"#sortie-5","title":"Sortie"},{"depth":3,"url":"#grafana_get_alert_rule","title":["$","code",null,{"children":"grafana_get_alert_rule"}]},{"depth":4,"url":"#entrée-6","title":"Entrée"},{"depth":4,"url":"#sortie-6","title":"Sortie"},{"depth":3,"url":"#grafana_create_alert_rule","title":["$","code",null,{"children":"grafana_create_alert_rule"}]},{"depth":4,"url":"#entrée-7","title":"Entrée"},{"depth":4,"url":"#sortie-7","title":"Sortie"},{"depth":3,"url":"#grafana_update_alert_rule","title":["$","code",null,{"children":"grafana_update_alert_rule"}]},{"depth":4,"url":"#entrée-8","title":"Entrée"},{"depth":4,"url":"#sortie-8","title":"Sortie"},{"depth":3,"url":"#grafana_delete_alert_rule","title":["$","code",null,{"children":"grafana_delete_alert_rule"}]},{"depth":4,"url":"#entrée-9","title":"Entrée"},{"depth":4,"url":"#sortie-9","title":"Sortie"},{"depth":3,"url":"#grafana_list_contact_points","title":["$","code",null,{"children":"grafana_list_contact_points"}]},{"depth":4,"url":"#entrée-10","title":"Entrée"},{"depth":4,"url":"#sortie-10","title":"Sortie"},{"depth":3,"url":"#grafana_create_annotation","title":"$L3"},{"depth":4,"url":"#entrée-11","title":"$L4"},{"depth":4,"url":"#sortie-11","title":"$L5"},{"depth":3,"url":"#grafana_list_annotations","title":"$L6"},{"depth":4,"url":"#entrée-12","title":"$L7"},{"depth":4,"url":"#sortie-12","title":"$L8"},{"depth":3,"url":"#grafana_update_annotation","title":"$L9"},{"depth":4,"url":"#entrée-13","title":"$La"},{"depth":4,"url":"#sortie-13","title":"$Lb"},{"depth":3,"url":"#grafana_delete_annotation","title":"$Lc"},{"depth":4,"url":"#entrée-14","title":"$Ld"},{"depth":4,"url":"#sortie-14","title":"$Le"},{"depth":3,"url":"#grafana_list_data_sources","title":"$Lf"},{"depth":4,"url":"#entrée-15","title":"$L10"},{"depth":4,"url":"#sortie-15","title":"$L11"},{"depth":3,"url":"#grafana_get_data_source","title":"$L12"},{"depth":4,"url":"#entrée-16","title":"$L13"},{"depth":4,"url":"#sortie-16","title":"$L14"},{"depth":3,"url":"#grafana_list_folders","title":"$L15"},{"depth":4,"url":"#entrée-17","title":"$L16"},{"depth":4,"url":"#sortie-17","title":"$L17"},{"depth":3,"url":"#grafana_create_folder","title":"$L18"},{"depth":4,"url":"#entrée-18","title":"$L19"},{"depth":4,"url":"#sortie-18","title":"$L1a"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L1b"},"children":["$L1c","$L1d"]}]],["$L1e","$L1f","$L20","$L21"],"$L22"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"grafana_create_annotation"}]
+4:"Entrée"
+5:"Sortie"
+6:["$","code",null,{"children":"grafana_list_annotations"}]
+7:"Entrée"
+8:"Sortie"
+9:["$","code",null,{"children":"grafana_update_annotation"}]
+a:"Entrée"
+b:"Sortie"
+c:["$","code",null,{"children":"grafana_delete_annotation"}]
+d:"Entrée"
+e:"Sortie"
+f:["$","code",null,{"children":"grafana_list_data_sources"}]
+10:"Entrée"
+11:"Sortie"
+12:["$","code",null,{"children":"grafana_get_data_source"}]
+13:"Entrée"
+14:"Sortie"
+15:["$","code",null,{"children":"grafana_list_folders"}]
+16:"Entrée"
+17:"Sortie"
+18:["$","code",null,{"children":"grafana_create_folder"}]
+19:"Entrée"
+1a:"Sortie"
+1b:null
+24:T8a8a,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="grafana" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Grafana](https://grafana.com/) est une plateforme de premier plan pour la surveillance, l'observabilité et la visualisation. Elle permet aux utilisateurs d'interroger, de visualiser, d'alerter et d'analyser des données provenant de diverses sources, ce qui en fait un outil essentiel pour la surveillance des infrastructures et des applications.
+
+Avec Grafana, vous pouvez :
+
+* **Visualiser des données** : créer et personnaliser des tableaux de bord pour afficher des métriques, des journaux et des traces en temps réel
+* **Surveiller la santé et le statut** : vérifier la santé de votre instance Grafana et des sources de données connectées
+* **Gérer les alertes et les annotations** : configurer des règles d'alerte, gérer les notifications et annoter les tableaux de bord avec des événements importants
+* **Organiser le contenu** : organiser les tableaux de bord et les sources de données dans des dossiers pour une meilleure gestion des accès
+
+Dans Aptlystar, l'intégration Grafana permet à vos agents d'interagir directement avec votre instance Grafana via API, permettant des actions telles que :
+
+* Vérifier l'état de santé du serveur Grafana, de la base de données et des sources de données
+* Récupérer, lister et gérer les tableaux de bord, les règles d'alerte, les annotations, les sources de données et les dossiers
+* Automatiser la surveillance de votre infrastructure en intégrant les données et les alertes Grafana dans vos automatisations de flux de travail
+
+Ces capacités permettent aux agents Aptlystar de surveiller les systèmes, de répondre de manière proactive aux alertes et d'aider à assurer la fiabilité et la visibilité de vos services — le tout dans le cadre de vos flux de travail automatisés.
+
+{/* MANUAL-CONTENT-END */}
+
+Instructions d'utilisation [#instructions-dutilisation]
+
+Intégrez Grafana dans les flux de travail. Gérez les tableaux de bord, les alertes, les annotations, les sources de données, les dossiers et surveillez l'état de santé.
+
+Outils [#outils]
+
+grafana_get_dashboard [#grafana_get_dashboard]
+
+Obtenir un tableau de bord par son UID
+
+Entrée [#entrée]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                                |
+| ---------------- | ------ | ----------- | ------------------------------------------------------------------------------------------ |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                         |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | Non         | ID de l'organisation pour les instances Grafana multi-organisations                        |
+| `dashboardUid`   | string | Oui         | L'UID du tableau de bord à récupérer                                                       |
+
+Sortie [#sortie]
+
+| Paramètre   | Type | Description                                                 |
+| ----------- | ---- | ----------------------------------------------------------- |
+| `dashboard` | json | L'objet JSON complet du tableau de bord                     |
+| `meta`      | json | Métadonnées du tableau de bord (version, permissions, etc.) |
+
+grafana_list_dashboards [#grafana_list_dashboards]
+
+Rechercher et lister tous les tableaux de bord
+
+Entrée [#entrée-1]
+
+| Paramètre        | Type    | Obligatoire | Description                                                                               |
+| ---------------- | ------- | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | string  | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | string  | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string  | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `query`          | string  | Non         | Requête de recherche pour filtrer les tableaux de bord par titre                          |
+| `tag`            | string  | Non         | Filtrer par tag (séparés par des virgules pour plusieurs tags)                            |
+| `folderIds`      | string  | Non         | Filtrer par ID de dossier (séparés par des virgules)                                      |
+| `starred`        | boolean | Non         | Renvoyer uniquement les tableaux de bord favoris                                          |
+| `limit`          | number  | Non         | Nombre maximum de tableaux de bord à renvoyer                                             |
+
+Sortie [#sortie-1]
+
+| Paramètre    | Type  | Description                                          |
+| ------------ | ----- | ---------------------------------------------------- |
+| `dashboards` | array | Liste des résultats de recherche de tableaux de bord |
+
+grafana_create_dashboard [#grafana_create_dashboard]
+
+Créer un nouveau tableau de bord
+
+Entrée [#entrée-2]
+
+| Paramètre        | Type    | Obligatoire | Description                                                                               |
+| ---------------- | ------- | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | string  | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | string  | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string  | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `title`          | string  | Oui         | Le titre du nouveau tableau de bord                                                       |
+| `folderUid`      | string  | Non         | L'UID du dossier dans lequel créer le tableau de bord                                     |
+| `tags`           | string  | Non         | Liste de tags séparés par des virgules                                                    |
+| `timezone`       | string  | Non         | Fuseau horaire du tableau de bord (ex., browser, utc)                                     |
+| `refresh`        | string  | Non         | Intervalle d'actualisation automatique (ex., 5s, 1m, 5m)                                  |
+| `panels`         | string  | Non         | Tableau JSON des configurations de panneaux                                               |
+| `overwrite`      | boolean | Non         | Écraser le tableau de bord existant avec le même titre                                    |
+| `message`        | string  | Non         | Message de commit pour la version du tableau de bord                                      |
+
+Sortie [#sortie-2]
+
+| Paramètre | Type   | Description                                  |
+| --------- | ------ | -------------------------------------------- |
+| `id`      | number | L'ID numérique du tableau de bord créé       |
+| `uid`     | string | L'UID du tableau de bord créé                |
+| `url`     | string | Le chemin d'URL vers le tableau de bord      |
+| `status`  | string | Statut de l'opération (success)              |
+| `version` | number | Le numéro de version du tableau de bord      |
+| `slug`    | string | Slug convivial pour l'URL du tableau de bord |
+
+grafana_update_dashboard [#grafana_update_dashboard]
+
+Mettre à jour un tableau de bord existant. Récupère le tableau de bord actuel et fusionne vos modifications.
+
+Entrée [#entrée-3]
+
+| Paramètre        | Type    | Obligatoire | Description                                                                                |
+| ---------------- | ------- | ----------- | ------------------------------------------------------------------------------------------ |
+| `apiKey`         | string  | Oui         | Token de compte de service Grafana                                                         |
+| `baseUrl`        | string  | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string  | Non         | ID d'organisation pour les instances Grafana multi-organisations                           |
+| `dashboardUid`   | string  | Oui         | L'UID du tableau de bord à mettre à jour                                                   |
+| `title`          | string  | Non         | Nouveau titre pour le tableau de bord                                                      |
+| `folderUid`      | string  | Non         | Nouvel UID de dossier pour déplacer le tableau de bord                                     |
+| `tags`           | string  | Non         | Liste de nouvelles étiquettes séparées par des virgules                                    |
+| `timezone`       | string  | Non         | Fuseau horaire du tableau de bord (ex. : browser, utc)                                     |
+| `refresh`        | string  | Non         | Intervalle d'actualisation automatique (ex. : 5s, 1m, 5m)                                  |
+| `panels`         | string  | Non         | Tableau JSON des configurations de panneaux                                                |
+| `overwrite`      | boolean | Non         | Écraser même en cas de conflit de version                                                  |
+| `message`        | string  | Non         | Message de commit pour cette version                                                       |
+
+Sortie [#sortie-3]
+
+| Paramètre | Type   | Description                                     |
+| --------- | ------ | ----------------------------------------------- |
+| `id`      | number | L'ID numérique du tableau de bord mis à jour    |
+| `uid`     | string | L'UID du tableau de bord mis à jour             |
+| `url`     | string | Le chemin URL vers le tableau de bord           |
+| `status`  | string | Statut de l'opération (success)                 |
+| `version` | number | Le nouveau numéro de version du tableau de bord |
+| `slug`    | string | Slug convivial pour URL du tableau de bord      |
+
+grafana_delete_dashboard [#grafana_delete_dashboard]
+
+Supprimer un tableau de bord par son UID
+
+Entrée [#entrée-4]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                                |
+| ---------------- | ------ | ----------- | ------------------------------------------------------------------------------------------ |
+| `apiKey`         | string | Oui         | Token de compte de service Grafana                                                         |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | Non         | ID d'organisation pour les instances Grafana multi-organisations                           |
+| `dashboardUid`   | string | Oui         | L'UID du tableau de bord à supprimer                                                       |
+
+Sortie [#sortie-4]
+
+| Paramètre | Type   | Description                          |
+| --------- | ------ | ------------------------------------ |
+| `title`   | string | Le titre du tableau de bord supprimé |
+| `message` | string | Message de confirmation              |
+| `id`      | number | L'ID du tableau de bord supprimé     |
+
+grafana_list_alert_rules [#grafana_list_alert_rules]
+
+Lister toutes les règles d'alerte dans l'instance Grafana
+
+Entrée [#entrée-5]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                                |
+| ---------------- | ------ | ----------- | ------------------------------------------------------------------------------------------ |
+| `apiKey`         | string | Oui         | Token de compte de service Grafana                                                         |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | Non         | ID d'organisation pour les instances Grafana multi-organisations                           |
+
+Sortie [#sortie-5]
+
+| Paramètre | Type  | Description               |
+| --------- | ----- | ------------------------- |
+| `rules`   | array | Liste des règles d'alerte |
+
+grafana_get_alert_rule [#grafana_get_alert_rule]
+
+Obtenir une règle d'alerte spécifique par son UID
+
+Entrée [#entrée-6]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `alertRuleUid`   | string | Oui         | L'UID de la règle d'alerte à récupérer                                                    |
+
+Sortie [#sortie-6]
+
+| Paramètre      | Type   | Description                               |
+| -------------- | ------ | ----------------------------------------- |
+| `uid`          | string | UID de la règle d'alerte                  |
+| `title`        | string | Titre de la règle d'alerte                |
+| `condition`    | string | Condition d'alerte                        |
+| `data`         | json   | Données de requête de la règle d'alerte   |
+| `folderUID`    | string | UID du dossier parent                     |
+| `ruleGroup`    | string | Nom du groupe de règles                   |
+| `noDataState`  | string | État lorsqu'aucune donnée n'est retournée |
+| `execErrState` | string | État en cas d'erreur d'exécution          |
+| `annotations`  | json   | Annotations d'alerte                      |
+| `labels`       | json   | Étiquettes d'alerte                       |
+
+grafana_create_alert_rule [#grafana_create_alert_rule]
+
+Créer une nouvelle règle d'alerte
+
+Entrée [#entrée-7]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `title`          | string | Oui         | Le titre de la règle d'alerte                                                             |
+| `folderUid`      | string | Oui         | L'UID du dossier dans lequel créer l'alerte                                               |
+| `ruleGroup`      | string | Oui         | Le nom du groupe de règles                                                                |
+| `condition`      | string | Oui         | Le refId de la requête ou de l'expression à utiliser comme condition d'alerte             |
+| `data`           | string | Oui         | Tableau JSON d'objets de données de requête/expression                                    |
+| `forDuration`    | string | Non         | Durée d'attente avant déclenchement (ex., 5m, 1h)                                         |
+| `noDataState`    | string | Non         | État lorsqu'aucune donnée n'est retournée (NoData, Alerting, OK)                          |
+| `execErrState`   | string | Non         | État en cas d'erreur d'exécution (Alerting, OK)                                           |
+| `annotations`    | string | Non         | Objet JSON d'annotations                                                                  |
+| `labels`         | string | Non         | Objet JSON d'étiquettes                                                                   |
+
+Sortie [#sortie-7]
+
+| Paramètre   | Type   | Description                      |
+| ----------- | ------ | -------------------------------- |
+| `uid`       | string | L'UID de la règle d'alerte créée |
+| `title`     | string | Titre de la règle d'alerte       |
+| `folderUID` | string | UID du dossier parent            |
+| `ruleGroup` | string | Nom du groupe de règles          |
+
+grafana_update_alert_rule [#grafana_update_alert_rule]
+
+Mettre à jour une règle d'alerte existante. Récupère la règle actuelle et fusionne vos modifications.
+
+Entrée [#entrée-8]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                            |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                     |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID de l'organisation pour les instances Grafana multi-organisations                    |
+| `alertRuleUid`   | string | Oui         | L'UID de la règle d'alerte à mettre à jour                                             |
+| `title`          | string | Non         | Nouveau titre pour la règle d'alerte                                                   |
+| `folderUid`      | string | Non         | Nouvel UID de dossier pour déplacer l'alerte                                           |
+| `ruleGroup`      | string | Non         | Nouveau nom du groupe de règles                                                        |
+| `condition`      | string | Non         | Nouvelle référence de condition                                                        |
+| `data`           | string | Non         | Nouveau tableau JSON d'objets de données de requête/expression                         |
+| `forDuration`    | string | Non         | Durée d'attente avant déclenchement (ex. : 5m, 1h)                                     |
+| `noDataState`    | string | Non         | État en l'absence de données (NoData, Alerting, OK)                                    |
+| `execErrState`   | string | Non         | État en cas d'erreur d'exécution (Alerting, OK)                                        |
+| `annotations`    | string | Non         | Objet JSON d'annotations                                                               |
+| `labels`         | string | Non         | Objet JSON d'étiquettes                                                                |
+
+Sortie [#sortie-8]
+
+| Paramètre   | Type   | Description                            |
+| ----------- | ------ | -------------------------------------- |
+| `uid`       | string | L'UID de la règle d'alerte mise à jour |
+| `title`     | string | Titre de la règle d'alerte             |
+| `folderUID` | string | UID du dossier parent                  |
+| `ruleGroup` | string | Nom du groupe de règles                |
+
+grafana_delete_alert_rule [#grafana_delete_alert_rule]
+
+Supprimer une règle d'alerte par son UID
+
+Entrée [#entrée-9]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (par ex., [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID d'organisation pour les instances Grafana multi-organisations                          |
+| `alertRuleUid`   | string | Oui         | L'UID de la règle d'alerte à supprimer                                                    |
+
+Sortie [#sortie-9]
+
+| Paramètre | Type   | Description             |
+| --------- | ------ | ----------------------- |
+| `message` | string | Message de confirmation |
+
+grafana_list_contact_points [#grafana_list_contact_points]
+
+Lister tous les points de contact de notification d'alerte
+
+Entrée [#entrée-10]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (par ex., [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID d'organisation pour les instances Grafana multi-organisations                          |
+
+Sortie [#sortie-10]
+
+| Paramètre       | Type  | Description                 |
+| --------------- | ----- | --------------------------- |
+| `contactPoints` | array | Liste des points de contact |
+
+grafana_create_annotation [#grafana_create_annotation]
+
+Créer une annotation sur un tableau de bord ou comme annotation globale
+
+Entrée [#entrée-11]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | chaîne | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | chaîne | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | chaîne | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `text`           | chaîne | Oui         | Le contenu textuel de l'annotation                                                        |
+| `tags`           | chaîne | Non         | Liste d'étiquettes séparées par des virgules                                              |
+| `dashboardUid`   | chaîne | Oui         | UID du tableau de bord auquel ajouter l'annotation                                        |
+| `panelId`        | nombre | Non         | ID du panneau auquel ajouter l'annotation                                                 |
+| `time`           | nombre | Non         | Heure de début en millisecondes d'époque (par défaut : maintenant)                        |
+| `timeEnd`        | nombre | Non         | Heure de fin en millisecondes d'époque (pour les annotations de plage)                    |
+
+Sortie [#sortie-11]
+
+| Paramètre | Type   | Description                |
+| --------- | ------ | -------------------------- |
+| `id`      | nombre | L'ID de l'annotation créée |
+| `message` | chaîne | Message de confirmation    |
+
+grafana_list_annotations [#grafana_list_annotations]
+
+Interroger les annotations par plage de temps, tableau de bord ou tags
+
+Entrée [#entrée-12]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | chaîne | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | chaîne | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | chaîne | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `from`           | nombre | Non         | Heure de début en millisecondes d'époque                                                  |
+| `to`             | nombre | Non         | Heure de fin en millisecondes d'époque                                                    |
+| `dashboardUid`   | chaîne | Oui         | UID du tableau de bord pour interroger les annotations                                    |
+| `panelId`        | nombre | Non         | Filtrer par ID de panneau                                                                 |
+| `tags`           | chaîne | Non         | Liste d'étiquettes séparées par des virgules pour filtrer                                 |
+| `type`           | chaîne | Non         | Filtrer par type (alerte ou annotation)                                                   |
+| `limit`          | nombre | Non         | Nombre maximum d'annotations à retourner                                                  |
+
+Sortie [#sortie-12]
+
+| Paramètre     | Type  | Description           |
+| ------------- | ----- | --------------------- |
+| `annotations` | array | Liste des annotations |
+
+grafana_update_annotation [#grafana_update_annotation]
+
+Mettre à jour une annotation existante
+
+Entrée [#entrée-13]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                            |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                     |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID de l'organisation pour les instances Grafana multi-organisations                    |
+| `annotationId`   | number | Oui         | L'ID de l'annotation à mettre à jour                                                   |
+| `text`           | string | Oui         | Nouveau contenu textuel pour l'annotation                                              |
+| `tags`           | string | Non         | Liste de nouvelles balises séparées par des virgules                                   |
+| `time`           | number | Non         | Nouvelle heure de début en millisecondes d'époque                                      |
+| `timeEnd`        | number | Non         | Nouvelle heure de fin en millisecondes d'époque                                        |
+
+Sortie [#sortie-13]
+
+| Paramètre | Type   | Description                      |
+| --------- | ------ | -------------------------------- |
+| `id`      | number | L'ID de l'annotation mise à jour |
+| `message` | string | Message de confirmation          |
+
+grafana_delete_annotation [#grafana_delete_annotation]
+
+Supprimer une annotation par son ID
+
+Entrée [#entrée-14]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                            |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                     |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID de l'organisation pour les instances Grafana multi-organisations                    |
+| `annotationId`   | number | Oui         | L'ID de l'annotation à supprimer                                                       |
+
+Sortie [#sortie-14]
+
+| Paramètre | Type   | Description             |
+| --------- | ------ | ----------------------- |
+| `message` | string | Message de confirmation |
+
+grafana_list_data_sources [#grafana_list_data_sources]
+
+Lister toutes les sources de données configurées dans Grafana
+
+Entrée [#entrée-15]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                            |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                     |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID d'organisation pour les instances Grafana multi-organisations                       |
+
+Sortie [#sortie-15]
+
+| Paramètre     | Type  | Description                  |
+| ------------- | ----- | ---------------------------- |
+| `dataSources` | array | Liste des sources de données |
+
+grafana_get_data_source [#grafana_get_data_source]
+
+Obtenir une source de données par son ID ou UID
+
+Entrée [#entrée-16]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                            |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Oui         | Jeton de compte de service Grafana                                                     |
+| `baseUrl`        | string | Oui         | URL de l'instance Grafana (ex. : [https://your-grafana.com](https://your-grafana.com)) |
+| `organizationId` | string | Non         | ID d'organisation pour les instances Grafana multi-organisations                       |
+| `dataSourceId`   | string | Oui         | L'ID ou l'UID de la source de données à récupérer                                      |
+
+Sortie [#sortie-16]
+
+| Paramètre   | Type    | Description                                          |
+| ----------- | ------- | ---------------------------------------------------- |
+| `id`        | number  | ID de la source de données                           |
+| `uid`       | string  | UID de la source de données                          |
+| `name`      | string  | Nom de la source de données                          |
+| `type`      | string  | Type de source de données                            |
+| `url`       | string  | URL de connexion de la source de données             |
+| `database`  | string  | Nom de la base de données (si applicable)            |
+| `isDefault` | boolean | Indique si c'est la source de données par défaut     |
+| `jsonData`  | json    | Configuration supplémentaire de la source de données |
+
+grafana_list_folders [#grafana_list_folders]
+
+Lister tous les dossiers dans Grafana
+
+Entrée [#entrée-17]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | chaîne | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | chaîne | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | chaîne | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `limit`          | nombre | Non         | Nombre maximum de dossiers à retourner                                                    |
+| `page`           | nombre | Non         | Numéro de page pour la pagination                                                         |
+
+Sortie [#sortie-17]
+
+| Paramètre | Type    | Description        |
+| --------- | ------- | ------------------ |
+| `folders` | tableau | Liste des dossiers |
+
+grafana_create_folder [#grafana_create_folder]
+
+Créer un nouveau dossier dans Grafana
+
+Entrée [#entrée-18]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                               |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------- |
+| `apiKey`         | chaîne | Oui         | Jeton de compte de service Grafana                                                        |
+| `baseUrl`        | chaîne | Oui         | URL de l'instance Grafana (ex., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | chaîne | Non         | ID de l'organisation pour les instances Grafana multi-organisations                       |
+| `title`          | chaîne | Oui         | Le titre du nouveau dossier                                                               |
+| `uid`            | chaîne | Non         | UID optionnel pour le dossier (généré automatiquement si non fourni)                      |
+
+Sortie [#sortie-18]
+
+| Paramètre   | Type    | Description                                                               |
+| ----------- | ------- | ------------------------------------------------------------------------- |
+| `id`        | number  | L'identifiant numérique du dossier créé                                   |
+| `uid`       | string  | L'UID du dossier créé                                                     |
+| `title`     | string  | Le titre du dossier créé                                                  |
+| `url`       | string  | Le chemin URL vers le dossier                                             |
+| `hasAcl`    | boolean | Si le dossier possède des permissions ACL personnalisées                  |
+| `canSave`   | boolean | Si l'utilisateur actuel peut enregistrer le dossier                       |
+| `canEdit`   | boolean | Si l'utilisateur actuel peut modifier le dossier                          |
+| `canAdmin`  | boolean | Si l'utilisateur actuel a des droits d'administrateur sur le dossier      |
+| `canDelete` | boolean | Si l'utilisateur actuel peut supprimer le dossier                         |
+| `createdBy` | string  | Nom d'utilisateur de la personne qui a créé le dossier                    |
+| `created`   | string  | Horodatage de la création du dossier                                      |
+| `updatedBy` | string  | Nom d'utilisateur de la personne qui a dernièrement mis à jour le dossier |
+| `updated`   | string  | Horodatage de la dernière mise à jour du dossier                          |
+| `version`   | number  | Numéro de version du dossier                                              |
+1c:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L23",null,{"content":"$24"}]}],"$L25"]}],"$L26","$L27"]}]
+1d:["$","$L28",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L29",null,{"type":"grafana","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L2a",null,{"href":"https://grafana.com/","children":"Grafana"}]," est une plateforme de premier plan pour la surveillance, l'observabilité et la visualisation. Elle permet aux utilisateurs d'interroger, de visualiser, d'alerter et d'analyser des données provenant de diverses sources, ce qui en fait un outil essentiel pour la surveillance des infrastructures et des applications."]}],"\n",["$","p",null,{"children":"Avec Grafana, vous pouvez :"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Visualiser des données"}]," : créer et personnaliser des tableaux de bord pour afficher des métriques, des journaux et des traces en temps réel"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Surveiller la santé et le statut"}]," : vérifier la santé de votre instance Grafana et des sources de données connectées"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gérer les alertes et les annotations"}]," : configurer des règles d'alerte, gérer les notifications et annoter les tableaux de bord avec des événements importants"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Organiser le contenu"}]," : organiser les tableaux de bord et les sources de données dans des dossiers pour une meilleure gestion des accès"]}],"\n"]}],"\n",["$","p",null,{"children":"Dans Aptlystar, l'intégration Grafana permet à vos agents d'interagir directement avec votre instance Grafana via API, permettant des actions telles que :"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":"Vérifier l'état de santé du serveur Grafana, de la base de données et des sources de données"}],"\n",["$","li",null,{"children":"Récupérer, lister et gérer les tableaux de bord, les règles d'alerte, les annotations, les sources de données et les dossiers"}],"\n",["$","li",null,{"children":"Automatiser la surveillance de votre infrastructure en intégrant les données et les alertes Grafana dans vos automatisations de flux de travail"}],"\n"]}],"\n",["$","p",null,{"children":"Ces capacités permettent aux agents Aptlystar de surveiller les systèmes, de répondre de manière proactive aux alertes et d'aider à assurer la fiabilité et la visibilité de vos services — le tout dans le cadre de vos flux de travail automatisés."}],"\n","\n",["$","$L2b",null,{"as":"h2","id":"instructions-dutilisation","children":"Instructions d'utilisation"}],"\n",["$","p",null,{"children":"Intégrez Grafana dans les flux de travail. Gérez les tableaux de bord, les alertes, les annotations, les sources de données, les dossiers et surveillez l'état de santé."}],"\n",["$","$L2b",null,{"as":"h2","id":"outils","children":"Outils"}],"\n",["$","$L2b",null,{"as":"h3","id":"grafana_get_dashboard","children":["$","code",null,{"children":"grafana_get_dashboard"}]}],"\n",["$","p",null,{"children":"Obtenir un tableau de bord par son UID"}],"\n",["$","$L2b",null,{"as":"h4","id":"entrée","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],"$L2c","$L2d","$L2e"]}],"$L2f"]}]]}]}],"\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d"]}]}]
+1e:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+1f:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+20:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+21:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+22:["$","$L9e",null,{"children":["$","$9f",null,{"name":"Next.MetadataOutlet","children":"$@a0"}]}]
+25:["$","$La1",null,{}]
+a2:Tc90,M13.99 7.18a4.41 4.41 0 0 0 -.138 -.802 5.04 5.04 0 00-1.05-2 2.96 2.96 0 00-.366-.393c.198-.787-.245-1.47-.245-1.47-.764-.046-1.24.227-1.42.36-.031-.015-.062-.03-.092-.03-.122-.046-.26-.106-.397-.137-.138-.045-.275-.075-.413-.12-.137-.031-.29-.061-.443-.092-.03 0-.046 0-.076-.015C9.01 1.44 8.06 1 8.06 1 7 1.67 6.79 2.6 6.79 2.6s0 .015-.016.06l-.183.05c-.076.03-.168.06-.244.08-.077.03-.168.06-.245.09-.153.08-.32.15-.473.23-.153.09-.306.18-.443.27-.016-.015-.03-.015-.03-.015-1.47-.545-2.77.136-2.77.136-.122 1.54.58 2.53.733 2.71-.03.09-.6.2-.91.29a8.1 8.1 0 0 0 -.245 1.09c0 .06-.15.11-.15.17C1.4 8.39 1 9.75 1 9.75c1.13 1.29 2.46 1.38 2.46 1.38.167.3.366.58.58.85.92.11.183.21.29.32a3.01 3.01 0 0 0 .06 2.15c1.27.045 2.09-.545 2.26-.681.12.045.26.08.382.11.382.11.78.15 1.18.181h.49c.595.85 1.63.954 1.63.954.75-.772.78-1.54.779-1.71v-.015-.03-.03c.153-.107.31-.228.44-.35a5.37 5.37 0 0 0 .78 -.892c.015-.3.05-.6.06-.09.84.05 1.44-.515 1.44-.515-.138-.863-.642-1.29-.749-1.38l-.015-.015h-.015s-.015 0-.015-.015c0-.45.02-.106.02-.151 0-.91.02-.182.02-.288V9.4v-.166-.076-.152l-.015-.075c-.015-.091-.03-.197-.061-.288a3.51 3.51 0 0 0 -.428 -1.04 3.86 3.86 0 00-.718-.848 3.78 3.78 0 00-.901-.575 3.35 3.35 0 00-.993-.272c-.168-.015-.336-.03-.504-.03H9.37 9.2c-.92.02-.169.02-.26.03-.336.06-.642.18-.932.35-.275.17-.52.36-.718.61a2.58 2.58 0 0 0 -.459 .76 2.63 2.63 0 00-.183.82v.393c.15.14.46.27.77.39.76.26.183.49.336.67.137.2.32.35.504.49.183.12.38.212.58.27.199.6.38.76.57.076h.244c.031 0 .047 0 .062-.15.02 0 .046-.15.06-.15.05-.16.08-.16.12-.03l.23-.092a.869 .87 0 0 0 .2 -.12c.015-.016.03-.3.05-.03a.129 .13 0 0 0 .02 -.198c-.046-.06-.122-.075-.183-.03-.15.02-.3.02-.046.03-.046.03-.107.05-.168.06l-.183.05c-.03 0-.61.02-.92.02H8.73a1.52 1.52 0 0 1 -.825 -.378 1.45 1.45 0 01-.306-.378 1.66 1.66 0 01-.168-.485c-.015-.09-.015-.166-.015-.257v-.106-.03c0-.46.02-.91.02-.136.06-.364.26-.727.55-1 .077-.75.15-.136.23-.181.08-.6.17-.106.26-.151.09-.46.18-.076.29-.106a.993 .99 0 1 0 .31 -.046h.321c.107.02.229.3.34.46.21.45.43.12.63.242.4.212.73.56.95.969.11.211.18.423.21.65.02.6.02.121.02.167v.363c0 .06-.15.12-.15.18 0 .06-.015.12-.3.18l-.46.18c-.3.12-.77.24-.123.36a3.18 3.18 0 0 1 -.366 .67 3 3 0 01-1.91 1.18c-.122.02-.26.03-.382.05h-.198c-.061 0-.138 0-.199-.015a3.64 3.64 0 0 1 -.81 -.151 4.07 4.07 0 01-.748-.303 4.1 4.1 0 01-1.7-1.69 4.4 4.4 0 01-.29-.742c-.076-.257-.107-.514-.137-.772v-.302-.091c0-.136.01-.258.03-.394s.046-.272.06-.393c.03-.137.06-.258.09-.394a5.33 5.33 0 1 0 .27 -.741c.214-.47.5-.893.86-1.23.092-.91.18-.167.28-.243.09-.75.18-.136.29-.211a5.39 5.39 0 1 0 .31 -.182c.046-.3.11-.45.15-.076a.26 .26 0 1 0 .08 -.03.26.26 0 1.08-.03c.107-.46.23-.91.34-.121.03-.015.06-.15.09-.03.03-.16.06-.16.09-.3.06-.16.12-.31.17-.046.03-.15.06-.15.09-.015.03 0 .06-.16.09-.016.03 0 .061-.15.09-.015l.046-.015h.046c.03 0 .06-.15.09-.015.03 0 .061-.15.11-.015.03 0 .077-.15.11-.015h.764c.23.02.443.3.66.75.43.076.84.21 1.21.394.37.182.7.393.98.636l.46.05.46.05c.03.3.06.61.11.091l.92.09.091.09c.123.12.23.26.336.39.199.26.367.52.49.77.14.02.014.03.3.05.15.02.015.3.02.045l.046.9.05.92.05.09c.46.12.92.23.123.33.6.17.107.32.137.46.15.05.061.9.12.075a.104 .1 0 0 0 .11 -.106c.092-.227.09-.393.08-.575z26:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"800px","height":"800px","viewBox":"0 0 16 16","xmlns":"http://www.w3.org/2000/svg","fill":"none","children":[["$","path",null,{"fill":"url(#grafana_gradient__S_1_)","d":"$a2"}],"$La3"]}]}],"$La4"]}]
+27:["$","$La5",null,{"children":"Interagissez avec les tableaux de bord, les alertes et les annotations Grafana"}]
+2c:["$","td",null,{"children":"string"}]
+2d:["$","td",null,{"children":"Non"}]
+2e:["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]
+2f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID du tableau de bord à récupérer"}]]}]
+30:["$","$L2b",null,{"as":"h4","id":"sortie","children":"Sortie"}]
+31:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboard"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"L'objet JSON complet du tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"meta"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Métadonnées du tableau de bord (version, permissions, etc.)"}]]}]]}]]}]}]
+32:["$","$L2b",null,{"as":"h3","id":"grafana_list_dashboards","children":["$","code",null,{"children":"grafana_list_dashboards"}]}]
+33:["$","p",null,{"children":"Rechercher et lister tous les tableaux de bord"}]
+34:["$","$L2b",null,{"as":"h4","id":"entrée-1","children":"Entrée"}]
+35:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Requête de recherche pour filtrer les tableaux de bord par titre"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tag"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par tag (séparés par des virgules pour plusieurs tags)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ID de dossier (séparés par des virgules)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starred"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Renvoyer uniquement les tableaux de bord favoris"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre maximum de tableaux de bord à renvoyer"}]]}]]}]]}]}]
+36:["$","$L2b",null,{"as":"h4","id":"sortie-1","children":"Sortie"}]
+37:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboards"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des résultats de recherche de tableaux de bord"}]]}]}]]}]}]
+38:["$","$L2b",null,{"as":"h3","id":"grafana_create_dashboard","children":["$","code",null,{"children":"grafana_create_dashboard"}]}]
+39:["$","p",null,{"children":"Créer un nouveau tableau de bord"}]
+3a:["$","$L2b",null,{"as":"h4","id":"entrée-2","children":"Entrée"}]
+3b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le titre du nouveau tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'UID du dossier dans lequel créer le tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de tags séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timezone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Fuseau horaire du tableau de bord (ex., browser, utc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Intervalle d'actualisation automatique (ex., 5s, 1m, 5m)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau JSON des configurations de panneaux"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"overwrite"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Écraser le tableau de bord existant avec le même titre"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Message de commit pour la version du tableau de bord"}]]}]]}]]}]}]
+3c:["$","$L2b",null,{"as":"h4","id":"sortie-2","children":"Sortie"}]
+3d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"L'ID numérique du tableau de bord créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"L'UID du tableau de bord créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le chemin d'URL vers le tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Statut de l'opération (success)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Le numéro de version du tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Slug convivial pour l'URL du tableau de bord"}]]}]]}]]}]}]
+3e:["$","$L2b",null,{"as":"h3","id":"grafana_update_dashboard","children":["$","code",null,{"children":"grafana_update_dashboard"}]}]
+3f:["$","p",null,{"children":"Mettre à jour un tableau de bord existant. Récupère le tableau de bord actuel et fusionne vos modifications."}]
+40:["$","$L2b",null,{"as":"h4","id":"entrée-3","children":"Entrée"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Token de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID du tableau de bord à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau titre pour le tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvel UID de dossier pour déplacer le tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de nouvelles étiquettes séparées par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timezone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Fuseau horaire du tableau de bord (ex. : browser, utc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Intervalle d'actualisation automatique (ex. : 5s, 1m, 5m)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau JSON des configurations de panneaux"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"overwrite"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Écraser même en cas de conflit de version"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Message de commit pour cette version"}]]}]]}]]}]}]
+42:["$","$L2b",null,{"as":"h4","id":"sortie-3","children":"Sortie"}]
+43:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"L'ID numérique du tableau de bord mis à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"L'UID du tableau de bord mis à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le chemin URL vers le tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Statut de l'opération (success)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Le nouveau numéro de version du tableau de bord"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Slug convivial pour URL du tableau de bord"}]]}]]}]]}]}]
+44:["$","$L2b",null,{"as":"h3","id":"grafana_delete_dashboard","children":["$","code",null,{"children":"grafana_delete_dashboard"}]}]
+45:["$","p",null,{"children":"Supprimer un tableau de bord par son UID"}]
+46:["$","$L2b",null,{"as":"h4","id":"entrée-4","children":"Entrée"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Token de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID du tableau de bord à supprimer"}]]}]]}]]}]}]
+48:["$","$L2b",null,{"as":"h4","id":"sortie-4","children":"Sortie"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le titre du tableau de bord supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Message de confirmation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"L'ID du tableau de bord supprimé"}]]}]]}]]}]}]
+4a:["$","$L2b",null,{"as":"h3","id":"grafana_list_alert_rules","children":["$","code",null,{"children":"grafana_list_alert_rules"}]}]
+4b:["$","p",null,{"children":"Lister toutes les règles d'alerte dans l'instance Grafana"}]
+4c:["$","$L2b",null,{"as":"h4","id":"entrée-5","children":"Entrée"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Token de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}]]}]]}]}]
+4e:["$","$L2b",null,{"as":"h4","id":"sortie-5","children":"Sortie"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rules"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des règles d'alerte"}]]}]}]]}]}]
+50:["$","$L2b",null,{"as":"h3","id":"grafana_get_alert_rule","children":["$","code",null,{"children":"grafana_get_alert_rule"}]}]
+51:["$","p",null,{"children":"Obtenir une règle d'alerte spécifique par son UID"}]
+52:["$","$L2b",null,{"as":"h4","id":"entrée-6","children":"Entrée"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alertRuleUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID de la règle d'alerte à récupérer"}]]}]]}]]}]}]
+54:["$","$L2b",null,{"as":"h4","id":"sortie-6","children":"Sortie"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"UID de la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Titre de la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Condition d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Données de requête de la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUID"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"UID du dossier parent"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom du groupe de règles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État lorsqu'aucune donnée n'est retournée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État en cas d'erreur d'exécution"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Annotations d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Étiquettes d'alerte"}]]}]]}]]}]}]
+56:["$","$L2b",null,{"as":"h3","id":"grafana_create_alert_rule","children":["$","code",null,{"children":"grafana_create_alert_rule"}]}]
+57:["$","p",null,{"children":"Créer une nouvelle règle d'alerte"}]
+58:["$","$L2b",null,{"as":"h4","id":"entrée-7","children":"Entrée"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le titre de la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID du dossier dans lequel créer l'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le nom du groupe de règles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le refId de la requête ou de l'expression à utiliser comme condition d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Tableau JSON d'objets de données de requête/expression"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"forDuration"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Durée d'attente avant déclenchement (ex., 5m, 1h)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"État lorsqu'aucune donnée n'est retournée (NoData, Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"État en cas d'erreur d'exécution (Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Objet JSON d'annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Objet JSON d'étiquettes"}]]}]]}]]}]}]
+5a:["$","$L2b",null,{"as":"h4","id":"sortie-7","children":"Sortie"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"L'UID de la règle d'alerte créée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Titre de la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUID"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"UID du dossier parent"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom du groupe de règles"}]]}]]}]]}]}]
+5c:["$","$L2b",null,{"as":"h3","id":"grafana_update_alert_rule","children":["$","code",null,{"children":"grafana_update_alert_rule"}]}]
+5d:["$","p",null,{"children":"Mettre à jour une règle d'alerte existante. Récupère la règle actuelle et fusionne vos modifications."}]
+5e:["$","$L2b",null,{"as":"h4","id":"entrée-8","children":"Entrée"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alertRuleUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID de la règle d'alerte à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau titre pour la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvel UID de dossier pour déplacer l'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau nom du groupe de règles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle référence de condition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau tableau JSON d'objets de données de requête/expression"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"forDuration"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Durée d'attente avant déclenchement (ex. : 5m, 1h)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"État en l'absence de données (NoData, Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"État en cas d'erreur d'exécution (Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Objet JSON d'annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Objet JSON d'étiquettes"}]]}]]}]]}]}]
+60:["$","$L2b",null,{"as":"h4","id":"sortie-8","children":"Sortie"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"L'UID de la règle d'alerte mise à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Titre de la règle d'alerte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUID"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"UID du dossier parent"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom du groupe de règles"}]]}]]}]]}]}]
+62:["$","$L2b",null,{"as":"h3","id":"grafana_delete_alert_rule","children":["$","code",null,{"children":"grafana_delete_alert_rule"}]}]
+63:["$","p",null,{"children":"Supprimer une règle d'alerte par son UID"}]
+64:["$","$L2b",null,{"as":"h4","id":"entrée-9","children":"Entrée"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (par ex., ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alertRuleUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'UID de la règle d'alerte à supprimer"}]]}]]}]]}]}]
+66:["$","$L2b",null,{"as":"h4","id":"sortie-9","children":"Sortie"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Message de confirmation"}]]}]}]]}]}]
+68:["$","$L2b",null,{"as":"h3","id":"grafana_list_contact_points","children":["$","code",null,{"children":"grafana_list_contact_points"}]}]
+69:["$","p",null,{"children":"Lister tous les points de contact de notification d'alerte"}]
+6a:["$","$L2b",null,{"as":"h4","id":"entrée-10","children":"Entrée"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (par ex., ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}]]}]]}]}]
+6c:["$","$L2b",null,{"as":"h4","id":"sortie-10","children":"Sortie"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactPoints"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des points de contact"}]]}]}]]}]}]
+6e:["$","$L2b",null,{"as":"h3","id":"grafana_create_annotation","children":["$","code",null,{"children":"grafana_create_annotation"}]}]
+6f:["$","p",null,{"children":"Créer une annotation sur un tableau de bord ou comme annotation globale"}]
+70:["$","$L2b",null,{"as":"h4","id":"entrée-11","children":"Entrée"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le contenu textuel de l'annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste d'étiquettes séparées par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"UID du tableau de bord auquel ajouter l'annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panelId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du panneau auquel ajouter l'annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"time"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Heure de début en millisecondes d'époque (par défaut : maintenant)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeEnd"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Heure de fin en millisecondes d'époque (pour les annotations de plage)"}]]}]]}]]}]}]
+72:["$","$L2b",null,{"as":"h4","id":"sortie-11","children":"Sortie"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"L'ID de l'annotation créée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Message de confirmation"}]]}]]}]]}]}]
+74:["$","$L2b",null,{"as":"h3","id":"grafana_list_annotations","children":["$","code",null,{"children":"grafana_list_annotations"}]}]
+75:["$","p",null,{"children":"Interroger les annotations par plage de temps, tableau de bord ou tags"}]
+76:["$","$L2b",null,{"as":"h4","id":"entrée-12","children":"Entrée"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Heure de début en millisecondes d'époque"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Heure de fin en millisecondes d'époque"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"UID du tableau de bord pour interroger les annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panelId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ID de panneau"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste d'étiquettes séparées par des virgules pour filtrer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par type (alerte ou annotation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre maximum d'annotations à retourner"}]]}]]}]]}]}]
+78:["$","$L2b",null,{"as":"h4","id":"sortie-12","children":"Sortie"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des annotations"}]]}]}]]}]}]
+7a:["$","$L2b",null,{"as":"h3","id":"grafana_update_annotation","children":["$","code",null,{"children":"grafana_update_annotation"}]}]
+7b:["$","p",null,{"children":"Mettre à jour une annotation existante"}]
+7c:["$","$L2b",null,{"as":"h4","id":"entrée-13","children":"Entrée"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotationId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'annotation à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Nouveau contenu textuel pour l'annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de nouvelles balises séparées par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"time"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle heure de début en millisecondes d'époque"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeEnd"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle heure de fin en millisecondes d'époque"}]]}]]}]]}]}]
+7e:["$","$L2b",null,{"as":"h4","id":"sortie-13","children":"Sortie"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"L'ID de l'annotation mise à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Message de confirmation"}]]}]]}]]}]}]
+80:["$","$L2b",null,{"as":"h3","id":"grafana_delete_annotation","children":["$","code",null,{"children":"grafana_delete_annotation"}]}]
+81:["$","p",null,{"children":"Supprimer une annotation par son ID"}]
+82:["$","$L2b",null,{"as":"h4","id":"entrée-14","children":"Entrée"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotationId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'annotation à supprimer"}]]}]]}]]}]}]
+84:["$","$L2b",null,{"as":"h4","id":"sortie-14","children":"Sortie"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Message de confirmation"}]]}]}]]}]}]
+86:["$","$L2b",null,{"as":"h3","id":"grafana_list_data_sources","children":["$","code",null,{"children":"grafana_list_data_sources"}]}]
+87:["$","p",null,{"children":"Lister toutes les sources de données configurées dans Grafana"}]
+88:["$","$L2b",null,{"as":"h4","id":"entrée-15","children":"Entrée"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}]]}]]}]}]
+8a:["$","$L2b",null,{"as":"h4","id":"sortie-15","children":"Sortie"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dataSources"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des sources de données"}]]}]}]]}]}]
+8c:["$","$L2b",null,{"as":"h3","id":"grafana_get_data_source","children":["$","code",null,{"children":"grafana_get_data_source"}]}]
+8d:["$","p",null,{"children":"Obtenir une source de données par son ID ou UID"}]
+8e:["$","$L2b",null,{"as":"h4","id":"entrée-16","children":"Entrée"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex. : ",["$","$L2a",null,{"href":"https://your-grafana.com","children":"https://your-grafana.com"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dataSourceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID ou l'UID de la source de données à récupérer"}]]}]]}]]}]}]
+90:["$","$L2b",null,{"as":"h4","id":"sortie-16","children":"Sortie"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"ID de la source de données"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"UID de la source de données"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de la source de données"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type de source de données"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL de connexion de la source de données"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de la base de données (si applicable)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isDefault"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si c'est la source de données par défaut"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jsonData"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Configuration supplémentaire de la source de données"}]]}]]}]]}]}]
+92:["$","$L2b",null,{"as":"h3","id":"grafana_list_folders","children":["$","code",null,{"children":"grafana_list_folders"}]}]
+93:["$","p",null,{"children":"Lister tous les dossiers dans Grafana"}]
+94:["$","$L2b",null,{"as":"h4","id":"entrée-17","children":"Entrée"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre maximum de dossiers à retourner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}]]}]]}]}]
+96:["$","$L2b",null,{"as":"h4","id":"sortie-17","children":"Sortie"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folders"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Liste des dossiers"}]]}]}]]}]}]
+98:["$","$L2b",null,{"as":"h3","id":"grafana_create_folder","children":["$","code",null,{"children":"grafana_create_folder"}]}]
+99:["$","p",null,{"children":"Créer un nouveau dossier dans Grafana"}]
+9a:["$","$L2b",null,{"as":"h4","id":"entrée-18","children":"Entrée"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Jeton de compte de service Grafana"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["URL de l'instance Grafana (ex., ",["$","$L2a",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'organisation pour les instances Grafana multi-organisations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le titre du nouveau dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"UID optionnel pour le dossier (généré automatiquement si non fourni)"}]]}]]}]]}]}]
+9c:["$","$L2b",null,{"as":"h4","id":"sortie-18","children":"Sortie"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"L'identifiant numérique du dossier créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"L'UID du dossier créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le titre du dossier créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le chemin URL vers le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasAcl"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si le dossier possède des permissions ACL personnalisées"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canSave"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si l'utilisateur actuel peut enregistrer le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canEdit"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si l'utilisateur actuel peut modifier le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canAdmin"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si l'utilisateur actuel a des droits d'administrateur sur le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canDelete"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si l'utilisateur actuel peut supprimer le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom d'utilisateur de la personne qui a créé le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Horodatage de la création du dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom d'utilisateur de la personne qui a dernièrement mis à jour le dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Horodatage de la dernière mise à jour du dossier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Numéro de version du dossier"}]]}]]}]]}]}]
+a0:null
+a3:["$","defs",null,{"children":["$","linearGradient",null,{"id":"grafana_gradient__S_1_","x1":"7.5","x2":"7.5","y1":"18.14","y2":"5.36","gradientUnits":"userSpaceOnUse","children":[["$","stop",null,{"stopColor":"#FFF200"}],["$","stop",null,{"offset":"1","stopColor":"#F15A29"}]]}]}]
+a4:["$","$La6",null,{"className":"mb-0 min-w-0 flex-1","children":"Grafana"}]

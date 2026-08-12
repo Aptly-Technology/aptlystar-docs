@@ -1,0 +1,608 @@
+1:"$Sreact.fragment"
+3:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+4:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+f:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+10:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+11:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+12:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+13:I[109190,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"ShikiConfigProvider"]
+14:I[409460,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"ApiProviderLazy"]
+15:I[409460,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"ServerProviderLazy"]
+16:I[776617,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"UsageTabsProviderLazy"]
+17:I[637455,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"SelectTabs"]
+18:I[637455,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"SelectTab"]
+1a:I[854971,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"SchemaUILazy"]
+1d:I[911117,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"ResponseSection"]
+21:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[725592,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Accordions"]
+25:I[725592,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"AccordionItem"]
+26:I[725592,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"AccordionHeader"]
+27:I[725592,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"AccordionTrigger"]
+28:I[725592,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"AccordionContent"]
+31:I[776617,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"UsageTabsSelectorLazy"]
+32:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlockTabs"]
+33:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlockTabsList"]
+34:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlockTabsTrigger"]
+35:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlockTab"]
+36:I[776617,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"UsageTabLazy"]
+37:I[213758,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Tabs"]
+3c:I[637455,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CopyTypeScriptPanel"]
+42:I[213758,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Tab"]
+79:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlock"]
+7a:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Pre"]
+2:T4a4,{"@context":"https://schema.org","@type":"TechArticle","headline":"Get Paused Execution","description":"Get detailed information about a specific paused execution, including its pause points, execution snapshot, and resume queue. Use this to inspect the state before resuming.","url":"https://aptly-technology.github.io/aptlystar-docs/es/api-reference/human-in-the-loop/getPausedExecution","author":{"@type":"Organization","name":"Aptly Technology Corporation","url":"https://aptly-technology.github.io/aptlystar-docs"},"publisher":{"@type":"Organization","name":"AptlyStar","url":"https://aptly-technology.github.io/aptlystar-docs","logo":{"@type":"ImageObject","url":"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://aptly-technology.github.io/aptlystar-docs/es/api-reference/human-in-the-loop/getPausedExecution"},"inLanguage":"es","isPartOf":{"@type":"WebSite","name":"AptlyStar Documentation","url":"https://aptly-technology.github.io/aptlystar-docs"},"potentialAction":{"@type":"ReadAction","target":"https://aptly-technology.github.io/aptlystar-docs/es/api-reference/human-in-the-loop/getPausedExecution"}}5:T11a9,# Get Paused Execution
+
+`GET /api/workflows/{id}/paused/{executionId}`
+
+## Description
+Get detailed information about a specific paused execution, including its pause points, execution snapshot, and resume queue. Use this to inspect the state before resuming.
+
+## Parameters
+
+- **id** (path) (required) — `string`: The unique identifier of the workflow.
+
+- **executionId** (path) (required) — `string`: The execution ID of the paused execution.
+
+## Responses
+
+### 200 — Paused execution details.
+
+```json
+{
+  "type": "object",
+  "description": "Detailed information about a paused execution, including the execution snapshot and resume queue.",
+  "allOf": [
+    {
+      "type": "object",
+      "description": "Summary of a paused workflow execution.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the paused execution record."
+        },
+        "workflowId": {
+          "type": "string",
+          "description": "The workflow this execution belongs to."
+        },
+        "executionId": {
+          "type": "string",
+          "description": "The execution that was paused."
+        },
+        "status": {
+          "type": "string",
+          "description": "Current status of the paused execution.",
+          "example": "paused"
+        },
+        "totalPauseCount": {
+          "type": "integer",
+          "description": "Total number of pause points in this execution."
+        },
+        "resumedCount": {
+          "type": "integer",
+          "description": "Number of pause points that have been resumed."
+        },
+        "pausedAt": {
+          "type": "string",
+          "format": "date-time",
+          "nullable": true,
+          "description": "When the execution was paused."
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "nullable": true,
+          "description": "When the paused execution record was last updated."
+        },
+        "expiresAt": {
+          "type": "string",
+          "format": "date-time",
+          "nullable": true,
+          "description": "When the paused execution will expire and be cleaned up."
+        },
+        "metadata": {
+          "type": "object",
+          "nullable": true,
+          "description": "Additional metadata associated with the paused execution.",
+          "additionalProperties": true
+        },
+        "triggerIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "IDs of triggers that initiated the original execution."
+        },
+        "pausePoints": {
+          "type": "array",
+          "items": {
+            "$ref": "#/components/schemas/PausePoint"
+          },
+          "description": "List of pause points in the execution."
+        }
+      }
+    },
+    {
+      "type": "object",
+      "properties": {
+        "executionSnapshot": {
+          "type": "object",
+          "description": "Serialized execution state for resumption.",
+          "properties": {
+            "snapshot": {
+              "type": "string",
+              "description": "Serialized execution snapshot data."
+            },
+            "triggerIds": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Trigger IDs from the snapshot."
+            }
+          }
+        },
+        "queue": {
+          "type": "array",
+          "items": {
+            "$ref": "#/components/schemas/ResumeQueueEntry"
+          },
+          "description": "Resume queue entries for this execution."
+        }
+      }
+    }
+  ]
+}
+```
+
+### 401 — Invalid or missing API key. Ensure the X-API-Key header is set with a valid key.
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "error": {
+      "type": "string",
+      "description": "Human-readable error message."
+    }
+  }
+}
+```
+
+### 403 — Access denied. You do not have permission to access this resource. For audit log endpoints, this requires an Enterprise subscription and organization admin/owner role.
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "error": {
+      "type": "string",
+      "description": "Human-readable error message."
+    }
+  }
+}
+```
+
+### 404 — The requested resource was not found. Verify the ID is correct and belongs to your workspace.
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "error": {
+      "type": "string",
+      "description": "Human-readable error message."
+    }
+  }
+}
+```0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Api Reference\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/api-reference\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Human In The Loop\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/api-reference/human-in-the-loop\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Get Paused Execution\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/api-reference/human-in-the-loop/getPausedExecution\"}]}"}}],false],["$","$L3",null,{"toc":[],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":false},"tableOfContentPopover":{"style":"clerk","enabled":false},"footer":{"enabled":true,"component":null},"children":[["$","div",null,{"className":"api-page-header relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L4",null,{"content":"$5"}]}],"$L6"]}],"$L7","$L8"]}],"$L9"]}]],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+6:["$","$Lf",null,{}]
+7:["$","$L10",null,{"className":"mb-2","children":"Get Paused Execution"}]
+8:["$","$L11",null,{"children":"Get detailed information about a specific paused execution, including its pause points, execution snapshot, and resume queue. Use this to inspect the state before resuming."}]
+9:["$","$L12",null,{"children":["$","$L13",null,{"children":["$","$L14",null,{"client":{},"children":["$","$L15",null,{"servers":[{"url":"https://www.aptlystar.ai","description":"Production"}],"children":["$","div",null,{"className":"flex flex-col gap-24 text-sm @container","children":[[["$","$L16","/api/workflows/{id}/paused/{executionId}:get",{"route":"/api/workflows/{id}/paused/{executionId}","examples":[{"id":"_default","name":"Default","data":{"path":{"id":"wf_1a2b3c4d5e","executionId":"exec_9f8e7d6c5b"},"cookie":{},"header":{},"query":{},"method":"GET"},"encoded":{"method":"GET","cookie":{},"header":{},"path":{"id":{"value":"wf_1a2b3c4d5e"},"executionId":{"value":"exec_9f8e7d6c5b"}},"query":{}}}],"children":["$","div",null,{"className":"flex @4xl:flex-row flex-col @4xl:items-start gap-x-6 gap-y-4","children":[["$","div",null,{"className":"min-w-0 flex-1","children":[null,["$","div",null,{"className":"flex flex-row items-center gap-2.5 p-3 rounded-xl border bg-fd-card text-fd-card-foreground not-prose","children":[["$","span",null,{"className":"font-mono font-medium text-green-600 dark:text-green-400 text-xs","children":"GET"}],["$","code",null,{"className":"flex-1 overflow-auto text-nowrap text-[0.8125rem] text-fd-muted-foreground","children":"/api/workflows/{id}/paused/{executionId}"}]]}],["$","div",null,{"className":"api-section-divider","children":["$","$L17",null,{"defaultValue":"0","children":[["$","div",null,{"className":"flex items-start justify-between gap-2 mt-10","children":[["$","h2","authorization",{"className":"flex scroll-m-28 flex-row items-center gap-2 my-0!","id":"authorization","children":[["$","a",null,{"data-card":"","href":"#authorization","className":"peer","children":"Authorization"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-link size-3.5 shrink-0 text-fd-muted-foreground opacity-0 transition-opacity peer-hover:opacity-100","aria-hidden":true,"children":[["$","path","1cjeqo",{"d":"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"}],["$","path","19qd67",{"d":"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"}],"$undefined"]}]]}],["$","div",null,{"className":"not-prose","children":["$","div",null,{"className":"flex flex-col text-xs min-w-0","children":[["$","code","apiKey",{"className":"truncate","children":[["$","span",null,{"className":"font-medium","children":"apiKey"}]," ",false]}]]}]}]]}],[["$","$L18","0",{"value":"0","children":[["$","div","apiKey",{"className":"text-sm border-t my-4 first:border-t-0","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-3 not-prose","children":[["$","span",null,{"className":"font-medium font-mono text-fd-primary","children":"X-API-Key"}],["$","span",null,{"className":"text-sm font-mono text-fd-muted-foreground","children":"<token>"}],false]}],["$","div",null,{"className":"prose-no-margin pt-2.5 empty:hidden","children":[["$@19",["$","p",null,{"children":["In: ",["$","code",null,{"children":"header"}]]}]],false]}]]}]]}]]]}]}],[["$","$1","path",{"children":[["$","h2","path-parameters",{"className":"flex scroll-m-28 flex-row items-center gap-2","id":"path-parameters","children":[["$","a",null,{"data-card":"","href":"#path-parameters","className":"peer","children":"Path Parameters"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-link size-3.5 shrink-0 text-fd-muted-foreground opacity-0 transition-opacity peer-hover:opacity-100","aria-hidden":true,"children":[["$","path","1cjeqo",{"d":"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"}],["$","path","19qd67",{"d":"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"}],"$undefined"]}]]}],["$","div",null,{"className":"flex flex-col","children":[["$","$L1a","id",{"name":"id","required":true,"generated":{"refs":{"__0":{"type":"primitive","description":"$@1b","infoTags":[],"typeName":"string","aliasName":"string","deprecated":false}},"$root":"__0"}}],["$","$L1a","executionId",{"name":"executionId","required":true,"generated":{"refs":{"__0":{"type":"primitive","description":"$@1c","infoTags":[],"typeName":"string","aliasName":"string","deprecated":false}},"$root":"__0"}}]]}]]}],"$undefined","$undefined","$undefined"],null,["$","$L1d",null,{"children":["$L1e","$L1f"]}],null]}],"$L20"]}]}]],"$undefined"]}]}]}]}]}]
+a:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+b:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+c:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+d:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+e:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+19:[["$","p","p-0",{"children":"Your Aptlystar API key (personal or workspace). Generate one from the Aptlystar dashboard under Settings > API Keys."}]]
+1b:[["$","p","p-0",{"children":"The unique identifier of the workflow."}]]
+1c:[["$","p","p-0",{"children":"The execution ID of the paused execution."}]]
+1e:["$","h2","response-body",{"className":"flex scroll-m-28 flex-row items-center gap-2","id":"response-body","children":[["$","a",null,{"data-card":"","href":"#response-body","className":"peer","children":"Response Body"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-link size-3.5 shrink-0 text-fd-muted-foreground opacity-0 transition-opacity peer-hover:opacity-100","aria-hidden":true,"children":[["$","path","1cjeqo",{"d":"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"}],["$","path","19qd67",{"d":"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"}],"$undefined"]}]]}]
+1f:["$","$L24",null,{"type":"multiple","children":[["$","$L17","200",{"defaultValue":"application/json","children":["$","$L25",null,{"value":"200","children":[["$","$L26",null,{"children":[["$","$L27",null,{"className":"font-mono","children":"200"}],["$","p",null,{"className":"text-fd-muted-foreground not-prose","children":["$","code",null,{"className":"text-xs","children":"application/json"}]}]]}],["$","$L28",null,{"className":"ps-4.5","children":[["$","div",null,{"className":"prose-no-margin mb-2","children":"$@29"}],["$@2a"]]}]]}]}],["$","$L17","401",{"defaultValue":"application/json","children":["$","$L25",null,{"value":"401","children":[["$","$L26",null,{"children":[["$","$L27",null,{"className":"font-mono","children":"401"}],["$","p",null,{"className":"text-fd-muted-foreground not-prose","children":["$","code",null,{"className":"text-xs","children":"application/json"}]}]]}],["$","$L28",null,{"className":"ps-4.5","children":[["$","div",null,{"className":"prose-no-margin mb-2","children":"$@2b"}],["$@2c"]]}]]}]}],["$","$L17","403",{"defaultValue":"application/json","children":["$","$L25",null,{"value":"403","children":[["$","$L26",null,{"children":[["$","$L27",null,{"className":"font-mono","children":"403"}],["$","p",null,{"className":"text-fd-muted-foreground not-prose","children":["$","code",null,{"className":"text-xs","children":"application/json"}]}]]}],["$","$L28",null,{"className":"ps-4.5","children":[["$","div",null,{"className":"prose-no-margin mb-2","children":"$@2d"}],["$@2e"]]}]]}]}],["$","$L17","404",{"defaultValue":"application/json","children":["$","$L25",null,{"value":"404","children":[["$","$L26",null,{"children":[["$","$L27",null,{"className":"font-mono","children":"404"}],["$","p",null,{"className":"text-fd-muted-foreground not-prose","children":["$","code",null,{"className":"text-xs","children":"application/json"}]}]]}],["$","$L28",null,{"className":"ps-4.5","children":[["$","div",null,{"className":"prose-no-margin mb-2","children":"$@2f"}],["$@30"]]}]]}]}]]}]
+20:["$","div",null,{"className":"@4xl:sticky @4xl:top-[calc(var(--fd-docs-row-1,2rem)+1rem)] @4xl:w-[400px]","children":["$","div",null,{"className":"prose-no-margin","children":[["$","$L31",null,{}],["$","$L32",null,{"groupId":"fumadocs_openapi_requests","defaultValue":"curl","children":[["$","$L33",null,{"children":[["$","$L34","curl",{"value":"curl","children":"cURL"}],["$","$L34","js",{"value":"js","children":"JavaScript"}],["$","$L34","go",{"value":"go","children":"Go"}],["$","$L34","python",{"value":"python","children":"Python"}],["$","$L34","java",{"value":"java","children":"Java"}],["$","$L34","csharp",{"value":"csharp","children":"C#"}]]}],[["$","$L35","curl",{"value":"curl","children":["$","$L36",null,{"id":"curl","lang":"bash","_client":{"generate":"curl -X GET \\\n  \"https://www.aptlystar.ai/api/workflows/{id}/paused/{executionId}\" \\\n  -H \"X-API-Key: YOUR_API_KEY\""}}]}],["$","$L35","js",{"value":"js","children":["$","$L36",null,{"id":"js","lang":"js"}]}],["$","$L35","go",{"value":"go","children":["$","$L36",null,{"id":"go","lang":"go"}]}],["$","$L35","python",{"value":"python","children":["$","$L36",null,{"id":"python","lang":"python"}]}],["$","$L35","java",{"value":"java","children":["$","$L36",null,{"id":"java","lang":"java"}]}],["$","$L35","csharp",{"value":"csharp","children":["$","$L36",null,{"id":"csharp","lang":"csharp"}]}]]]}],["$","$L37",null,{"groupId":"fumadocs_openapi_responses","items":["200","401","403","404"],"children":["$@38","$@39","$@3a","$@3b"]}]]}]}]
+23:null
+29:[["$","p","p-0",{"children":"Paused execution details."}]]
+3d:T12a4,/**
+ * Detailed information about a paused execution, including the execution snapshot and resume queue.
+ */
+export type Response = ({
+/**
+ * Unique identifier for the paused execution record.
+ */
+id?: string
+/**
+ * The workflow this execution belongs to.
+ */
+workflowId?: string
+/**
+ * The execution that was paused.
+ */
+executionId?: string
+/**
+ * Current status of the paused execution.
+ */
+status?: string
+/**
+ * Total number of pause points in this execution.
+ */
+totalPauseCount?: number
+/**
+ * Number of pause points that have been resumed.
+ */
+resumedCount?: number
+/**
+ * When the execution was paused.
+ */
+pausedAt?: (string | null)
+/**
+ * When the paused execution record was last updated.
+ */
+updatedAt?: (string | null)
+/**
+ * When the paused execution will expire and be cleaned up.
+ */
+expiresAt?: (string | null)
+/**
+ * Additional metadata associated with the paused execution.
+ */
+metadata?: ({
+[k: string]: unknown
+} | null)
+/**
+ * IDs of triggers that initiated the original execution.
+ */
+triggerIds?: string[]
+/**
+ * List of pause points in the execution.
+ */
+pausePoints?: {
+/**
+ * Unique identifier for this pause context. Used when resuming execution.
+ */
+contextId?: string
+/**
+ * The block ID where execution paused.
+ */
+blockId?: string
+/**
+ * Data returned by the block before pausing, including display data and form fields.
+ */
+response?: {
+[k: string]: unknown
+}
+/**
+ * When this pause point was registered.
+ */
+registeredAt?: string
+/**
+ * Current status of this pause point.
+ */
+resumeStatus?: ("paused" | "resumed" | "failed" | "queued" | "resuming")
+/**
+ * Whether the execution snapshot is ready for resumption.
+ */
+snapshotReady?: boolean
+/**
+ * Links for resuming this pause point.
+ */
+resumeLinks?: {
+/**
+ * API endpoint URL to POST resume input to.
+ */
+apiUrl?: string
+/**
+ * UI URL for a human to review and approve.
+ */
+uiUrl?: string
+/**
+ * The context ID for this pause point.
+ */
+contextId?: string
+/**
+ * The execution ID.
+ */
+executionId?: string
+/**
+ * The workflow ID.
+ */
+workflowId?: string
+}
+/**
+ * Position in the resume queue, if queued.
+ */
+queuePosition?: (number | null)
+/**
+ * The most recent resume queue entry for this pause point.
+ */
+latestResumeEntry?: ({
+/**
+ * Unique identifier for this queue entry.
+ */
+id?: string
+/**
+ * The paused execution this entry belongs to.
+ */
+pausedExecutionId?: string
+/**
+ * The original execution that was paused.
+ */
+parentExecutionId?: string
+/**
+ * The new execution ID created for the resume.
+ */
+newExecutionId?: string
+/**
+ * The pause context ID being resumed.
+ */
+contextId?: string
+/**
+ * The input provided when resuming.
+ */
+resumeInput?: {
+[k: string]: unknown
+}
+/**
+ * Status of this queue entry (e.g., pending, claimed, completed, failed).
+ */
+status?: string
+/**
+ * When the entry was added to the queue.
+ */
+queuedAt?: (string | null)
+/**
+ * When execution started processing this entry.
+ */
+claimedAt?: (string | null)
+/**
+ * When execution completed.
+ */
+completedAt?: (string | null)
+/**
+ * Reason for failure, if the resume failed.
+ */
+failureReason?: (string | null)
+} | null)
+/**
+ * Scope information when the pause occurs inside a parallel branch.
+ */
+parallelScope?: {
+/**
+ * Identifier of the parallel execution group.
+ */
+parallelId?: string
+/**
+ * Index of the branch within the parallel group.
+ */
+branchIndex?: number
+/**
+ * Total number of branches in the parallel group.
+ */
+branchTotal?: number
+}
+/**
+ * Scope information when the pause occurs inside a loop.
+ */
+loopScope?: {
+/**
+ * Identifier of the loop.
+ */
+loopId?: string
+/**
+ * Current loop iteration number.
+ */
+iteration?: number
+}
+}[]
+} & {
+/**
+ * Serialized execution state for resumption.
+ */
+executionSnapshot?: {
+/**
+ * Serialized execution snapshot data.
+ */
+snapshot?: string
+/**
+ * Trigger IDs from the snapshot.
+ */
+triggerIds?: string[]
+}
+/**
+ * Resume queue entries for this execution.
+ */
+queue?: {
+/**
+ * Unique identifier for this queue entry.
+ */
+id?: string
+/**
+ * The paused execution this entry belongs to.
+ */
+pausedExecutionId?: string
+/**
+ * The original execution that was paused.
+ */
+parentExecutionId?: string
+/**
+ * The new execution ID created for the resume.
+ */
+newExecutionId?: string
+/**
+ * The pause context ID being resumed.
+ */
+contextId?: string
+/**
+ * The input provided when resuming.
+ */
+resumeInput?: {
+[k: string]: unknown
+}
+/**
+ * Status of this queue entry (e.g., pending, claimed, completed, failed).
+ */
+status?: string
+/**
+ * When the entry was added to the queue.
+ */
+queuedAt?: (string | null)
+/**
+ * When execution started processing this entry.
+ */
+claimedAt?: (string | null)
+/**
+ * When execution completed.
+ */
+completedAt?: (string | null)
+/**
+ * Reason for failure, if the resume failed.
+ */
+failureReason?: (string | null)
+}[]
+})
+2a:["$","$L18","application/json",{"value":"application/json","className":"mb-2","children":[["$","$L3c",null,{"name":"response body","code":"$3d"}],"$L3e"]}]
+2b:[["$","p","p-0",{"children":"Invalid or missing API key. Ensure the X-API-Key header is set with a valid key."}]]
+2c:["$","$L18","application/json",{"value":"application/json","className":"mb-2","children":[["$","$L3c",null,{"name":"response body","code":"export interface Response {\n/**\n * Human-readable error message.\n */\nerror?: string\n}\n"}],["$","div",null,{"className":"border px-3 py-2 rounded-lg","children":["$","$L1a",null,{"name":"response","as":"body","generated":{"refs":{"__0":{"type":"object","props":[{"$type":"__1","name":"error","required":false}],"infoTags":[],"typeName":"object","aliasName":"object"},"__1":{"type":"primitive","description":"$@3f","infoTags":[],"typeName":"string","aliasName":"string"}},"$root":"__0"}}]}]]}]
+2d:[["$","p","p-0",{"children":"Access denied. You do not have permission to access this resource. For audit log endpoints, this requires an Enterprise subscription and organization admin/owner role."}]]
+2e:["$","$L18","application/json",{"value":"application/json","className":"mb-2","children":[["$","$L3c",null,{"name":"response body","code":"export interface Response {\n/**\n * Human-readable error message.\n */\nerror?: string\n}\n"}],["$","div",null,{"className":"border px-3 py-2 rounded-lg","children":["$","$L1a",null,{"name":"response","as":"body","generated":{"refs":{"__0":{"type":"object","props":[{"$type":"__1","name":"error","required":false}],"infoTags":[],"typeName":"object","aliasName":"object"},"__1":{"type":"primitive","description":"$@40","infoTags":[],"typeName":"string","aliasName":"string"}},"$root":"__0"}}]}]]}]
+2f:[["$","p","p-0",{"children":"The requested resource was not found. Verify the ID is correct and belongs to your workspace."}]]
+30:["$","$L18","application/json",{"value":"application/json","className":"mb-2","children":[["$","$L3c",null,{"name":"response body","code":"export interface Response {\n/**\n * Human-readable error message.\n */\nerror?: string\n}\n"}],["$","div",null,{"className":"border px-3 py-2 rounded-lg","children":["$","$L1a",null,{"name":"response","as":"body","generated":{"refs":{"__0":{"type":"object","props":[{"$type":"__1","name":"error","required":false}],"infoTags":[],"typeName":"object","aliasName":"object"},"__1":{"type":"primitive","description":"$@41","infoTags":[],"typeName":"string","aliasName":"string"}},"$root":"__0"}}]}]]}]
+38:["$","$L42",null,{"value":"200","children":["$undefined","$@43"]}]
+39:["$","$L42",null,{"value":"401","children":["$undefined","$@44"]}]
+3a:["$","$L42",null,{"value":"403","children":["$undefined","$@45"]}]
+3b:["$","$L42",null,{"value":"404","children":["$undefined","$@46"]}]
+3e:["$","div",null,{"className":"border px-3 py-2 rounded-lg","children":["$","$L1a",null,{"name":"response","as":"body","generated":{"refs":{"#/components/schemas/PausedExecutionDetail":{"type":"object","props":[{"$type":"__0","name":"id","required":false},{"$type":"__1","name":"workflowId","required":false},{"$type":"__2","name":"executionId","required":false},{"$type":"__3","name":"status","required":false},{"$type":"__4","name":"totalPauseCount","required":false},{"$type":"__5","name":"resumedCount","required":false},{"$type":"__6","name":"pausedAt","required":false},{"$type":"__7","name":"updatedAt","required":false},{"$type":"__8","name":"expiresAt","required":false},{"$type":"__9","name":"metadata","required":false},{"$type":"__10","name":"triggerIds","required":false},{"$type":"__12","name":"pausePoints","required":false},{"$type":"__44","name":"executionSnapshot","required":false},{"$type":"__48","name":"queue","required":false}],"description":"$@47","infoTags":[],"typeName":"object","aliasName":"object"},"__0":{"type":"primitive","description":"$@48","infoTags":[],"typeName":"string","aliasName":"string"},"__1":{"type":"primitive","description":"$@49","infoTags":[],"typeName":"string","aliasName":"string"},"__2":{"type":"primitive","description":"$@4a","infoTags":[],"typeName":"string","aliasName":"string"},"__3":{"type":"primitive","description":"$@4b","infoTags":[],"typeName":"string","aliasName":"string"},"__4":{"type":"primitive","description":"$@4c","infoTags":[],"typeName":"integer","aliasName":"integer"},"__5":{"type":"primitive","description":"$@4d","infoTags":[],"typeName":"integer","aliasName":"integer"},"__6":{"type":"primitive","description":"$@4e","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__7":{"type":"primitive","description":"$@4f","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__8":{"type":"primitive","description":"$@50","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__9":{"type":"object","props":[{"$type":"true","name":"[key: string]","required":false}],"description":"$@51","infoTags":[],"typeName":"object","aliasName":"object"},"true":{"type":"primitive","typeName":"any","aliasName":"any"},"__10":{"type":"array","item":{"$type":"__11"},"description":"$@52","infoTags":[],"typeName":"array<string>","aliasName":"array<string>"},"__11":{"type":"primitive","infoTags":[],"typeName":"string","aliasName":"string"},"__12":{"type":"array","item":{"$type":"#/components/schemas/PausePoint"},"description":"$@53","infoTags":[],"typeName":"array<PausePoint>","aliasName":"array<PausePoint>"},"#/components/schemas/PausePoint":{"type":"object","props":[{"$type":"__13","name":"contextId","required":false},{"$type":"__14","name":"blockId","required":false},{"$type":"__15","name":"response","required":false},{"$type":"__16","name":"registeredAt","required":false},{"$type":"__17","name":"resumeStatus","required":false},{"$type":"__18","name":"snapshotReady","required":false},{"$type":"__19","name":"resumeLinks","required":false},{"$type":"__25","name":"queuePosition","required":false},{"$type":"#/components/schemas/ResumeQueueEntry","name":"latestResumeEntry","required":false},{"$type":"__37","name":"parallelScope","required":false},{"$type":"__41","name":"loopScope","required":false}],"description":"$@54","infoTags":[],"typeName":"object","aliasName":"PausePoint"},"__13":{"type":"primitive","description":"$@55","infoTags":[],"typeName":"string","aliasName":"string"},"__14":{"type":"primitive","description":"$@56","infoTags":[],"typeName":"string","aliasName":"string"},"__15":{"type":"primitive","description":"$@57","infoTags":[],"typeName":"unknown","aliasName":"unknown"},"__16":{"type":"primitive","description":"$@58","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__17":{"type":"primitive","description":"$@59","infoTags":[{"label":"Value in","value":"\"paused\" | \"resumed\" | \"failed\" | \"queued\" | \"resuming\""}],"typeName":"string","aliasName":"string"},"__18":{"type":"primitive","description":"$@5a","infoTags":[],"typeName":"boolean","aliasName":"boolean"},"__19":{"type":"object","props":[{"$type":"__20","name":"apiUrl","required":false},{"$type":"__21","name":"uiUrl","required":false},{"$type":"__22","name":"contextId","required":false},{"$type":"__23","name":"executionId","required":false},{"$type":"__24","name":"workflowId","required":false}],"description":"$@5b","infoTags":[],"typeName":"object","aliasName":"object"},"__20":{"type":"primitive","description":"$@5c","infoTags":[{"label":"Format","value":"uri"}],"typeName":"string","aliasName":"string"},"__21":{"type":"primitive","description":"$@5d","infoTags":[{"label":"Format","value":"uri"}],"typeName":"string","aliasName":"string"},"__22":{"type":"primitive","description":"$@5e","infoTags":[],"typeName":"string","aliasName":"string"},"__23":{"type":"primitive","description":"$@5f","infoTags":[],"typeName":"string","aliasName":"string"},"__24":{"type":"primitive","description":"$@60","infoTags":[],"typeName":"string","aliasName":"string"},"__25":{"type":"primitive","description":"$@61","infoTags":[],"typeName":"integer","aliasName":"integer"},"#/components/schemas/ResumeQueueEntry":{"type":"object","props":[{"$type":"__26","name":"id","required":false},{"$type":"__27","name":"pausedExecutionId","required":false},{"$type":"__28","name":"parentExecutionId","required":false},{"$type":"__29","name":"newExecutionId","required":false},{"$type":"__30","name":"contextId","required":false},{"$type":"__31","name":"resumeInput","required":false},{"$type":"__32","name":"status","required":false},{"$type":"__33","name":"queuedAt","required":false},{"$type":"__34","name":"claimedAt","required":false},{"$type":"__35","name":"completedAt","required":false},{"$type":"__36","name":"failureReason","required":false}],"description":"$@62","infoTags":[],"typeName":"object","aliasName":"ResumeQueueEntry"},"__26":{"type":"primitive","description":"$@63","infoTags":[],"typeName":"string","aliasName":"string"},"__27":{"type":"primitive","description":"$@64","infoTags":[],"typeName":"string","aliasName":"string"},"__28":{"type":"primitive","description":"$@65","infoTags":[],"typeName":"string","aliasName":"string"},"__29":{"type":"primitive","description":"$@66","infoTags":[],"typeName":"string","aliasName":"string"},"__30":{"type":"primitive","description":"$@67","infoTags":[],"typeName":"string","aliasName":"string"},"__31":{"type":"primitive","description":"$@68","infoTags":[],"typeName":"unknown","aliasName":"unknown"},"__32":{"type":"primitive","description":"$@69","infoTags":[],"typeName":"string","aliasName":"string"},"__33":{"type":"primitive","description":"$@6a","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__34":{"type":"primitive","description":"$@6b","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__35":{"type":"primitive","description":"$@6c","infoTags":[{"label":"Format","value":"date-time"}],"typeName":"string","aliasName":"string"},"__36":{"type":"primitive","description":"$@6d","infoTags":[],"typeName":"string","aliasName":"string"},"__37":{"type":"object","props":[{"$type":"__38","name":"parallelId","required":false},{"$type":"__39","name":"branchIndex","required":false},{"$type":"__40","name":"branchTotal","required":false}],"description":"$@6e","infoTags":[],"typeName":"object","aliasName":"object"},"__38":{"type":"primitive","description":"$@6f","infoTags":[],"typeName":"string","aliasName":"string"},"__39":{"type":"primitive","description":"$@70","infoTags":[],"typeName":"integer","aliasName":"integer"},"__40":{"type":"primitive","description":"$@71","infoTags":[],"typeName":"integer","aliasName":"integer"},"__41":{"type":"object","props":[{"$type":"__42","name":"loopId","required":false},{"$type":"__43","name":"iteration","required":false}],"description":"$@72","infoTags":[],"typeName":"object","aliasName":"object"},"__42":{"type":"primitive","description":"$@73","infoTags":[],"typeName":"string","aliasName":"string"},"__43":{"type":"primitive","description":"$@74","infoTags":[],"typeName":"integer","aliasName":"integer"},"__44":{"type":"object","props":[{"$type":"__45","name":"snapshot","required":false},{"$type":"__46","name":"triggerIds","required":false}],"description":"$@75","infoTags":[],"typeName":"object","aliasName":"object"},"__45":{"type":"primitive","description":"$@76","infoTags":[],"typeName":"string","aliasName":"string"},"__46":{"type":"array","item":{"$type":"__47"},"description":"$@77","infoTags":[],"typeName":"array<string>","aliasName":"array<string>"},"__47":{"type":"primitive","infoTags":[],"typeName":"string","aliasName":"string"},"__48":{"type":"array","item":{"$type":"#/components/schemas/ResumeQueueEntry"},"description":"$@78","infoTags":[],"typeName":"array<ResumeQueueEntry>","aliasName":"array<ResumeQueueEntry>"}},"$root":"#/components/schemas/PausedExecutionDetail"}}]}]
+3f:[["$","p","p-0",{"children":"Human-readable error message."}]]
+40:[["$","p","p-0",{"children":"Human-readable error message."}]]
+41:[["$","p","p-0",{"children":"Human-readable error message."}]]
+43:["$","$L79",null,{"className":"my-0","children":[["$","$L7a","pre-0",{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","children":["$","code","code-0",{"children":[["$","span","span-0",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span","span-1",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"id\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-2",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"workflowId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-3",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"executionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-4",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"status\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"paused\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-5",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"totalPauseCount\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"0"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-6",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"resumedCount\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"0"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-7",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"pausedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-8",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"updatedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span","span-9",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"expiresAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],"$L7b"]}],"\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd"]}]}]]}]
+44:["$","$L79",null,{"className":"my-0","children":[["$","$L7a","pre-0",{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","children":["$","code","code-0",{"children":[["$","span","span-0",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span","span-1",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"error\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}]]}],"\n",["$","span","span-2",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]]}]}]]}]
+45:["$","$L79",null,{"className":"my-0","children":[["$","$L7a","pre-0",{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","children":["$","code","code-0",{"children":[["$","span","span-0",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span","span-1",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"error\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}]]}],"\n",["$","span","span-2",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]]}]}]]}]
+46:["$","$L79",null,{"className":"my-0","children":[["$","$L7a","pre-0",{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","children":["$","code","code-0",{"children":[["$","span","span-0",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span","span-1",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"error\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}]]}],"\n",["$","span","span-2",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]]}]}]]}]
+47:[["$","p","p-0",{"children":"Detailed information about a paused execution, including the execution snapshot and resume queue."}]]
+48:[["$","p","p-0",{"children":"Unique identifier for the paused execution record."}]]
+49:[["$","p","p-0",{"children":"The workflow this execution belongs to."}]]
+4a:[["$","p","p-0",{"children":"The execution that was paused."}]]
+4b:[["$","p","p-0",{"children":"Current status of the paused execution."}]]
+4c:[["$","p","p-0",{"children":"Total number of pause points in this execution."}]]
+4d:[["$","p","p-0",{"children":"Number of pause points that have been resumed."}]]
+4e:[["$","p","p-0",{"children":"When the execution was paused."}]]
+4f:[["$","p","p-0",{"children":"When the paused execution record was last updated."}]]
+50:[["$","p","p-0",{"children":"When the paused execution will expire and be cleaned up."}]]
+51:[["$","p","p-0",{"children":"Additional metadata associated with the paused execution."}]]
+52:[["$","p","p-0",{"children":"IDs of triggers that initiated the original execution."}]]
+53:[["$","p","p-0",{"children":"List of pause points in the execution."}]]
+54:[["$","p","p-0",{"children":"A point in the workflow where execution has been paused awaiting human input."}]]
+55:[["$","p","p-0",{"children":"Unique identifier for this pause context. Used when resuming execution."}]]
+56:[["$","p","p-0",{"children":"The block ID where execution paused."}]]
+57:[["$","p","p-0",{"children":"Data returned by the block before pausing, including display data and form fields."}]]
+58:[["$","p","p-0",{"children":"When this pause point was registered."}]]
+59:[["$","p","p-0",{"children":"Current status of this pause point."}]]
+5a:[["$","p","p-0",{"children":"Whether the execution snapshot is ready for resumption."}]]
+5b:[["$","p","p-0",{"children":"Links for resuming this pause point."}]]
+5c:[["$","p","p-0",{"children":"API endpoint URL to POST resume input to."}]]
+5d:[["$","p","p-0",{"children":"UI URL for a human to review and approve."}]]
+5e:[["$","p","p-0",{"children":"The context ID for this pause point."}]]
+5f:[["$","p","p-0",{"children":"The execution ID."}]]
+60:[["$","p","p-0",{"children":"The workflow ID."}]]
+61:[["$","p","p-0",{"children":"Position in the resume queue, if queued."}]]
+62:[["$","p","p-0",{"children":"The most recent resume queue entry for this pause point."}]]
+63:[["$","p","p-0",{"children":"Unique identifier for this queue entry."}]]
+64:[["$","p","p-0",{"children":"The paused execution this entry belongs to."}]]
+65:[["$","p","p-0",{"children":"The original execution that was paused."}]]
+66:[["$","p","p-0",{"children":"The new execution ID created for the resume."}]]
+67:[["$","p","p-0",{"children":"The pause context ID being resumed."}]]
+68:[["$","p","p-0",{"children":"The input provided when resuming."}]]
+69:[["$","p","p-0",{"children":"Status of this queue entry (e.g., pending, claimed, completed, failed)."}]]
+6a:[["$","p","p-0",{"children":"When the entry was added to the queue."}]]
+6b:[["$","p","p-0",{"children":"When execution started processing this entry."}]]
+6c:[["$","p","p-0",{"children":"When execution completed."}]]
+6d:[["$","p","p-0",{"children":"Reason for failure, if the resume failed."}]]
+6e:[["$","p","p-0",{"children":"Scope information when the pause occurs inside a parallel branch."}]]
+6f:[["$","p","p-0",{"children":"Identifier of the parallel execution group."}]]
+70:[["$","p","p-0",{"children":"Index of the branch within the parallel group."}]]
+71:[["$","p","p-0",{"children":"Total number of branches in the parallel group."}]]
+72:[["$","p","p-0",{"children":"Scope information when the pause occurs inside a loop."}]]
+73:[["$","p","p-0",{"children":"Identifier of the loop."}]]
+74:[["$","p","p-0",{"children":"Current loop iteration number."}]]
+75:[["$","p","p-0",{"children":"Serialized execution state for resumption."}]]
+76:[["$","p","p-0",{"children":"Serialized execution snapshot data."}]]
+77:[["$","p","p-0",{"children":"Trigger IDs from the snapshot."}]]
+78:[["$","p","p-0",{"children":"Resume queue entries for this execution."}]]
+7b:["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]
+7c:["$","span","span-10",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"metadata\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {},"}]]}]
+7d:["$","span","span-11",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"triggerIds\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": ["}]]}]
+7e:["$","span","span-12",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"    \"string\""}]}]
+7f:["$","span","span-13",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  ],"}]}]
+80:["$","span","span-14",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"pausePoints\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": ["}]]}]
+81:["$","span","span-15",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    {"}]}]
+82:["$","span","span-16",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"contextId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+83:["$","span","span-17",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"blockId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+84:["$","span","span-18",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"response\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"null"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+85:["$","span","span-19",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"registeredAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+86:["$","span","span-20",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"resumeStatus\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"paused\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+87:["$","span","span-21",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"snapshotReady\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"true"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+88:["$","span","span-22",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"resumeLinks\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}]
+89:["$","span","span-23",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"apiUrl\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"http://example.com\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8a:["$","span","span-24",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"uiUrl\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"http://example.com\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8b:["$","span","span-25",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"contextId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8c:["$","span","span-26",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"executionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+8d:["$","span","span-27",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"workflowId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}]]}]
+8e:["$","span","span-28",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      },"}]}]
+8f:["$","span","span-29",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"queuePosition\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"0"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+90:["$","span","span-30",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"latestResumeEntry\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}]
+91:["$","span","span-31",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"id\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+92:["$","span","span-32",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"pausedExecutionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+93:["$","span","span-33",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"parentExecutionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+94:["$","span","span-34",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"newExecutionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+95:["$","span","span-35",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"contextId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+96:["$","span","span-36",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"resumeInput\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"null"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+97:["$","span","span-37",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"status\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+98:["$","span","span-38",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"queuedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+99:["$","span","span-39",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"claimedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+9a:["$","span","span-40",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"completedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+9b:["$","span","span-41",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"failureReason\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}]]}]
+9c:["$","span","span-42",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      },"}]}]
+9d:["$","span","span-43",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"parallelScope\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}]
+9e:["$","span","span-44",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"parallelId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+9f:["$","span","span-45",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"branchIndex\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"0"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+a0:["$","span","span-46",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"branchTotal\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"0"}]]}]
+a1:["$","span","span-47",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      },"}]}]
+a2:["$","span","span-48",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"loopScope\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}]
+a3:["$","span","span-49",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"loopId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+a4:["$","span","span-50",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"iteration\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"0"}]]}]
+a5:["$","span","span-51",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      }"}]}]
+a6:["$","span","span-52",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    }"}]}]
+a7:["$","span","span-53",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  ],"}]}]
+a8:["$","span","span-54",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"executionSnapshot\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}]
+a9:["$","span","span-55",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"snapshot\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+aa:["$","span","span-56",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"triggerIds\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": ["}]]}]
+ab:["$","span","span-57",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"      \"string\""}]}]
+ac:["$","span","span-58",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    ]"}]}]
+ad:["$","span","span-59",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  },"}]}]
+ae:["$","span","span-60",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"queue\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": ["}]]}]
+af:["$","span","span-61",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    {"}]}]
+b0:["$","span","span-62",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"id\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b1:["$","span","span-63",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"pausedExecutionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b2:["$","span","span-64",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"parentExecutionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b3:["$","span","span-65",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"newExecutionId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b4:["$","span","span-66",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"contextId\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b5:["$","span","span-67",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"resumeInput\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"null"}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b6:["$","span","span-68",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"status\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b7:["$","span","span-69",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"queuedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b8:["$","span","span-70",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"claimedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+b9:["$","span","span-71",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"completedAt\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"2019-08-24T14:15:22Z\""}],["$","span","span-3",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+ba:["$","span","span-72",{"className":"line","children":[["$","span","span-0",{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"failureReason\""}],["$","span","span-1",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span","span-2",{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"string\""}]]}]
+bb:["$","span","span-73",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    }"}]}]
+bc:["$","span","span-74",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  ]"}]}]
+bd:["$","span","span-75",{"className":"line","children":["$","span","span-0",{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]

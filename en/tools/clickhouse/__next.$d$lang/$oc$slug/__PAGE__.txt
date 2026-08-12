@@ -1,0 +1,872 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+35:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+36:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+3b:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+3c:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+3d:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+3e:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+d8:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+d9:"$Sreact.suspense"
+db:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+dc:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+dd:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"ClickHouse\",\"description\":\"Connect to a ClickHouse database\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/clickhouse\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/clickhouse\"},\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/clickhouse\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ClickHouse\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/clickhouse\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#usage-instructions","title":"Usage Instructions"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#clickhouse_query","title":["$","code",null,{"children":"clickhouse_query"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#clickhouse_execute","title":["$","code",null,{"children":"clickhouse_execute"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#clickhouse_insert","title":["$","code",null,{"children":"clickhouse_insert"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#clickhouse_insert_rows","title":["$","code",null,{"children":"clickhouse_insert_rows"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#clickhouse_update","title":["$","code",null,{"children":"clickhouse_update"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#clickhouse_delete","title":["$","code",null,{"children":"clickhouse_delete"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#clickhouse_list_databases","title":["$","code",null,{"children":"clickhouse_list_databases"}]},{"depth":4,"url":"#input-6","title":"Input"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#clickhouse_list_tables","title":["$","code",null,{"children":"clickhouse_list_tables"}]},{"depth":4,"url":"#input-7","title":"Input"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#clickhouse_describe_table","title":["$","code",null,{"children":"clickhouse_describe_table"}]},{"depth":4,"url":"#input-8","title":"Input"},{"depth":4,"url":"#output-8","title":"Output"},{"depth":3,"url":"#clickhouse_show_create_table","title":["$","code",null,{"children":"clickhouse_show_create_table"}]},{"depth":4,"url":"#input-9","title":"Input"},{"depth":4,"url":"#output-9","title":"Output"},{"depth":3,"url":"#clickhouse_count_rows","title":["$","code",null,{"children":"clickhouse_count_rows"}]},{"depth":4,"url":"#input-10","title":"Input"},{"depth":4,"url":"#output-10","title":"Output"},{"depth":3,"url":"#clickhouse_introspect","title":["$","code",null,{"children":"clickhouse_introspect"}]},{"depth":4,"url":"#input-11","title":"Input"},{"depth":4,"url":"#output-11","title":"Output"},{"depth":3,"url":"#clickhouse_create_database","title":"$L3"},{"depth":4,"url":"#input-12","title":"$L4"},{"depth":4,"url":"#output-12","title":"$L5"},{"depth":3,"url":"#clickhouse_drop_database","title":"$L6"},{"depth":4,"url":"#input-13","title":"$L7"},{"depth":4,"url":"#output-13","title":"$L8"},{"depth":3,"url":"#clickhouse_create_table","title":"$L9"},{"depth":4,"url":"#input-14","title":"$La"},{"depth":4,"url":"#output-14","title":"$Lb"},{"depth":3,"url":"#clickhouse_drop_table","title":"$Lc"},{"depth":4,"url":"#input-15","title":"$Ld"},{"depth":4,"url":"#output-15","title":"$Le"},{"depth":3,"url":"#clickhouse_truncate_table","title":"$Lf"},{"depth":4,"url":"#input-16","title":"$L10"},{"depth":4,"url":"#output-16","title":"$L11"},{"depth":3,"url":"#clickhouse_rename_table","title":"$L12"},{"depth":4,"url":"#input-17","title":"$L13"},{"depth":4,"url":"#output-17","title":"$L14"},{"depth":3,"url":"#clickhouse_optimize_table","title":"$L15"},{"depth":4,"url":"#input-18","title":"$L16"},{"depth":4,"url":"#output-18","title":"$L17"},{"depth":3,"url":"#clickhouse_list_partitions","title":"$L18"},{"depth":4,"url":"#input-19","title":"$L19"},{"depth":4,"url":"#output-19","title":"$L1a"},{"depth":3,"url":"#clickhouse_drop_partition","title":"$L1b"},{"depth":4,"url":"#input-20","title":"$L1c"},{"depth":4,"url":"#output-20","title":"$L1d"},{"depth":3,"url":"#clickhouse_list_mutations","title":"$L1e"},{"depth":4,"url":"#input-21","title":"$L1f"},{"depth":4,"url":"#output-21","title":"$L20"},{"depth":3,"url":"#clickhouse_list_running_queries","title":"$L21"},{"depth":4,"url":"#input-22","title":"$L22"},{"depth":4,"url":"#output-22","title":"$L23"},{"depth":3,"url":"#clickhouse_kill_query","title":"$L24"},{"depth":4,"url":"#input-23","title":"$L25"},{"depth":4,"url":"#output-23","title":"$L26"},{"depth":3,"url":"#clickhouse_table_stats","title":"$L27"},{"depth":4,"url":"#input-24","title":"$L28"},{"depth":4,"url":"#output-24","title":"$L29"},{"depth":3,"url":"#clickhouse_list_clusters","title":"$L2a"},{"depth":4,"url":"#input-25","title":"$L2b"},{"depth":4,"url":"#output-25","title":"$L2c"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L2d"},"children":["$L2e","$L2f"]}]],["$L30","$L31","$L32","$L33"],"$L34"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"clickhouse_create_database"}]
+4:"Input"
+5:"Output"
+6:["$","code",null,{"children":"clickhouse_drop_database"}]
+7:"Input"
+8:"Output"
+9:["$","code",null,{"children":"clickhouse_create_table"}]
+a:"Input"
+b:"Output"
+c:["$","code",null,{"children":"clickhouse_drop_table"}]
+d:"Input"
+e:"Output"
+f:["$","code",null,{"children":"clickhouse_truncate_table"}]
+10:"Input"
+11:"Output"
+12:["$","code",null,{"children":"clickhouse_rename_table"}]
+13:"Input"
+14:"Output"
+15:["$","code",null,{"children":"clickhouse_optimize_table"}]
+16:"Input"
+17:"Output"
+18:["$","code",null,{"children":"clickhouse_list_partitions"}]
+19:"Input"
+1a:"Output"
+1b:["$","code",null,{"children":"clickhouse_drop_partition"}]
+1c:"Input"
+1d:"Output"
+1e:["$","code",null,{"children":"clickhouse_list_mutations"}]
+1f:"Input"
+20:"Output"
+21:["$","code",null,{"children":"clickhouse_list_running_queries"}]
+22:"Input"
+23:"Output"
+24:["$","code",null,{"children":"clickhouse_kill_query"}]
+25:"Input"
+26:"Output"
+27:["$","code",null,{"children":"clickhouse_table_stats"}]
+28:"Input"
+29:"Output"
+2a:["$","code",null,{"children":"clickhouse_list_clusters"}]
+2b:"Input"
+2c:"Output"
+2d:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L35",null,{"href":"/en/tools/clerk","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Clerk"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L35",null,{"href":"/en/tools/close","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Close CRM",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+37:T990f,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="clickhouse" color="#f9ff69" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[ClickHouse](https://clickhouse.com/) is a high-performance columnar database built for real-time analytics on large datasets.
+
+With ClickHouse in AptlyStar, your agents can:
+
+* **Query and analyze data**: Run SQL queries, count rows, and inspect table schemas
+* **Load and update records**: Insert, update, and delete rows in your tables
+* **Manage storage**: Create and drop databases, tables, and partitions
+* **Monitor operations**: List running queries, mutations, clusters, and table statistics
+
+Connect AptlyStar to ClickHouse over the HTTP interface to power analytics workflows, data pipelines, and operational reporting without leaving your agent canvas.
+
+{/* MANUAL-CONTENT-END */}
+
+Usage Instructions [#usage-instructions]
+
+Integrate ClickHouse into the workflow. Query and insert data, manage databases and tables, inspect schemas, monitor mutations and running queries, manage partitions, and execute raw SQL over the ClickHouse HTTP interface.
+
+Tools [#tools]
+
+clickhouse_query [#clickhouse_query]
+
+Execute a SELECT query on a ClickHouse database
+
+Input [#input]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `query`    | string  | Yes      | SQL SELECT query to execute                                       |
+
+Output [#output]
+
+| Parameter  | Type   | Description                           |
+| ---------- | ------ | ------------------------------------- |
+| `message`  | string | Operation status message              |
+| `rows`     | array  | Array of rows returned from the query |
+| `rowCount` | number | Number of rows returned               |
+
+clickhouse_execute [#clickhouse_execute]
+
+Execute raw SQL (DDL, mutations, or queries) on a ClickHouse database
+
+Input [#input-1]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `query`    | string  | Yes      | Raw SQL statement to execute                                      |
+
+Output [#output-1]
+
+| Parameter  | Type   | Description                               |
+| ---------- | ------ | ----------------------------------------- |
+| `message`  | string | Operation status message                  |
+| `rows`     | array  | Array of rows returned from the statement |
+| `rowCount` | number | Number of rows returned or affected       |
+
+clickhouse_insert [#clickhouse_insert]
+
+Insert a row into a ClickHouse table
+
+Input [#input-2]
+
+| Parameter  | Type    | Required | Description                                                            |
+| ---------- | ------- | -------- | ---------------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)      |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)         |
+| `database` | string  | Yes      | Database name to connect to                                            |
+| `username` | string  | Yes      | ClickHouse username                                                    |
+| `password` | string  | No       | ClickHouse password                                                    |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                          |
+| `table`    | string  | Yes      | Table name to insert data into                                         |
+| `data`     | object  | Yes      | Data object to insert (key-value pairs mapping column names to values) |
+
+Output [#output-2]
+
+| Parameter  | Type   | Description                                  |
+| ---------- | ------ | -------------------------------------------- |
+| `message`  | string | Operation status message                     |
+| `rows`     | array  | Inserted rows (empty for ClickHouse inserts) |
+| `rowCount` | number | Number of rows inserted                      |
+
+clickhouse_insert_rows [#clickhouse_insert_rows]
+
+Insert multiple rows into a ClickHouse table
+
+Input [#input-3]
+
+| Parameter  | Type    | Required | Description                                                                       |
+| ---------- | ------- | -------- | --------------------------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)                 |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)                    |
+| `database` | string  | Yes      | Database name to connect to                                                       |
+| `username` | string  | Yes      | ClickHouse username                                                               |
+| `password` | string  | No       | ClickHouse password                                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                                     |
+| `table`    | string  | Yes      | Table to insert into                                                              |
+| `rows`     | json    | Yes      | Array of row objects to insert, e.g. \[\{"id":1,"name":"a"},\{"id":2,"name":"b"}] |
+
+Output [#output-3]
+
+| Parameter  | Type   | Description                                  |
+| ---------- | ------ | -------------------------------------------- |
+| `message`  | string | Operation status message                     |
+| `rows`     | array  | Inserted rows (empty for ClickHouse inserts) |
+| `rowCount` | number | Number of rows inserted                      |
+
+clickhouse_update [#clickhouse_update]
+
+Update rows in a ClickHouse table via an ALTER TABLE ... UPDATE mutation
+
+Input [#input-4]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to update data in                                      |
+| `data`     | object  | Yes      | Data object with fields to update (key-value pairs)               |
+| `where`    | string  | Yes      | WHERE clause condition (without the WHERE keyword)                |
+
+Output [#output-4]
+
+| Parameter  | Type   | Description                                   |
+| ---------- | ------ | --------------------------------------------- |
+| `message`  | string | Operation status message                      |
+| `rows`     | array  | Updated rows (empty for ClickHouse mutations) |
+| `rowCount` | number | Number of rows written by the mutation        |
+
+clickhouse_delete [#clickhouse_delete]
+
+Delete rows from a ClickHouse table via an ALTER TABLE ... DELETE mutation
+
+Input [#input-5]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to delete data from                                    |
+| `where`    | string  | Yes      | WHERE clause condition (without the WHERE keyword)                |
+
+Output [#output-5]
+
+| Parameter  | Type   | Description                                   |
+| ---------- | ------ | --------------------------------------------- |
+| `message`  | string | Operation status message                      |
+| `rows`     | array  | Deleted rows (empty for ClickHouse mutations) |
+| `rowCount` | number | Number of rows affected by the mutation       |
+
+clickhouse_list_databases [#clickhouse_list_databases]
+
+List all databases on a ClickHouse server
+
+Input [#input-6]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+
+Output [#output-6]
+
+| Parameter  | Type   | Description                               |
+| ---------- | ------ | ----------------------------------------- |
+| `message`  | string | Operation status message                  |
+| `rows`     | array  | List of databases with engine and comment |
+| `rowCount` | number | Number of rows returned                   |
+
+clickhouse_list_tables [#clickhouse_list_tables]
+
+List tables in the connected ClickHouse database
+
+Input [#input-7]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+
+Output [#output-7]
+
+| Parameter  | Type   | Description                           |
+| ---------- | ------ | ------------------------------------- |
+| `message`  | string | Operation status message              |
+| `rows`     | array  | Array of rows returned from the query |
+| `rowCount` | number | Number of rows returned               |
+
+clickhouse_describe_table [#clickhouse_describe_table]
+
+Describe the columns of a ClickHouse table
+
+Input [#input-8]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to describe                                            |
+
+Output [#output-8]
+
+| Parameter  | Type   | Description                           |
+| ---------- | ------ | ------------------------------------- |
+| `message`  | string | Operation status message              |
+| `rows`     | array  | Array of rows returned from the query |
+| `rowCount` | number | Number of rows returned               |
+
+clickhouse_show_create_table [#clickhouse_show_create_table]
+
+Get the CREATE TABLE statement (DDL) for a ClickHouse table
+
+Input [#input-9]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to get the CREATE statement for                        |
+
+Output [#output-9]
+
+| Parameter | Type   | Description                |
+| --------- | ------ | -------------------------- |
+| `message` | string | Operation status message   |
+| `ddl`     | string | The CREATE TABLE statement |
+
+clickhouse_count_rows [#clickhouse_count_rows]
+
+Count rows in a ClickHouse table, optionally filtered
+
+Input [#input-10]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to count rows in                                       |
+| `where`    | string  | No       | Optional WHERE clause condition without the WHERE keyword         |
+
+Output [#output-10]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+| `count`   | number | Number of rows           |
+
+clickhouse_introspect [#clickhouse_introspect]
+
+Introspect a ClickHouse database to retrieve table structures, columns, and engines
+
+Input [#input-11]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to introspect                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+
+Output [#output-11]
+
+| Parameter             | Type    | Description                                               |
+| --------------------- | ------- | --------------------------------------------------------- |
+| `message`             | string  | Operation status message                                  |
+| `tables`              | array   | Array of table schemas with columns and engines           |
+| ↳ `name`              | string  | Table name                                                |
+| ↳ `database`          | string  | Database the table belongs to                             |
+| ↳ `engine`            | string  | Table engine (e.g., MergeTree, Log)                       |
+| ↳ `totalRows`         | number  | Approximate total number of rows in the table             |
+| ↳ `columns`           | array   | Table columns                                             |
+| ↳ `name`              | string  | Column name                                               |
+| ↳ `type`              | string  | ClickHouse data type (e.g., UInt32, String, DateTime)     |
+| ↳ `defaultKind`       | string  | Kind of default expression (DEFAULT, MATERIALIZED, ALIAS) |
+| ↳ `defaultExpression` | string  | Default value expression for the column                   |
+| ↳ `isInPrimaryKey`    | boolean | Whether the column is part of the primary key             |
+| ↳ `isInSortingKey`    | boolean | Whether the column is part of the sorting key             |
+
+clickhouse_create_database [#clickhouse_create_database]
+
+Create a new database on a ClickHouse server
+
+Input [#input-12]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `name`     | string  | Yes      | Name of the database to create                                    |
+
+Output [#output-12]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_drop_database [#clickhouse_drop_database]
+
+Drop a database from a ClickHouse server
+
+Input [#input-13]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `name`     | string  | Yes      | Name of the database to drop                                      |
+
+Output [#output-13]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_create_table [#clickhouse_create_table]
+
+Create a new MergeTree-family table in ClickHouse
+
+Input [#input-14]
+
+| Parameter     | Type    | Required | Description                                                                                                                             |
+| ------------- | ------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `host`        | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)                                                                       |
+| `port`        | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)                                                                          |
+| `database`    | string  | Yes      | Database name to connect to                                                                                                             |
+| `username`    | string  | Yes      | ClickHouse username                                                                                                                     |
+| `password`    | string  | No       | ClickHouse password                                                                                                                     |
+| `secure`      | boolean | No       | Use a secure HTTPS connection (default: true)                                                                                           |
+| `table`       | string  | Yes      | Name of the table to create                                                                                                             |
+| `columns`     | json    | Yes      | Array of column definitions, each an object with name and type, e.g. \[\{"name":"id","type":"UInt64"},\{"name":"ts","type":"DateTime"}] |
+| `engine`      | string  | No       | Table engine (default MergeTree)                                                                                                        |
+| `orderBy`     | string  | Yes      | ORDER BY expression, e.g. "id" or "(id, ts)"                                                                                            |
+| `partitionBy` | string  | No       | Optional PARTITION BY expression, e.g. toYYYYMM(ts)                                                                                     |
+
+Output [#output-14]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_drop_table [#clickhouse_drop_table]
+
+Drop a table from a ClickHouse database
+
+Input [#input-15]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to drop                                                |
+
+Output [#output-15]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_truncate_table [#clickhouse_truncate_table]
+
+Remove all rows from a ClickHouse table
+
+Input [#input-16]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to truncate                                            |
+
+Output [#output-16]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_rename_table [#clickhouse_rename_table]
+
+Rename a ClickHouse table
+
+Input [#input-17]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Current table name                                                |
+| `newTable` | string  | Yes      | New table name                                                    |
+
+Output [#output-17]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_optimize_table [#clickhouse_optimize_table]
+
+Trigger a merge of table parts via OPTIMIZE TABLE
+
+Input [#input-18]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table to optimize                                                 |
+| `final`    | boolean | No       | Force a merge to a single part using FINAL                        |
+
+Output [#output-18]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_list_partitions [#clickhouse_list_partitions]
+
+List active partitions for a ClickHouse table
+
+Input [#input-19]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | Yes      | Table name to inspect partitions for                              |
+
+Output [#output-19]
+
+| Parameter  | Type   | Description                           |
+| ---------- | ------ | ------------------------------------- |
+| `message`  | string | Operation status message              |
+| `rows`     | array  | Array of rows returned from the query |
+| `rowCount` | number | Number of rows returned               |
+
+clickhouse_drop_partition [#clickhouse_drop_partition]
+
+Drop a partition from a ClickHouse table
+
+Input [#input-20]
+
+| Parameter   | Type    | Required | Description                                                       |
+| ----------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`      | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`      | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database`  | string  | Yes      | Database name to connect to                                       |
+| `username`  | string  | Yes      | ClickHouse username                                               |
+| `password`  | string  | No       | ClickHouse password                                               |
+| `secure`    | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`     | string  | Yes      | Table name                                                        |
+| `partition` | string  | Yes      | Partition expression, e.g. '2024-01' or 202401                    |
+
+Output [#output-20]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `message` | string | Operation status message |
+
+clickhouse_list_mutations [#clickhouse_list_mutations]
+
+List mutations (async ALTER UPDATE/DELETE) for the connected database
+
+Input [#input-21]
+
+| Parameter     | Type    | Required | Description                                                       |
+| ------------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`        | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`        | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database`    | string  | Yes      | Database name to connect to                                       |
+| `username`    | string  | Yes      | ClickHouse username                                               |
+| `password`    | string  | No       | ClickHouse password                                               |
+| `secure`      | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`       | string  | No       | Optional table name to filter mutations                           |
+| `onlyRunning` | boolean | No       | Only show mutations that are still running                        |
+
+Output [#output-21]
+
+| Parameter  | Type   | Description              |
+| ---------- | ------ | ------------------------ |
+| `message`  | string | Operation status message |
+| `rows`     | array  | Array of mutation rows   |
+| `rowCount` | number | Number of rows returned  |
+
+clickhouse_list_running_queries [#clickhouse_list_running_queries]
+
+List currently running queries on a ClickHouse server
+
+Input [#input-22]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+
+Output [#output-22]
+
+| Parameter  | Type   | Description                           |
+| ---------- | ------ | ------------------------------------- |
+| `message`  | string | Operation status message              |
+| `rows`     | array  | Array of rows returned from the query |
+| `rowCount` | number | Number of rows returned               |
+
+clickhouse_kill_query [#clickhouse_kill_query]
+
+Kill a running query by its query ID
+
+Input [#input-23]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `queryId`  | string  | Yes      | The query\_id of the running query to kill                        |
+
+Output [#output-23]
+
+| Parameter  | Type   | Description              |
+| ---------- | ------ | ------------------------ |
+| `message`  | string | Operation status message |
+| `rows`     | array  | Kill status rows         |
+| `rowCount` | number | Number of rows returned  |
+
+clickhouse_table_stats [#clickhouse_table_stats]
+
+Get row counts and on-disk size for tables in the connected database
+
+Input [#input-24]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+| `table`    | string  | No       | Optional table name to get stats for                              |
+
+Output [#output-24]
+
+| Parameter  | Type   | Description               |
+| ---------- | ------ | ------------------------- |
+| `message`  | string | Operation status message  |
+| `rows`     | array  | Array of table stats rows |
+| `rowCount` | number | Number of rows returned   |
+
+clickhouse_list_clusters [#clickhouse_list_clusters]
+
+List configured clusters, shards, and replicas
+
+Input [#input-25]
+
+| Parameter  | Type    | Required | Description                                                       |
+| ---------- | ------- | -------- | ----------------------------------------------------------------- |
+| `host`     | string  | Yes      | ClickHouse server hostname (e.g., your-instance.clickhouse.cloud) |
+| `port`     | number  | Yes      | ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)    |
+| `database` | string  | Yes      | Database name to connect to                                       |
+| `username` | string  | Yes      | ClickHouse username                                               |
+| `password` | string  | No       | ClickHouse password                                               |
+| `secure`   | boolean | No       | Use a secure HTTPS connection (default: true)                     |
+
+Output [#output-25]
+
+| Parameter  | Type   | Description                |
+| ---------- | ------ | -------------------------- |
+| `message`  | string | Operation status message   |
+| `rows`     | array  | Array of cluster node rows |
+| `rowCount` | number | Number of rows returned    |
+2e:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L36",null,{"content":"$37"}]}],"$L38"]}],"$L39","$L3a"]}]
+2f:["$","$L3b",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L3c",null,{"type":"clickhouse","color":"#f9ff69"}],"\n","\n",["$","p",null,{"children":[["$","$L3d",null,{"href":"https://clickhouse.com/","children":"ClickHouse"}]," is a high-performance columnar database built for real-time analytics on large datasets."]}],"\n",["$","p",null,{"children":"With ClickHouse in AptlyStar, your agents can:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Query and analyze data"}],": Run SQL queries, count rows, and inspect table schemas"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Load and update records"}],": Insert, update, and delete rows in your tables"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Manage storage"}],": Create and drop databases, tables, and partitions"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Monitor operations"}],": List running queries, mutations, clusters, and table statistics"]}],"\n"]}],"\n",["$","p",null,{"children":"Connect AptlyStar to ClickHouse over the HTTP interface to power analytics workflows, data pipelines, and operational reporting without leaving your agent canvas."}],"\n","\n",["$","$L3e",null,{"as":"h2","id":"usage-instructions","children":"Usage Instructions"}],"\n",["$","p",null,{"children":"Integrate ClickHouse into the workflow. Query and insert data, manage databases and tables, inspect schemas, monitor mutations and running queries, manage partitions, and execute raw SQL over the ClickHouse HTTP interface."}],"\n",["$","$L3e",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L3e",null,{"as":"h3","id":"clickhouse_query","children":["$","code",null,{"children":"clickhouse_query"}]}],"\n",["$","p",null,{"children":"Execute a SELECT query on a ClickHouse database"}],"\n",["$","$L3e",null,{"as":"h4","id":"input","children":"Input"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"SQL SELECT query to execute"}]]}]]}]]}]}],"\n",["$","$L3e",null,{"as":"h4","id":"output","children":"Output"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of rows returned from the query"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"$L3f"}],"$L40","$L41"]}]]}]]}]}],"\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7"]}]}]
+30:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+31:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+32:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+33:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+34:["$","$Ld8",null,{"children":["$","$d9",null,{"name":"Next.MetadataOutlet","children":"$@da"}]}]
+38:["$","$Ldb",null,{"previous":{"$id":"en:tools/clerk.mdx","type":"page","name":"Clerk","description":"Manage users, organizations, and sessions in Clerk","url":"/en/tools/clerk","$ref":{"file":"tools/clerk.mdx"}},"next":{"$id":"en:tools/close.mdx","type":"page","name":"Close CRM","description":"Manage Close CRM leads, contacts, and opportunities.","url":"/en/tools/close","$ref":{"file":"tools/close.mdx"}}}]
+39:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","viewBox":"0 0 150 150","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"m0 0h150v150h-150z","fill":"#f9ff69"}],["$","path",null,{"d":"m30 28.3c0-.6.5-1.1 1.1-1.1h8.4c.6 0 1.1.5 1.1 1.1v93.3c0 .6-.5 1.1-1.1 1.1h-8.4c-.6 0-1.1-.5-1.1-1.1zm21.2 0c0-.6.5-1.1 1.1-1.1h8.4c.6 0 1.1.5 1.1 1.1v93.3c0 .6-.5 1.1-1.1 1.1h-8.4c-.6 0-1.1-.5-1.1-1.1zm21.2 0c0-.6.5-1.1 1.1-1.1h8.4c.6 0 1.1.5 1.1 1.1v93.3c0 .6-.5 1.1-1.1 1.1h-8.4c-.6 0-1.1-.5-1.1-1.1zm21.3 0c0-.6.5-1.1 1.1-1.1h8.4c.6 0 1.1.5 1.1 1.1v93.3c0 .6-.5 1.1-1.1 1.1h-8.4c-.6 0-1.1-.5-1.1-1.1zm21.2 37.2c0-.6.5-1.1 1.1-1.1h8.4c.6 0 1.1.5 1.1 1.1v19c0 .6-.5 1.1-1.1 1.1h-8.4c-.6 0-1.1-.5-1.1-1.1z","fill":"#161616"}]]}]}],["$","$Ldc",null,{"className":"mb-0 min-w-0 flex-1","children":"ClickHouse"}]]}]
+3a:["$","$Ldd",null,{"children":"Connect to a ClickHouse database"}]
+3f:["$","code",null,{"children":"rowCount"}]
+40:["$","td",null,{"children":"number"}]
+41:["$","td",null,{"children":"Number of rows returned"}]
+42:["$","$L3e",null,{"as":"h3","id":"clickhouse_execute","children":["$","code",null,{"children":"clickhouse_execute"}]}]
+43:["$","p",null,{"children":"Execute raw SQL (DDL, mutations, or queries) on a ClickHouse database"}]
+44:["$","$L3e",null,{"as":"h4","id":"input-1","children":"Input"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Raw SQL statement to execute"}]]}]]}]]}]}]
+46:["$","$L3e",null,{"as":"h4","id":"output-1","children":"Output"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of rows returned from the statement"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned or affected"}]]}]]}]]}]}]
+48:["$","$L3e",null,{"as":"h3","id":"clickhouse_insert","children":["$","code",null,{"children":"clickhouse_insert"}]}]
+49:["$","p",null,{"children":"Insert a row into a ClickHouse table"}]
+4a:["$","$L3e",null,{"as":"h4","id":"input-2","children":"Input"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to insert data into"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Data object to insert (key-value pairs mapping column names to values)"}]]}]]}]]}]}]
+4c:["$","$L3e",null,{"as":"h4","id":"output-2","children":"Output"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Inserted rows (empty for ClickHouse inserts)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows inserted"}]]}]]}]]}]}]
+4e:["$","$L3e",null,{"as":"h3","id":"clickhouse_insert_rows","children":["$","code",null,{"children":"clickhouse_insert_rows"}]}]
+4f:["$","p",null,{"children":"Insert multiple rows into a ClickHouse table"}]
+50:["$","$L3e",null,{"as":"h4","id":"input-3","children":"Input"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table to insert into"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Array of row objects to insert, e.g. [{\"id\":1,\"name\":\"a\"},{\"id\":2,\"name\":\"b\"}]"}]]}]]}]]}]}]
+52:["$","$L3e",null,{"as":"h4","id":"output-3","children":"Output"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Inserted rows (empty for ClickHouse inserts)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows inserted"}]]}]]}]]}]}]
+54:["$","$L3e",null,{"as":"h3","id":"clickhouse_update","children":["$","code",null,{"children":"clickhouse_update"}]}]
+55:["$","p",null,{"children":"Update rows in a ClickHouse table via an ALTER TABLE ... UPDATE mutation"}]
+56:["$","$L3e",null,{"as":"h4","id":"input-4","children":"Input"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to update data in"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Data object with fields to update (key-value pairs)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"where"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"WHERE clause condition (without the WHERE keyword)"}]]}]]}]]}]}]
+58:["$","$L3e",null,{"as":"h4","id":"output-4","children":"Output"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Updated rows (empty for ClickHouse mutations)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows written by the mutation"}]]}]]}]]}]}]
+5a:["$","$L3e",null,{"as":"h3","id":"clickhouse_delete","children":["$","code",null,{"children":"clickhouse_delete"}]}]
+5b:["$","p",null,{"children":"Delete rows from a ClickHouse table via an ALTER TABLE ... DELETE mutation"}]
+5c:["$","$L3e",null,{"as":"h4","id":"input-5","children":"Input"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to delete data from"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"where"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"WHERE clause condition (without the WHERE keyword)"}]]}]]}]]}]}]
+5e:["$","$L3e",null,{"as":"h4","id":"output-5","children":"Output"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Deleted rows (empty for ClickHouse mutations)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows affected by the mutation"}]]}]]}]]}]}]
+60:["$","$L3e",null,{"as":"h3","id":"clickhouse_list_databases","children":["$","code",null,{"children":"clickhouse_list_databases"}]}]
+61:["$","p",null,{"children":"List all databases on a ClickHouse server"}]
+62:["$","$L3e",null,{"as":"h4","id":"input-6","children":"Input"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}]]}]]}]}]
+64:["$","$L3e",null,{"as":"h4","id":"output-6","children":"Output"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of databases with engine and comment"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+66:["$","$L3e",null,{"as":"h3","id":"clickhouse_list_tables","children":["$","code",null,{"children":"clickhouse_list_tables"}]}]
+67:["$","p",null,{"children":"List tables in the connected ClickHouse database"}]
+68:["$","$L3e",null,{"as":"h4","id":"input-7","children":"Input"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}]]}]]}]}]
+6a:["$","$L3e",null,{"as":"h4","id":"output-7","children":"Output"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of rows returned from the query"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+6c:["$","$L3e",null,{"as":"h3","id":"clickhouse_describe_table","children":["$","code",null,{"children":"clickhouse_describe_table"}]}]
+6d:["$","p",null,{"children":"Describe the columns of a ClickHouse table"}]
+6e:["$","$L3e",null,{"as":"h4","id":"input-8","children":"Input"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to describe"}]]}]]}]]}]}]
+70:["$","$L3e",null,{"as":"h4","id":"output-8","children":"Output"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of rows returned from the query"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+72:["$","$L3e",null,{"as":"h3","id":"clickhouse_show_create_table","children":["$","code",null,{"children":"clickhouse_show_create_table"}]}]
+73:["$","p",null,{"children":"Get the CREATE TABLE statement (DDL) for a ClickHouse table"}]
+74:["$","$L3e",null,{"as":"h4","id":"input-9","children":"Input"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to get the CREATE statement for"}]]}]]}]]}]}]
+76:["$","$L3e",null,{"as":"h4","id":"output-9","children":"Output"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ddl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The CREATE TABLE statement"}]]}]]}]]}]}]
+78:["$","$L3e",null,{"as":"h3","id":"clickhouse_count_rows","children":["$","code",null,{"children":"clickhouse_count_rows"}]}]
+79:["$","p",null,{"children":"Count rows in a ClickHouse table, optionally filtered"}]
+7a:["$","$L3e",null,{"as":"h4","id":"input-10","children":"Input"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to count rows in"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"where"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Optional WHERE clause condition without the WHERE keyword"}]]}]]}]]}]}]
+7c:["$","$L3e",null,{"as":"h4","id":"output-10","children":"Output"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows"}]]}]]}]]}]}]
+7e:["$","$L3e",null,{"as":"h3","id":"clickhouse_introspect","children":["$","code",null,{"children":"clickhouse_introspect"}]}]
+7f:["$","p",null,{"children":"Introspect a ClickHouse database to retrieve table structures, columns, and engines"}]
+80:["$","$L3e",null,{"as":"h4","id":"input-11","children":"Input"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to introspect"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}]]}]]}]}]
+82:["$","$L3e",null,{"as":"h4","id":"output-11","children":"Output"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tables"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of table schemas with columns and engines"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Table name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"database"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Database the table belongs to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"engine"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Table engine (e.g., MergeTree, Log)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"totalRows"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Approximate total number of rows in the table"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"columns"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Table columns"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Column name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ClickHouse data type (e.g., UInt32, String, DateTime)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"defaultKind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kind of default expression (DEFAULT, MATERIALIZED, ALIAS)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"defaultExpression"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Default value expression for the column"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isInPrimaryKey"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the column is part of the primary key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isInSortingKey"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the column is part of the sorting key"}]]}]]}]]}]}]
+84:["$","$L3e",null,{"as":"h3","id":"clickhouse_create_database","children":["$","code",null,{"children":"clickhouse_create_database"}]}]
+85:["$","p",null,{"children":"Create a new database on a ClickHouse server"}]
+86:["$","$L3e",null,{"as":"h4","id":"input-12","children":"Input"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Name of the database to create"}]]}]]}]]}]}]
+88:["$","$L3e",null,{"as":"h4","id":"output-12","children":"Output"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+8a:["$","$L3e",null,{"as":"h3","id":"clickhouse_drop_database","children":["$","code",null,{"children":"clickhouse_drop_database"}]}]
+8b:["$","p",null,{"children":"Drop a database from a ClickHouse server"}]
+8c:["$","$L3e",null,{"as":"h4","id":"input-13","children":"Input"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Name of the database to drop"}]]}]]}]]}]}]
+8e:["$","$L3e",null,{"as":"h4","id":"output-13","children":"Output"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+90:["$","$L3e",null,{"as":"h3","id":"clickhouse_create_table","children":["$","code",null,{"children":"clickhouse_create_table"}]}]
+91:["$","p",null,{"children":"Create a new MergeTree-family table in ClickHouse"}]
+92:["$","$L3e",null,{"as":"h4","id":"input-14","children":"Input"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Name of the table to create"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"columns"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Array of column definitions, each an object with name and type, e.g. [{\"name\":\"id\",\"type\":\"UInt64\"},{\"name\":\"ts\",\"type\":\"DateTime\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"engine"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Table engine (default MergeTree)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ORDER BY expression, e.g. \"id\" or \"(id, ts)\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"partitionBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Optional PARTITION BY expression, e.g. toYYYYMM(ts)"}]]}]]}]]}]}]
+94:["$","$L3e",null,{"as":"h4","id":"output-14","children":"Output"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+96:["$","$L3e",null,{"as":"h3","id":"clickhouse_drop_table","children":["$","code",null,{"children":"clickhouse_drop_table"}]}]
+97:["$","p",null,{"children":"Drop a table from a ClickHouse database"}]
+98:["$","$L3e",null,{"as":"h4","id":"input-15","children":"Input"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to drop"}]]}]]}]]}]}]
+9a:["$","$L3e",null,{"as":"h4","id":"output-15","children":"Output"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+9c:["$","$L3e",null,{"as":"h3","id":"clickhouse_truncate_table","children":["$","code",null,{"children":"clickhouse_truncate_table"}]}]
+9d:["$","p",null,{"children":"Remove all rows from a ClickHouse table"}]
+9e:["$","$L3e",null,{"as":"h4","id":"input-16","children":"Input"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to truncate"}]]}]]}]]}]}]
+a0:["$","$L3e",null,{"as":"h4","id":"output-16","children":"Output"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+a2:["$","$L3e",null,{"as":"h3","id":"clickhouse_rename_table","children":["$","code",null,{"children":"clickhouse_rename_table"}]}]
+a3:["$","p",null,{"children":"Rename a ClickHouse table"}]
+a4:["$","$L3e",null,{"as":"h4","id":"input-17","children":"Input"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Current table name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"newTable"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"New table name"}]]}]]}]]}]}]
+a6:["$","$L3e",null,{"as":"h4","id":"output-17","children":"Output"}]
+a7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+a8:["$","$L3e",null,{"as":"h3","id":"clickhouse_optimize_table","children":["$","code",null,{"children":"clickhouse_optimize_table"}]}]
+a9:["$","p",null,{"children":"Trigger a merge of table parts via OPTIMIZE TABLE"}]
+aa:["$","$L3e",null,{"as":"h4","id":"input-18","children":"Input"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table to optimize"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"final"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Force a merge to a single part using FINAL"}]]}]]}]]}]}]
+ac:["$","$L3e",null,{"as":"h4","id":"output-18","children":"Output"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+ae:["$","$L3e",null,{"as":"h3","id":"clickhouse_list_partitions","children":["$","code",null,{"children":"clickhouse_list_partitions"}]}]
+af:["$","p",null,{"children":"List active partitions for a ClickHouse table"}]
+b0:["$","$L3e",null,{"as":"h4","id":"input-19","children":"Input"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name to inspect partitions for"}]]}]]}]]}]}]
+b2:["$","$L3e",null,{"as":"h4","id":"output-19","children":"Output"}]
+b3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of rows returned from the query"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+b4:["$","$L3e",null,{"as":"h3","id":"clickhouse_drop_partition","children":["$","code",null,{"children":"clickhouse_drop_partition"}]}]
+b5:["$","p",null,{"children":"Drop a partition from a ClickHouse table"}]
+b6:["$","$L3e",null,{"as":"h4","id":"input-20","children":"Input"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Table name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"partition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Partition expression, e.g. '2024-01' or 202401"}]]}]]}]]}]}]
+b8:["$","$L3e",null,{"as":"h4","id":"output-20","children":"Output"}]
+b9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}]}]]}]}]
+ba:["$","$L3e",null,{"as":"h3","id":"clickhouse_list_mutations","children":["$","code",null,{"children":"clickhouse_list_mutations"}]}]
+bb:["$","p",null,{"children":"List mutations (async ALTER UPDATE/DELETE) for the connected database"}]
+bc:["$","$L3e",null,{"as":"h4","id":"input-21","children":"Input"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Optional table name to filter mutations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"onlyRunning"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Only show mutations that are still running"}]]}]]}]]}]}]
+be:["$","$L3e",null,{"as":"h4","id":"output-21","children":"Output"}]
+bf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of mutation rows"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+c0:["$","$L3e",null,{"as":"h3","id":"clickhouse_list_running_queries","children":["$","code",null,{"children":"clickhouse_list_running_queries"}]}]
+c1:["$","p",null,{"children":"List currently running queries on a ClickHouse server"}]
+c2:["$","$L3e",null,{"as":"h4","id":"input-22","children":"Input"}]
+c3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}]]}]]}]}]
+c4:["$","$L3e",null,{"as":"h4","id":"output-22","children":"Output"}]
+c5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of rows returned from the query"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+c6:["$","$L3e",null,{"as":"h3","id":"clickhouse_kill_query","children":["$","code",null,{"children":"clickhouse_kill_query"}]}]
+c7:["$","p",null,{"children":"Kill a running query by its query ID"}]
+c8:["$","$L3e",null,{"as":"h4","id":"input-23","children":"Input"}]
+c9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"queryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The query_id of the running query to kill"}]]}]]}]]}]}]
+ca:["$","$L3e",null,{"as":"h4","id":"output-23","children":"Output"}]
+cb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Kill status rows"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+cc:["$","$L3e",null,{"as":"h3","id":"clickhouse_table_stats","children":["$","code",null,{"children":"clickhouse_table_stats"}]}]
+cd:["$","p",null,{"children":"Get row counts and on-disk size for tables in the connected database"}]
+ce:["$","$L3e",null,{"as":"h4","id":"input-24","children":"Input"}]
+cf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Optional table name to get stats for"}]]}]]}]]}]}]
+d0:["$","$L3e",null,{"as":"h4","id":"output-24","children":"Output"}]
+d1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of table stats rows"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+d2:["$","$L3e",null,{"as":"h3","id":"clickhouse_list_clusters","children":["$","code",null,{"children":"clickhouse_list_clusters"}]}]
+d3:["$","p",null,{"children":"List configured clusters, shards, and replicas"}]
+d4:["$","$L3e",null,{"as":"h4","id":"input-25","children":"Input"}]
+d5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse server hostname (e.g., your-instance.clickhouse.cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse HTTP interface port (8443 for HTTPS, 8123 for HTTP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Database name to connect to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"ClickHouse username"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ClickHouse password"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"secure"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Use a secure HTTPS connection (default: true)"}]]}]]}]]}]}]
+d6:["$","$L3e",null,{"as":"h4","id":"output-25","children":"Output"}]
+d7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Operation status message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of cluster node rows"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rowCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of rows returned"}]]}]]}]]}]}]
+da:null

@@ -1,0 +1,492 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+e:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+13:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+14:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+15:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+16:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+66:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+67:"$Sreact.suspense"
+69:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+6a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+6b:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"SSH\",\"description\":\"Conéctate a servidores remotos vía SSH\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/ssh\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/ssh\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/ssh\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"SSH\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/ssh\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#ssh_execute_command","title":["$","code",null,{"children":"ssh_execute_command"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#ssh_execute_script","title":["$","code",null,{"children":"ssh_execute_script"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#ssh_check_command_exists","title":["$","code",null,{"children":"ssh_check_command_exists"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#ssh_upload_file","title":["$","code",null,{"children":"ssh_upload_file"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#ssh_download_file","title":["$","code",null,{"children":"ssh_download_file"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#ssh_list_directory","title":["$","code",null,{"children":"ssh_list_directory"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#ssh_check_file_exists","title":["$","code",null,{"children":"ssh_check_file_exists"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#ssh_create_directory","title":["$","code",null,{"children":"ssh_create_directory"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#ssh_delete_file","title":["$","code",null,{"children":"ssh_delete_file"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#ssh_move_rename","title":["$","code",null,{"children":"ssh_move_rename"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#ssh_get_system_info","title":["$","code",null,{"children":"ssh_get_system_info"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#ssh_read_file_content","title":["$","code",null,{"children":"ssh_read_file_content"}]},{"depth":4,"url":"#entrada-11","title":"Entrada"},{"depth":4,"url":"#salida-11","title":"Salida"},{"depth":3,"url":"#ssh_write_file_content","title":"$L3"},{"depth":4,"url":"#entrada-12","title":"$L4"},{"depth":4,"url":"#salida-12","title":"$L5"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L6"},"children":["$L7","$L8"]}]],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"ssh_write_file_content"}]
+4:"Entrada"
+5:"Salida"
+6:null
+f:T64ba,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="ssh" color="#000000" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[SSH (Secure Shell)](https://en.wikipedia.org/wiki/Secure_Shell) es un protocolo ampliamente utilizado para conectarse de forma segura a servidores remotos, permitiéndote ejecutar comandos, transferir archivos y gestionar sistemas a través de canales cifrados.
+
+Con el soporte SSH en Aptlystar, tus agentes pueden:
+
+* **Ejecutar comandos remotos**: Ejecuta comandos de shell en cualquier servidor accesible por SSH
+* **Subir y ejecutar scripts**: Transfiere y ejecuta fácilmente scripts de múltiples líneas para automatización avanzada
+* **Transferir archivos de forma segura**: Sube y descarga archivos como parte de tus flujos de trabajo (próximamente o mediante comando)
+* **Automatizar la gestión de servidores**: Realiza actualizaciones, mantenimiento, monitoreo, despliegues y tareas de configuración de forma programática
+* **Usar autenticación flexible**: Conéctate con autenticación por contraseña o clave privada, incluyendo soporte para claves cifradas
+
+Las siguientes herramientas SSH de Aptlystar permiten a tus agentes interactuar con servidores como parte de automatizaciones más amplias:
+
+* `ssh_execute_command`: Ejecuta cualquier comando shell de forma remota y captura la salida, el estado y los errores.
+* `ssh_execute_script`: Sube y ejecuta un script completo de múltiples líneas en el sistema remoto.
+* (Próximamente herramientas adicionales, como la transferencia de archivos).
+
+Al integrar SSH en los flujos de trabajo de tus agentes, puedes automatizar el acceso seguro, las operaciones remotas y la orquestación de servidores, agilizando DevOps, automatización de TI y gestión remota personalizada, todo desde Aptlystar.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Ejecuta comandos, transfiere archivos y gestiona servidores remotos vía SSH. Compatible con autenticación por contraseña y clave privada para acceso seguro al servidor.
+
+Herramientas [#herramientas]
+
+ssh_execute_command [#ssh_execute_command]
+
+Ejecuta un comando shell en un servidor SSH remoto
+
+Entrada [#entrada]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                |
+| ------------------ | ------ | ----------- | ---------------------------------------------------------- |
+| `host`             | string | Sí          | Nombre de host o dirección IP del servidor SSH             |
+| `port`             | number | Sí          | Puerto del servidor SSH (predeterminado: 22)               |
+| `username`         | string | Sí          | Nombre de usuario SSH                                      |
+| `password`         | string | No          | Contraseña para autenticación (si no se usa clave privada) |
+| `privateKey`       | string | No          | Clave privada para autenticación (formato OpenSSH)         |
+| `passphrase`       | string | No          | Frase de contraseña para clave privada cifrada             |
+| `command`          | string | Sí          | Comando shell para ejecutar en el servidor remoto          |
+| `workingDirectory` | string | No          | Directorio de trabajo para la ejecución del comando        |
+
+Salida [#salida]
+
+| Parámetro  | Tipo    | Descripción                                   |
+| ---------- | ------- | --------------------------------------------- |
+| `stdout`   | string  | Salida estándar del comando                   |
+| `stderr`   | string  | Salida de error estándar                      |
+| `exitCode` | number  | Código de salida del comando                  |
+| `success`  | boolean | Si el comando tuvo éxito (código de salida 0) |
+| `message`  | string  | Mensaje de estado de la operación             |
+
+ssh_execute_script [#ssh_execute_script]
+
+Subir y ejecutar un script de múltiples líneas en un servidor SSH remoto
+
+Entrada [#entrada-1]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                |
+| ------------------ | ------ | ----------- | ---------------------------------------------------------- |
+| `host`             | string | Sí          | Nombre de host o dirección IP del servidor SSH             |
+| `port`             | number | Sí          | Puerto del servidor SSH (predeterminado: 22)               |
+| `username`         | string | Sí          | Nombre de usuario SSH                                      |
+| `password`         | string | No          | Contraseña para autenticación (si no se usa clave privada) |
+| `privateKey`       | string | No          | Clave privada para autenticación (formato OpenSSH)         |
+| `passphrase`       | string | No          | Frase de contraseña para clave privada cifrada             |
+| `script`           | string | Sí          | Contenido del script a ejecutar (bash, python, etc.)       |
+| `interpreter`      | string | No          | Intérprete del script (predeterminado: /bin/bash)          |
+| `workingDirectory` | string | No          | Directorio de trabajo para la ejecución del script         |
+
+Salida [#salida-1]
+
+| Parámetro    | Tipo    | Descripción                                  |
+| ------------ | ------- | -------------------------------------------- |
+| `stdout`     | string  | Salida estándar del script                   |
+| `stderr`     | string  | Salida de error estándar                     |
+| `exitCode`   | number  | Código de salida del script                  |
+| `success`    | boolean | Si el script tuvo éxito (código de salida 0) |
+| `scriptPath` | string  | Ruta temporal donde se subió el script       |
+| `message`    | string  | Mensaje de estado de la operación            |
+
+ssh_check_command_exists [#ssh_check_command_exists]
+
+Comprobar si un comando/programa existe en el servidor SSH remoto
+
+Entrada [#entrada-2]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                   |
+| ------------- | ------ | ----------- | ------------------------------------------------------------- |
+| `host`        | string | Sí          | Nombre de host o dirección IP del servidor SSH                |
+| `port`        | number | Sí          | Puerto del servidor SSH (predeterminado: 22)                  |
+| `username`    | string | Sí          | Nombre de usuario SSH                                         |
+| `password`    | string | No          | Contraseña para autenticación (si no se usa clave privada)    |
+| `privateKey`  | string | No          | Clave privada para autenticación (formato OpenSSH)            |
+| `passphrase`  | string | No          | Frase de contraseña para clave privada cifrada                |
+| `commandName` | string | Sí          | Nombre del comando a comprobar (p. ej., docker, git, python3) |
+
+Salida [#salida-2]
+
+| Parámetro       | Tipo    | Descripción                                        |
+| --------------- | ------- | -------------------------------------------------- |
+| `commandExists` | boolean | Si el comando existe o no                          |
+| `commandPath`   | string  | Ruta completa al comando (si se encuentra)         |
+| `version`       | string  | Salida de la versión del comando (si es aplicable) |
+| `message`       | string  | Mensaje de estado de la operación                  |
+
+ssh_upload_file [#ssh_upload_file]
+
+Subir un archivo a un servidor SSH remoto
+
+Entrada [#entrada-3]
+
+| Parámetro     | Tipo    | Obligatorio | Descripción                                                                 |
+| ------------- | ------- | ----------- | --------------------------------------------------------------------------- |
+| `host`        | string  | Sí          | Nombre de host o dirección IP del servidor SSH                              |
+| `port`        | number  | Sí          | Puerto del servidor SSH (predeterminado: 22)                                |
+| `username`    | string  | Sí          | Nombre de usuario SSH                                                       |
+| `password`    | string  | No          | Contraseña para autenticación (si no se usa clave privada)                  |
+| `privateKey`  | string  | No          | Clave privada para autenticación (formato OpenSSH)                          |
+| `passphrase`  | string  | No          | Frase de contraseña para clave privada cifrada                              |
+| `fileContent` | string  | Sí          | Contenido del archivo a subir (codificado en base64 para archivos binarios) |
+| `fileName`    | string  | Sí          | Nombre del archivo que se está subiendo                                     |
+| `remotePath`  | string  | Sí          | Ruta de destino en el servidor remoto                                       |
+| `permissions` | string  | No          | Permisos del archivo (p. ej., 0644)                                         |
+| `overwrite`   | boolean | No          | Si se deben sobrescribir archivos existentes (predeterminado: true)         |
+
+Salida [#salida-3]
+
+| Parámetro    | Tipo    | Descripción                                 |
+| ------------ | ------- | ------------------------------------------- |
+| `uploaded`   | boolean | Indica si el archivo se subió correctamente |
+| `remotePath` | string  | Ruta final en el servidor remoto            |
+| `size`       | number  | Tamaño del archivo en bytes                 |
+| `message`    | string  | Mensaje de estado de la operación           |
+
+ssh_download_file [#ssh_download_file]
+
+Descargar un archivo desde un servidor SSH remoto
+
+Entrada [#entrada-4]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                |
+| ------------ | ------ | ----------- | ---------------------------------------------------------- |
+| `host`       | string | Sí          | Nombre de host o dirección IP del servidor SSH             |
+| `port`       | number | Sí          | Puerto del servidor SSH (predeterminado: 22)               |
+| `username`   | string | Sí          | Nombre de usuario SSH                                      |
+| `password`   | string | No          | Contraseña para autenticación (si no se usa clave privada) |
+| `privateKey` | string | No          | Clave privada para autenticación (formato OpenSSH)         |
+| `passphrase` | string | No          | Frase de contraseña para clave privada cifrada             |
+| `remotePath` | string | Sí          | Ruta del archivo en el servidor remoto                     |
+
+Salida [#salida-4]
+
+| Parámetro     | Tipo    | Descripción                                                         |
+| ------------- | ------- | ------------------------------------------------------------------- |
+| `downloaded`  | boolean | Indica si el archivo se descargó correctamente                      |
+| `fileContent` | string  | Contenido del archivo (codificado en base64 para archivos binarios) |
+| `fileName`    | string  | Nombre del archivo descargado                                       |
+| `remotePath`  | string  | Ruta de origen en el servidor remoto                                |
+| `size`        | number  | Tamaño del archivo en bytes                                         |
+| `message`     | string  | Mensaje de estado de la operación                                   |
+
+ssh_list_directory [#ssh_list_directory]
+
+Listar archivos y directorios en un directorio remoto
+
+Entrada [#entrada-5]
+
+| Parámetro    | Tipo    | Obligatorio | Descripción                                                            |
+| ------------ | ------- | ----------- | ---------------------------------------------------------------------- |
+| `host`       | string  | Sí          | Nombre de host o dirección IP del servidor SSH                         |
+| `port`       | number  | Sí          | Puerto del servidor SSH (predeterminado: 22)                           |
+| `username`   | string  | Sí          | Nombre de usuario SSH                                                  |
+| `password`   | string  | No          | Contraseña para autenticación (si no se usa clave privada)             |
+| `privateKey` | string  | No          | Clave privada para autenticación (formato OpenSSH)                     |
+| `passphrase` | string  | No          | Frase de contraseña para clave privada cifrada                         |
+| `path`       | string  | Sí          | Ruta del directorio remoto a listar                                    |
+| `detailed`   | boolean | No          | Incluir detalles del archivo (tamaño, permisos, fecha de modificación) |
+| `recursive`  | boolean | No          | Listar subdirectorios recursivamente (predeterminado: false)           |
+
+Salida [#salida-5]
+
+| Parámetro | Tipo  | Descripción                                 |
+| --------- | ----- | ------------------------------------------- |
+| `entries` | array | Array de entradas de archivos y directorios |
+
+ssh_check_file_exists [#ssh_check_file_exists]
+
+Comprobar si un archivo o directorio existe en el servidor SSH remoto
+
+Entrada [#entrada-6]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                  |
+| ------------ | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `host`       | string | Sí          | Nombre de host o dirección IP del servidor SSH                               |
+| `port`       | number | Sí          | Puerto del servidor SSH (predeterminado: 22)                                 |
+| `username`   | string | Sí          | Nombre de usuario SSH                                                        |
+| `password`   | string | No          | Contraseña para autenticación (si no se usa clave privada)                   |
+| `privateKey` | string | No          | Clave privada para autenticación (formato OpenSSH)                           |
+| `passphrase` | string | No          | Frase de contraseña para clave privada cifrada                               |
+| `path`       | string | Sí          | Ruta del archivo o directorio remoto a comprobar                             |
+| `type`       | string | No          | Tipo esperado: archivo, directorio o cualquiera (predeterminado: cualquiera) |
+
+Salida [#salida-6]
+
+| Parámetro     | Tipo    | Descripción                                                          |
+| ------------- | ------- | -------------------------------------------------------------------- |
+| `exists`      | boolean | Si la ruta existe                                                    |
+| `type`        | string  | Tipo de ruta (archivo, directorio, enlace simbólico, no\_encontrado) |
+| `size`        | number  | Tamaño del archivo si es un archivo                                  |
+| `permissions` | string  | Permisos del archivo (p. ej., 0755)                                  |
+| `modified`    | string  | Marca de tiempo de última modificación                               |
+| `message`     | string  | Mensaje de estado de la operación                                    |
+
+ssh_create_directory [#ssh_create_directory]
+
+Crear un directorio en el servidor SSH remoto
+
+Entrada [#entrada-7]
+
+| Parámetro     | Tipo    | Obligatorio | Descripción                                                  |
+| ------------- | ------- | ----------- | ------------------------------------------------------------ |
+| `host`        | string  | Sí          | Nombre de host o dirección IP del servidor SSH               |
+| `port`        | number  | Sí          | Puerto del servidor SSH (predeterminado: 22)                 |
+| `username`    | string  | Sí          | Nombre de usuario SSH                                        |
+| `password`    | string  | No          | Contraseña para autenticación (si no se usa clave privada)   |
+| `privateKey`  | string  | No          | Clave privada para autenticación (formato OpenSSH)           |
+| `passphrase`  | string  | No          | Frase de contraseña para clave privada cifrada               |
+| `path`        | string  | Sí          | Ruta del directorio a crear                                  |
+| `recursive`   | boolean | No          | Crear directorios padre si no existen (predeterminado: true) |
+| `permissions` | string  | No          | Permisos del directorio (predeterminado: 0755)               |
+
+Salida [#salida-7]
+
+| Parámetro       | Tipo    | Descripción                            |
+| --------------- | ------- | -------------------------------------- |
+| `created`       | boolean | Si el directorio se creó correctamente |
+| `remotePath`    | string  | Ruta del directorio creado             |
+| `alreadyExists` | boolean | Si el directorio ya existía            |
+| `message`       | string  | Mensaje de estado de la operación      |
+
+ssh_delete_file [#ssh_delete_file]
+
+Eliminar un archivo o directorio del servidor SSH remoto
+
+Entrada [#entrada-8]
+
+| Parámetro    | Tipo    | Obligatorio | Descripción                                                 |
+| ------------ | ------- | ----------- | ----------------------------------------------------------- |
+| `host`       | string  | Sí          | Nombre de host o dirección IP del servidor SSH              |
+| `port`       | number  | Sí          | Puerto del servidor SSH (predeterminado: 22)                |
+| `username`   | string  | Sí          | Nombre de usuario SSH                                       |
+| `password`   | string  | No          | Contraseña para autenticación (si no se usa clave privada)  |
+| `privateKey` | string  | No          | Clave privada para autenticación (formato OpenSSH)          |
+| `passphrase` | string  | No          | Frase de contraseña para clave privada cifrada              |
+| `path`       | string  | Sí          | Ruta a eliminar                                             |
+| `recursive`  | boolean | No          | Eliminar directorios recursivamente (predeterminado: false) |
+| `force`      | boolean | No          | Forzar eliminación sin confirmación (predeterminado: false) |
+
+Salida [#salida-8]
+
+| Parámetro    | Tipo    | Descripción                         |
+| ------------ | ------- | ----------------------------------- |
+| `deleted`    | boolean | Si la ruta se eliminó correctamente |
+| `remotePath` | string  | Ruta eliminada                      |
+| `message`    | string  | Mensaje de estado de la operación   |
+
+ssh_move_rename [#ssh_move_rename]
+
+Mover o renombrar un archivo o directorio en el servidor SSH remoto
+
+Entrada [#entrada-9]
+
+| Parámetro         | Tipo    | Obligatorio | Descripción                                                |
+| ----------------- | ------- | ----------- | ---------------------------------------------------------- |
+| `host`            | string  | Sí          | Nombre de host o dirección IP del servidor SSH             |
+| `port`            | number  | Sí          | Puerto del servidor SSH (predeterminado: 22)               |
+| `username`        | string  | Sí          | Nombre de usuario SSH                                      |
+| `password`        | string  | No          | Contraseña para autenticación (si no se usa clave privada) |
+| `privateKey`      | string  | No          | Clave privada para autenticación (formato OpenSSH)         |
+| `passphrase`      | string  | No          | Frase de contraseña para clave privada cifrada             |
+| `sourcePath`      | string  | Sí          | Ruta actual del archivo o directorio                       |
+| `destinationPath` | string  | Sí          | Nueva ruta para el archivo o directorio                    |
+| `overwrite`       | boolean | No          | Sobrescribir destino si existe (predeterminado: false)     |
+
+Salida [#salida-9]
+
+| Parámetro         | Tipo    | Descripción                       |
+| ----------------- | ------- | --------------------------------- |
+| `moved`           | boolean | Si la operación fue exitosa       |
+| `sourcePath`      | string  | Ruta original                     |
+| `destinationPath` | string  | Nueva ruta                        |
+| `message`         | string  | Mensaje de estado de la operación |
+
+ssh_get_system_info [#ssh_get_system_info]
+
+Obtener información del sistema desde el servidor SSH remoto
+
+Entrada [#entrada-10]
+
+| Parámetro    | Tipo   | Requerido | Descripción                                                |
+| ------------ | ------ | --------- | ---------------------------------------------------------- |
+| `host`       | string | Sí        | Nombre de host o dirección IP del servidor SSH             |
+| `port`       | number | Sí        | Puerto del servidor SSH (predeterminado: 22)               |
+| `username`   | string | Sí        | Nombre de usuario SSH                                      |
+| `password`   | string | No        | Contraseña para autenticación (si no se usa clave privada) |
+| `privateKey` | string | No        | Clave privada para autenticación (formato OpenSSH)         |
+| `passphrase` | string | No        | Frase de contraseña para clave privada cifrada             |
+
+Salida [#salida-10]
+
+| Parámetro      | Tipo   | Descripción                                           |
+| -------------- | ------ | ----------------------------------------------------- |
+| `hostname`     | string | Nombre de host del servidor                           |
+| `os`           | string | Sistema operativo (p. ej., Linux, Darwin)             |
+| `architecture` | string | Arquitectura de CPU (p. ej., x64, arm64)              |
+| `uptime`       | number | Tiempo de actividad del sistema en segundos           |
+| `memory`       | json   | Información de memoria (total, libre, usada)          |
+| `diskSpace`    | json   | Información de espacio en disco (total, libre, usado) |
+| `message`      | string | Mensaje de estado de la operación                     |
+
+ssh_read_file_content [#ssh_read_file_content]
+
+Leer el contenido de un archivo remoto
+
+Entrada [#entrada-11]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                |
+| ------------ | ------ | ----------- | ---------------------------------------------------------- |
+| `host`       | string | Sí          | Nombre de host o dirección IP del servidor SSH             |
+| `port`       | number | Sí          | Puerto del servidor SSH (predeterminado: 22)               |
+| `username`   | string | Sí          | Nombre de usuario SSH                                      |
+| `password`   | string | No          | Contraseña para autenticación (si no se usa clave privada) |
+| `privateKey` | string | No          | Clave privada para autenticación (formato OpenSSH)         |
+| `passphrase` | string | No          | Frase de contraseña para clave privada cifrada             |
+| `path`       | string | Sí          | Ruta del archivo remoto a leer                             |
+| `encoding`   | string | No          | Codificación del archivo (predeterminado: utf-8)           |
+| `maxSize`    | number | No          | Tamaño máximo de archivo a leer en MB (predeterminado: 10) |
+
+Salida [#salida-11]
+
+| Parámetro    | Tipo   | Descripción                                |
+| ------------ | ------ | ------------------------------------------ |
+| `content`    | string | Contenido del archivo como cadena de texto |
+| `size`       | number | Tamaño del archivo en bytes                |
+| `lines`      | number | Número de líneas en el archivo             |
+| `remotePath` | string | Ruta del archivo remoto                    |
+| `message`    | string | Mensaje de estado de la operación          |
+
+ssh_write_file_content [#ssh_write_file_content]
+
+Escribir o añadir contenido a un archivo remoto
+
+Entrada [#entrada-12]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                    |
+| ------------- | ------ | ----------- | ------------------------------------------------------------------------------ |
+| `host`        | string | Sí          | Nombre de host o dirección IP del servidor SSH                                 |
+| `port`        | number | Sí          | Puerto del servidor SSH (predeterminado: 22)                                   |
+| `username`    | string | Sí          | Nombre de usuario SSH                                                          |
+| `password`    | string | No          | Contraseña para autenticación (si no se usa clave privada)                     |
+| `privateKey`  | string | No          | Clave privada para autenticación (formato OpenSSH)                             |
+| `passphrase`  | string | No          | Frase de contraseña para clave privada cifrada                                 |
+| `path`        | string | Sí          | Ruta del archivo remoto donde escribir                                         |
+| `content`     | string | Sí          | Contenido a escribir en el archivo                                             |
+| `mode`        | string | No          | Modo de escritura: sobrescribir, añadir o crear (predeterminado: sobrescribir) |
+| `permissions` | string | No          | Permisos del archivo (p. ej., 0644)                                            |
+
+Salida [#salida-12]
+
+| Parámetro    | Tipo    | Descripción                             |
+| ------------ | ------- | --------------------------------------- |
+| `written`    | boolean | Si el archivo se escribió correctamente |
+| `remotePath` | string  | Ruta del archivo                        |
+| `size`       | number  | Tamaño final del archivo en bytes       |
+| `message`    | string  | Mensaje de estado de la operación       |
+7:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$Le",null,{"content":"$f"}]}],"$L10"]}],"$L11","$L12"]}]
+8:["$","$L13",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L14",null,{"type":"ssh","color":"#000000"}],"\n","\n",["$","p",null,{"children":[["$","$L15",null,{"href":"https://en.wikipedia.org/wiki/Secure_Shell","children":"SSH (Secure Shell)"}]," es un protocolo ampliamente utilizado para conectarse de forma segura a servidores remotos, permitiéndote ejecutar comandos, transferir archivos y gestionar sistemas a través de canales cifrados."]}],"\n",["$","p",null,{"children":"Con el soporte SSH en Aptlystar, tus agentes pueden:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Ejecutar comandos remotos"}],": Ejecuta comandos de shell en cualquier servidor accesible por SSH"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Subir y ejecutar scripts"}],": Transfiere y ejecuta fácilmente scripts de múltiples líneas para automatización avanzada"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Transferir archivos de forma segura"}],": Sube y descarga archivos como parte de tus flujos de trabajo (próximamente o mediante comando)"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Automatizar la gestión de servidores"}],": Realiza actualizaciones, mantenimiento, monitoreo, despliegues y tareas de configuración de forma programática"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Usar autenticación flexible"}],": Conéctate con autenticación por contraseña o clave privada, incluyendo soporte para claves cifradas"]}],"\n"]}],"\n",["$","p",null,{"children":"Las siguientes herramientas SSH de Aptlystar permiten a tus agentes interactuar con servidores como parte de automatizaciones más amplias:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","code",null,{"children":"ssh_execute_command"}],": Ejecuta cualquier comando shell de forma remota y captura la salida, el estado y los errores."]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"ssh_execute_script"}],": Sube y ejecuta un script completo de múltiples líneas en el sistema remoto."]}],"\n",["$","li",null,{"children":"(Próximamente herramientas adicionales, como la transferencia de archivos)."}],"\n"]}],"\n",["$","p",null,{"children":"Al integrar SSH en los flujos de trabajo de tus agentes, puedes automatizar el acceso seguro, las operaciones remotas y la orquestación de servidores, agilizando DevOps, automatización de TI y gestión remota personalizada, todo desde Aptlystar."}],"\n","\n",["$","$L16",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Ejecuta comandos, transfiere archivos y gestiona servidores remotos vía SSH. Compatible con autenticación por contraseña y clave privada para acceso seguro al servidor."}],"\n",["$","$L16",null,{"as":"h2","id":"herramientas","children":"Herramientas"}],"\n",["$","$L16",null,{"as":"h3","id":"ssh_execute_command","children":["$","code",null,{"children":"ssh_execute_command"}]}],"\n",["$","p",null,{"children":"Ejecuta un comando shell en un servidor SSH remoto"}],"\n",["$","$L16",null,{"as":"h4","id":"entrada","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],"$L17","$L18","$L19","$L1a","$L1b"]}]]}]}],"\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65"]}]}]
+9:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+a:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+b:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+c:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+d:["$","$L66",null,{"children":["$","$67",null,{"name":"Next.MetadataOutlet","children":"$@68"}]}]
+10:["$","$L69",null,{}]
+11:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","width":"24","height":"24","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","rect",null,{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],["$","path",null,{"d":"M6 8h.01"}],["$","path",null,{"d":"M10 8h.01"}],["$","path",null,{"d":"M14 8h8"}],["$","path",null,{"d":"M6 12l3 3-3 3"}],["$","path",null,{"d":"M12 18h6"}]]}]}],["$","$L6a",null,{"className":"mb-0 min-w-0 flex-1","children":"SSH"}]]}]
+12:["$","$L6b",null,{"children":"Conéctate a servidores remotos vía SSH"}]
+17:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}]
+18:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}]
+19:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}]
+1a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"command"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Comando shell para ejecutar en el servidor remoto"}]]}]
+1b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workingDirectory"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Directorio de trabajo para la ejecución del comando"}]]}]
+1c:["$","$L16",null,{"as":"h4","id":"salida","children":"Salida"}]
+1d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stdout"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Salida estándar del comando"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stderr"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Salida de error estándar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"exitCode"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Código de salida del comando"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el comando tuvo éxito (código de salida 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+1e:["$","$L16",null,{"as":"h3","id":"ssh_execute_script","children":["$","code",null,{"children":"ssh_execute_script"}]}]
+1f:["$","p",null,{"children":"Subir y ejecutar un script de múltiples líneas en un servidor SSH remoto"}]
+20:["$","$L16",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+21:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"script"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Contenido del script a ejecutar (bash, python, etc.)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"interpreter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Intérprete del script (predeterminado: /bin/bash)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workingDirectory"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Directorio de trabajo para la ejecución del script"}]]}]]}]]}]}]
+22:["$","$L16",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+23:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stdout"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Salida estándar del script"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stderr"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Salida de error estándar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"exitCode"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Código de salida del script"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el script tuvo éxito (código de salida 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scriptPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta temporal donde se subió el script"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+24:["$","$L16",null,{"as":"h3","id":"ssh_check_command_exists","children":["$","code",null,{"children":"ssh_check_command_exists"}]}]
+25:["$","p",null,{"children":"Comprobar si un comando/programa existe en el servidor SSH remoto"}]
+26:["$","$L16",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+27:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commandName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del comando a comprobar (p. ej., docker, git, python3)"}]]}]]}]]}]}]
+28:["$","$L16",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+29:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commandExists"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el comando existe o no"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commandPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta completa al comando (si se encuentra)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Salida de la versión del comando (si es aplicable)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+2a:["$","$L16",null,{"as":"h3","id":"ssh_upload_file","children":["$","code",null,{"children":"ssh_upload_file"}]}]
+2b:["$","p",null,{"children":"Subir un archivo a un servidor SSH remoto"}]
+2c:["$","$L16",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+2d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Contenido del archivo a subir (codificado en base64 para archivos binarios)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del archivo que se está subiendo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta de destino en el servidor remoto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Permisos del archivo (p. ej., 0644)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"overwrite"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si se deben sobrescribir archivos existentes (predeterminado: true)"}]]}]]}]]}]}]
+2e:["$","$L16",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+2f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uploaded"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indica si el archivo se subió correctamente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta final en el servidor remoto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tamaño del archivo en bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+30:["$","$L16",null,{"as":"h3","id":"ssh_download_file","children":["$","code",null,{"children":"ssh_download_file"}]}]
+31:["$","p",null,{"children":"Descargar un archivo desde un servidor SSH remoto"}]
+32:["$","$L16",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+33:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta del archivo en el servidor remoto"}]]}]]}]]}]}]
+34:["$","$L16",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+35:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"downloaded"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indica si el archivo se descargó correctamente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido del archivo (codificado en base64 para archivos binarios)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del archivo descargado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta de origen en el servidor remoto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tamaño del archivo en bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+36:["$","$L16",null,{"as":"h3","id":"ssh_list_directory","children":["$","code",null,{"children":"ssh_list_directory"}]}]
+37:["$","p",null,{"children":"Listar archivos y directorios en un directorio remoto"}]
+38:["$","$L16",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta del directorio remoto a listar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"detailed"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Incluir detalles del archivo (tamaño, permisos, fecha de modificación)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recursive"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Listar subdirectorios recursivamente (predeterminado: false)"}]]}]]}]]}]}]
+3a:["$","$L16",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+3b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entries"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de entradas de archivos y directorios"}]]}]}]]}]}]
+3c:["$","$L16",null,{"as":"h3","id":"ssh_check_file_exists","children":["$","code",null,{"children":"ssh_check_file_exists"}]}]
+3d:["$","p",null,{"children":"Comprobar si un archivo o directorio existe en el servidor SSH remoto"}]
+3e:["$","$L16",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta del archivo o directorio remoto a comprobar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo esperado: archivo, directorio o cualquiera (predeterminado: cualquiera)"}]]}]]}]]}]}]
+40:["$","$L16",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"exists"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la ruta existe"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Tipo de ruta (archivo, directorio, enlace simbólico, no_encontrado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tamaño del archivo si es un archivo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permisos del archivo (p. ej., 0755)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"modified"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de última modificación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+42:["$","$L16",null,{"as":"h3","id":"ssh_create_directory","children":["$","code",null,{"children":"ssh_create_directory"}]}]
+43:["$","p",null,{"children":"Crear un directorio en el servidor SSH remoto"}]
+44:["$","$L16",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta del directorio a crear"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recursive"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Crear directorios padre si no existen (predeterminado: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Permisos del directorio (predeterminado: 0755)"}]]}]]}]]}]}]
+46:["$","$L16",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el directorio se creó correctamente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta del directorio creado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alreadyExists"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el directorio ya existía"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+48:["$","$L16",null,{"as":"h3","id":"ssh_delete_file","children":["$","code",null,{"children":"ssh_delete_file"}]}]
+49:["$","p",null,{"children":"Eliminar un archivo o directorio del servidor SSH remoto"}]
+4a:["$","$L16",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recursive"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Eliminar directorios recursivamente (predeterminado: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Forzar eliminación sin confirmación (predeterminado: false)"}]]}]]}]]}]}]
+4c:["$","$L16",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la ruta se eliminó correctamente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta eliminada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+4e:["$","$L16",null,{"as":"h3","id":"ssh_move_rename","children":["$","code",null,{"children":"ssh_move_rename"}]}]
+4f:["$","p",null,{"children":"Mover o renombrar un archivo o directorio en el servidor SSH remoto"}]
+50:["$","$L16",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourcePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta actual del archivo o directorio"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destinationPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nueva ruta para el archivo o directorio"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"overwrite"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Sobrescribir destino si existe (predeterminado: false)"}]]}]]}]]}]}]
+52:["$","$L16",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"moved"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la operación fue exitosa"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourcePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta original"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destinationPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nueva ruta"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+54:["$","$L16",null,{"as":"h3","id":"ssh_get_system_info","children":["$","code",null,{"children":"ssh_get_system_info"}]}]
+55:["$","p",null,{"children":"Obtener información del sistema desde el servidor SSH remoto"}]
+56:["$","$L16",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Requerido"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}]]}]]}]}]
+58:["$","$L16",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hostname"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre de host del servidor"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"os"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sistema operativo (p. ej., Linux, Darwin)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"architecture"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Arquitectura de CPU (p. ej., x64, arm64)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uptime"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tiempo de actividad del sistema en segundos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"memory"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Información de memoria (total, libre, usada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"diskSpace"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Información de espacio en disco (total, libre, usado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+5a:["$","$L16",null,{"as":"h3","id":"ssh_read_file_content","children":["$","code",null,{"children":"ssh_read_file_content"}]}]
+5b:["$","p",null,{"children":"Leer el contenido de un archivo remoto"}]
+5c:["$","$L16",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta del archivo remoto a leer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"encoding"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Codificación del archivo (predeterminado: utf-8)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tamaño máximo de archivo a leer en MB (predeterminado: 10)"}]]}]]}]]}]}]
+5e:["$","$L16",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido del archivo como cadena de texto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tamaño del archivo en bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lines"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de líneas en el archivo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta del archivo remoto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+60:["$","$L16",null,{"as":"h3","id":"ssh_write_file_content","children":["$","code",null,{"children":"ssh_write_file_content"}]}]
+61:["$","p",null,{"children":"Escribir o añadir contenido a un archivo remoto"}]
+62:["$","$L16",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de host o dirección IP del servidor SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"port"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Puerto del servidor SSH (predeterminado: 22)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de usuario SSH"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación (si no se usa clave privada)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave privada para autenticación (formato OpenSSH)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passphrase"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Frase de contraseña para clave privada cifrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ruta del archivo remoto donde escribir"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Contenido a escribir en el archivo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Modo de escritura: sobrescribir, añadir o crear (predeterminado: sobrescribir)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Permisos del archivo (p. ej., 0644)"}]]}]]}]]}]}]
+64:["$","$L16",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"written"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el archivo se escribió correctamente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remotePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ruta del archivo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tamaño final del archivo en bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}]]}]]}]}]
+68:null

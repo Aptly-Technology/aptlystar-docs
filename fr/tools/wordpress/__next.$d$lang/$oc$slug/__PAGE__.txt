@@ -1,0 +1,783 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+35:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+3a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+3b:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+3c:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+3d:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+dd:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+de:"$Sreact.suspense"
+e0:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+e1:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+e2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"WordPress\",\"description\":\"Gérer le contenu WordPress\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/wordpress\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/wordpress\"},\"inLanguage\":\"fr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/wordpress\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"WordPress\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/wordpress\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instructions-dutilisation","title":"Instructions d'utilisation"},{"depth":2,"url":"#outils","title":"Outils"},{"depth":3,"url":"#wordpress_create_post","title":["$","code",null,{"children":"wordpress_create_post"}]},{"depth":4,"url":"#entrée","title":"Entrée"},{"depth":4,"url":"#sortie","title":"Sortie"},{"depth":3,"url":"#wordpress_update_post","title":["$","code",null,{"children":"wordpress_update_post"}]},{"depth":4,"url":"#entrée-1","title":"Entrée"},{"depth":4,"url":"#sortie-1","title":"Sortie"},{"depth":3,"url":"#wordpress_delete_post","title":["$","code",null,{"children":"wordpress_delete_post"}]},{"depth":4,"url":"#entrée-2","title":"Entrée"},{"depth":4,"url":"#sortie-2","title":"Sortie"},{"depth":3,"url":"#wordpress_get_post","title":["$","code",null,{"children":"wordpress_get_post"}]},{"depth":4,"url":"#entrée-3","title":"Entrée"},{"depth":4,"url":"#sortie-3","title":"Sortie"},{"depth":3,"url":"#wordpress_list_posts","title":["$","code",null,{"children":"wordpress_list_posts"}]},{"depth":4,"url":"#entrée-4","title":"Entrée"},{"depth":4,"url":"#sortie-4","title":"Sortie"},{"depth":3,"url":"#wordpress_create_page","title":["$","code",null,{"children":"wordpress_create_page"}]},{"depth":4,"url":"#entrée-5","title":"Entrée"},{"depth":4,"url":"#sortie-5","title":"Sortie"},{"depth":3,"url":"#wordpress_update_page","title":["$","code",null,{"children":"wordpress_update_page"}]},{"depth":4,"url":"#entrée-6","title":"Entrée"},{"depth":4,"url":"#sortie-6","title":"Sortie"},{"depth":3,"url":"#wordpress_delete_page","title":["$","code",null,{"children":"wordpress_delete_page"}]},{"depth":4,"url":"#entrée-7","title":"Entrée"},{"depth":4,"url":"#sortie-7","title":"Sortie"},{"depth":3,"url":"#wordpress_get_page","title":["$","code",null,{"children":"wordpress_get_page"}]},{"depth":4,"url":"#entrée-8","title":"Entrée"},{"depth":4,"url":"#sortie-8","title":"Sortie"},{"depth":3,"url":"#wordpress_list_pages","title":["$","code",null,{"children":"wordpress_list_pages"}]},{"depth":4,"url":"#entrée-9","title":"Entrée"},{"depth":4,"url":"#sortie-9","title":"Sortie"},{"depth":3,"url":"#wordpress_upload_media","title":["$","code",null,{"children":"wordpress_upload_media"}]},{"depth":4,"url":"#entrée-10","title":"Entrée"},{"depth":4,"url":"#sortie-10","title":"Sortie"},{"depth":3,"url":"#wordpress_get_media","title":["$","code",null,{"children":"wordpress_get_media"}]},{"depth":4,"url":"#entrée-11","title":"Entrée"},{"depth":4,"url":"#sortie-11","title":"Sortie"},{"depth":3,"url":"#wordpress_list_media","title":"$L3"},{"depth":4,"url":"#entrée-12","title":"$L4"},{"depth":4,"url":"#sortie-12","title":"$L5"},{"depth":3,"url":"#wordpress_delete_media","title":"$L6"},{"depth":4,"url":"#entrée-13","title":"$L7"},{"depth":4,"url":"#sortie-13","title":"$L8"},{"depth":3,"url":"#wordpress_create_comment","title":"$L9"},{"depth":4,"url":"#entrée-14","title":"$La"},{"depth":4,"url":"#sortie-14","title":"$Lb"},{"depth":3,"url":"#wordpress_list_comments","title":"$Lc"},{"depth":4,"url":"#entrée-15","title":"$Ld"},{"depth":4,"url":"#sortie-15","title":"$Le"},{"depth":3,"url":"#wordpress_update_comment","title":"$Lf"},{"depth":4,"url":"#entrée-16","title":"$L10"},{"depth":4,"url":"#sortie-16","title":"$L11"},{"depth":3,"url":"#wordpress_delete_comment","title":"$L12"},{"depth":4,"url":"#entrée-17","title":"$L13"},{"depth":4,"url":"#sortie-17","title":"$L14"},{"depth":3,"url":"#wordpress_create_category","title":"$L15"},{"depth":4,"url":"#entrée-18","title":"$L16"},{"depth":4,"url":"#sortie-18","title":"$L17"},{"depth":3,"url":"#wordpress_list_categories","title":"$L18"},{"depth":4,"url":"#entrée-19","title":"$L19"},{"depth":4,"url":"#sortie-19","title":"$L1a"},{"depth":3,"url":"#wordpress_create_tag","title":"$L1b"},{"depth":4,"url":"#entrée-20","title":"$L1c"},{"depth":4,"url":"#sortie-20","title":"$L1d"},{"depth":3,"url":"#wordpress_list_tags","title":"$L1e"},{"depth":4,"url":"#entrée-21","title":"$L1f"},{"depth":4,"url":"#sortie-21","title":"$L20"},{"depth":3,"url":"#wordpress_get_current_user","title":"$L21"},{"depth":4,"url":"#entrée-22","title":"$L22"},{"depth":4,"url":"#sortie-22","title":"$L23"},{"depth":3,"url":"#wordpress_list_users","title":"$L24"},{"depth":4,"url":"#entrée-23","title":"$L25"},{"depth":4,"url":"#sortie-23","title":"$L26"},{"depth":3,"url":"#wordpress_get_user","title":"$L27"},{"depth":4,"url":"#entrée-24","title":"$L28"},{"depth":4,"url":"#sortie-24","title":"$L29"},{"depth":3,"url":"#wordpress_search_content","title":"$L2a"},{"depth":4,"url":"#entrée-25","title":"$L2b"},{"depth":4,"url":"#sortie-25","title":"$L2c"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L2d"},"children":["$L2e","$L2f"]}]],["$L30","$L31","$L32","$L33"],"$L34"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"wordpress_list_media"}]
+4:"Entrée"
+5:"Sortie"
+6:["$","code",null,{"children":"wordpress_delete_media"}]
+7:"Entrée"
+8:"Sortie"
+9:["$","code",null,{"children":"wordpress_create_comment"}]
+a:"Entrée"
+b:"Sortie"
+c:["$","code",null,{"children":"wordpress_list_comments"}]
+d:"Entrée"
+e:"Sortie"
+f:["$","code",null,{"children":"wordpress_update_comment"}]
+10:"Entrée"
+11:"Sortie"
+12:["$","code",null,{"children":"wordpress_delete_comment"}]
+13:"Entrée"
+14:"Sortie"
+15:["$","code",null,{"children":"wordpress_create_category"}]
+16:"Entrée"
+17:"Sortie"
+18:["$","code",null,{"children":"wordpress_list_categories"}]
+19:"Entrée"
+1a:"Sortie"
+1b:["$","code",null,{"children":"wordpress_create_tag"}]
+1c:"Entrée"
+1d:"Sortie"
+1e:["$","code",null,{"children":"wordpress_list_tags"}]
+1f:"Entrée"
+20:"Sortie"
+21:["$","code",null,{"children":"wordpress_get_current_user"}]
+22:"Entrée"
+23:"Sortie"
+24:["$","code",null,{"children":"wordpress_list_users"}]
+25:"Entrée"
+26:"Sortie"
+27:["$","code",null,{"children":"wordpress_get_user"}]
+28:"Entrée"
+29:"Sortie"
+2a:["$","code",null,{"children":"wordpress_search_content"}]
+2b:"Entrée"
+2c:"Sortie"
+2d:null
+36:T82da,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="wordpress" color="#21759B" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[WordPress](https://wordpress.org/) est le système de gestion de contenu le plus utilisé au monde, facilitant la publication et la gestion de sites web, blogs et tous types de contenus en ligne. Avec WordPress, vous pouvez créer et mettre à jour des articles ou des pages, organiser votre contenu avec des catégories et des étiquettes, gérer des fichiers multimédias, modérer des commentaires et gérer des comptes utilisateurs, vous permettant ainsi de faire fonctionner aussi bien des blogs personnels que des sites d'entreprise complexes.
+
+L'intégration de Aptlystar avec WordPress permet à vos agents d'automatiser des tâches essentielles du site web. Vous pouvez créer par programmation de nouveaux articles de blog avec des titres, contenus, catégories, étiquettes et images à la une spécifiques. La mise à jour d'articles existants (comme la modification de leur contenu, titre ou statut de publication) est simple. Vous pouvez également publier ou enregistrer du contenu comme brouillon, gérer des pages statiques, travailler avec des téléchargements de médias, superviser les commentaires et attribuer du contenu aux taxonomies organisationnelles pertinentes.
+
+En connectant WordPress à vos automatisations, Aptlystar permet à vos agents de rationaliser la publication de contenu, les flux de travail éditoriaux et la gestion quotidienne du site, vous aidant ainsi à maintenir votre site web à jour, organisé et sécurisé sans effort manuel.
+
+{/* MANUAL-CONTENT-END */}
+
+Instructions d'utilisation [#instructions-dutilisation]
+
+Intégrez avec WordPress pour créer, mettre à jour et gérer des articles, pages, médias, commentaires, catégories, étiquettes et utilisateurs. Prend en charge les sites WordPress.com via OAuth et les sites WordPress auto-hébergés en utilisant l'authentification par mots de passe d'application.
+
+Outils [#outils]
+
+wordpress_create_post [#wordpress_create_post]
+
+Créer un nouvel article de blog sur WordPress.com
+
+Entrée [#entrée]
+
+| Paramètre       | Type   | Obligatoire | Description                                                                  |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`        | chaîne | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `title`         | chaîne | Oui         | Titre de l'article                                                           |
+| `content`       | chaîne | Non         | Contenu de l'article (HTML ou texte brut)                                    |
+| `status`        | chaîne | Non         | Statut de l'article : publish, draft, pending, private, ou future            |
+| `excerpt`       | chaîne | Non         | Extrait de l'article                                                         |
+| `categories`    | chaîne | Non         | IDs de catégories séparés par des virgules                                   |
+| `tags`          | chaîne | Non         | IDs d'étiquettes séparés par des virgules                                    |
+| `featuredMedia` | nombre | Non         | ID du média de l'image à la une                                              |
+| `slug`          | chaîne | Non         | Slug URL pour l'article                                                      |
+
+Sortie [#sortie]
+
+| Paramètre | Type   | Description    |
+| --------- | ------ | -------------- |
+| `post`    | object | L'article créé |
+
+wordpress_update_post [#wordpress_update_post]
+
+Mettre à jour un article de blog existant sur WordPress.com
+
+Entrée [#entrée-1]
+
+| Paramètre       | Type   | Obligatoire | Description                                                                  |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`        | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `postId`        | number | Oui         | L'ID de l'article à mettre à jour                                            |
+| `title`         | string | Non         | Titre de l'article                                                           |
+| `content`       | string | Non         | Contenu de l'article (HTML ou texte brut)                                    |
+| `status`        | string | Non         | Statut de l'article : publish, draft, pending, private, ou future            |
+| `excerpt`       | string | Non         | Extrait de l'article                                                         |
+| `categories`    | string | Non         | IDs de catégories séparés par des virgules                                   |
+| `tags`          | string | Non         | IDs de tags séparés par des virgules                                         |
+| `featuredMedia` | number | Non         | ID du média de l'image à la une                                              |
+| `slug`          | string | Non         | Slug URL pour l'article                                                      |
+
+Sortie [#sortie-1]
+
+| Paramètre | Type   | Description          |
+| --------- | ------ | -------------------- |
+| `post`    | object | L'article mis à jour |
+
+wordpress_delete_post [#wordpress_delete_post]
+
+Supprimer un article de blog de WordPress.com
+
+Entrée [#entrée-2]
+
+| Paramètre | Type    | Obligatoire | Description                                                                  |
+| --------- | ------- | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string  | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `postId`  | number  | Oui         | L'ID de l'article à supprimer                                                |
+| `force`   | boolean | Non         | Contourner la corbeille et forcer la suppression définitive                  |
+
+Sortie [#sortie-2]
+
+| Paramètre | Type    | Description                         |
+| --------- | ------- | ----------------------------------- |
+| `deleted` | boolean | Indique si l'article a été supprimé |
+| `post`    | object  | L'article supprimé                  |
+
+wordpress_get_post [#wordpress_get_post]
+
+Obtenir un seul article de blog WordPress.com par ID
+
+Entrée [#entrée-3]
+
+| Paramètre | Type   | Obligatoire | Description                                                                      |
+| --------- | ------ | ----------- | -------------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com) |
+| `postId`  | number | Oui         | L'ID de l'article à récupérer                                                    |
+
+Sortie [#sortie-3]
+
+| Paramètre | Type   | Description        |
+| --------- | ------ | ------------------ |
+| `post`    | object | L'article récupéré |
+
+wordpress_list_posts [#wordpress_list_posts]
+
+Lister les articles de blog WordPress.com avec filtres optionnels
+
+Entrée [#entrée-4]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                      |
+| ------------ | ------ | ----------- | -------------------------------------------------------------------------------- |
+| `siteId`     | string | Oui         | ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com) |
+| `perPage`    | number | Non         | Nombre d'articles par page (par défaut : 10, max : 100)                          |
+| `page`       | number | Non         | Numéro de page pour la pagination                                                |
+| `status`     | string | Non         | Filtre par statut d'article : publish, draft, pending, private                   |
+| `author`     | number | Non         | Filtrer par ID d'auteur                                                          |
+| `categories` | string | Non         | IDs de catégories séparés par des virgules pour filtrer                          |
+| `tags`       | string | Non         | IDs de tags séparés par des virgules pour filtrer                                |
+| `search`     | string | Non         | Terme de recherche pour filtrer les articles                                     |
+| `orderBy`    | string | Non         | Trier par champ : date, id, title, slug, modified                                |
+| `order`      | string | Non         | Direction du tri : asc ou desc                                                   |
+
+Sortie [#sortie-4]
+
+| Paramètre | Type  | Description        |
+| --------- | ----- | ------------------ |
+| `posts`   | array | Liste des articles |
+
+wordpress_create_page [#wordpress_create_page]
+
+Créer une nouvelle page sur WordPress.com
+
+Entrée [#entrée-5]
+
+| Paramètre       | Type   | Obligatoire | Description                                                                  |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`        | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `title`         | string | Oui         | Titre de la page                                                             |
+| `content`       | string | Non         | Contenu de la page (HTML ou texte brut)                                      |
+| `status`        | string | Non         | Statut de la page : publish, draft, pending, private                         |
+| `excerpt`       | string | Non         | Extrait de la page                                                           |
+| `parent`        | number | Non         | ID de la page parente pour les pages hiérarchiques                           |
+| `menuOrder`     | number | Non         | Ordre dans le menu des pages                                                 |
+| `featuredMedia` | number | Non         | ID du média de l'image mise en avant                                         |
+| `slug`          | string | Non         | Slug URL pour la page                                                        |
+
+Sortie [#sortie-5]
+
+| Paramètre | Type   | Description   |
+| --------- | ------ | ------------- |
+| `page`    | object | La page créée |
+
+wordpress_update_page [#wordpress_update_page]
+
+Mettre à jour une page existante sur WordPress.com
+
+Entrée [#entrée-6]
+
+| Paramètre       | Type   | Obligatoire | Description                                                                  |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`        | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `pageId`        | number | Oui         | L'ID de la page à mettre à jour                                              |
+| `title`         | string | Non         | Titre de la page                                                             |
+| `content`       | string | Non         | Contenu de la page (HTML ou texte brut)                                      |
+| `status`        | string | Non         | Statut de la page : publish, draft, pending, private                         |
+| `excerpt`       | string | Non         | Extrait de la page                                                           |
+| `parent`        | number | Non         | ID de la page parente pour les pages hiérarchiques                           |
+| `menuOrder`     | number | Non         | Ordre dans le menu des pages                                                 |
+| `featuredMedia` | number | Non         | ID du média de l'image mise en avant                                         |
+| `slug`          | string | Non         | Slug URL pour la page                                                        |
+
+Sortie [#sortie-6]
+
+| Paramètre | Type  | Description         |
+| --------- | ----- | ------------------- |
+| `page`    | objet | La page mise à jour |
+
+wordpress_delete_page [#wordpress_delete_page]
+
+Supprimer une page de WordPress.com
+
+Entrée [#entrée-7]
+
+| Paramètre | Type    | Obligatoire | Description                                                                  |
+| --------- | ------- | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | chaîne  | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `pageId`  | nombre  | Oui         | L'ID de la page à supprimer                                                  |
+| `force`   | booléen | Non         | Contourner la corbeille et forcer la suppression définitive                  |
+
+Sortie [#sortie-7]
+
+| Paramètre | Type    | Description                        |
+| --------- | ------- | ---------------------------------- |
+| `deleted` | booléen | Indique si la page a été supprimée |
+| `page`    | objet   | La page supprimée                  |
+
+wordpress_get_page [#wordpress_get_page]
+
+Obtenir une seule page de WordPress.com par ID
+
+Entrée [#entrée-8]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | chaîne | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `pageId`  | nombre | Oui         | L'ID de la page à récupérer                                                  |
+
+Sortie [#sortie-8]
+
+| Paramètre | Type  | Description       |
+| --------- | ----- | ----------------- |
+| `page`    | objet | La page récupérée |
+
+wordpress_list_pages [#wordpress_list_pages]
+
+Lister les pages de WordPress.com avec filtres optionnels
+
+Entrée [#entrée-9]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | chaîne | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `perPage` | nombre | Non         | Nombre de pages par requête (par défaut : 10, max : 100)                     |
+| `page`    | nombre | Non         | Numéro de page pour la pagination                                            |
+| `status`  | chaîne | Non         | Filtre de statut de page : publish, draft, pending, private                  |
+| `parent`  | nombre | Non         | Filtrer par ID de page parente                                               |
+| `search`  | chaîne | Non         | Terme de recherche pour filtrer les pages                                    |
+| `orderBy` | chaîne | Non         | Trier par champ : date, id, title, slug, modified, menu\_order               |
+| `order`   | chaîne | Non         | Direction de tri : asc ou desc                                               |
+
+Sortie [#sortie-9]
+
+| Paramètre | Type  | Description     |
+| --------- | ----- | --------------- |
+| `pages`   | array | Liste des pages |
+
+wordpress_upload_media [#wordpress_upload_media]
+
+Télécharger un fichier média (image, vidéo, document) sur WordPress.com
+
+Entrée [#entrée-10]
+
+| Paramètre     | Type    | Obligatoire | Description                                                                  |
+| ------------- | ------- | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`      | chaîne  | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `file`        | fichier | Non         | Fichier à télécharger (objet UserFile)                                       |
+| `filename`    | chaîne  | Non         | Remplacement optionnel du nom de fichier (ex., image.jpg)                    |
+| `title`       | chaîne  | Non         | Titre du média                                                               |
+| `caption`     | chaîne  | Non         | Légende du média                                                             |
+| `altText`     | chaîne  | Non         | Texte alternatif pour l'accessibilité                                        |
+| `description` | chaîne  | Non         | Description du média                                                         |
+
+Sortie [#sortie-10]
+
+| Paramètre | Type   | Description                |
+| --------- | ------ | -------------------------- |
+| `media`   | object | L'élément média téléchargé |
+
+wordpress_get_media [#wordpress_get_media]
+
+Obtenir un élément média unique de WordPress.com par ID
+
+Entrée [#entrée-11]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `mediaId` | number | Oui         | L'ID de l'élément média à récupérer                                          |
+
+Sortie [#sortie-11]
+
+| Paramètre | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `media`   | object | L'élément média récupéré |
+
+wordpress_list_media [#wordpress_list_media]
+
+Lister les éléments multimédias de la bibliothèque multimédia WordPress.com
+
+Entrée [#entrée-12]
+
+| Paramètre   | Type   | Obligatoire | Description                                                                  |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`    | chaîne | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `perPage`   | nombre | Non         | Nombre d'éléments multimédias par requête (par défaut : 10, max : 100)       |
+| `page`      | nombre | Non         | Numéro de page pour la pagination                                            |
+| `search`    | chaîne | Non         | Terme de recherche pour filtrer les médias                                   |
+| `mediaType` | chaîne | Non         | Filtrer par type de média : image, vidéo, audio, application                 |
+| `mimeType`  | chaîne | Non         | Filtrer par type MIME spécifique (ex., image/jpeg)                           |
+| `orderBy`   | chaîne | Non         | Trier par champ : date, id, titre, slug                                      |
+| `order`     | chaîne | Non         | Direction du tri : asc ou desc                                               |
+
+Sortie [#sortie-12]
+
+| Paramètre | Type    | Description                    |
+| --------- | ------- | ------------------------------ |
+| `media`   | tableau | Liste des éléments multimédias |
+
+wordpress_delete_media [#wordpress_delete_media]
+
+Supprimer un élément multimédia de WordPress.com
+
+Entrée [#entrée-13]
+
+| Paramètre | Type    | Obligatoire | Description                                                                                   |
+| --------- | ------- | ----------- | --------------------------------------------------------------------------------------------- |
+| `siteId`  | chaîne  | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)                  |
+| `mediaId` | nombre  | Oui         | L'ID de l'élément multimédia à supprimer                                                      |
+| `force`   | booléen | Non         | Forcer la suppression (les médias n'ont pas de corbeille, donc la suppression est permanente) |
+
+Sortie [#sortie-13]
+
+| Paramètre | Type    | Description                        |
+| --------- | ------- | ---------------------------------- |
+| `deleted` | boolean | Indique si le média a été supprimé |
+| `media`   | object  | L'élément média supprimé           |
+
+wordpress_create_comment [#wordpress_create_comment]
+
+Créer un nouveau commentaire sur un article WordPress.com
+
+Entrée [#entrée-14]
+
+| Paramètre     | Type   | Obligatoire | Description                                                                  |
+| ------------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`      | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `postId`      | number | Oui         | L'ID de l'article à commenter                                                |
+| `content`     | string | Oui         | Contenu du commentaire                                                       |
+| `parent`      | number | Non         | ID du commentaire parent pour les réponses                                   |
+| `authorName`  | string | Non         | Nom d'affichage de l'auteur du commentaire                                   |
+| `authorEmail` | string | Non         | Email de l'auteur du commentaire                                             |
+| `authorUrl`   | string | Non         | URL de l'auteur du commentaire                                               |
+
+Sortie [#sortie-14]
+
+| Paramètre | Type   | Description         |
+| --------- | ------ | ------------------- |
+| `comment` | object | Le commentaire créé |
+
+wordpress_list_comments [#wordpress_list_comments]
+
+Lister les commentaires de WordPress.com avec filtres optionnels
+
+Entrée [#entrée-15]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `perPage` | number | Non         | Nombre de commentaires par requête (par défaut : 10, max : 100)              |
+| `page`    | number | Non         | Numéro de page pour la pagination                                            |
+| `postId`  | number | Non         | Filtrer par ID d'article                                                     |
+| `status`  | string | Non         | Filtrer par statut de commentaire : approved, hold, spam, trash              |
+| `search`  | string | Non         | Terme de recherche pour filtrer les commentaires                             |
+| `orderBy` | string | Non         | Trier par champ : date, id, parent                                           |
+| `order`   | string | Non         | Direction du tri : asc ou desc                                               |
+
+Sortie [#sortie-15]
+
+| Paramètre  | Type  | Description            |
+| ---------- | ----- | ---------------------- |
+| `comments` | array | Liste des commentaires |
+
+wordpress_update_comment [#wordpress_update_comment]
+
+Mettre à jour un commentaire dans WordPress.com (contenu ou statut)
+
+Entrée [#entrée-16]
+
+| Paramètre   | Type   | Obligatoire | Description                                                                  |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`    | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `commentId` | number | Oui         | L'ID du commentaire à mettre à jour                                          |
+| `content`   | string | Non         | Contenu mis à jour du commentaire                                            |
+| `status`    | string | Non         | Statut du commentaire : approved, hold, spam, trash                          |
+
+Sortie [#sortie-16]
+
+| Paramètre | Type   | Description               |
+| --------- | ------ | ------------------------- |
+| `comment` | object | Le commentaire mis à jour |
+
+wordpress_delete_comment [#wordpress_delete_comment]
+
+Supprimer un commentaire de WordPress.com
+
+Entrée [#entrée-17]
+
+| Paramètre   | Type    | Obligatoire | Description                                                                  |
+| ----------- | ------- | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`    | string  | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `commentId` | number  | Oui         | L'ID du commentaire à supprimer                                              |
+| `force`     | boolean | Non         | Contourner la corbeille et forcer la suppression définitive                  |
+
+Sortie [#sortie-17]
+
+| Paramètre | Type    | Description                              |
+| --------- | ------- | ---------------------------------------- |
+| `deleted` | boolean | Indique si le commentaire a été supprimé |
+| `comment` | object  | Le commentaire supprimé                  |
+
+wordpress_create_category [#wordpress_create_category]
+
+Créer une nouvelle catégorie dans WordPress.com
+
+Entrée [#entrée-18]
+
+| Paramètre     | Type   | Obligatoire | Description                                                                      |
+| ------------- | ------ | ----------- | -------------------------------------------------------------------------------- |
+| `siteId`      | string | Oui         | ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com) |
+| `name`        | string | Oui         | Nom de la catégorie                                                              |
+| `description` | string | Non         | Description de la catégorie                                                      |
+| `parent`      | number | Non         | ID de la catégorie parente pour les catégories hiérarchiques                     |
+| `slug`        | string | Non         | Slug URL pour la catégorie                                                       |
+
+Sortie [#sortie-18]
+
+| Paramètre  | Type   | Description        |
+| ---------- | ------ | ------------------ |
+| `category` | object | La catégorie créée |
+
+wordpress_list_categories [#wordpress_list_categories]
+
+Lister les catégories de WordPress.com
+
+Entrée [#entrée-19]
+
+| Paramètre | Type   | Obligatoire | Description                                                                      |
+| --------- | ------ | ----------- | -------------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com) |
+| `perPage` | number | Non         | Nombre de catégories par requête (par défaut : 10, max : 100)                    |
+| `page`    | number | Non         | Numéro de page pour la pagination                                                |
+| `search`  | string | Non         | Terme de recherche pour filtrer les catégories                                   |
+| `order`   | string | Non         | Direction de tri : asc ou desc                                                   |
+
+Sortie [#sortie-19]
+
+| Paramètre    | Type  | Description          |
+| ------------ | ----- | -------------------- |
+| `categories` | array | Liste des catégories |
+
+wordpress_create_tag [#wordpress_create_tag]
+
+Créer un nouveau tag dans WordPress.com
+
+Entrée [#entrée-20]
+
+| Paramètre     | Type   | Obligatoire | Description                                                                      |
+| ------------- | ------ | ----------- | -------------------------------------------------------------------------------- |
+| `siteId`      | string | Oui         | ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com) |
+| `name`        | string | Oui         | Nom du tag                                                                       |
+| `description` | string | Non         | Description du tag                                                               |
+| `slug`        | string | Non         | Slug URL pour le tag                                                             |
+
+Sortie [#sortie-20]
+
+| Paramètre | Type   | Description |
+| --------- | ------ | ----------- |
+| `tag`     | object | Le tag créé |
+
+wordpress_list_tags [#wordpress_list_tags]
+
+Lister les tags de WordPress.com
+
+Entrée [#entrée-21]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `perPage` | number | Non         | Nombre de tags par requête (par défaut : 10, max : 100)                      |
+| `page`    | number | Non         | Numéro de page pour la pagination                                            |
+| `search`  | string | Non         | Terme de recherche pour filtrer les tags                                     |
+| `order`   | string | Non         | Direction de tri : asc ou desc                                               |
+
+Sortie [#sortie-21]
+
+| Paramètre | Type  | Description    |
+| --------- | ----- | -------------- |
+| `tags`    | array | Liste des tags |
+
+wordpress_get_current_user [#wordpress_get_current_user]
+
+Obtenir des informations sur l'utilisateur WordPress.com actuellement authentifié
+
+Entrée [#entrée-22]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+
+Sortie [#sortie-22]
+
+| Paramètre | Type   | Description          |
+| --------- | ------ | -------------------- |
+| `user`    | object | L'utilisateur actuel |
+
+wordpress_list_users [#wordpress_list_users]
+
+Lister les utilisateurs de WordPress.com (nécessite des privilèges d'administrateur)
+
+Entrée [#entrée-23]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `perPage` | number | Non         | Nombre d'utilisateurs par requête (par défaut : 10, max : 100)               |
+| `page`    | number | Non         | Numéro de page pour la pagination                                            |
+| `search`  | string | Non         | Terme de recherche pour filtrer les utilisateurs                             |
+| `roles`   | string | Non         | Noms de rôles séparés par des virgules pour filtrer                          |
+| `order`   | string | Non         | Direction de tri : asc ou desc                                               |
+
+Sortie [#sortie-23]
+
+| Paramètre | Type  | Description            |
+| --------- | ----- | ---------------------- |
+| `users`   | array | Liste des utilisateurs |
+
+wordpress_get_user [#wordpress_get_user]
+
+Obtenir un utilisateur spécifique de WordPress.com par ID
+
+Entrée [#entrée-24]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `userId`  | number | Oui         | L'ID de l'utilisateur à récupérer                                            |
+
+Sortie [#sortie-24]
+
+| Paramètre | Type   | Description            |
+| --------- | ------ | ---------------------- |
+| `user`    | object | L'utilisateur récupéré |
+
+wordpress_search_content [#wordpress_search_content]
+
+Rechercher dans tous les types de contenu sur WordPress.com (articles, pages, médias)
+
+Entrée [#entrée-25]
+
+| Paramètre | Type   | Obligatoire | Description                                                                  |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------- |
+| `siteId`  | string | Oui         | ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com) |
+| `query`   | string | Oui         | Requête de recherche                                                         |
+| `perPage` | number | Non         | Nombre de résultats par requête (par défaut : 10, max : 100)                 |
+| `page`    | number | Non         | Numéro de page pour la pagination                                            |
+| `type`    | string | Non         | Filtrer par type de contenu : post, page, attachment                         |
+| `subtype` | string | Non         | Filtrer par slug de type de publication (ex., post, page)                    |
+
+Sortie [#sortie-25]
+
+| Paramètre | Type  | Description            |
+| --------- | ----- | ---------------------- |
+| `results` | array | Résultats de recherche |
+2e:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L35",null,{"content":"$36"}]}],"$L37"]}],"$L38","$L39"]}]
+2f:["$","$L3a",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L3b",null,{"type":"wordpress","color":"#21759B"}],"\n","\n",["$","p",null,{"children":[["$","$L3c",null,{"href":"https://wordpress.org/","children":"WordPress"}]," est le système de gestion de contenu le plus utilisé au monde, facilitant la publication et la gestion de sites web, blogs et tous types de contenus en ligne. Avec WordPress, vous pouvez créer et mettre à jour des articles ou des pages, organiser votre contenu avec des catégories et des étiquettes, gérer des fichiers multimédias, modérer des commentaires et gérer des comptes utilisateurs, vous permettant ainsi de faire fonctionner aussi bien des blogs personnels que des sites d'entreprise complexes."]}],"\n",["$","p",null,{"children":"L'intégration de Aptlystar avec WordPress permet à vos agents d'automatiser des tâches essentielles du site web. Vous pouvez créer par programmation de nouveaux articles de blog avec des titres, contenus, catégories, étiquettes et images à la une spécifiques. La mise à jour d'articles existants (comme la modification de leur contenu, titre ou statut de publication) est simple. Vous pouvez également publier ou enregistrer du contenu comme brouillon, gérer des pages statiques, travailler avec des téléchargements de médias, superviser les commentaires et attribuer du contenu aux taxonomies organisationnelles pertinentes."}],"\n",["$","p",null,{"children":"En connectant WordPress à vos automatisations, Aptlystar permet à vos agents de rationaliser la publication de contenu, les flux de travail éditoriaux et la gestion quotidienne du site, vous aidant ainsi à maintenir votre site web à jour, organisé et sécurisé sans effort manuel."}],"\n","\n",["$","$L3d",null,{"as":"h2","id":"instructions-dutilisation","children":"Instructions d'utilisation"}],"\n",["$","p",null,{"children":"Intégrez avec WordPress pour créer, mettre à jour et gérer des articles, pages, médias, commentaires, catégories, étiquettes et utilisateurs. Prend en charge les sites WordPress.com via OAuth et les sites WordPress auto-hébergés en utilisant l'authentification par mots de passe d'application."}],"\n",["$","$L3d",null,{"as":"h2","id":"outils","children":"Outils"}],"\n",["$","$L3d",null,{"as":"h3","id":"wordpress_create_post","children":["$","code",null,{"children":"wordpress_create_post"}]}],"\n",["$","p",null,{"children":"Créer un nouvel article de blog sur WordPress.com"}],"\n",["$","$L3d",null,{"as":"h4","id":"entrée","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Titre de l'article"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contenu de l'article (HTML ou texte brut)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Statut de l'article : publish, draft, pending, private, ou future"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Extrait de l'article"}]]}],["$","tr",null,{"children":["$L3e","$L3f","$L40","$L41"]}],"$L42","$L43","$L44"]}]]}]}],"\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc"]}]}]
+30:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+31:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+32:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+33:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+34:["$","$Ldd",null,{"children":["$","$de",null,{"name":"Next.MetadataOutlet","children":"$@df"}]}]
+37:["$","$Le0",null,{}]
+38:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 25.93 25.93","children":["$","g",null,{"fill":"currentColor","children":[["$","path",null,{"d":"M1.84,12.96c0,4.4,2.56,8.21,6.27,10.01L2.81,8.44C2.19,9.82,1.84,11.35,1.84,12.96z M20.47,12.4c0-1.37-0.49-2.33-0.92-3.07c-0.56-0.92-1.09-1.69-1.09-2.61c0-1.02,0.78-1.97,1.87-1.97c0.05,0,0.1,0.01,0.14,0.01c-1.98-1.81-4.61-2.92-7.51-2.92c-3.88,0-7.3,1.99-9.29,5.01c0.26,0.01,0.51,0.01,0.72,0.01c1.16,0,2.96-0.14,2.96-0.14c0.6-0.04,0.67,0.85,0.07,0.92c0,0-0.6,0.07-1.27,0.11l4.05,12.05l2.43-7.3l-1.73-4.75c-0.6-0.04-1.17-0.1-1.17-0.1c-0.6-0.04-0.53-0.95,0.07-0.92c0,0,1.84,0.14,2.93,0.14c1.16,0,2.96-0.14,2.96-0.14c0.6-0.04,0.67,0.85,0.07,0.92c0,0-0.6,0.07-1.27,0.11l4.02,11.95l1.11-3.71C20.19,14.55,20.47,13.35,20.47,12.4z M13.16,13.94l-3.34,9.69c1,0.29,2.05,0.45,3.14,0.45c1.29,0,2.54-0.22,3.69-0.63c-0.03-0.05-0.06-0.1-0.08-0.15L13.16,13.94z M22.72,7.63c0.05,0.35,0.08,0.73,0.08,1.14c0,1.13-0.21,2.4-0.85,3.98l-3.4,9.82c3.31-1.93,5.53-5.51,5.53-9.61C24.08,11.03,23.59,9.21,22.72,7.63z"}],["$","path",null,{"d":"M0,12.96c0,7.15,5.82,12.96,12.96,12.96c7.15,0,12.96-5.82,12.96-12.96S20.11,0,12.96,0S0,5.81,0,12.96z M0.59,12.96c0-6.82,5.55-12.37,12.37-12.37s12.37,5.55,12.37,12.37S19.78,25.33,12.96,25.33S0.59,19.78,0.59,12.96z"}]]}]}]}],["$","$Le1",null,{"className":"mb-0 min-w-0 flex-1","children":"WordPress"}]]}]
+39:["$","$Le2",null,{"children":"Gérer le contenu WordPress"}]
+3e:["$","td",null,{"children":["$","code",null,{"children":"categories"}]}]
+3f:["$","td",null,{"children":"chaîne"}]
+40:["$","td",null,{"children":"Non"}]
+41:["$","td",null,{"children":"IDs de catégories séparés par des virgules"}]
+42:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"IDs d'étiquettes séparés par des virgules"}]]}]
+43:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du média de l'image à la une"}]]}]
+44:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Slug URL pour l'article"}]]}]
+45:["$","$L3d",null,{"as":"h4","id":"sortie","children":"Sortie"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'article créé"}]]}]}]]}]}]
+47:["$","$L3d",null,{"as":"h3","id":"wordpress_update_post","children":["$","code",null,{"children":"wordpress_update_post"}]}]
+48:["$","p",null,{"children":"Mettre à jour un article de blog existant sur WordPress.com"}]
+49:["$","$L3d",null,{"as":"h4","id":"entrée-1","children":"Entrée"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'article à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Titre de l'article"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contenu de l'article (HTML ou texte brut)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Statut de l'article : publish, draft, pending, private, ou future"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Extrait de l'article"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"IDs de catégories séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"IDs de tags séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du média de l'image à la une"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Slug URL pour l'article"}]]}]]}]]}]}]
+4b:["$","$L3d",null,{"as":"h4","id":"sortie-1","children":"Sortie"}]
+4c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'article mis à jour"}]]}]}]]}]}]
+4d:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_post","children":["$","code",null,{"children":"wordpress_delete_post"}]}]
+4e:["$","p",null,{"children":"Supprimer un article de blog de WordPress.com"}]
+4f:["$","$L3d",null,{"as":"h4","id":"entrée-2","children":"Entrée"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'article à supprimer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contourner la corbeille et forcer la suppression définitive"}]]}]]}]]}]}]
+51:["$","$L3d",null,{"as":"h4","id":"sortie-2","children":"Sortie"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si l'article a été supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'article supprimé"}]]}]]}]]}]}]
+53:["$","$L3d",null,{"as":"h3","id":"wordpress_get_post","children":["$","code",null,{"children":"wordpress_get_post"}]}]
+54:["$","p",null,{"children":"Obtenir un seul article de blog WordPress.com par ID"}]
+55:["$","$L3d",null,{"as":"h4","id":"entrée-3","children":"Entrée"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'article à récupérer"}]]}]]}]]}]}]
+57:["$","$L3d",null,{"as":"h4","id":"sortie-3","children":"Sortie"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'article récupéré"}]]}]}]]}]}]
+59:["$","$L3d",null,{"as":"h3","id":"wordpress_list_posts","children":["$","code",null,{"children":"wordpress_list_posts"}]}]
+5a:["$","p",null,{"children":"Lister les articles de blog WordPress.com avec filtres optionnels"}]
+5b:["$","$L3d",null,{"as":"h4","id":"entrée-4","children":"Entrée"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre d'articles par page (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtre par statut d'article : publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ID d'auteur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"IDs de catégories séparés par des virgules pour filtrer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"IDs de tags séparés par des virgules pour filtrer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les articles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ : date, id, title, slug, modified"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction du tri : asc ou desc"}]]}]]}]]}]}]
+5d:["$","$L3d",null,{"as":"h4","id":"sortie-4","children":"Sortie"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"posts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des articles"}]]}]}]]}]}]
+5f:["$","$L3d",null,{"as":"h3","id":"wordpress_create_page","children":["$","code",null,{"children":"wordpress_create_page"}]}]
+60:["$","p",null,{"children":"Créer une nouvelle page sur WordPress.com"}]
+61:["$","$L3d",null,{"as":"h4","id":"entrée-5","children":"Entrée"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Titre de la page"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contenu de la page (HTML ou texte brut)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Statut de la page : publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Extrait de la page"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de la page parente pour les pages hiérarchiques"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"menuOrder"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Ordre dans le menu des pages"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du média de l'image mise en avant"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Slug URL pour la page"}]]}]]}]]}]}]
+63:["$","$L3d",null,{"as":"h4","id":"sortie-5","children":"Sortie"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La page créée"}]]}]}]]}]}]
+65:["$","$L3d",null,{"as":"h3","id":"wordpress_update_page","children":["$","code",null,{"children":"wordpress_update_page"}]}]
+66:["$","p",null,{"children":"Mettre à jour une page existante sur WordPress.com"}]
+67:["$","$L3d",null,{"as":"h4","id":"entrée-6","children":"Entrée"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la page à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Titre de la page"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contenu de la page (HTML ou texte brut)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Statut de la page : publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Extrait de la page"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de la page parente pour les pages hiérarchiques"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"menuOrder"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Ordre dans le menu des pages"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du média de l'image mise en avant"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Slug URL pour la page"}]]}]]}]]}]}]
+69:["$","$L3d",null,{"as":"h4","id":"sortie-6","children":"Sortie"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"La page mise à jour"}]]}]}]]}]}]
+6b:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_page","children":["$","code",null,{"children":"wordpress_delete_page"}]}]
+6c:["$","p",null,{"children":"Supprimer une page de WordPress.com"}]
+6d:["$","$L3d",null,{"as":"h4","id":"entrée-7","children":"Entrée"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la page à supprimer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contourner la corbeille et forcer la suppression définitive"}]]}]]}]]}]}]
+6f:["$","$L3d",null,{"as":"h4","id":"sortie-7","children":"Sortie"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Indique si la page a été supprimée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"La page supprimée"}]]}]]}]]}]}]
+71:["$","$L3d",null,{"as":"h3","id":"wordpress_get_page","children":["$","code",null,{"children":"wordpress_get_page"}]}]
+72:["$","p",null,{"children":"Obtenir une seule page de WordPress.com par ID"}]
+73:["$","$L3d",null,{"as":"h4","id":"entrée-8","children":"Entrée"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la page à récupérer"}]]}]]}]]}]}]
+75:["$","$L3d",null,{"as":"h4","id":"sortie-8","children":"Sortie"}]
+76:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"La page récupérée"}]]}]}]]}]}]
+77:["$","$L3d",null,{"as":"h3","id":"wordpress_list_pages","children":["$","code",null,{"children":"wordpress_list_pages"}]}]
+78:["$","p",null,{"children":"Lister les pages de WordPress.com avec filtres optionnels"}]
+79:["$","$L3d",null,{"as":"h4","id":"entrée-9","children":"Entrée"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de pages par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtre de statut de page : publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ID de page parente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les pages"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ : date, id, title, slug, modified, menu_order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri : asc ou desc"}]]}]]}]]}]}]
+7b:["$","$L3d",null,{"as":"h4","id":"sortie-9","children":"Sortie"}]
+7c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pages"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des pages"}]]}]}]]}]}]
+7d:["$","$L3d",null,{"as":"h3","id":"wordpress_upload_media","children":["$","code",null,{"children":"wordpress_upload_media"}]}]
+7e:["$","p",null,{"children":"Télécharger un fichier média (image, vidéo, document) sur WordPress.com"}]
+7f:["$","$L3d",null,{"as":"h4","id":"entrée-10","children":"Entrée"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"fichier"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Fichier à télécharger (objet UserFile)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filename"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Remplacement optionnel du nom de fichier (ex., image.jpg)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Titre du média"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"caption"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Légende du média"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"altText"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Texte alternatif pour l'accessibilité"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Description du média"}]]}]]}]]}]}]
+81:["$","$L3d",null,{"as":"h4","id":"sortie-10","children":"Sortie"}]
+82:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'élément média téléchargé"}]]}]}]]}]}]
+83:["$","$L3d",null,{"as":"h3","id":"wordpress_get_media","children":["$","code",null,{"children":"wordpress_get_media"}]}]
+84:["$","p",null,{"children":"Obtenir un élément média unique de WordPress.com par ID"}]
+85:["$","$L3d",null,{"as":"h4","id":"entrée-11","children":"Entrée"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'élément média à récupérer"}]]}]]}]]}]}]
+87:["$","$L3d",null,{"as":"h4","id":"sortie-11","children":"Sortie"}]
+88:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'élément média récupéré"}]]}]}]]}]}]
+89:["$","$L3d",null,{"as":"h3","id":"wordpress_list_media","children":["$","code",null,{"children":"wordpress_list_media"}]}]
+8a:["$","p",null,{"children":"Lister les éléments multimédias de la bibliothèque multimédia WordPress.com"}]
+8b:["$","$L3d",null,{"as":"h4","id":"entrée-12","children":"Entrée"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre d'éléments multimédias par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les médias"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaType"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par type de média : image, vidéo, audio, application"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mimeType"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par type MIME spécifique (ex., image/jpeg)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ : date, id, titre, slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction du tri : asc ou desc"}]]}]]}]]}]}]
+8d:["$","$L3d",null,{"as":"h4","id":"sortie-12","children":"Sortie"}]
+8e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Liste des éléments multimédias"}]]}]}]]}]}]
+8f:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_media","children":["$","code",null,{"children":"wordpress_delete_media"}]}]
+90:["$","p",null,{"children":"Supprimer un élément multimédia de WordPress.com"}]
+91:["$","$L3d",null,{"as":"h4","id":"entrée-13","children":"Entrée"}]
+92:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'élément multimédia à supprimer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Forcer la suppression (les médias n'ont pas de corbeille, donc la suppression est permanente)"}]]}]]}]]}]}]
+93:["$","$L3d",null,{"as":"h4","id":"sortie-13","children":"Sortie"}]
+94:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si le média a été supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'élément média supprimé"}]]}]]}]]}]}]
+95:["$","$L3d",null,{"as":"h3","id":"wordpress_create_comment","children":["$","code",null,{"children":"wordpress_create_comment"}]}]
+96:["$","p",null,{"children":"Créer un nouveau commentaire sur un article WordPress.com"}]
+97:["$","$L3d",null,{"as":"h4","id":"entrée-14","children":"Entrée"}]
+98:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'article à commenter"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Contenu du commentaire"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du commentaire parent pour les réponses"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authorName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nom d'affichage de l'auteur du commentaire"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authorEmail"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Email de l'auteur du commentaire"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authorUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"URL de l'auteur du commentaire"}]]}]]}]]}]}]
+99:["$","$L3d",null,{"as":"h4","id":"sortie-14","children":"Sortie"}]
+9a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le commentaire créé"}]]}]}]]}]}]
+9b:["$","$L3d",null,{"as":"h3","id":"wordpress_list_comments","children":["$","code",null,{"children":"wordpress_list_comments"}]}]
+9c:["$","p",null,{"children":"Lister les commentaires de WordPress.com avec filtres optionnels"}]
+9d:["$","$L3d",null,{"as":"h4","id":"entrée-15","children":"Entrée"}]
+9e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de commentaires par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ID d'article"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par statut de commentaire : approved, hold, spam, trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les commentaires"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ : date, id, parent"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction du tri : asc ou desc"}]]}]]}]]}]}]
+9f:["$","$L3d",null,{"as":"h4","id":"sortie-15","children":"Sortie"}]
+a0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des commentaires"}]]}]}]]}]}]
+a1:["$","$L3d",null,{"as":"h3","id":"wordpress_update_comment","children":["$","code",null,{"children":"wordpress_update_comment"}]}]
+a2:["$","p",null,{"children":"Mettre à jour un commentaire dans WordPress.com (contenu ou statut)"}]
+a3:["$","$L3d",null,{"as":"h4","id":"entrée-16","children":"Entrée"}]
+a4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du commentaire à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contenu mis à jour du commentaire"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Statut du commentaire : approved, hold, spam, trash"}]]}]]}]]}]}]
+a5:["$","$L3d",null,{"as":"h4","id":"sortie-16","children":"Sortie"}]
+a6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le commentaire mis à jour"}]]}]}]]}]}]
+a7:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_comment","children":["$","code",null,{"children":"wordpress_delete_comment"}]}]
+a8:["$","p",null,{"children":"Supprimer un commentaire de WordPress.com"}]
+a9:["$","$L3d",null,{"as":"h4","id":"entrée-17","children":"Entrée"}]
+aa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du commentaire à supprimer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Contourner la corbeille et forcer la suppression définitive"}]]}]]}]]}]}]
+ab:["$","$L3d",null,{"as":"h4","id":"sortie-17","children":"Sortie"}]
+ac:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si le commentaire a été supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le commentaire supprimé"}]]}]]}]]}]}]
+ad:["$","$L3d",null,{"as":"h3","id":"wordpress_create_category","children":["$","code",null,{"children":"wordpress_create_category"}]}]
+ae:["$","p",null,{"children":"Créer une nouvelle catégorie dans WordPress.com"}]
+af:["$","$L3d",null,{"as":"h4","id":"entrée-18","children":"Entrée"}]
+b0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Nom de la catégorie"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Description de la catégorie"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de la catégorie parente pour les catégories hiérarchiques"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Slug URL pour la catégorie"}]]}]]}]]}]}]
+b1:["$","$L3d",null,{"as":"h4","id":"sortie-18","children":"Sortie"}]
+b2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"category"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La catégorie créée"}]]}]}]]}]}]
+b3:["$","$L3d",null,{"as":"h3","id":"wordpress_list_categories","children":["$","code",null,{"children":"wordpress_list_categories"}]}]
+b4:["$","p",null,{"children":"Lister les catégories de WordPress.com"}]
+b5:["$","$L3d",null,{"as":"h4","id":"entrée-19","children":"Entrée"}]
+b6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de catégories par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les catégories"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri : asc ou desc"}]]}]]}]]}]}]
+b7:["$","$L3d",null,{"as":"h4","id":"sortie-19","children":"Sortie"}]
+b8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des catégories"}]]}]}]]}]}]
+b9:["$","$L3d",null,{"as":"h3","id":"wordpress_create_tag","children":["$","code",null,{"children":"wordpress_create_tag"}]}]
+ba:["$","p",null,{"children":"Créer un nouveau tag dans WordPress.com"}]
+bb:["$","$L3d",null,{"as":"h4","id":"entrée-20","children":"Entrée"}]
+bc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (par ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Nom du tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Description du tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Slug URL pour le tag"}]]}]]}]]}]}]
+bd:["$","$L3d",null,{"as":"h4","id":"sortie-20","children":"Sortie"}]
+be:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tag"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le tag créé"}]]}]}]]}]}]
+bf:["$","$L3d",null,{"as":"h3","id":"wordpress_list_tags","children":["$","code",null,{"children":"wordpress_list_tags"}]}]
+c0:["$","p",null,{"children":"Lister les tags de WordPress.com"}]
+c1:["$","$L3d",null,{"as":"h4","id":"entrée-21","children":"Entrée"}]
+c2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de tags par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri : asc ou desc"}]]}]]}]]}]}]
+c3:["$","$L3d",null,{"as":"h4","id":"sortie-21","children":"Sortie"}]
+c4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des tags"}]]}]}]]}]}]
+c5:["$","$L3d",null,{"as":"h3","id":"wordpress_get_current_user","children":["$","code",null,{"children":"wordpress_get_current_user"}]}]
+c6:["$","p",null,{"children":"Obtenir des informations sur l'utilisateur WordPress.com actuellement authentifié"}]
+c7:["$","$L3d",null,{"as":"h4","id":"entrée-22","children":"Entrée"}]
+c8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}]}]]}]}]
+c9:["$","$L3d",null,{"as":"h4","id":"sortie-22","children":"Sortie"}]
+ca:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'utilisateur actuel"}]]}]}]]}]}]
+cb:["$","$L3d",null,{"as":"h3","id":"wordpress_list_users","children":["$","code",null,{"children":"wordpress_list_users"}]}]
+cc:["$","p",null,{"children":"Lister les utilisateurs de WordPress.com (nécessite des privilèges d'administrateur)"}]
+cd:["$","$L3d",null,{"as":"h4","id":"entrée-23","children":"Entrée"}]
+ce:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre d'utilisateurs par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Terme de recherche pour filtrer les utilisateurs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"roles"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Noms de rôles séparés par des virgules pour filtrer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri : asc ou desc"}]]}]]}]]}]}]
+cf:["$","$L3d",null,{"as":"h4","id":"sortie-23","children":"Sortie"}]
+d0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des utilisateurs"}]]}]}]]}]}]
+d1:["$","$L3d",null,{"as":"h3","id":"wordpress_get_user","children":["$","code",null,{"children":"wordpress_get_user"}]}]
+d2:["$","p",null,{"children":"Obtenir un utilisateur spécifique de WordPress.com par ID"}]
+d3:["$","$L3d",null,{"as":"h4","id":"entrée-24","children":"Entrée"}]
+d4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'utilisateur à récupérer"}]]}]]}]]}]}]
+d5:["$","$L3d",null,{"as":"h4","id":"sortie-24","children":"Sortie"}]
+d6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'utilisateur récupéré"}]]}]}]]}]}]
+d7:["$","$L3d",null,{"as":"h3","id":"wordpress_search_content","children":["$","code",null,{"children":"wordpress_search_content"}]}]
+d8:["$","p",null,{"children":"Rechercher dans tous les types de contenu sur WordPress.com (articles, pages, médias)"}]
+d9:["$","$L3d",null,{"as":"h4","id":"entrée-25","children":"Entrée"}]
+da:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du site WordPress.com ou domaine (ex., 12345678 ou monsite.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Requête de recherche"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par requête (par défaut : 10, max : 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par type de contenu : post, page, attachment"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subtype"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par slug de type de publication (ex., post, page)"}]]}]]}]]}]}]
+db:["$","$L3d",null,{"as":"h4","id":"sortie-25","children":"Sortie"}]
+dc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Résultats de recherche"}]]}]}]]}]}]
+df:null

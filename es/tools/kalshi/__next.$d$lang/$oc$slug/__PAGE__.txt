@@ -1,0 +1,521 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+1a:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+1f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+20:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+21:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+22:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+8d:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+8e:"$Sreact.suspense"
+90:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+91:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+92:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Kalshi\",\"description\":\"Accede a mercados de predicción y opera en Kalshi\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/kalshi\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/kalshi\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/kalshi\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Kalshi\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/kalshi\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#kalshi_get_markets","title":["$","code",null,{"children":"kalshi_get_markets"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#kalshi_get_market","title":["$","code",null,{"children":"kalshi_get_market"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#kalshi_get_events","title":["$","code",null,{"children":"kalshi_get_events"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#kalshi_get_event","title":["$","code",null,{"children":"kalshi_get_event"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#kalshi_get_balance","title":["$","code",null,{"children":"kalshi_get_balance"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#kalshi_get_positions","title":["$","code",null,{"children":"kalshi_get_positions"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#kalshi_get_orders","title":["$","code",null,{"children":"kalshi_get_orders"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#kalshi_get_order","title":["$","code",null,{"children":"kalshi_get_order"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#kalshi_get_orderbook","title":["$","code",null,{"children":"kalshi_get_orderbook"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#kalshi_get_trades","title":["$","code",null,{"children":"kalshi_get_trades"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#kalshi_get_candlesticks","title":["$","code",null,{"children":"kalshi_get_candlesticks"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#kalshi_get_fills","title":["$","code",null,{"children":"kalshi_get_fills"}]},{"depth":4,"url":"#entrada-11","title":"Entrada"},{"depth":4,"url":"#salida-11","title":"Salida"},{"depth":3,"url":"#kalshi_get_series_by_ticker","title":"$L3"},{"depth":4,"url":"#entrada-12","title":"$L4"},{"depth":4,"url":"#salida-12","title":"$L5"},{"depth":3,"url":"#kalshi_get_exchange_status","title":"$L6"},{"depth":4,"url":"#entrada-13","title":"$L7"},{"depth":4,"url":"#salida-13","title":"$L8"},{"depth":3,"url":"#kalshi_create_order","title":"$L9"},{"depth":4,"url":"#entrada-14","title":"$La"},{"depth":4,"url":"#salida-14","title":"$Lb"},{"depth":3,"url":"#kalshi_cancel_order","title":"$Lc"},{"depth":4,"url":"#entrada-15","title":"$Ld"},{"depth":4,"url":"#salida-15","title":"$Le"},{"depth":3,"url":"#kalshi_amend_order","title":"$Lf"},{"depth":4,"url":"#entrada-16","title":"$L10"},{"depth":4,"url":"#salida-16","title":"$L11"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L12"},"children":["$L13","$L14"]}]],["$L15","$L16","$L17","$L18"],"$L19"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"kalshi_get_series_by_ticker"}]
+4:"Entrada"
+5:"Salida"
+6:["$","code",null,{"children":"kalshi_get_exchange_status"}]
+7:"Entrada"
+8:"Salida"
+9:["$","code",null,{"children":"kalshi_create_order"}]
+a:"Entrada"
+b:"Salida"
+c:["$","code",null,{"children":"kalshi_cancel_order"}]
+d:"Entrada"
+e:"Salida"
+f:["$","code",null,{"children":"kalshi_amend_order"}]
+10:"Entrada"
+11:"Salida"
+12:null
+1b:T5576,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="kalshi" color="#09C285" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Kalshi](https://kalshi.com) es un mercado regulado federalmente donde los usuarios pueden operar directamente sobre los resultados de eventos futuros—mercados de predicción. La robusta API de Kalshi y la integración con Aptlystar permiten a los agentes y flujos de trabajo acceder programáticamente a todos los aspectos de la plataforma, admitiendo desde investigación y análisis hasta operaciones automatizadas y monitoreo.
+
+Con la integración de Kalshi en Aptlystar, puedes:
+
+* **Datos de mercados y eventos:** Buscar, filtrar y obtener datos en tiempo real e históricos de mercados y eventos; obtener detalles granulares sobre el estado del mercado, series, agrupaciones de eventos y más.
+* **Gestión de cuentas y saldos:** Acceder a saldos de cuenta, fondos disponibles y monitorear posiciones abiertas en tiempo real.
+* **Gestión de órdenes y operaciones:** Colocar nuevas órdenes, cancelar las existentes, ver órdenes abiertas, obtener un libro de órdenes en vivo y acceder a historiales completos de operaciones.
+* **Análisis de ejecución:** Obtener operaciones recientes, ejecuciones históricas y datos de velas para backtesting o investigación de estructura de mercado.
+* **Monitoreo:** Verificar el estado de todo el mercado o a nivel de series, recibir actualizaciones en tiempo real sobre cambios en el mercado o interrupciones de operaciones, y automatizar respuestas.
+* **Listo para automatización:** Construir agentes automatizados y paneles de control de extremo a extremo que consuman, analicen y operen con probabilidades de eventos del mundo real.
+
+Al utilizar estas herramientas y puntos de acceso unificados, puedes incorporar sin problemas los mercados de predicción de Kalshi, capacidades de operación en vivo y datos profundos de eventos en tus aplicaciones impulsadas por IA, paneles de control y flujos de trabajo, permitiendo una toma de decisiones sofisticada y automatizada vinculada a resultados del mundo real.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Integra los mercados de predicción de Kalshi en el flujo de trabajo. Puede obtener mercados, mercado específico, eventos, evento específico, saldo, posiciones, órdenes, libro de órdenes, operaciones, gráficos de velas, ejecuciones, series, estado del intercambio y realizar/cancelar/modificar operaciones.
+
+Herramientas [#herramientas]
+
+kalshi_get_markets [#kalshi_get_markets]
+
+Obtener una lista de mercados de predicción de Kalshi con filtrado opcional
+
+Entrada [#entrada]
+
+| Parámetro      | Tipo   | Obligatorio | Descripción                                          |
+| -------------- | ------ | ----------- | ---------------------------------------------------- |
+| `status`       | string | No          | Filtrar por estado (unopened, open, closed, settled) |
+| `seriesTicker` | string | No          | Filtrar por ticker de serie                          |
+| `eventTicker`  | string | No          | Filtrar por ticker de evento                         |
+| `limit`        | string | No          | Número de resultados (1-1000, predeterminado: 100)   |
+| `cursor`       | string | No          | Cursor de paginación para la siguiente página        |
+
+Salida [#salida]
+
+| Parámetro | Tipo   | Descripción                                      |
+| --------- | ------ | ------------------------------------------------ |
+| `markets` | array  | Array de objetos de mercado                      |
+| `paging`  | object | Cursor de paginación para obtener más resultados |
+
+kalshi_get_market [#kalshi_get_market]
+
+Obtener detalles de un mercado de predicción específico por ticker
+
+Entrada [#entrada-1]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                     |
+| --------- | ------ | ----------- | ----------------------------------------------- |
+| `ticker`  | string | Sí          | El ticker del mercado (p. ej., "KXBTC-24DEC31") |
+
+Salida [#salida-1]
+
+| Parámetro | Tipo   | Descripción                    |
+| --------- | ------ | ------------------------------ |
+| `market`  | object | Objeto de mercado con detalles |
+
+kalshi_get_events [#kalshi_get_events]
+
+Obtener una lista de eventos de Kalshi con filtrado opcional
+
+Entrada [#entrada-2]
+
+| Parámetro           | Tipo   | Obligatorio | Descripción                                            |
+| ------------------- | ------ | ----------- | ------------------------------------------------------ |
+| `status`            | string | No          | Filtrar por estado (open, closed, settled)             |
+| `seriesTicker`      | string | No          | Filtrar por ticker de serie                            |
+| `withNestedMarkets` | string | No          | Incluir mercados anidados en la respuesta (true/false) |
+| `limit`             | string | No          | Número de resultados (1-200, predeterminado: 200)      |
+| `cursor`            | string | No          | Cursor de paginación para la siguiente página          |
+
+Salida [#salida-2]
+
+| Parámetro | Tipo   | Descripción                                      |
+| --------- | ------ | ------------------------------------------------ |
+| `events`  | array  | Array de objetos de eventos                      |
+| `paging`  | object | Cursor de paginación para obtener más resultados |
+
+kalshi_get_event [#kalshi_get_event]
+
+Recuperar detalles de un evento específico por ticker
+
+Entrada [#entrada-3]
+
+| Parámetro           | Tipo   | Obligatorio | Descripción                                            |
+| ------------------- | ------ | ----------- | ------------------------------------------------------ |
+| `eventTicker`       | string | Sí          | El ticker del evento                                   |
+| `withNestedMarkets` | string | No          | Incluir mercados anidados en la respuesta (true/false) |
+
+Salida [#salida-3]
+
+| Parámetro | Tipo   | Descripción                   |
+| --------- | ------ | ----------------------------- |
+| `event`   | object | Objeto de evento con detalles |
+
+kalshi_get_balance [#kalshi_get_balance]
+
+Recuperar el saldo de tu cuenta y el valor de la cartera desde Kalshi
+
+Entrada [#entrada-4]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                        |
+| ------------ | ------ | ----------- | ---------------------------------- |
+| `keyId`      | string | Sí          | Tu ID de clave API de Kalshi       |
+| `privateKey` | string | Sí          | Tu clave privada RSA (formato PEM) |
+
+Salida [#salida-4]
+
+| Parámetro        | Tipo   | Descripción                      |
+| ---------------- | ------ | -------------------------------- |
+| `balance`        | number | Saldo de la cuenta en centavos   |
+| `portfolioValue` | number | Valor del portafolio en centavos |
+
+kalshi_get_positions [#kalshi_get_positions]
+
+Recuperar tus posiciones abiertas desde Kalshi
+
+Entrada [#entrada-5]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                                            |
+| ------------------ | ------ | ----------- | -------------------------------------------------------------------------------------- |
+| `keyId`            | string | Sí          | Tu ID de clave API de Kalshi                                                           |
+| `privateKey`       | string | Sí          | Tu clave privada RSA (formato PEM)                                                     |
+| `ticker`           | string | No          | Filtrar por ticker de mercado                                                          |
+| `eventTicker`      | string | No          | Filtrar por ticker de evento (máximo 10 separados por comas)                           |
+| `settlementStatus` | string | No          | Filtrar por estado de liquidación (all, unsettled, settled). Predeterminado: unsettled |
+| `limit`            | string | No          | Número de resultados (1-1000, predeterminado: 100)                                     |
+| `cursor`           | string | No          | Cursor de paginación para la siguiente página                                          |
+
+Salida [#salida-5]
+
+| Parámetro   | Tipo   | Descripción                                      |
+| ----------- | ------ | ------------------------------------------------ |
+| `positions` | array  | Array de objetos de posición                     |
+| `paging`    | object | Cursor de paginación para obtener más resultados |
+
+kalshi_get_orders [#kalshi_get_orders]
+
+Recupera tus órdenes de Kalshi con filtrado opcional
+
+Entrada [#entrada-6]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                  |
+| ------------- | ------ | ----------- | ------------------------------------------------------------ |
+| `keyId`       | string | Sí          | Tu ID de clave API de Kalshi                                 |
+| `privateKey`  | string | Sí          | Tu clave privada RSA (formato PEM)                           |
+| `ticker`      | string | No          | Filtrar por ticker de mercado                                |
+| `eventTicker` | string | No          | Filtrar por ticker de evento (máximo 10 separados por comas) |
+| `status`      | string | No          | Filtrar por estado (en espera, cancelado, ejecutado)         |
+| `limit`       | string | No          | Número de resultados (1-200, predeterminado: 100)            |
+| `cursor`      | string | No          | Cursor de paginación para la siguiente página                |
+
+Salida [#salida-6]
+
+| Parámetro | Tipo   | Descripción                                      |
+| --------- | ------ | ------------------------------------------------ |
+| `orders`  | array  | Array de objetos de órdenes                      |
+| `paging`  | object | Cursor de paginación para obtener más resultados |
+
+kalshi_get_order [#kalshi_get_order]
+
+Recupera detalles de una orden específica por ID desde Kalshi
+
+Entrada [#entrada-7]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                        |
+| ------------ | ------ | ----------- | ---------------------------------- |
+| `keyId`      | string | Sí          | Tu ID de clave API de Kalshi       |
+| `privateKey` | string | Sí          | Tu clave privada RSA (formato PEM) |
+| `orderId`    | string | Sí          | El ID de la orden a recuperar      |
+
+Salida [#salida-7]
+
+| Parámetro | Tipo   | Descripción                  |
+| --------- | ------ | ---------------------------- |
+| `order`   | object | Objeto de orden con detalles |
+
+kalshi_get_orderbook [#kalshi_get_orderbook]
+
+Recupera el libro de órdenes (ofertas de sí y no) para un mercado específico
+
+Entrada [#entrada-8]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                |
+| --------- | ------ | ----------- | ------------------------------------------ |
+| `ticker`  | string | Sí          | Ticker del mercado (p. ej., KXBTC-24DEC31) |
+
+Salida [#salida-8]
+
+| Parámetro   | Tipo   | Descripción                                      |
+| ----------- | ------ | ------------------------------------------------ |
+| `orderbook` | object | Libro de órdenes con ofertas y demandas de sí/no |
+
+kalshi_get_trades [#kalshi_get_trades]
+
+Recupera operaciones recientes de todos los mercados
+
+Entrada [#entrada-9]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                        |
+| --------- | ------ | ----------- | -------------------------------------------------- |
+| `limit`   | string | No          | Número de resultados (1-1000, predeterminado: 100) |
+| `cursor`  | string | No          | Cursor de paginación para la siguiente página      |
+
+Salida [#salida-9]
+
+| Parámetro | Tipo   | Descripción                                      |
+| --------- | ------ | ------------------------------------------------ |
+| `trades`  | array  | Array de objetos de operaciones                  |
+| `paging`  | object | Cursor de paginación para obtener más resultados |
+
+kalshi_get_candlesticks [#kalshi_get_candlesticks]
+
+Obtener datos de velas OHLC para un mercado específico
+
+Entrada [#entrada-10]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                               |
+| ---------------- | ------ | ----------- | --------------------------------------------------------- |
+| `seriesTicker`   | string | Sí          | Ticker de serie                                           |
+| `ticker`         | string | Sí          | Ticker del mercado (p. ej., KXBTC-24DEC31)                |
+| `startTs`        | number | Sí          | Marca de tiempo inicial (segundos Unix)                   |
+| `endTs`          | number | Sí          | Marca de tiempo final (segundos Unix)                     |
+| `periodInterval` | number | Sí          | Intervalo de período: 1 (1min), 60 (1hora), o 1440 (1día) |
+
+Salida [#salida-10]
+
+| Parámetro      | Tipo  | Descripción                  |
+| -------------- | ----- | ---------------------------- |
+| `candlesticks` | array | Array de datos de velas OHLC |
+
+kalshi_get_fills [#kalshi_get_fills]
+
+Recuperar tu portafolio
+
+Entrada [#entrada-11]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                        |
+| ------------ | ------ | ----------- | -------------------------------------------------- |
+| `keyId`      | string | Sí          | Tu ID de clave API de Kalshi                       |
+| `privateKey` | string | Sí          | Tu clave privada RSA (formato PEM)                 |
+| `ticker`     | string | No          | Filtrar por ticker de mercado                      |
+| `orderId`    | string | No          | Filtrar por ID de orden                            |
+| `minTs`      | number | No          | Marca de tiempo mínima (milisegundos Unix)         |
+| `maxTs`      | number | No          | Marca de tiempo máxima (milisegundos Unix)         |
+| `limit`      | string | No          | Número de resultados (1-1000, predeterminado: 100) |
+| `cursor`     | string | No          | Cursor de paginación para la siguiente página      |
+
+Salida [#salida-11]
+
+| Parámetro | Tipo   | Descripción                                      |
+| --------- | ------ | ------------------------------------------------ |
+| `fills`   | array  | Array de objetos de ejecuciones/operaciones      |
+| `paging`  | object | Cursor de paginación para obtener más resultados |
+
+kalshi_get_series_by_ticker [#kalshi_get_series_by_ticker]
+
+Obtener detalles de una serie de mercado específica por ticker
+
+Entrada [#entrada-12]
+
+| Parámetro      | Tipo   | Obligatorio | Descripción        |
+| -------------- | ------ | ----------- | ------------------ |
+| `seriesTicker` | string | Sí          | Ticker de la serie |
+
+Salida [#salida-12]
+
+| Parámetro | Tipo   | Descripción                  |
+| --------- | ------ | ---------------------------- |
+| `series`  | object | Objeto de serie con detalles |
+
+kalshi_get_exchange_status [#kalshi_get_exchange_status]
+
+Obtener el estado actual del intercambio Kalshi (actividad de trading y del intercambio)
+
+Entrada [#entrada-13]
+
+| Parámetro | Tipo | Obligatorio | Descripción |
+| --------- | ---- | ----------- | ----------- |
+
+Salida [#salida-13]
+
+| Parámetro | Tipo   | Descripción                                                            |
+| --------- | ------ | ---------------------------------------------------------------------- |
+| `status`  | object | Estado del exchange con indicadores trading\_active y exchange\_active |
+
+kalshi_create_order [#kalshi_create_order]
+
+Crear una nueva orden en un mercado de predicción de Kalshi
+
+Entrada [#entrada-14]
+
+| Parámetro                 | Tipo   | Obligatorio | Descripción                                                                        |
+| ------------------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `keyId`                   | string | Sí          | Tu ID de clave API de Kalshi                                                       |
+| `privateKey`              | string | Sí          | Tu clave privada RSA (formato PEM)                                                 |
+| `ticker`                  | string | Sí          | Ticker del mercado (p. ej., KXBTC-24DEC31)                                         |
+| `side`                    | string | Sí          | Lado de la orden: 'yes' o 'no'                                                     |
+| `action`                  | string | Sí          | Tipo de acción: 'buy' o 'sell'                                                     |
+| `count`                   | string | Sí          | Número de contratos (mínimo 1)                                                     |
+| `type`                    | string | No          | Tipo de orden: 'limit' o 'market' (predeterminado: limit)                          |
+| `yesPrice`                | string | No          | Precio de 'yes' en centavos (1-99)                                                 |
+| `noPrice`                 | string | No          | Precio de 'no' en centavos (1-99)                                                  |
+| `yesPriceDollars`         | string | No          | Precio de 'yes' en dólares (p. ej., "0.56")                                        |
+| `noPriceDollars`          | string | No          | Precio de 'no' en dólares (p. ej., "0.56")                                         |
+| `clientOrderId`           | string | No          | Identificador personalizado de la orden                                            |
+| `expirationTs`            | string | No          | Marca de tiempo Unix para la expiración de la orden                                |
+| `timeInForce`             | string | No          | Tiempo en vigor: 'fill\_or\_kill', 'good\_till\_canceled', 'immediate\_or\_cancel' |
+| `buyMaxCost`              | string | No          | Costo máximo en centavos (habilita automáticamente fill\_or\_kill)                 |
+| `postOnly`                | string | No          | Establecer como 'true' para órdenes solo maker                                     |
+| `reduceOnly`              | string | No          | Establecer como 'true' solo para reducción de posición                             |
+| `selfTradePreventionType` | string | No          | Prevención de auto-negociación: 'taker\_at\_cross' o 'maker'                       |
+| `orderGroupId`            | string | No          | ID de grupo de órdenes asociado                                                    |
+
+Salida [#salida-14]
+
+| Parámetro | Tipo   | Descripción               |
+| --------- | ------ | ------------------------- |
+| `order`   | object | El objeto de orden creada |
+
+kalshi_cancel_order [#kalshi_cancel_order]
+
+Cancelar una orden existente en Kalshi
+
+Entrada [#entrada-15]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                        |
+| ------------ | ------ | ----------- | ---------------------------------- |
+| `keyId`      | string | Sí          | Tu ID de clave API de Kalshi       |
+| `privateKey` | string | Sí          | Tu clave privada RSA (formato PEM) |
+| `orderId`    | string | Sí          | El ID de la orden a cancelar       |
+
+Salida [#salida-15]
+
+| Parámetro   | Tipo   | Descripción                    |
+| ----------- | ------ | ------------------------------ |
+| `order`     | object | El objeto de orden cancelada   |
+| `reducedBy` | number | Número de contratos cancelados |
+
+kalshi_amend_order [#kalshi_amend_order]
+
+Modificar el precio o la cantidad de una orden existente en Kalshi
+
+Entrada [#entrada-16]
+
+| Parámetro              | Tipo   | Obligatorio | Descripción                                                                 |
+| ---------------------- | ------ | ----------- | --------------------------------------------------------------------------- |
+| `keyId`                | string | Sí          | Tu ID de clave API de Kalshi                                                |
+| `privateKey`           | string | Sí          | Tu clave privada RSA (formato PEM)                                          |
+| `orderId`              | string | Sí          | El ID de la orden a modificar                                               |
+| `ticker`               | string | Sí          | Ticker del mercado                                                          |
+| `side`                 | string | Sí          | Lado de la orden: 'yes' o 'no'                                              |
+| `action`               | string | Sí          | Tipo de acción: 'buy' o 'sell'                                              |
+| `clientOrderId`        | string | Sí          | El ID de orden original especificado por el cliente                         |
+| `updatedClientOrderId` | string | Sí          | El nuevo ID de orden especificado por el cliente después de la modificación |
+| `count`                | string | No          | Cantidad actualizada para la orden                                          |
+| `yesPrice`             | string | No          | Precio actualizado para 'yes' en centavos (1-99)                            |
+| `noPrice`              | string | No          | Precio actualizado para 'no' en centavos (1-99)                             |
+| `yesPriceDollars`      | string | No          | Precio actualizado para 'yes' en dólares (p. ej., "0.56")                   |
+| `noPriceDollars`       | string | No          | Precio actualizado para 'no' en dólares (p. ej., "0.56")                    |
+
+Salida [#salida-16]
+
+| Parámetro | Tipo   | Descripción                   |
+| --------- | ------ | ----------------------------- |
+| `order`   | object | El objeto de orden modificada |
+13:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L1a",null,{"content":"$1b"}]}],"$L1c"]}],"$L1d","$L1e"]}]
+14:["$","$L1f",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L20",null,{"type":"kalshi","color":"#09C285"}],"\n","\n",["$","p",null,{"children":[["$","$L21",null,{"href":"https://kalshi.com","children":"Kalshi"}]," es un mercado regulado federalmente donde los usuarios pueden operar directamente sobre los resultados de eventos futuros—mercados de predicción. La robusta API de Kalshi y la integración con Aptlystar permiten a los agentes y flujos de trabajo acceder programáticamente a todos los aspectos de la plataforma, admitiendo desde investigación y análisis hasta operaciones automatizadas y monitoreo."]}],"\n",["$","p",null,{"children":"Con la integración de Kalshi en Aptlystar, puedes:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Datos de mercados y eventos:"}]," Buscar, filtrar y obtener datos en tiempo real e históricos de mercados y eventos; obtener detalles granulares sobre el estado del mercado, series, agrupaciones de eventos y más."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestión de cuentas y saldos:"}]," Acceder a saldos de cuenta, fondos disponibles y monitorear posiciones abiertas en tiempo real."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestión de órdenes y operaciones:"}]," Colocar nuevas órdenes, cancelar las existentes, ver órdenes abiertas, obtener un libro de órdenes en vivo y acceder a historiales completos de operaciones."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Análisis de ejecución:"}]," Obtener operaciones recientes, ejecuciones históricas y datos de velas para backtesting o investigación de estructura de mercado."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Monitoreo:"}]," Verificar el estado de todo el mercado o a nivel de series, recibir actualizaciones en tiempo real sobre cambios en el mercado o interrupciones de operaciones, y automatizar respuestas."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Listo para automatización:"}]," Construir agentes automatizados y paneles de control de extremo a extremo que consuman, analicen y operen con probabilidades de eventos del mundo real."]}],"\n"]}],"\n",["$","p",null,{"children":"Al utilizar estas herramientas y puntos de acceso unificados, puedes incorporar sin problemas los mercados de predicción de Kalshi, capacidades de operación en vivo y datos profundos de eventos en tus aplicaciones impulsadas por IA, paneles de control y flujos de trabajo, permitiendo una toma de decisiones sofisticada y automatizada vinculada a resultados del mundo real."}],"\n","\n",["$","$L22",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Integra los mercados de predicción de Kalshi en el flujo de trabajo. Puede obtener mercados, mercado específico, eventos, evento específico, saldo, posiciones, órdenes, libro de órdenes, operaciones, gráficos de velas, ejecuciones, series, estado del intercambio y realizar/cancelar/modificar operaciones."}],"\n",["$","$L22",null,{"as":"h2","id":"herramientas","children":"Herramientas"}],"\n",["$","$L22",null,{"as":"h3","id":"kalshi_get_markets","children":["$","code",null,{"children":"kalshi_get_markets"}]}],"\n",["$","p",null,{"children":"Obtener una lista de mercados de predicción de Kalshi con filtrado opcional"}],"\n",["$","$L22",null,{"as":"h4","id":"entrada","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"$L23"}],"$L24","$L25","$L26"]}],"$L27","$L28","$L29","$L2a"]}]]}]}],"\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c"]}]}]
+15:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+16:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+17:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+18:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+19:["$","$L8d",null,{"children":["$","$8e",null,{"name":"Next.MetadataOutlet","children":"$@8f"}]}]
+1c:["$","$L90",null,{}]
+1d:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","viewBox":"0 0 78 20","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M40.1 0H36.03V20H40.1V0Z"}],["$","path",null,{"d":"M0.42 0.02H4.74V8.99L12.82 0.02H18.06L10.65 8.25L18.54 20H13.36L7.6 11.57L4.74 14.75V20H0.42V0.02Z"}],["$","path",null,{"fillRule":"evenodd","clipRule":"evenodd","d":"M34.47 19.81H32.4C30.54 19.81 29.62 19 29.67 17.4C29.12 18.23 28.45 18.88 27.68 19.31C26.89 19.75 25.95 19.98 24.82 19.98C23.17 19.98 21.84 19.6 20.81 18.86C19.81 18.09 19.31 17.03 19.31 15.66C19.31 14.1 19.9 12.9 21.04 12.07C22.21 11.21 23.9 10.78 26.12 10.78H29.06V10.07C29.06 9.41 28.81 8.89 28.31 8.49C27.81 8.1 27.14 7.89 26.28 7.89C25.53 7.89 24.93 8.06 24.45 8.37C23.97 8.7 23.67 9.14 23.59 9.68H19.64C19.77 8.18 20.46 7.02 21.67 6.19C22.88 5.36 24.49 4.92 26.49 4.92C28.58 4.92 30.21 5.38 31.34 6.29C32.48 7.21 33.07 8.54 33.07 10.26V15.43C33.07 15.78 33.15 16.03 33.3 16.18C33.44 16.3 33.7 16.39 34.03 16.39H34.47V19.81ZM26.07 13.46C25.24 13.46 24.57 13.62 24.09 13.98C23.63 14.31 23.4 14.77 23.4 15.37C23.4 15.89 23.59 16.28 23.99 16.59C24.38 16.9 24.93 17.05 25.59 17.05C26.66 17.05 27.49 16.76 28.1 16.16C28.71 15.55 29.04 14.74 29.06 13.73V13.46H26.07Z"}],["$","path",null,{"d":"M45.51 14.93C45.57 15.58 45.89 16.09 46.47 16.51C47.06 16.9 47.79 17.11 48.68 17.11C49.54 17.11 50.23 16.99 50.73 16.72C51.23 16.43 51.48 16.03 51.48 15.51C51.48 15.14 51.36 14.85 51.13 14.66C50.9 14.47 50.56 14.33 50.15 14.27C49.73 14.16 49.04 14.06 48.08 13.96C46.76 13.79 45.68 13.56 44.82 13.29C43.97 13.02 43.26 12.61 42.76 12.02C42.23 11.44 41.98 10.69 41.98 9.74C41.98 8.78 42.23 7.95 42.76 7.23C43.3 6.48 44.05 5.92 45.01 5.5C45.97 5.11 47.08 4.9 48.33 4.9C50.36 4.92 51.96 5.36 53.19 6.19C54.45 7.02 55.12 8.18 55.22 9.68H51.36C51.29 9.12 51 8.68 50.46 8.33C49.94 7.97 49.27 7.79 48.43 7.79C47.66 7.79 47.04 7.93 46.56 8.22C46.1 8.51 45.87 8.89 45.87 9.37C45.87 9.72 45.99 9.97 46.24 10.13C46.49 10.3 46.83 10.43 47.22 10.51C47.62 10.59 48.31 10.67 49.25 10.76C51.25 10.99 52.78 11.42 53.82 12.04C54.91 12.65 55.43 13.71 55.43 15.22C55.43 16.18 55.14 17.01 54.57 17.74C54.01 18.46 53.24 19.02 52.21 19.42C51.21 19.79 50.04 20 48.73 20C46.68 20 44.99 19.54 43.72 18.65C42.42 17.74 41.75 16.49 41.67 14.93H45.51Z"}],["$","path",null,{"d":"M69.75 6.73C68.62 5.67 67.2 5.13 65.45 5.13C63.63 5.13 62.17 5.79 61.07 7.12V0H56.99V20H61.07V12.46C61.07 11.19 61.34 10.22 61.92 9.51C62.51 8.81 63.32 8.45 64.36 8.45C65.37 8.45 66.12 8.78 66.62 9.43C67.12 10.05 67.37 10.97 67.37 12.19V20H71.44V12.02C71.44 9.55 70.88 7.79 69.75 6.73Z"}],["$","path",null,{"d":"M73.01 5.3H77.08V19.98H73.01V5.3Z"}],["$","path",null,{"d":"M76.47 0.58C76.1 0.21 75.62 0 75.03 0C74.47 0 73.97 0.21 73.57 0.58C73.2 0.96 72.99 1.41 72.99 1.97C72.99 2.53 73.2 3.01 73.57 3.39C73.97 3.76 74.47 3.97 75.03 3.97C75.6 3.97 76.1 3.78 76.47 3.39C76.85 2.99 77.06 2.53 77.06 1.97C77.06 1.41 76.85 0.93 76.47 0.58Z"}]]}]}],["$","$L91",null,{"className":"mb-0 min-w-0 flex-1","children":"Kalshi"}]]}]
+1e:["$","$L92",null,{"children":"Accede a mercados de predicción y opera en Kalshi"}]
+23:["$","code",null,{"children":"status"}]
+24:["$","td",null,{"children":"string"}]
+25:["$","td",null,{"children":"No"}]
+26:["$","td",null,{"children":"Filtrar por estado (unopened, open, closed, settled)"}]
+27:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"seriesTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de serie"}]]}]
+28:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de evento"}]]}]
+29:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados (1-1000, predeterminado: 100)"}]]}]
+2a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cursor de paginación para la siguiente página"}]]}]
+2b:["$","$L22",null,{"as":"h4","id":"salida","children":"Salida"}]
+2c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"markets"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de mercado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paging"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Cursor de paginación para obtener más resultados"}]]}]]}]]}]}]
+2d:["$","$L22",null,{"as":"h3","id":"kalshi_get_market","children":["$","code",null,{"children":"kalshi_get_market"}]}]
+2e:["$","p",null,{"children":"Obtener detalles de un mercado de predicción específico por ticker"}]
+2f:["$","$L22",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+30:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ticker del mercado (p. ej., \"KXBTC-24DEC31\")"}]]}]}]]}]}]
+31:["$","$L22",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+32:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"market"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objeto de mercado con detalles"}]]}]}]]}]}]
+33:["$","$L22",null,{"as":"h3","id":"kalshi_get_events","children":["$","code",null,{"children":"kalshi_get_events"}]}]
+34:["$","p",null,{"children":"Obtener una lista de eventos de Kalshi con filtrado opcional"}]
+35:["$","$L22",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+36:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por estado (open, closed, settled)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"seriesTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de serie"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"withNestedMarkets"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Incluir mercados anidados en la respuesta (true/false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados (1-200, predeterminado: 200)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cursor de paginación para la siguiente página"}]]}]]}]]}]}]
+37:["$","$L22",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"events"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de eventos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paging"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Cursor de paginación para obtener más resultados"}]]}]]}]]}]}]
+39:["$","$L22",null,{"as":"h3","id":"kalshi_get_event","children":["$","code",null,{"children":"kalshi_get_event"}]}]
+3a:["$","p",null,{"children":"Recuperar detalles de un evento específico por ticker"}]
+3b:["$","$L22",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+3c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ticker del evento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"withNestedMarkets"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Incluir mercados anidados en la respuesta (true/false)"}]]}]]}]]}]}]
+3d:["$","$L22",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"event"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objeto de evento con detalles"}]]}]}]]}]}]
+3f:["$","$L22",null,{"as":"h3","id":"kalshi_get_balance","children":["$","code",null,{"children":"kalshi_get_balance"}]}]
+40:["$","p",null,{"children":"Recuperar el saldo de tu cuenta y el valor de la cartera desde Kalshi"}]
+41:["$","$L22",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+42:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}]]}]]}]}]
+43:["$","$L22",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"balance"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Saldo de la cuenta en centavos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"portfolioValue"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Valor del portafolio en centavos"}]]}]]}]]}]}]
+45:["$","$L22",null,{"as":"h3","id":"kalshi_get_positions","children":["$","code",null,{"children":"kalshi_get_positions"}]}]
+46:["$","p",null,{"children":"Recuperar tus posiciones abiertas desde Kalshi"}]
+47:["$","$L22",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de mercado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de evento (máximo 10 separados por comas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"settlementStatus"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por estado de liquidación (all, unsettled, settled). Predeterminado: unsettled"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados (1-1000, predeterminado: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cursor de paginación para la siguiente página"}]]}]]}]]}]}]
+49:["$","$L22",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positions"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de posición"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paging"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Cursor de paginación para obtener más resultados"}]]}]]}]]}]}]
+4b:["$","$L22",null,{"as":"h3","id":"kalshi_get_orders","children":["$","code",null,{"children":"kalshi_get_orders"}]}]
+4c:["$","p",null,{"children":"Recupera tus órdenes de Kalshi con filtrado opcional"}]
+4d:["$","$L22",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de mercado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de evento (máximo 10 separados por comas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por estado (en espera, cancelado, ejecutado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados (1-200, predeterminado: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cursor de paginación para la siguiente página"}]]}]]}]]}]}]
+4f:["$","$L22",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orders"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de órdenes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paging"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Cursor de paginación para obtener más resultados"}]]}]]}]]}]}]
+51:["$","$L22",null,{"as":"h3","id":"kalshi_get_order","children":["$","code",null,{"children":"kalshi_get_order"}]}]
+52:["$","p",null,{"children":"Recupera detalles de una orden específica por ID desde Kalshi"}]
+53:["$","$L22",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la orden a recuperar"}]]}]]}]]}]}]
+55:["$","$L22",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objeto de orden con detalles"}]]}]}]]}]}]
+57:["$","$L22",null,{"as":"h3","id":"kalshi_get_orderbook","children":["$","code",null,{"children":"kalshi_get_orderbook"}]}]
+58:["$","p",null,{"children":"Recupera el libro de órdenes (ofertas de sí y no) para un mercado específico"}]
+59:["$","$L22",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ticker del mercado (p. ej., KXBTC-24DEC31)"}]]}]}]]}]}]
+5b:["$","$L22",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderbook"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Libro de órdenes con ofertas y demandas de sí/no"}]]}]}]]}]}]
+5d:["$","$L22",null,{"as":"h3","id":"kalshi_get_trades","children":["$","code",null,{"children":"kalshi_get_trades"}]}]
+5e:["$","p",null,{"children":"Recupera operaciones recientes de todos los mercados"}]
+5f:["$","$L22",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados (1-1000, predeterminado: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cursor de paginación para la siguiente página"}]]}]]}]]}]}]
+61:["$","$L22",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trades"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de operaciones"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paging"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Cursor de paginación para obtener más resultados"}]]}]]}]]}]}]
+63:["$","$L22",null,{"as":"h3","id":"kalshi_get_candlesticks","children":["$","code",null,{"children":"kalshi_get_candlesticks"}]}]
+64:["$","p",null,{"children":"Obtener datos de velas OHLC para un mercado específico"}]
+65:["$","$L22",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"seriesTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ticker de serie"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ticker del mercado (p. ej., KXBTC-24DEC31)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startTs"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Marca de tiempo inicial (segundos Unix)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endTs"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Marca de tiempo final (segundos Unix)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"periodInterval"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Intervalo de período: 1 (1min), 60 (1hora), o 1440 (1día)"}]]}]]}]]}]}]
+67:["$","$L22",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"candlesticks"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de datos de velas OHLC"}]]}]}]]}]}]
+69:["$","$L22",null,{"as":"h3","id":"kalshi_get_fills","children":["$","code",null,{"children":"kalshi_get_fills"}]}]
+6a:["$","p",null,{"children":"Recuperar tu portafolio"}]
+6b:["$","$L22",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ticker de mercado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ID de orden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"minTs"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Marca de tiempo mínima (milisegundos Unix)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxTs"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Marca de tiempo máxima (milisegundos Unix)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados (1-1000, predeterminado: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cursor de paginación para la siguiente página"}]]}]]}]]}]}]
+6d:["$","$L22",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fills"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de ejecuciones/operaciones"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paging"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Cursor de paginación para obtener más resultados"}]]}]]}]]}]}]
+6f:["$","$L22",null,{"as":"h3","id":"kalshi_get_series_by_ticker","children":["$","code",null,{"children":"kalshi_get_series_by_ticker"}]}]
+70:["$","p",null,{"children":"Obtener detalles de una serie de mercado específica por ticker"}]
+71:["$","$L22",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"seriesTicker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ticker de la serie"}]]}]}]]}]}]
+73:["$","$L22",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"series"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objeto de serie con detalles"}]]}]}]]}]}]
+75:["$","$L22",null,{"as":"h3","id":"kalshi_get_exchange_status","children":["$","code",null,{"children":"kalshi_get_exchange_status"}]}]
+76:["$","p",null,{"children":"Obtener el estado actual del intercambio Kalshi (actividad de trading y del intercambio)"}]
+77:["$","$L22",null,{"as":"h4","id":"entrada-13","children":"Entrada"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}]}]}]
+79:["$","$L22",null,{"as":"h4","id":"salida-13","children":"Salida"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Estado del exchange con indicadores trading_active y exchange_active"}]]}]}]]}]}]
+7b:["$","$L22",null,{"as":"h3","id":"kalshi_create_order","children":["$","code",null,{"children":"kalshi_create_order"}]}]
+7c:["$","p",null,{"children":"Crear una nueva orden en un mercado de predicción de Kalshi"}]
+7d:["$","$L22",null,{"as":"h4","id":"entrada-14","children":"Entrada"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ticker del mercado (p. ej., KXBTC-24DEC31)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"side"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Lado de la orden: 'yes' o 'no'"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"action"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de acción: 'buy' o 'sell'"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Número de contratos (mínimo 1)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo de orden: 'limit' o 'market' (predeterminado: limit)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"yesPrice"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio de 'yes' en centavos (1-99)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noPrice"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio de 'no' en centavos (1-99)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"yesPriceDollars"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio de 'yes' en dólares (p. ej., \"0.56\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noPriceDollars"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio de 'no' en dólares (p. ej., \"0.56\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"clientOrderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Identificador personalizado de la orden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"expirationTs"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Marca de tiempo Unix para la expiración de la orden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeInForce"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tiempo en vigor: 'fill_or_kill', 'good_till_canceled', 'immediate_or_cancel'"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"buyMaxCost"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Costo máximo en centavos (habilita automáticamente fill_or_kill)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postOnly"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Establecer como 'true' para órdenes solo maker"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reduceOnly"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Establecer como 'true' solo para reducción de posición"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"selfTradePreventionType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Prevención de auto-negociación: 'taker_at_cross' o 'maker'"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderGroupId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de grupo de órdenes asociado"}]]}]]}]]}]}]
+7f:["$","$L22",null,{"as":"h4","id":"salida-14","children":"Salida"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El objeto de orden creada"}]]}]}]]}]}]
+81:["$","$L22",null,{"as":"h3","id":"kalshi_cancel_order","children":["$","code",null,{"children":"kalshi_cancel_order"}]}]
+82:["$","p",null,{"children":"Cancelar una orden existente en Kalshi"}]
+83:["$","$L22",null,{"as":"h4","id":"entrada-15","children":"Entrada"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la orden a cancelar"}]]}]]}]]}]}]
+85:["$","$L22",null,{"as":"h4","id":"salida-15","children":"Salida"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El objeto de orden cancelada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reducedBy"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de contratos cancelados"}]]}]]}]]}]}]
+87:["$","$L22",null,{"as":"h3","id":"kalshi_amend_order","children":["$","code",null,{"children":"kalshi_amend_order"}]}]
+88:["$","p",null,{"children":"Modificar el precio o la cantidad de una orden existente en Kalshi"}]
+89:["$","$L22",null,{"as":"h4","id":"entrada-16","children":"Entrada"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu ID de clave API de Kalshi"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"privateKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave privada RSA (formato PEM)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la orden a modificar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticker"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Ticker del mercado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"side"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Lado de la orden: 'yes' o 'no'"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"action"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de acción: 'buy' o 'sell'"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"clientOrderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de orden original especificado por el cliente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedClientOrderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nuevo ID de orden especificado por el cliente después de la modificación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Cantidad actualizada para la orden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"yesPrice"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio actualizado para 'yes' en centavos (1-99)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noPrice"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio actualizado para 'no' en centavos (1-99)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"yesPriceDollars"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio actualizado para 'yes' en dólares (p. ej., \"0.56\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noPriceDollars"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Precio actualizado para 'no' en dólares (p. ej., \"0.56\")"}]]}]]}]]}]}]
+8b:["$","$L22",null,{"as":"h4","id":"salida-16","children":"Salida"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El objeto de orden modificada"}]]}]}]]}]}]
+8f:null

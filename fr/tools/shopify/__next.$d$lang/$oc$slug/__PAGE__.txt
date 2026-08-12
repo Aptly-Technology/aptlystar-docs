@@ -1,0 +1,614 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+27:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+2c:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+2d:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+2e:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+2f:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+ae:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+af:"$Sreact.suspense"
+b1:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+b2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+b3:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Shopify\",\"description\":\"Gérez les produits, les commandes, les clients et l'inventaire dans votre boutique Shopify\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/shopify\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/shopify\"},\"inLanguage\":\"fr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/shopify\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Shopify\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/shopify\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instructions-dutilisation","title":"Instructions d'utilisation"},{"depth":2,"url":"#outils","title":"Outils"},{"depth":3,"url":"#shopify_create_product","title":["$","code",null,{"children":"shopify_create_product"}]},{"depth":4,"url":"#entrée","title":"Entrée"},{"depth":4,"url":"#sortie","title":"Sortie"},{"depth":3,"url":"#shopify_get_product","title":["$","code",null,{"children":"shopify_get_product"}]},{"depth":4,"url":"#entrée-1","title":"Entrée"},{"depth":4,"url":"#sortie-1","title":"Sortie"},{"depth":3,"url":"#shopify_list_products","title":["$","code",null,{"children":"shopify_list_products"}]},{"depth":4,"url":"#entrée-2","title":"Entrée"},{"depth":4,"url":"#sortie-2","title":"Sortie"},{"depth":3,"url":"#shopify_update_product","title":["$","code",null,{"children":"shopify_update_product"}]},{"depth":4,"url":"#entrée-3","title":"Entrée"},{"depth":4,"url":"#sortie-3","title":"Sortie"},{"depth":3,"url":"#shopify_delete_product","title":["$","code",null,{"children":"shopify_delete_product"}]},{"depth":4,"url":"#entrée-4","title":"Entrée"},{"depth":4,"url":"#sortie-4","title":"Sortie"},{"depth":3,"url":"#shopify_get_order","title":["$","code",null,{"children":"shopify_get_order"}]},{"depth":4,"url":"#entrée-5","title":"Entrée"},{"depth":4,"url":"#sortie-5","title":"Sortie"},{"depth":3,"url":"#shopify_list_orders","title":["$","code",null,{"children":"shopify_list_orders"}]},{"depth":4,"url":"#entrée-6","title":"Entrée"},{"depth":4,"url":"#sortie-6","title":"Sortie"},{"depth":3,"url":"#shopify_update_order","title":["$","code",null,{"children":"shopify_update_order"}]},{"depth":4,"url":"#entrée-7","title":"Entrée"},{"depth":4,"url":"#sortie-7","title":"Sortie"},{"depth":3,"url":"#shopify_cancel_order","title":["$","code",null,{"children":"shopify_cancel_order"}]},{"depth":4,"url":"#entrée-8","title":"Entrée"},{"depth":4,"url":"#sortie-8","title":"Sortie"},{"depth":3,"url":"#shopify_create_customer","title":["$","code",null,{"children":"shopify_create_customer"}]},{"depth":4,"url":"#entrée-9","title":"Entrée"},{"depth":4,"url":"#sortie-9","title":"Sortie"},{"depth":3,"url":"#shopify_get_customer","title":["$","code",null,{"children":"shopify_get_customer"}]},{"depth":4,"url":"#entrée-10","title":"Entrée"},{"depth":4,"url":"#sortie-10","title":"Sortie"},{"depth":3,"url":"#shopify_list_customers","title":["$","code",null,{"children":"shopify_list_customers"}]},{"depth":4,"url":"#entrée-11","title":"Entrée"},{"depth":4,"url":"#sortie-11","title":"$L3"},{"depth":3,"url":"#shopify_update_customer","title":"$L4"},{"depth":4,"url":"#entrée-12","title":"$L5"},{"depth":4,"url":"#sortie-12","title":"$L6"},{"depth":3,"url":"#shopify_delete_customer","title":"$L7"},{"depth":4,"url":"#entrée-13","title":"$L8"},{"depth":4,"url":"#sortie-13","title":"$L9"},{"depth":3,"url":"#shopify_list_inventory_items","title":"$La"},{"depth":4,"url":"#entrée-14","title":"$Lb"},{"depth":4,"url":"#sortie-14","title":"$Lc"},{"depth":3,"url":"#shopify_get_inventory_level","title":"$Ld"},{"depth":4,"url":"#entrée-15","title":"$Le"},{"depth":4,"url":"#sortie-15","title":"$Lf"},{"depth":3,"url":"#shopify_adjust_inventory","title":"$L10"},{"depth":4,"url":"#entrée-16","title":"$L11"},{"depth":4,"url":"#sortie-16","title":"$L12"},{"depth":3,"url":"#shopify_list_locations","title":"$L13"},{"depth":4,"url":"#entrée-17","title":"$L14"},{"depth":4,"url":"#sortie-17","title":"$L15"},{"depth":3,"url":"#shopify_create_fulfillment","title":"$L16"},{"depth":4,"url":"#entrée-18","title":"$L17"},{"depth":4,"url":"#sortie-18","title":"$L18"},{"depth":3,"url":"#shopify_list_collections","title":"$L19"},{"depth":4,"url":"#entrée-19","title":"$L1a"},{"depth":4,"url":"#sortie-19","title":"$L1b"},{"depth":3,"url":"#shopify_get_collection","title":"$L1c"},{"depth":4,"url":"#entrée-20","title":"$L1d"},{"depth":4,"url":"#sortie-20","title":"$L1e"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L1f"},"children":["$L20","$L21"]}]],["$L22","$L23","$L24","$L25"],"$L26"]}],"loading":null,"isPartial":false}
+3:"Sortie"
+4:["$","code",null,{"children":"shopify_update_customer"}]
+5:"Entrée"
+6:"Sortie"
+7:["$","code",null,{"children":"shopify_delete_customer"}]
+8:"Entrée"
+9:"Sortie"
+a:["$","code",null,{"children":"shopify_list_inventory_items"}]
+b:"Entrée"
+c:"Sortie"
+d:["$","code",null,{"children":"shopify_get_inventory_level"}]
+e:"Entrée"
+f:"Sortie"
+10:["$","code",null,{"children":"shopify_adjust_inventory"}]
+11:"Entrée"
+12:"Sortie"
+13:["$","code",null,{"children":"shopify_list_locations"}]
+14:"Entrée"
+15:"Sortie"
+16:["$","code",null,{"children":"shopify_create_fulfillment"}]
+17:"Entrée"
+18:"Sortie"
+19:["$","code",null,{"children":"shopify_list_collections"}]
+1a:"Entrée"
+1b:"Sortie"
+1c:["$","code",null,{"children":"shopify_get_collection"}]
+1d:"Entrée"
+1e:"Sortie"
+1f:null
+28:T67de,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="shopify" color="#FFFFFF" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Shopify](https://www.shopify.com/) est une plateforme e-commerce de premier plan conçue pour aider les marchands à construire, gérer et développer leurs boutiques en ligne. Shopify facilite la gestion de tous les aspects de votre boutique, des produits et de l'inventaire aux commandes et aux clients.
+
+Avec Shopify dans Aptlystar, vos agents peuvent :
+
+* **Créer et gérer des produits** : ajouter de nouveaux produits, mettre à jour les détails des produits et supprimer des produits de votre boutique.
+* **Lister et récupérer les commandes** : obtenir des informations sur les commandes des clients, y compris le filtrage et la gestion des commandes.
+* **Gérer les clients** : accéder et mettre à jour les détails des clients, ou ajouter de nouveaux clients à votre boutique.
+* **Ajuster les niveaux d'inventaire** : modifier par programmation les niveaux de stock des produits pour maintenir votre inventaire précis.
+
+Utilisez l'intégration Shopify de Aptlystar pour automatiser les flux de travail courants de gestion de boutique — comme la synchronisation de l'inventaire, l'exécution des commandes ou la gestion des annonces — directement depuis vos automatisations. Donnez à vos agents les moyens d'accéder, de mettre à jour et d'organiser toutes les données de votre boutique à l'aide d'outils simples et programmatiques.
+
+{/* MANUAL-CONTENT-END */}
+
+Instructions d'utilisation [#instructions-dutilisation]
+
+Intégrez Shopify dans votre flux de travail. Gérez les produits, les commandes, les clients et l'inventaire. Créez, lisez, mettez à jour et supprimez des produits. Listez et gérez les commandes. Traitez les données clients et ajustez les niveaux d'inventaire.
+
+Outils [#outils]
+
+shopify_create_product [#shopify_create_product]
+
+Créer un nouveau produit dans votre boutique Shopify
+
+Entrée [#entrée]
+
+| Paramètre         | Type   | Obligatoire | Description                                                          |
+| ----------------- | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain`      | string | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `title`           | string | Oui         | Titre du produit                                                     |
+| `descriptionHtml` | string | Non         | Description du produit (HTML)                                        |
+| `vendor`          | string | Non         | Fournisseur/marque du produit                                        |
+| `productType`     | string | Non         | Type/catégorie du produit                                            |
+| `tags`            | array  | Non         | Tags du produit                                                      |
+| `status`          | string | Non         | Statut du produit (ACTIVE, DRAFT, ARCHIVED)                          |
+
+Sortie [#sortie]
+
+| Paramètre | Type   | Description     |
+| --------- | ------ | --------------- |
+| `product` | object | Le produit créé |
+
+shopify_get_product [#shopify_get_product]
+
+Obtenir un produit unique par ID depuis votre boutique Shopify
+
+Entrée [#entrée-1]
+
+| Paramètre    | Type   | Obligatoire | Description                                                          |
+| ------------ | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain` | string | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `productId`  | string | Oui         | ID du produit (gid://shopify/Product/123456789)                      |
+
+Sortie [#sortie-1]
+
+| Paramètre | Type   | Description            |
+| --------- | ------ | ---------------------- |
+| `product` | object | Les détails du produit |
+
+shopify_list_products [#shopify_list_products]
+
+Lister les produits de votre boutique Shopify avec filtrage optionnel
+
+Entrée [#entrée-2]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                               |
+| ------------ | ------ | ----------- | --------------------------------------------------------------------------------------------------------- |
+| `shopDomain` | string | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)                                      |
+| `first`      | number | Non         | Nombre de produits à retourner (par défaut : 50, max : 250)                                               |
+| `query`      | string | Non         | Requête de recherche pour filtrer les produits (ex., "title:chemise" ou "vendor:Nike" ou "status:active") |
+
+Sortie [#sortie-2]
+
+| Paramètre  | Type   | Description                |
+| ---------- | ------ | -------------------------- |
+| `products` | array  | Liste des produits         |
+| `pageInfo` | object | Informations de pagination |
+
+shopify_update_product [#shopify_update_product]
+
+Mettre à jour un produit existant dans votre boutique Shopify
+
+Entrée [#entrée-3]
+
+| Paramètre         | Type   | Obligatoire | Description                                                          |
+| ----------------- | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain`      | string | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `productId`       | string | Oui         | ID du produit à mettre à jour (gid://shopify/Product/123456789)      |
+| `title`           | string | Non         | Nouveau titre du produit                                             |
+| `descriptionHtml` | string | Non         | Nouvelle description du produit (HTML)                               |
+| `vendor`          | string | Non         | Nouveau fournisseur/marque du produit                                |
+| `productType`     | string | Non         | Nouveau type/catégorie du produit                                    |
+| `tags`            | array  | Non         | Nouvelles étiquettes du produit                                      |
+| `status`          | string | Non         | Nouveau statut du produit (ACTIVE, DRAFT, ARCHIVED)                  |
+
+Sortie [#sortie-3]
+
+| Paramètre | Type  | Description           |
+| --------- | ----- | --------------------- |
+| `product` | objet | Le produit mis à jour |
+
+shopify_delete_product [#shopify_delete_product]
+
+Supprimer un produit de votre boutique Shopify
+
+Entrée [#entrée-4]
+
+| Paramètre    | Type   | Obligatoire | Description                                                           |
+| ------------ | ------ | ----------- | --------------------------------------------------------------------- |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com) |
+| `productId`  | chaîne | Oui         | ID du produit à supprimer (gid://shopify/Product/123456789)           |
+
+Sortie [#sortie-4]
+
+| Paramètre   | Type   | Description              |
+| ----------- | ------ | ------------------------ |
+| `deletedId` | chaîne | L'ID du produit supprimé |
+
+shopify_get_order [#shopify_get_order]
+
+Obtenir une commande spécifique par ID depuis votre boutique Shopify
+
+Entrée [#entrée-5]
+
+| Paramètre    | Type   | Obligatoire | Description                                                           |
+| ------------ | ------ | ----------- | --------------------------------------------------------------------- |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com) |
+| `orderId`    | chaîne | Oui         | ID de la commande (gid://shopify/Order/123456789)                     |
+
+Sortie [#sortie-5]
+
+| Paramètre | Type  | Description                |
+| --------- | ----- | -------------------------- |
+| `order`   | objet | Les détails de la commande |
+
+shopify_list_orders [#shopify_list_orders]
+
+Lister les commandes de votre boutique Shopify avec filtrage optionnel
+
+Entrée [#entrée-6]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                                                                                                          |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)                                                                                                                |
+| `first`      | nombre | Non         | Nombre de commandes à retourner (par défaut : 50, max : 250)                                                                                                                         |
+| `status`     | chaîne | Non         | Filtrer par statut de commande (open, closed, cancelled, any)                                                                                                                        |
+| `query`      | chaîne | Non         | Requête de recherche pour filtrer les commandes (ex. : "financial\_status:paid" ou "fulfillment\_status:unfulfilled" ou "email:[customer@example.com](mailto:customer@example.com)") |
+
+Sortie [#sortie-6]
+
+| Paramètre  | Type   | Description                |
+| ---------- | ------ | -------------------------- |
+| `orders`   | array  | Liste des commandes        |
+| `pageInfo` | object | Informations de pagination |
+
+shopify_update_order [#shopify_update_order]
+
+Mettre à jour une commande existante dans votre boutique Shopify (note, tags, email)
+
+Entrée [#entrée-7]
+
+| Paramètre    | Type   | Obligatoire | Description                                                          |
+| ------------ | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain` | string | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `orderId`    | string | Oui         | ID de la commande à mettre à jour (gid://shopify/Order/123456789)    |
+| `note`       | string | Non         | Nouvelle note de commande                                            |
+| `tags`       | array  | Non         | Nouveaux tags de commande                                            |
+| `email`      | string | Non         | Nouvel email client pour la commande                                 |
+
+Sortie [#sortie-7]
+
+| Paramètre | Type   | Description             |
+| --------- | ------ | ----------------------- |
+| `order`   | object | La commande mise à jour |
+
+shopify_cancel_order [#shopify_cancel_order]
+
+Annuler une commande dans votre boutique Shopify
+
+Entrée [#entrée-8]
+
+| Paramètre        | Type    | Obligatoire | Description                                                             |
+| ---------------- | ------- | ----------- | ----------------------------------------------------------------------- |
+| `shopDomain`     | string  | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)    |
+| `orderId`        | string  | Oui         | ID de la commande à annuler (gid://shopify/Order/123456789)             |
+| `reason`         | string  | Oui         | Motif d'annulation (CUSTOMER, DECLINED, FRAUD, INVENTORY, STAFF, OTHER) |
+| `notifyCustomer` | boolean | Non         | Indique s'il faut informer le client de l'annulation                    |
+| `refund`         | boolean | Non         | Indique s'il faut rembourser la commande                                |
+| `restock`        | boolean | Non         | Indique s'il faut réapprovisionner le stock                             |
+| `staffNote`      | string  | Non         | Une note sur l'annulation pour référence interne                        |
+
+Sortie [#sortie-8]
+
+| Paramètre | Type  | Description                 |
+| --------- | ----- | --------------------------- |
+| `order`   | objet | Le résultat de l'annulation |
+
+shopify_create_customer [#shopify_create_customer]
+
+Créer un nouveau client dans votre boutique Shopify
+
+Entrée [#entrée-9]
+
+| Paramètre    | Type    | Obligatoire | Description                                                          |
+| ------------ | ------- | ----------- | -------------------------------------------------------------------- |
+| `shopDomain` | chaîne  | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `email`      | chaîne  | Non         | Adresse e-mail du client                                             |
+| `firstName`  | chaîne  | Non         | Prénom du client                                                     |
+| `lastName`   | chaîne  | Non         | Nom de famille du client                                             |
+| `phone`      | chaîne  | Non         | Numéro de téléphone du client                                        |
+| `note`       | chaîne  | Non         | Note concernant le client                                            |
+| `tags`       | tableau | Non         | Tags du client                                                       |
+| `addresses`  | tableau | Non         | Adresses du client                                                   |
+
+Sortie [#sortie-9]
+
+| Paramètre  | Type  | Description    |
+| ---------- | ----- | -------------- |
+| `customer` | objet | Le client créé |
+
+shopify_get_customer [#shopify_get_customer]
+
+Obtenir un client unique par ID depuis votre boutique Shopify
+
+Entrée [#entrée-10]
+
+| Paramètre    | Type   | Obligatoire | Description                                                          |
+| ------------ | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `customerId` | chaîne | Oui         | ID du client (gid://shopify/Customer/123456789)                      |
+
+Sortie [#sortie-10]
+
+| Paramètre  | Type  | Description           |
+| ---------- | ----- | --------------------- |
+| `customer` | objet | Les détails du client |
+
+shopify_list_customers [#shopify_list_customers]
+
+Listez les clients de votre boutique Shopify avec filtrage optionnel
+
+Entrée [#entrée-11]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                                                         |
+| ------------ | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)                                                               |
+| `first`      | nombre | Non         | Nombre de clients à retourner (par défaut : 50, max : 250)                                                                          |
+| `query`      | chaîne | Non         | Requête de recherche pour filtrer les clients (ex. : "first\_name:John" ou "last\_name:Smith" ou "email:\*@gmail.com" ou "tag:vip") |
+
+Sortie [#sortie-11]
+
+| Paramètre   | Type    | Description                |
+| ----------- | ------- | -------------------------- |
+| `customers` | tableau | Liste des clients          |
+| `pageInfo`  | objet   | Informations de pagination |
+
+shopify_update_customer [#shopify_update_customer]
+
+Mettre à jour un client existant dans votre boutique Shopify
+
+Entrée [#entrée-12]
+
+| Paramètre    | Type    | Obligatoire | Description                                                           |
+| ------------ | ------- | ----------- | --------------------------------------------------------------------- |
+| `shopDomain` | chaîne  | Oui         | Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com) |
+| `customerId` | chaîne  | Oui         | ID du client à mettre à jour (gid://shopify/Customer/123456789)       |
+| `email`      | chaîne  | Non         | Nouvelle adresse e-mail du client                                     |
+| `firstName`  | chaîne  | Non         | Nouveau prénom du client                                              |
+| `lastName`   | chaîne  | Non         | Nouveau nom de famille du client                                      |
+| `phone`      | chaîne  | Non         | Nouveau numéro de téléphone du client                                 |
+| `note`       | chaîne  | Non         | Nouvelle note concernant le client                                    |
+| `tags`       | tableau | Non         | Nouvelles étiquettes du client                                        |
+
+Sortie [#sortie-12]
+
+| Paramètre  | Type  | Description          |
+| ---------- | ----- | -------------------- |
+| `customer` | objet | Le client mis à jour |
+
+shopify_delete_customer [#shopify_delete_customer]
+
+Supprimer un client de votre boutique Shopify
+
+Entrée [#entrée-13]
+
+| Paramètre    | Type   | Obligatoire | Description                                                          |
+| ------------ | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `customerId` | chaîne | Oui         | ID du client à supprimer (gid://shopify/Customer/123456789)          |
+
+Sortie [#sortie-13]
+
+| Paramètre   | Type   | Description             |
+| ----------- | ------ | ----------------------- |
+| `deletedId` | chaîne | L'ID du client supprimé |
+
+shopify_list_inventory_items [#shopify_list_inventory_items]
+
+Lister les articles d'inventaire de votre boutique Shopify. Utilisez cette fonction pour trouver les ID d'articles d'inventaire par SKU.
+
+Entrée [#entrée-14]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                     |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------- |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)            |
+| `first`      | nombre | Non         | Nombre d'articles d'inventaire à retourner (par défaut : 50, max : 250)         |
+| `query`      | chaîne | Non         | Requête de recherche pour filtrer les articles d'inventaire (ex., "sku:ABC123") |
+
+Sortie [#sortie-14]
+
+| Paramètre        | Type    | Description                                                            |
+| ---------------- | ------- | ---------------------------------------------------------------------- |
+| `inventoryItems` | tableau | Liste des articles d'inventaire avec leurs ID, SKU et niveaux de stock |
+| `pageInfo`       | objet   | Informations de pagination                                             |
+
+shopify_get_inventory_level [#shopify_get_inventory_level]
+
+Obtenir le niveau d'inventaire pour une variante de produit à un emplacement spécifique
+
+Entrée [#entrée-15]
+
+| Paramètre         | Type   | Obligatoire | Description                                                          |
+| ----------------- | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain`      | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `inventoryItemId` | chaîne | Oui         | ID de l'article d'inventaire (gid://shopify/InventoryItem/123456789) |
+| `locationId`      | chaîne | Non         | ID de l'emplacement pour filtrer (facultatif)                        |
+
+Sortie [#sortie-15]
+
+| Paramètre        | Type  | Description                        |
+| ---------------- | ----- | ---------------------------------- |
+| `inventoryLevel` | objet | Les détails du niveau d'inventaire |
+
+shopify_adjust_inventory [#shopify_adjust_inventory]
+
+Ajuster la quantité d'inventaire pour une variante de produit à un emplacement spécifique
+
+Entrée [#entrée-16]
+
+| Paramètre         | Type   | Obligatoire | Description                                                          |
+| ----------------- | ------ | ----------- | -------------------------------------------------------------------- |
+| `shopDomain`      | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `inventoryItemId` | chaîne | Oui         | ID de l'article d'inventaire (gid://shopify/InventoryItem/123456789) |
+| `locationId`      | chaîne | Oui         | ID de l'emplacement (gid://shopify/Location/123456789)               |
+| `delta`           | nombre | Oui         | Montant à ajuster (positif pour augmenter, négatif pour diminuer)    |
+
+Sortie [#sortie-16]
+
+| Paramètre        | Type  | Description                              |
+| ---------------- | ----- | ---------------------------------------- |
+| `inventoryLevel` | objet | Le résultat de l'ajustement d'inventaire |
+
+shopify_list_locations [#shopify_list_locations]
+
+Lister les emplacements d'inventaire de votre boutique Shopify. Utilisez ceci pour trouver les ID d'emplacement nécessaires pour les opérations d'inventaire.
+
+Entrée [#entrée-17]
+
+| Paramètre         | Type    | Obligatoire | Description                                                          |
+| ----------------- | ------- | ----------- | -------------------------------------------------------------------- |
+| `shopDomain`      | chaîne  | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com) |
+| `first`           | nombre  | Non         | Nombre d'emplacements à retourner (par défaut : 50, max : 250)       |
+| `includeInactive` | booléen | Non         | Inclure ou non les emplacements désactivés (par défaut : false)      |
+
+Sortie [#sortie-17]
+
+| Paramètre   | Type    | Description                                            |
+| ----------- | ------- | ------------------------------------------------------ |
+| `locations` | tableau | Liste des emplacements avec leurs ID, noms et adresses |
+| `pageInfo`  | objet   | Informations de pagination                             |
+
+shopify_create_fulfillment [#shopify_create_fulfillment]
+
+Créez un traitement pour marquer les articles de commande comme expédiés. Nécessite un ID de commande de traitement (obtenez-le à partir des détails de la commande).
+
+Entrée [#entrée-18]
+
+| Paramètre            | Type    | Obligatoire | Description                                                                                    |
+| -------------------- | ------- | ----------- | ---------------------------------------------------------------------------------------------- |
+| `shopDomain`         | chaîne  | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)                           |
+| `fulfillmentOrderId` | chaîne  | Oui         | L'ID de commande de traitement (ex., gid://shopify/FulfillmentOrder/123456789)                 |
+| `trackingNumber`     | chaîne  | Non         | Numéro de suivi pour l'expédition                                                              |
+| `trackingCompany`    | chaîne  | Non         | Nom du transporteur (ex., UPS, FedEx, USPS, DHL)                                               |
+| `trackingUrl`        | chaîne  | Non         | URL pour suivre l'expédition                                                                   |
+| `notifyCustomer`     | booléen | Non         | Indique s'il faut envoyer un e-mail de confirmation d'expédition au client (par défaut : true) |
+
+Sortie [#sortie-18]
+
+| Paramètre     | Type  | Description                                                               |
+| ------------- | ----- | ------------------------------------------------------------------------- |
+| `fulfillment` | objet | Le traitement créé avec les informations de suivi et les articles traités |
+
+shopify_list_collections [#shopify_list_collections]
+
+Listez les collections de produits de votre boutique Shopify. Filtrez par titre, type (personnalisé/intelligent) ou identifiant.
+
+Entrée [#entrée-19]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                      |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------------------------ |
+| `shopDomain` | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)                             |
+| `first`      | nombre | Non         | Nombre de collections à retourner (par défaut : 50, max : 250)                                   |
+| `query`      | chaîne | Non         | Requête de recherche pour filtrer les collections (ex., "title:Été" ou "collection\_type:smart") |
+
+Sortie [#sortie-19]
+
+| Paramètre     | Type    | Description                                                        |
+| ------------- | ------- | ------------------------------------------------------------------ |
+| `collections` | tableau | Liste des collections avec leurs IDs, titres et nombre de produits |
+| `pageInfo`    | objet   | Informations de pagination                                         |
+
+shopify_get_collection [#shopify_get_collection]
+
+Obtenez une collection spécifique par ID, y compris ses produits. Utilisez ceci pour récupérer les produits au sein d'une collection.
+
+Entrée [#entrée-20]
+
+| Paramètre       | Type   | Obligatoire | Description                                                                     |
+| --------------- | ------ | ----------- | ------------------------------------------------------------------------------- |
+| `shopDomain`    | chaîne | Oui         | Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)            |
+| `collectionId`  | chaîne | Oui         | L'ID de la collection (ex., gid://shopify/Collection/123456789)                 |
+| `productsFirst` | nombre | Non         | Nombre de produits à retourner de cette collection (par défaut : 50, max : 250) |
+
+Sortie [#sortie-20]
+
+| Paramètre    | Type  | Description                                        |
+| ------------ | ----- | -------------------------------------------------- |
+| `collection` | objet | Les détails de la collection incluant ses produits |
+20:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L27",null,{"content":"$28"}]}],"$L29"]}],"$L2a","$L2b"]}]
+21:["$","$L2c",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L2d",null,{"type":"shopify","color":"#FFFFFF"}],"\n","\n",["$","p",null,{"children":[["$","$L2e",null,{"href":"https://www.shopify.com/","children":"Shopify"}]," est une plateforme e-commerce de premier plan conçue pour aider les marchands à construire, gérer et développer leurs boutiques en ligne. Shopify facilite la gestion de tous les aspects de votre boutique, des produits et de l'inventaire aux commandes et aux clients."]}],"\n",["$","p",null,{"children":"Avec Shopify dans Aptlystar, vos agents peuvent :"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Créer et gérer des produits"}]," : ajouter de nouveaux produits, mettre à jour les détails des produits et supprimer des produits de votre boutique."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Lister et récupérer les commandes"}]," : obtenir des informations sur les commandes des clients, y compris le filtrage et la gestion des commandes."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gérer les clients"}]," : accéder et mettre à jour les détails des clients, ou ajouter de nouveaux clients à votre boutique."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Ajuster les niveaux d'inventaire"}]," : modifier par programmation les niveaux de stock des produits pour maintenir votre inventaire précis."]}],"\n"]}],"\n",["$","p",null,{"children":"Utilisez l'intégration Shopify de Aptlystar pour automatiser les flux de travail courants de gestion de boutique — comme la synchronisation de l'inventaire, l'exécution des commandes ou la gestion des annonces — directement depuis vos automatisations. Donnez à vos agents les moyens d'accéder, de mettre à jour et d'organiser toutes les données de votre boutique à l'aide d'outils simples et programmatiques."}],"\n","\n",["$","$L2f",null,{"as":"h2","id":"instructions-dutilisation","children":"Instructions d'utilisation"}],"\n",["$","p",null,{"children":"Intégrez Shopify dans votre flux de travail. Gérez les produits, les commandes, les clients et l'inventaire. Créez, lisez, mettez à jour et supprimez des produits. Listez et gérez les commandes. Traitez les données clients et ajustez les niveaux d'inventaire."}],"\n",["$","$L2f",null,{"as":"h2","id":"outils","children":"Outils"}],"\n",["$","$L2f",null,{"as":"h3","id":"shopify_create_product","children":["$","code",null,{"children":"shopify_create_product"}]}],"\n",["$","p",null,{"children":"Créer un nouveau produit dans votre boutique Shopify"}],"\n",["$","$L2f",null,{"as":"h4","id":"entrée","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Titre du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"descriptionHtml"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Description du produit (HTML)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"vendor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Fournisseur/marque du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"productType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Type/catégorie du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],"$L30","$L31","$L32"]}],"$L33"]}]]}]}],"\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad"]}]}]
+22:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+23:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+24:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+25:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+26:["$","$Lae",null,{"children":["$","$af",null,{"name":"Next.MetadataOutlet","children":"$@b0"}]}]
+29:["$","$Lb1",null,{}]
+2a:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 48 48","width":"48px","height":"48px","children":[["$","path",null,{"fill":"#7cb342","d":"M37.22,11.78c-0.02-0.21-0.21-0.3-0.35-0.3s-3.21-0.23-3.21-0.23s-2.13-2.13-2.39-2.34 c-0.23-0.23-0.68-0.16-0.87-0.12c-0.02,0-0.47,0.14-1.19,0.38c-0.73-2.09-1.97-3.98-4.19-3.98h-0.21 C24.19,4.38,23.39,4,22.74,4c-5.15,0-7.64,6.44-8.41,9.73c-2.01,0.63-3.44,1.05-3.61,1.13 c-1.12,0.35-1.15,0.38-1.29,1.43c-0.12,0.8-3.05,23.46-3.05,23.46L29.18,44l12.37-2.67 C41.58,41.28,37.24,11.99,37.22,11.78z M27.94,9.48c-0.56,0.16-1.24,0.38-1.92,0.61V9.67 c0-1.26-0.16-2.3-0.47-3.12C26.72,6.7,27.45,7.98,27.94,9.48L27.94,9.48z M24.12,6.81 c0.31,0.8,0.52,1.92,0.52,3.47v0.23c-1.26,0.4-2.6,0.8-3.98,1.24C21.42,8.8,22.9,7.35,24.12,6.81 L24.12,6.81z M22.62,5.36c0.23,0,0.47,0.09,0.66,0.23c-1.66,0.77-3.42,2.72-4.15,6.66 c-1.1,0.35-2.16,0.66-3.16,0.98C16.81,10.23,18.92,5.36,22.62,5.36z"}],["$","path",null,{"fill":"#558b2f","d":"M36.87,11.43c-0.14,0-3.21-0.23-3.21-0.23s-2.13-2.13-2.39-2.34 C31.17,8.76,31.05,8.71,30.96,8.71L29.25,44l12.37-2.67c0,0-4.33-29.34-4.36-29.55 C37.17,11.57,37.01,11.48,36.87,11.43z"}],["$","path",null,{"fill":"#fff","d":"M24.79,18.59l-1.47,4.45c0,0-1.34-0.71-2.93-0.71c-2.37,0-2.49,1.5-2.49,1.87 c0,2.03,5.3,2.81,5.3,7.58c0,3.76-2.37,6.18-5.58,6.18c-3.87,0-5.81-2.4-5.81-2.4l1.04-3.41 c0,0,2.03,1.75,3.73,1.75c1.13,0,1.59-0.88,1.59-1.52c0-2.65-4.33-2.77-4.33-7.14c0-3.66,2.63-7.21,7.95-7.21 C23.78,17.99,24.79,18.59,24.79,18.59z"}]]}]}],["$","$Lb2",null,{"className":"mb-0 min-w-0 flex-1","children":"Shopify"}]]}]
+2b:["$","$Lb3",null,{"children":"Gérez les produits, les commandes, les clients et l'inventaire dans votre boutique Shopify"}]
+30:["$","td",null,{"children":"array"}]
+31:["$","td",null,{"children":"Non"}]
+32:["$","td",null,{"children":"Tags du produit"}]
+33:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Statut du produit (ACTIVE, DRAFT, ARCHIVED)"}]]}]
+34:["$","$L2f",null,{"as":"h4","id":"sortie","children":"Sortie"}]
+35:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"product"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le produit créé"}]]}]}]]}]}]
+36:["$","$L2f",null,{"as":"h3","id":"shopify_get_product","children":["$","code",null,{"children":"shopify_get_product"}]}]
+37:["$","p",null,{"children":"Obtenir un produit unique par ID depuis votre boutique Shopify"}]
+38:["$","$L2f",null,{"as":"h4","id":"entrée-1","children":"Entrée"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"productId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du produit (gid://shopify/Product/123456789)"}]]}]]}]]}]}]
+3a:["$","$L2f",null,{"as":"h4","id":"sortie-1","children":"Sortie"}]
+3b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"product"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Les détails du produit"}]]}]}]]}]}]
+3c:["$","$L2f",null,{"as":"h3","id":"shopify_list_products","children":["$","code",null,{"children":"shopify_list_products"}]}]
+3d:["$","p",null,{"children":"Lister les produits de votre boutique Shopify avec filtrage optionnel"}]
+3e:["$","$L2f",null,{"as":"h4","id":"entrée-2","children":"Entrée"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de produits à retourner (par défaut : 50, max : 250)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Requête de recherche pour filtrer les produits (ex., \"title:chemise\" ou \"vendor:Nike\" ou \"status:active\")"}]]}]]}]]}]}]
+40:["$","$L2f",null,{"as":"h4","id":"sortie-2","children":"Sortie"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"products"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des produits"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageInfo"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Informations de pagination"}]]}]]}]]}]}]
+42:["$","$L2f",null,{"as":"h3","id":"shopify_update_product","children":["$","code",null,{"children":"shopify_update_product"}]}]
+43:["$","p",null,{"children":"Mettre à jour un produit existant dans votre boutique Shopify"}]
+44:["$","$L2f",null,{"as":"h4","id":"entrée-3","children":"Entrée"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"productId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du produit à mettre à jour (gid://shopify/Product/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau titre du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"descriptionHtml"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle description du produit (HTML)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"vendor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau fournisseur/marque du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"productType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau type/catégorie du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelles étiquettes du produit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau statut du produit (ACTIVE, DRAFT, ARCHIVED)"}]]}]]}]]}]}]
+46:["$","$L2f",null,{"as":"h4","id":"sortie-3","children":"Sortie"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"product"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le produit mis à jour"}]]}]}]]}]}]
+48:["$","$L2f",null,{"as":"h3","id":"shopify_delete_product","children":["$","code",null,{"children":"shopify_delete_product"}]}]
+49:["$","p",null,{"children":"Supprimer un produit de votre boutique Shopify"}]
+4a:["$","$L2f",null,{"as":"h4","id":"entrée-4","children":"Entrée"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"productId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du produit à supprimer (gid://shopify/Product/123456789)"}]]}]]}]]}]}]
+4c:["$","$L2f",null,{"as":"h4","id":"sortie-4","children":"Sortie"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deletedId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"L'ID du produit supprimé"}]]}]}]]}]}]
+4e:["$","$L2f",null,{"as":"h3","id":"shopify_get_order","children":["$","code",null,{"children":"shopify_get_order"}]}]
+4f:["$","p",null,{"children":"Obtenir une commande spécifique par ID depuis votre boutique Shopify"}]
+50:["$","$L2f",null,{"as":"h4","id":"entrée-5","children":"Entrée"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de la commande (gid://shopify/Order/123456789)"}]]}]]}]]}]}]
+52:["$","$L2f",null,{"as":"h4","id":"sortie-5","children":"Sortie"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Les détails de la commande"}]]}]}]]}]}]
+54:["$","$L2f",null,{"as":"h3","id":"shopify_list_orders","children":["$","code",null,{"children":"shopify_list_orders"}]}]
+55:["$","p",null,{"children":"Lister les commandes de votre boutique Shopify avec filtrage optionnel"}]
+56:["$","$L2f",null,{"as":"h4","id":"entrée-6","children":"Entrée"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de commandes à retourner (par défaut : 50, max : 250)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par statut de commande (open, closed, cancelled, any)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":["Requête de recherche pour filtrer les commandes (ex. : \"financial_status:paid\" ou \"fulfillment_status:unfulfilled\" ou \"email:",["$","$L2e",null,{"href":"mailto:customer@example.com","children":"customer@example.com"}],"\")"]}]]}]]}]]}]}]
+58:["$","$L2f",null,{"as":"h4","id":"sortie-6","children":"Sortie"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orders"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des commandes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageInfo"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Informations de pagination"}]]}]]}]]}]}]
+5a:["$","$L2f",null,{"as":"h3","id":"shopify_update_order","children":["$","code",null,{"children":"shopify_update_order"}]}]
+5b:["$","p",null,{"children":"Mettre à jour une commande existante dans votre boutique Shopify (note, tags, email)"}]
+5c:["$","$L2f",null,{"as":"h4","id":"entrée-7","children":"Entrée"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de la commande à mettre à jour (gid://shopify/Order/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle note de commande"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveaux tags de commande"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvel email client pour la commande"}]]}]]}]]}]}]
+5e:["$","$L2f",null,{"as":"h4","id":"sortie-7","children":"Sortie"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La commande mise à jour"}]]}]}]]}]}]
+60:["$","$L2f",null,{"as":"h3","id":"shopify_cancel_order","children":["$","code",null,{"children":"shopify_cancel_order"}]}]
+61:["$","p",null,{"children":"Annuler une commande dans votre boutique Shopify"}]
+62:["$","$L2f",null,{"as":"h4","id":"entrée-8","children":"Entrée"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de la commande à annuler (gid://shopify/Order/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reason"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Motif d'annulation (CUSTOMER, DECLINED, FRAUD, INVENTORY, STAFF, OTHER)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"notifyCustomer"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique s'il faut informer le client de l'annulation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refund"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique s'il faut rembourser la commande"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"restock"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique s'il faut réapprovisionner le stock"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"staffNote"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Une note sur l'annulation pour référence interne"}]]}]]}]]}]}]
+64:["$","$L2f",null,{"as":"h4","id":"sortie-8","children":"Sortie"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le résultat de l'annulation"}]]}]}]]}]}]
+66:["$","$L2f",null,{"as":"h3","id":"shopify_create_customer","children":["$","code",null,{"children":"shopify_create_customer"}]}]
+67:["$","p",null,{"children":"Créer un nouveau client dans votre boutique Shopify"}]
+68:["$","$L2f",null,{"as":"h4","id":"entrée-9","children":"Entrée"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Adresse e-mail du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Prénom du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nom de famille du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de téléphone du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Note concernant le client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tags du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"addresses"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Adresses du client"}]]}]]}]]}]}]
+6a:["$","$L2f",null,{"as":"h4","id":"sortie-9","children":"Sortie"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customer"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le client créé"}]]}]}]]}]}]
+6c:["$","$L2f",null,{"as":"h3","id":"shopify_get_customer","children":["$","code",null,{"children":"shopify_get_customer"}]}]
+6d:["$","p",null,{"children":"Obtenir un client unique par ID depuis votre boutique Shopify"}]
+6e:["$","$L2f",null,{"as":"h4","id":"entrée-10","children":"Entrée"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customerId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du client (gid://shopify/Customer/123456789)"}]]}]]}]]}]}]
+70:["$","$L2f",null,{"as":"h4","id":"sortie-10","children":"Sortie"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customer"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Les détails du client"}]]}]}]]}]}]
+72:["$","$L2f",null,{"as":"h3","id":"shopify_list_customers","children":["$","code",null,{"children":"shopify_list_customers"}]}]
+73:["$","p",null,{"children":"Listez les clients de votre boutique Shopify avec filtrage optionnel"}]
+74:["$","$L2f",null,{"as":"h4","id":"entrée-11","children":"Entrée"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de clients à retourner (par défaut : 50, max : 250)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Requête de recherche pour filtrer les clients (ex. : \"first_name:John\" ou \"last_name:Smith\" ou \"email:*@gmail.com\" ou \"tag:vip\")"}]]}]]}]]}]}]
+76:["$","$L2f",null,{"as":"h4","id":"sortie-11","children":"Sortie"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customers"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Liste des clients"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageInfo"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Informations de pagination"}]]}]]}]]}]}]
+78:["$","$L2f",null,{"as":"h3","id":"shopify_update_customer","children":["$","code",null,{"children":"shopify_update_customer"}]}]
+79:["$","p",null,{"children":"Mettre à jour un client existant dans votre boutique Shopify"}]
+7a:["$","$L2f",null,{"as":"h4","id":"entrée-12","children":"Entrée"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex. : maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customerId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du client à mettre à jour (gid://shopify/Customer/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle adresse e-mail du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau prénom du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau nom de famille du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau numéro de téléphone du client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle note concernant le client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelles étiquettes du client"}]]}]]}]]}]}]
+7c:["$","$L2f",null,{"as":"h4","id":"sortie-12","children":"Sortie"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customer"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le client mis à jour"}]]}]}]]}]}]
+7e:["$","$L2f",null,{"as":"h3","id":"shopify_delete_customer","children":["$","code",null,{"children":"shopify_delete_customer"}]}]
+7f:["$","p",null,{"children":"Supprimer un client de votre boutique Shopify"}]
+80:["$","$L2f",null,{"as":"h4","id":"entrée-13","children":"Entrée"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customerId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du client à supprimer (gid://shopify/Customer/123456789)"}]]}]]}]]}]}]
+82:["$","$L2f",null,{"as":"h4","id":"sortie-13","children":"Sortie"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deletedId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"L'ID du client supprimé"}]]}]}]]}]}]
+84:["$","$L2f",null,{"as":"h3","id":"shopify_list_inventory_items","children":["$","code",null,{"children":"shopify_list_inventory_items"}]}]
+85:["$","p",null,{"children":"Lister les articles d'inventaire de votre boutique Shopify. Utilisez cette fonction pour trouver les ID d'articles d'inventaire par SKU."}]
+86:["$","$L2f",null,{"as":"h4","id":"entrée-14","children":"Entrée"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre d'articles d'inventaire à retourner (par défaut : 50, max : 250)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Requête de recherche pour filtrer les articles d'inventaire (ex., \"sku:ABC123\")"}]]}]]}]]}]}]
+88:["$","$L2f",null,{"as":"h4","id":"sortie-14","children":"Sortie"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inventoryItems"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Liste des articles d'inventaire avec leurs ID, SKU et niveaux de stock"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageInfo"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Informations de pagination"}]]}]]}]]}]}]
+8a:["$","$L2f",null,{"as":"h3","id":"shopify_get_inventory_level","children":["$","code",null,{"children":"shopify_get_inventory_level"}]}]
+8b:["$","p",null,{"children":"Obtenir le niveau d'inventaire pour une variante de produit à un emplacement spécifique"}]
+8c:["$","$L2f",null,{"as":"h4","id":"entrée-15","children":"Entrée"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inventoryItemId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de l'article d'inventaire (gid://shopify/InventoryItem/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'emplacement pour filtrer (facultatif)"}]]}]]}]]}]}]
+8e:["$","$L2f",null,{"as":"h4","id":"sortie-15","children":"Sortie"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inventoryLevel"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Les détails du niveau d'inventaire"}]]}]}]]}]}]
+90:["$","$L2f",null,{"as":"h3","id":"shopify_adjust_inventory","children":["$","code",null,{"children":"shopify_adjust_inventory"}]}]
+91:["$","p",null,{"children":"Ajuster la quantité d'inventaire pour une variante de produit à un emplacement spécifique"}]
+92:["$","$L2f",null,{"as":"h4","id":"entrée-16","children":"Entrée"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inventoryItemId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de l'article d'inventaire (gid://shopify/InventoryItem/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de l'emplacement (gid://shopify/Location/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"delta"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Montant à ajuster (positif pour augmenter, négatif pour diminuer)"}]]}]]}]]}]}]
+94:["$","$L2f",null,{"as":"h4","id":"sortie-16","children":"Sortie"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inventoryLevel"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le résultat de l'ajustement d'inventaire"}]]}]}]]}]}]
+96:["$","$L2f",null,{"as":"h3","id":"shopify_list_locations","children":["$","code",null,{"children":"shopify_list_locations"}]}]
+97:["$","p",null,{"children":"Lister les emplacements d'inventaire de votre boutique Shopify. Utilisez ceci pour trouver les ID d'emplacement nécessaires pour les opérations d'inventaire."}]
+98:["$","$L2f",null,{"as":"h4","id":"entrée-17","children":"Entrée"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre d'emplacements à retourner (par défaut : 50, max : 250)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeInactive"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Inclure ou non les emplacements désactivés (par défaut : false)"}]]}]]}]]}]}]
+9a:["$","$L2f",null,{"as":"h4","id":"sortie-17","children":"Sortie"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locations"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Liste des emplacements avec leurs ID, noms et adresses"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageInfo"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Informations de pagination"}]]}]]}]]}]}]
+9c:["$","$L2f",null,{"as":"h3","id":"shopify_create_fulfillment","children":["$","code",null,{"children":"shopify_create_fulfillment"}]}]
+9d:["$","p",null,{"children":"Créez un traitement pour marquer les articles de commande comme expédiés. Nécessite un ID de commande de traitement (obtenez-le à partir des détails de la commande)."}]
+9e:["$","$L2f",null,{"as":"h4","id":"entrée-18","children":"Entrée"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fulfillmentOrderId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de commande de traitement (ex., gid://shopify/FulfillmentOrder/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trackingNumber"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de suivi pour l'expédition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trackingCompany"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nom du transporteur (ex., UPS, FedEx, USPS, DHL)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trackingUrl"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"URL pour suivre l'expédition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"notifyCustomer"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique s'il faut envoyer un e-mail de confirmation d'expédition au client (par défaut : true)"}]]}]]}]]}]}]
+a0:["$","$L2f",null,{"as":"h4","id":"sortie-18","children":"Sortie"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fulfillment"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le traitement créé avec les informations de suivi et les articles traités"}]]}]}]]}]}]
+a2:["$","$L2f",null,{"as":"h3","id":"shopify_list_collections","children":["$","code",null,{"children":"shopify_list_collections"}]}]
+a3:["$","p",null,{"children":"Listez les collections de produits de votre boutique Shopify. Filtrez par titre, type (personnalisé/intelligent) ou identifiant."}]
+a4:["$","$L2f",null,{"as":"h4","id":"entrée-19","children":"Entrée"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de collections à retourner (par défaut : 50, max : 250)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Requête de recherche pour filtrer les collections (ex., \"title:Été\" ou \"collection_type:smart\")"}]]}]]}]]}]}]
+a6:["$","$L2f",null,{"as":"h4","id":"sortie-19","children":"Sortie"}]
+a7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"collections"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Liste des collections avec leurs IDs, titres et nombre de produits"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageInfo"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Informations de pagination"}]]}]]}]]}]}]
+a8:["$","$L2f",null,{"as":"h3","id":"shopify_get_collection","children":["$","code",null,{"children":"shopify_get_collection"}]}]
+a9:["$","p",null,{"children":"Obtenez une collection spécifique par ID, y compris ses produits. Utilisez ceci pour récupérer les produits au sein d'une collection."}]
+aa:["$","$L2f",null,{"as":"h4","id":"entrée-20","children":"Entrée"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shopDomain"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le domaine de votre boutique Shopify (ex., maboutique.myshopify.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"collectionId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la collection (ex., gid://shopify/Collection/123456789)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"productsFirst"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de produits à retourner de cette collection (par défaut : 50, max : 250)"}]]}]]}]]}]}]
+ac:["$","$L2f",null,{"as":"h4","id":"sortie-20","children":"Sortie"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"collection"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Les détails de la collection incluant ses produits"}]]}]}]]}]}]
+b0:null

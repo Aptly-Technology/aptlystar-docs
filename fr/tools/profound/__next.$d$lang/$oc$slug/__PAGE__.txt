@@ -1,0 +1,787 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+31:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+36:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+37:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+38:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+b8:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+b9:"$Sreact.suspense"
+bb:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+bc:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+bd:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Profound\",\"description\":\"AI visibility and analytics with Profound\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/profound\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/profound\"},\"inLanguage\":\"fr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/profound\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Profound\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/profound\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instructions-dutilisation","title":"Instructions d'utilisation"},{"depth":2,"url":"#outils","title":"Outils"},{"depth":3,"url":"#profound_list_categories","title":["$","code",null,{"children":"profound_list_categories"}]},{"depth":4,"url":"#entrée","title":"Entrée"},{"depth":4,"url":"#sortie","title":"Sortie"},{"depth":3,"url":"#profound_list_regions","title":["$","code",null,{"children":"profound_list_regions"}]},{"depth":4,"url":"#entrée-1","title":"Entrée"},{"depth":4,"url":"#sortie-1","title":"Sortie"},{"depth":3,"url":"#profound_list_models","title":["$","code",null,{"children":"profound_list_models"}]},{"depth":4,"url":"#entrée-2","title":"Entrée"},{"depth":4,"url":"#sortie-2","title":"Sortie"},{"depth":3,"url":"#profound_list_domains","title":["$","code",null,{"children":"profound_list_domains"}]},{"depth":4,"url":"#entrée-3","title":"Entrée"},{"depth":4,"url":"#sortie-3","title":"Sortie"},{"depth":3,"url":"#profound_list_assets","title":["$","code",null,{"children":"profound_list_assets"}]},{"depth":4,"url":"#entrée-4","title":"Entrée"},{"depth":4,"url":"#sortie-4","title":"Sortie"},{"depth":3,"url":"#profound_list_personas","title":["$","code",null,{"children":"profound_list_personas"}]},{"depth":4,"url":"#entrée-5","title":"Entrée"},{"depth":4,"url":"#sortie-5","title":"Sortie"},{"depth":3,"url":"#profound_category_topics","title":["$","code",null,{"children":"profound_category_topics"}]},{"depth":4,"url":"#entrée-6","title":"Entrée"},{"depth":4,"url":"#sortie-6","title":"Sortie"},{"depth":3,"url":"#profound_category_tags","title":["$","code",null,{"children":"profound_category_tags"}]},{"depth":4,"url":"#entrée-7","title":"Entrée"},{"depth":4,"url":"#sortie-7","title":"Sortie"},{"depth":3,"url":"#profound_category_prompts","title":["$","code",null,{"children":"profound_category_prompts"}]},{"depth":4,"url":"#entrée-8","title":"Entrée"},{"depth":4,"url":"#sortie-8","title":"Sortie"},{"depth":3,"url":"#profound_category_assets","title":["$","code",null,{"children":"profound_category_assets"}]},{"depth":4,"url":"#entrée-9","title":"Entrée"},{"depth":4,"url":"#sortie-9","title":"Sortie"},{"depth":3,"url":"#profound_category_personas","title":["$","code",null,{"children":"profound_category_personas"}]},{"depth":4,"url":"#entrée-10","title":"Entrée"},{"depth":4,"url":"#sortie-10","title":"Sortie"},{"depth":3,"url":"#profound_visibility_report","title":["$","code",null,{"children":"profound_visibility_report"}]},{"depth":4,"url":"#entrée-11","title":"$L3"},{"depth":4,"url":"#sortie-11","title":"$L4"},{"depth":3,"url":"#profound_sentiment_report","title":"$L5"},{"depth":4,"url":"#entrée-12","title":"$L6"},{"depth":4,"url":"#sortie-12","title":"$L7"},{"depth":3,"url":"#profound_citations_report","title":"$L8"},{"depth":4,"url":"#entrée-13","title":"$L9"},{"depth":4,"url":"#sortie-13","title":"$La"},{"depth":3,"url":"#profound_query_fanouts","title":"$Lb"},{"depth":4,"url":"#entrée-14","title":"$Lc"},{"depth":4,"url":"#sortie-14","title":"$Ld"},{"depth":3,"url":"#profound_prompt_answers","title":"$Le"},{"depth":4,"url":"#entrée-15","title":"$Lf"},{"depth":4,"url":"#sortie-15","title":"$L10"},{"depth":3,"url":"#profound_bots_report","title":"$L11"},{"depth":4,"url":"#entrée-16","title":"$L12"},{"depth":4,"url":"#sortie-16","title":"$L13"},{"depth":3,"url":"#profound_referrals_report","title":"$L14"},{"depth":4,"url":"#entrée-17","title":"$L15"},{"depth":4,"url":"#sortie-17","title":"$L16"},{"depth":3,"url":"#profound_raw_logs","title":"$L17"},{"depth":4,"url":"#entrée-18","title":"$L18"},{"depth":4,"url":"#sortie-18","title":"$L19"},{"depth":3,"url":"#profound_bot_logs","title":"$L1a"},{"depth":4,"url":"#entrée-19","title":"$L1b"},{"depth":4,"url":"#sortie-19","title":"$L1c"},{"depth":3,"url":"#profound_list_optimizations","title":"$L1d"},{"depth":4,"url":"#entrée-20","title":"$L1e"},{"depth":4,"url":"#sortie-20","title":"$L1f"},{"depth":3,"url":"#profound_optimization_analysis","title":"$L20"},{"depth":4,"url":"#entrée-21","title":"$L21"},{"depth":4,"url":"#sortie-21","title":"$L22"},{"depth":3,"url":"#profound_prompt_volume","title":"$L23"},{"depth":4,"url":"#entrée-22","title":"$L24"},{"depth":4,"url":"#sortie-22","title":"$L25"},{"depth":3,"url":"#profound_citation_prompts","title":"$L26"},{"depth":4,"url":"#entrée-23","title":"$L27"},{"depth":4,"url":"#sortie-23","title":"$L28"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L29"},"children":["$L2a","$L2b"]}]],["$L2c","$L2d","$L2e","$L2f"],"$L30"]}],"loading":null,"isPartial":false}
+3:"Entrée"
+4:"Sortie"
+5:["$","code",null,{"children":"profound_sentiment_report"}]
+6:"Entrée"
+7:"Sortie"
+8:["$","code",null,{"children":"profound_citations_report"}]
+9:"Entrée"
+a:"Sortie"
+b:["$","code",null,{"children":"profound_query_fanouts"}]
+c:"Entrée"
+d:"Sortie"
+e:["$","code",null,{"children":"profound_prompt_answers"}]
+f:"Entrée"
+10:"Sortie"
+11:["$","code",null,{"children":"profound_bots_report"}]
+12:"Entrée"
+13:"Sortie"
+14:["$","code",null,{"children":"profound_referrals_report"}]
+15:"Entrée"
+16:"Sortie"
+17:["$","code",null,{"children":"profound_raw_logs"}]
+18:"Entrée"
+19:"Sortie"
+1a:["$","code",null,{"children":"profound_bot_logs"}]
+1b:"Entrée"
+1c:"Sortie"
+1d:["$","code",null,{"children":"profound_list_optimizations"}]
+1e:"Entrée"
+1f:"Sortie"
+20:["$","code",null,{"children":"profound_optimization_analysis"}]
+21:"Entrée"
+22:"Sortie"
+23:["$","code",null,{"children":"profound_prompt_volume"}]
+24:"Entrée"
+25:"Sortie"
+26:["$","code",null,{"children":"profound_citation_prompts"}]
+27:"Entrée"
+28:"Sortie"
+29:null
+32:T98c9,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="profound" color="#000000" />
+
+Instructions d'utilisation [#instructions-dutilisation]
+
+Track how your brand appears across AI platforms. Monitor visibility scores, sentiment, citations, bot traffic, referrals, content optimization, and prompt volumes with Profound.
+
+Outils [#outils]
+
+profound_list_categories [#profound_list_categories]
+
+List all organization categories in Profound
+
+Entrée [#entrée]
+
+| Paramètre | Type   | Obligatoire | Description      |
+| --------- | ------ | ----------- | ---------------- |
+| `apiKey`  | string | Oui         | Profound API Key |
+
+Sortie [#sortie]
+
+| Paramètre    | Type   | Description                     |
+| ------------ | ------ | ------------------------------- |
+| `categories` | json   | List of organization categories |
+| ↳ `id`       | string | Category ID                     |
+| ↳ `name`     | string | Category name                   |
+
+profound_list_regions [#profound_list_regions]
+
+List all organization regions in Profound
+
+Entrée [#entrée-1]
+
+| Paramètre | Type   | Obligatoire | Description      |
+| --------- | ------ | ----------- | ---------------- |
+| `apiKey`  | string | Oui         | Profound API Key |
+
+Sortie [#sortie-1]
+
+| Paramètre | Type   | Description                  |
+| --------- | ------ | ---------------------------- |
+| `regions` | json   | List of organization regions |
+| ↳ `id`    | string | Region ID (UUID)             |
+| ↳ `name`  | string | Region name                  |
+
+profound_list_models [#profound_list_models]
+
+List all AI models/platforms tracked in Profound
+
+Entrée [#entrée-2]
+
+| Paramètre | Type   | Obligatoire | Description      |
+| --------- | ------ | ----------- | ---------------- |
+| `apiKey`  | string | Oui         | Profound API Key |
+
+Sortie [#sortie-2]
+
+| Paramètre | Type   | Description                 |
+| --------- | ------ | --------------------------- |
+| `models`  | json   | List of AI models/platforms |
+| ↳ `id`    | string | Model ID (UUID)             |
+| ↳ `name`  | string | Model/platform name         |
+
+profound_list_domains [#profound_list_domains]
+
+List all organization domains in Profound
+
+Entrée [#entrée-3]
+
+| Paramètre | Type   | Obligatoire | Description      |
+| --------- | ------ | ----------- | ---------------- |
+| `apiKey`  | string | Oui         | Profound API Key |
+
+Sortie [#sortie-3]
+
+| Paramètre     | Type   | Description                  |
+| ------------- | ------ | ---------------------------- |
+| `domains`     | json   | List of organization domains |
+| ↳ `id`        | string | Domain ID (UUID)             |
+| ↳ `name`      | string | Domain name                  |
+| ↳ `createdAt` | string | When the domain was added    |
+
+profound_list_assets [#profound_list_assets]
+
+List all organization assets (companies/brands) across all categories in Profound
+
+Entrée [#entrée-4]
+
+| Paramètre | Type   | Obligatoire | Description      |
+| --------- | ------ | ----------- | ---------------- |
+| `apiKey`  | string | Oui         | Profound API Key |
+
+Sortie [#sortie-4]
+
+| Paramètre            | Type    | Description                                     |
+| -------------------- | ------- | ----------------------------------------------- |
+| `assets`             | json    | List of organization assets with category info  |
+| ↳ `id`               | string  | Asset ID                                        |
+| ↳ `name`             | string  | Asset/company name                              |
+| ↳ `website`          | string  | Asset website URL                               |
+| ↳ `alternateDomains` | json    | Alternate domain names                          |
+| ↳ `isOwned`          | boolean | Whether this asset is owned by the organization |
+| ↳ `createdAt`        | string  | When the asset was created                      |
+| ↳ `logoUrl`          | string  | URL of the asset logo                           |
+| ↳ `categoryId`       | string  | Category ID the asset belongs to                |
+| ↳ `categoryName`     | string  | Category name                                   |
+
+profound_list_personas [#profound_list_personas]
+
+List all organization personas across all categories in Profound
+
+Entrée [#entrée-5]
+
+| Paramètre | Type   | Obligatoire | Description      |
+| --------- | ------ | ----------- | ---------------- |
+| `apiKey`  | string | Oui         | Profound API Key |
+
+Sortie [#sortie-5]
+
+| Paramètre        | Type   | Description                                                 |
+| ---------------- | ------ | ----------------------------------------------------------- |
+| `personas`       | json   | List of organization personas with profile details          |
+| ↳ `id`           | string | Persona ID                                                  |
+| ↳ `name`         | string | Persona name                                                |
+| ↳ `categoryId`   | string | Category ID                                                 |
+| ↳ `categoryName` | string | Category name                                               |
+| ↳ `persona`      | json   | Persona profile with behavior, employment, and demographics |
+
+profound_category_topics [#profound_category_topics]
+
+List topics for a specific category in Profound
+
+Entrée [#entrée-6]
+
+| Paramètre    | Type   | Obligatoire | Description        |
+| ------------ | ------ | ----------- | ------------------ |
+| `apiKey`     | string | Oui         | Profound API Key   |
+| `categoryId` | string | Oui         | Category ID (UUID) |
+
+Sortie [#sortie-6]
+
+| Paramètre | Type   | Description                    |
+| --------- | ------ | ------------------------------ |
+| `topics`  | json   | List of topics in the category |
+| ↳ `id`    | string | Topic ID (UUID)                |
+| ↳ `name`  | string | Topic name                     |
+
+profound_category_tags [#profound_category_tags]
+
+List tags for a specific category in Profound
+
+Entrée [#entrée-7]
+
+| Paramètre    | Type   | Obligatoire | Description        |
+| ------------ | ------ | ----------- | ------------------ |
+| `apiKey`     | string | Oui         | Profound API Key   |
+| `categoryId` | string | Oui         | Category ID (UUID) |
+
+Sortie [#sortie-7]
+
+| Paramètre | Type   | Description                  |
+| --------- | ------ | ---------------------------- |
+| `tags`    | json   | List of tags in the category |
+| ↳ `id`    | string | Tag ID (UUID)                |
+| ↳ `name`  | string | Tag name                     |
+
+profound_category_prompts [#profound_category_prompts]
+
+List prompts for a specific category in Profound
+
+Entrée [#entrée-8]
+
+| Paramètre    | Type   | Obligatoire | Description                                                   |
+| ------------ | ------ | ----------- | ------------------------------------------------------------- |
+| `apiKey`     | string | Oui         | Profound API Key                                              |
+| `categoryId` | string | Oui         | Category ID (UUID)                                            |
+| `limit`      | number | Non         | Maximum number of results (default 10000, max 10000)          |
+| `cursor`     | string | Non         | Pagination cursor from previous response                      |
+| `orderDir`   | string | Non         | Sort direction: asc or desc (default desc)                    |
+| `promptType` | string | Non         | Comma-separated prompt types to filter: visibility, sentiment |
+| `topicId`    | string | Non         | Comma-separated topic IDs (UUIDs) to filter by                |
+| `tagId`      | string | Non         | Comma-separated tag IDs (UUIDs) to filter by                  |
+| `regionId`   | string | Non         | Comma-separated region IDs (UUIDs) to filter by               |
+| `platformId` | string | Non         | Comma-separated platform IDs (UUIDs) to filter by             |
+
+Sortie [#sortie-8]
+
+| Paramètre      | Type   | Description                           |
+| -------------- | ------ | ------------------------------------- |
+| `totalRows`    | number | Total number of prompts               |
+| `nextCursor`   | string | Cursor for next page of results       |
+| `prompts`      | json   | List of prompts                       |
+| ↳ `id`         | string | Prompt ID                             |
+| ↳ `prompt`     | string | Prompt text                           |
+| ↳ `promptType` | string | Prompt type (visibility or sentiment) |
+| ↳ `topicId`    | string | Topic ID                              |
+| ↳ `topicName`  | string | Topic name                            |
+| ↳ `tags`       | json   | Associated tags                       |
+| ↳ `regions`    | json   | Associated regions                    |
+| ↳ `platforms`  | json   | Associated platforms                  |
+| ↳ `createdAt`  | string | When the prompt was created           |
+
+profound_category_assets [#profound_category_assets]
+
+List assets (companies/brands) for a specific category in Profound
+
+Entrée [#entrée-9]
+
+| Paramètre    | Type   | Obligatoire | Description        |
+| ------------ | ------ | ----------- | ------------------ |
+| `apiKey`     | string | Oui         | Profound API Key   |
+| `categoryId` | string | Oui         | Category ID (UUID) |
+
+Sortie [#sortie-9]
+
+| Paramètre            | Type    | Description                                    |
+| -------------------- | ------- | ---------------------------------------------- |
+| `assets`             | json    | List of assets in the category                 |
+| ↳ `id`               | string  | Asset ID                                       |
+| ↳ `name`             | string  | Asset/company name                             |
+| ↳ `website`          | string  | Website URL                                    |
+| ↳ `alternateDomains` | json    | Alternate domain names                         |
+| ↳ `isOwned`          | boolean | Whether the asset is owned by the organization |
+| ↳ `createdAt`        | string  | When the asset was created                     |
+| ↳ `logoUrl`          | string  | URL of the asset logo                          |
+
+profound_category_personas [#profound_category_personas]
+
+List personas for a specific category in Profound
+
+Entrée [#entrée-10]
+
+| Paramètre    | Type   | Obligatoire | Description        |
+| ------------ | ------ | ----------- | ------------------ |
+| `apiKey`     | string | Oui         | Profound API Key   |
+| `categoryId` | string | Oui         | Category ID (UUID) |
+
+Sortie [#sortie-10]
+
+| Paramètre   | Type   | Description                                                 |
+| ----------- | ------ | ----------------------------------------------------------- |
+| `personas`  | json   | List of personas in the category                            |
+| ↳ `id`      | string | Persona ID                                                  |
+| ↳ `name`    | string | Persona name                                                |
+| ↳ `persona` | json   | Persona profile with behavior, employment, and demographics |
+
+profound_visibility_report [#profound_visibility_report]
+
+Query AI visibility report for a category in Profound
+
+Entrée [#entrée-11]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                                  |
+| -------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------ |
+| `apiKey`       | string | Oui         | Profound API Key                                                                                             |
+| `categoryId`   | string | Oui         | Category ID (UUID)                                                                                           |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                          |
+| `endDate`      | string | Oui         | End date (YYYY-MM-DD or ISO 8601)                                                                            |
+| `metrics`      | string | Oui         | Comma-separated metrics: share\_of\_voice, mentions\_count, visibility\_score, executions, average\_position |
+| `dimensions`   | string | Non         | Comma-separated dimensions: date, region, topic, model, asset\_name, prompt, tag, persona                    |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                                                                  |
+| `filters`      | string | Non         | JSON array of filter objects, e.g. \[\{"field":"asset\_name","operator":"is","value":"Company"}]             |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                                                         |
+
+Sortie [#sortie-11]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Report data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_sentiment_report [#profound_sentiment_report]
+
+Query sentiment report for a category in Profound
+
+Entrée [#entrée-12]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                                       |
+| -------------- | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| `apiKey`       | string | Oui         | Profound API Key                                                                                                  |
+| `categoryId`   | string | Oui         | Category ID (UUID)                                                                                                |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                               |
+| `endDate`      | string | Oui         | End date (YYYY-MM-DD or ISO 8601)                                                                                 |
+| `metrics`      | string | Oui         | Comma-separated metrics: positive, negative, occurrences                                                          |
+| `dimensions`   | string | Non         | Comma-separated dimensions: theme, date, region, topic, model, asset\_name, tag, prompt, sentiment\_type, persona |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                                                                       |
+| `filters`      | string | Non         | JSON array of filter objects, e.g. \[\{"field":"asset\_name","operator":"is","value":"Company"}]                  |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                                                              |
+
+Sortie [#sortie-12]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Report data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_citations_report [#profound_citations_report]
+
+Query citations report for a category in Profound
+
+Entrée [#entrée-13]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                                                         |
+| -------------- | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`       | string | Oui         | Profound API Key                                                                                                                    |
+| `categoryId`   | string | Oui         | Category ID (UUID)                                                                                                                  |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                                                 |
+| `endDate`      | string | Oui         | End date (YYYY-MM-DD or ISO 8601)                                                                                                   |
+| `metrics`      | string | Oui         | Comma-separated metrics: count, citation\_share                                                                                     |
+| `dimensions`   | string | Non         | Comma-separated dimensions: hostname, path, date, region, topic, model, tag, prompt, url, root\_domain, persona, citation\_category |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                                                                                         |
+| `filters`      | string | Non         | JSON array of filter objects, e.g. \[\{"field":"hostname","operator":"is","value":"example.com"}]                                   |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                                                                                |
+
+Sortie [#sortie-13]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Report data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_query_fanouts [#profound_query_fanouts]
+
+Query fanout report showing how AI models expand prompts into sub-queries in Profound
+
+Entrée [#entrée-14]
+
+| Paramètre      | Type   | Obligatoire | Description                                                             |
+| -------------- | ------ | ----------- | ----------------------------------------------------------------------- |
+| `apiKey`       | string | Oui         | Profound API Key                                                        |
+| `categoryId`   | string | Oui         | Category ID (UUID)                                                      |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                     |
+| `endDate`      | string | Oui         | End date (YYYY-MM-DD or ISO 8601)                                       |
+| `metrics`      | string | Oui         | Comma-separated metrics: fanouts\_per\_execution, total\_fanouts, share |
+| `dimensions`   | string | Non         | Comma-separated dimensions: prompt, query, model, region, date          |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                             |
+| `filters`      | string | Non         | JSON array of filter objects                                            |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                    |
+
+Sortie [#sortie-14]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Report data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_prompt_answers [#profound_prompt_answers]
+
+Get raw prompt answers data for a category in Profound
+
+Entrée [#entrée-15]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                          |
+| ------------ | ------ | ----------- | ---------------------------------------------------------------------------------------------------- |
+| `apiKey`     | string | Oui         | Profound API Key                                                                                     |
+| `categoryId` | string | Oui         | Category ID (UUID)                                                                                   |
+| `startDate`  | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                  |
+| `endDate`    | string | Oui         | End date (YYYY-MM-DD or ISO 8601)                                                                    |
+| `filters`    | string | Non         | JSON array of filter objects, e.g. \[\{"field":"prompt\_type","operator":"is","value":"visibility"}] |
+| `limit`      | number | Non         | Maximum number of results (default 10000, max 50000)                                                 |
+
+Sortie [#sortie-15]
+
+| Paramètre      | Type   | Description                                |
+| -------------- | ------ | ------------------------------------------ |
+| `totalRows`    | number | Total number of answer rows                |
+| `data`         | json   | Raw prompt answer data                     |
+| ↳ `prompt`     | string | The prompt text                            |
+| ↳ `promptType` | string | Prompt type (visibility or sentiment)      |
+| ↳ `response`   | string | AI model response text                     |
+| ↳ `mentions`   | json   | Companies/assets mentioned in the response |
+| ↳ `citations`  | json   | URLs cited in the response                 |
+| ↳ `topic`      | string | Topic name                                 |
+| ↳ `region`     | string | Region name                                |
+| ↳ `model`      | string | AI model/platform name                     |
+| ↳ `asset`      | string | Asset name                                 |
+| ↳ `createdAt`  | string | Timestamp when the answer was collected    |
+
+profound_bots_report [#profound_bots_report]
+
+Query bot traffic report with hourly granularity for a domain in Profound
+
+Entrée [#entrée-16]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                   |
+| -------------- | ------ | ----------- | --------------------------------------------------------------------------------------------- |
+| `apiKey`       | string | Oui         | Profound API Key                                                                              |
+| `domain`       | string | Oui         | Domain to query bot traffic for (e.g. example.com)                                            |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                           |
+| `endDate`      | string | Non         | End date (YYYY-MM-DD or ISO 8601). Defaults to now                                            |
+| `metrics`      | string | Oui         | Comma-separated metrics: count, citations, indexing, training, last\_visit                    |
+| `dimensions`   | string | Non         | Comma-separated dimensions: date, hour, path, bot\_name, bot\_provider, bot\_type             |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                                                   |
+| `filters`      | string | Non         | JSON array of filter objects, e.g. \[\{"field":"bot\_name","operator":"is","value":"GPTBot"}] |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                                          |
+
+Sortie [#sortie-16]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Report data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_referrals_report [#profound_referrals_report]
+
+Query human referral traffic report with hourly granularity for a domain in Profound
+
+Entrée [#entrée-17]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                          |
+| -------------- | ------ | ----------- | ---------------------------------------------------------------------------------------------------- |
+| `apiKey`       | string | Oui         | Profound API Key                                                                                     |
+| `domain`       | string | Oui         | Domain to query referral traffic for (e.g. example.com)                                              |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                  |
+| `endDate`      | string | Non         | End date (YYYY-MM-DD or ISO 8601). Defaults to now                                                   |
+| `metrics`      | string | Oui         | Comma-separated metrics: visits, last\_visit                                                         |
+| `dimensions`   | string | Non         | Comma-separated dimensions: date, hour, path, referral\_source, referral\_type                       |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                                                          |
+| `filters`      | string | Non         | JSON array of filter objects, e.g. \[\{"field":"referral\_source","operator":"is","value":"openai"}] |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                                                 |
+
+Sortie [#sortie-17]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Report data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_raw_logs [#profound_raw_logs]
+
+Get raw traffic logs with filters for a domain in Profound
+
+Entrée [#entrée-18]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                                                                 |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`     | string | Oui         | Profound API Key                                                                                                                            |
+| `domain`     | string | Oui         | Domain to query logs for (e.g. example.com)                                                                                                 |
+| `startDate`  | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                                                         |
+| `endDate`    | string | Non         | End date (YYYY-MM-DD or ISO 8601). Defaults to now                                                                                          |
+| `dimensions` | string | Non         | Comma-separated dimensions: timestamp, method, host, path, status\_code, ip, user\_agent, referer, bytes\_sent, duration\_ms, query\_params |
+| `filters`    | string | Non         | JSON array of filter objects, e.g. \[\{"field":"path","operator":"contains","value":"/blog"}]                                               |
+| `limit`      | number | Non         | Maximum number of results (default 10000, max 50000)                                                                                        |
+
+Sortie [#sortie-18]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of log entries                                   |
+| `data`         | json   | Log data rows with metrics and dimension values               |
+| ↳ `metrics`    | json   | Array of metric values (count)                                |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_bot_logs [#profound_bot_logs]
+
+Get identified bot visit logs with filters for a domain in Profound
+
+Entrée [#entrée-19]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                                                                                                       |
+| ------------ | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`     | string | Oui         | Profound API Key                                                                                                                                                                  |
+| `domain`     | string | Oui         | Domain to query bot logs for (e.g. example.com)                                                                                                                                   |
+| `startDate`  | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                                                                                                               |
+| `endDate`    | string | Non         | End date (YYYY-MM-DD or ISO 8601). Defaults to now                                                                                                                                |
+| `dimensions` | string | Non         | Comma-separated dimensions: timestamp, method, host, path, status\_code, ip, user\_agent, referer, bytes\_sent, duration\_ms, query\_params, bot\_name, bot\_provider, bot\_types |
+| `filters`    | string | Non         | JSON array of filter objects, e.g. \[\{"field":"bot\_name","operator":"is","value":"GPTBot"}]                                                                                     |
+| `limit`      | number | Non         | Maximum number of results (default 10000, max 50000)                                                                                                                              |
+
+Sortie [#sortie-19]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of bot log entries                               |
+| `data`         | json   | Bot log data rows with metrics and dimension values           |
+| ↳ `metrics`    | json   | Array of metric values (count)                                |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_list_optimizations [#profound_list_optimizations]
+
+List content optimization entries for an asset in Profound
+
+Entrée [#entrée-20]
+
+| Paramètre | Type   | Obligatoire | Description                                          |
+| --------- | ------ | ----------- | ---------------------------------------------------- |
+| `apiKey`  | string | Oui         | Profound API Key                                     |
+| `assetId` | string | Oui         | Asset ID (UUID)                                      |
+| `limit`   | number | Non         | Maximum number of results (default 10000, max 50000) |
+| `offset`  | number | Non         | Offset for pagination (default 0)                    |
+
+Sortie [#sortie-20]
+
+| Paramètre          | Type   | Description                          |
+| ------------------ | ------ | ------------------------------------ |
+| `totalRows`        | number | Total number of optimization entries |
+| `optimizations`    | json   | List of content optimization entries |
+| ↳ `id`             | string | Optimization ID (UUID)               |
+| ↳ `title`          | string | Content title                        |
+| ↳ `createdAt`      | string | When the optimization was created    |
+| ↳ `extractedInput` | string | Extracted input text                 |
+| ↳ `type`           | string | Content type: file, text, or url     |
+| ↳ `status`         | string | Optimization status                  |
+
+profound_optimization_analysis [#profound_optimization_analysis]
+
+Get detailed content optimization analysis for a specific content item in Profound
+
+Entrée [#entrée-21]
+
+| Paramètre   | Type   | Obligatoire | Description                    |
+| ----------- | ------ | ----------- | ------------------------------ |
+| `apiKey`    | string | Oui         | Profound API Key               |
+| `assetId`   | string | Oui         | Asset ID (UUID)                |
+| `contentId` | string | Oui         | Content/optimization ID (UUID) |
+
+Sortie [#sortie-21]
+
+| Paramètre         | Type   | Description                           |
+| ----------------- | ------ | ------------------------------------- |
+| `content`         | json   | The analyzed content                  |
+| ↳ `format`        | string | Content format: markdown or html      |
+| ↳ `value`         | string | Content text                          |
+| `aeoContentScore` | json   | AEO content score with target zone    |
+| ↳ `value`         | number | AEO score value                       |
+| ↳ `targetZone`    | json   | Target zone range                     |
+| ↳ `low`           | number | Low end of target range               |
+| ↳ `high`          | number | High end of target range              |
+| `analysis`        | json   | Analysis breakdown by category        |
+| ↳ `breakdown`     | json   | Array of scoring breakdowns           |
+| ↳ `title`         | string | Category title                        |
+| ↳ `weight`        | number | Category weight                       |
+| ↳ `score`         | number | Category score                        |
+| `recommendations` | json   | Content optimization recommendations  |
+| ↳ `title`         | string | Recommendation title                  |
+| ↳ `status`        | string | Status: done or pending               |
+| ↳ `impact`        | json   | Impact details with section and score |
+| ↳ `suggestion`    | json   | Suggestion text and rationale         |
+| ↳ `text`          | string | Suggestion text                       |
+| ↳ `rationale`     | string | Why this recommendation matters       |
+
+profound_prompt_volume [#profound_prompt_volume]
+
+Query prompt volume data to understand search demand across AI platforms in Profound
+
+Entrée [#entrée-22]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                     |
+| -------------- | ------ | ----------- | ----------------------------------------------------------------------------------------------- |
+| `apiKey`       | string | Oui         | Profound API Key                                                                                |
+| `startDate`    | string | Oui         | Start date (YYYY-MM-DD or ISO 8601)                                                             |
+| `endDate`      | string | Oui         | End date (YYYY-MM-DD or ISO 8601)                                                               |
+| `metrics`      | string | Oui         | Comma-separated metrics: volume, change                                                         |
+| `dimensions`   | string | Non         | Comma-separated dimensions: keyword, date, platform, country\_code, matching\_type, frequency   |
+| `dateInterval` | string | Non         | Date interval: hour, day, week, month, year                                                     |
+| `filters`      | string | Non         | JSON array of filter objects, e.g. \[\{"field":"keyword","operator":"contains","value":"best"}] |
+| `limit`        | number | Non         | Maximum number of results (default 10000, max 50000)                                            |
+
+Sortie [#sortie-22]
+
+| Paramètre      | Type   | Description                                                   |
+| -------------- | ------ | ------------------------------------------------------------- |
+| `totalRows`    | number | Total number of rows in the report                            |
+| `data`         | json   | Volume data rows with metrics and dimension values            |
+| ↳ `metrics`    | json   | Array of metric values matching requested metrics order       |
+| ↳ `dimensions` | json   | Array of dimension values matching requested dimensions order |
+
+profound_citation_prompts [#profound_citation_prompts]
+
+Get prompts that cite a specific domain across AI platforms in Profound
+
+Entrée [#entrée-23]
+
+| Paramètre     | Type   | Obligatoire | Description                                     |
+| ------------- | ------ | ----------- | ----------------------------------------------- |
+| `apiKey`      | string | Oui         | Profound API Key                                |
+| `inputDomain` | string | Oui         | Domain to look up citations for (e.g. ramp.com) |
+
+Sortie [#sortie-23]
+
+| Paramètre | Type | Description                                 |
+| --------- | ---- | ------------------------------------------- |
+| `data`    | json | Citation prompt data for the queried domain |
+2a:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L31",null,{"content":"$32"}]}],"$L33"]}],"$L34","$L35"]}]
+2b:["$","$L36",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L37",null,{"type":"profound","color":"#000000"}],"\n",["$","$L38",null,{"as":"h2","id":"instructions-dutilisation","children":"Instructions d'utilisation"}],"\n",["$","p",null,{"children":"Track how your brand appears across AI platforms. Monitor visibility scores, sentiment, citations, bot traffic, referrals, content optimization, and prompt volumes with Profound."}],"\n",["$","$L38",null,{"as":"h2","id":"outils","children":"Outils"}],"\n",["$","$L38",null,{"as":"h3","id":"profound_list_categories","children":["$","code",null,{"children":"profound_list_categories"}]}],"\n",["$","p",null,{"children":"List all organization categories in Profound"}],"\n",["$","$L38",null,{"as":"h4","id":"entrée","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}]}]]}]}],"\n",["$","$L38",null,{"as":"h4","id":"sortie","children":"Sortie"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of organization categories"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category name"}]]}]]}]]}]}],"\n",["$","$L38",null,{"as":"h3","id":"profound_list_regions","children":["$","code",null,{"children":"profound_list_regions"}]}],"\n",["$","p",null,{"children":"List all organization regions in Profound"}],"\n",["$","$L38",null,{"as":"h4","id":"entrée-1","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}]}]]}]}],"\n",["$","$L38",null,{"as":"h4","id":"sortie-1","children":"Sortie"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"regions"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of organization regions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Region ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Region name"}]]}]]}]]}]}],"\n",["$","$L38",null,{"as":"h3","id":"profound_list_models","children":["$","code",null,{"children":"profound_list_models"}]}],"\n",["$","p",null,{"children":"List all AI models/platforms tracked in Profound"}],"\n",["$","$L38",null,{"as":"h4","id":"entrée-2","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}]}]]}]}],"\n",["$","$L38",null,{"as":"h4","id":"sortie-2","children":"Sortie"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":"$L39"}],"\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7"]}]}]
+2c:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+2d:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+2e:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+2f:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+30:["$","$Lb8",null,{"children":["$","$b9",null,{"name":"Next.MetadataOutlet","children":"$@ba"}]}]
+33:["$","$Lbb",null,{}]
+34:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"width":"1em","height":"1em","viewBox":"0 0 55 55","xmlns":"http://www.w3.org/2000/svg","className":"size-7","children":["$","path",null,{"fill":"currentColor","d":"M0 36.69V21.35a7.02 7.02 0 0 1 2.91-5.69l19.74-14.25A7.44 7.44 0 0 1 27 0h.062c1.62 0 3.19.508 4.5 1.45l19.68 14.21a7.02 7.02 0 0 1 2.91 5.69v12.3a7.01 7.01 0 0 1-2.91 5.69L31.53 53.56A7.61 7.61 0 0 1 27.08 55a7.64 7.64 0 0 1-4.46-1.44c-2.58-1.86-6.73-4.86-6.73-4.86V29.78c0-.249.28-.393.48-.248l10.54 7.61c.106.08.249.08.355 0l13.01-9.39a.306.31 0 0 0 0-.496l-13-9.39a.303.3 0 0 0-.355 0L.482 36.93A.304.3 0 0 1 0 36.69Z"}]}]}],["$","$Lbc",null,{"className":"mb-0 min-w-0 flex-1","children":"Profound"}]]}]
+35:["$","$Lbd",null,{"children":"AI visibility and analytics with Profound"}]
+39:["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"models"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of AI models/platforms"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Model ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Model/platform name"}]]}]]}]]}]
+3a:["$","$L38",null,{"as":"h3","id":"profound_list_domains","children":["$","code",null,{"children":"profound_list_domains"}]}]
+3b:["$","p",null,{"children":"List all organization domains in Profound"}]
+3c:["$","$L38",null,{"as":"h4","id":"entrée-3","children":"Entrée"}]
+3d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}]}]]}]}]
+3e:["$","$L38",null,{"as":"h4","id":"sortie-3","children":"Sortie"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domains"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of organization domains"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Domain ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Domain name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When the domain was added"}]]}]]}]]}]}]
+40:["$","$L38",null,{"as":"h3","id":"profound_list_assets","children":["$","code",null,{"children":"profound_list_assets"}]}]
+41:["$","p",null,{"children":"List all organization assets (companies/brands) across all categories in Profound"}]
+42:["$","$L38",null,{"as":"h4","id":"entrée-4","children":"Entrée"}]
+43:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}]}]]}]}]
+44:["$","$L38",null,{"as":"h4","id":"sortie-4","children":"Sortie"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assets"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of organization assets with category info"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset/company name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"website"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset website URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"alternateDomains"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alternate domain names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isOwned"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether this asset is owned by the organization"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When the asset was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"logoUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL of the asset logo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"categoryId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category ID the asset belongs to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"categoryName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category name"}]]}]]}]]}]}]
+46:["$","$L38",null,{"as":"h3","id":"profound_list_personas","children":["$","code",null,{"children":"profound_list_personas"}]}]
+47:["$","p",null,{"children":"List all organization personas across all categories in Profound"}]
+48:["$","$L38",null,{"as":"h4","id":"entrée-5","children":"Entrée"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}]}]]}]}]
+4a:["$","$L38",null,{"as":"h4","id":"sortie-5","children":"Sortie"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"personas"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of organization personas with profile details"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Persona ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Persona name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"categoryId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"categoryName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"persona"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Persona profile with behavior, employment, and demographics"}]]}]]}]]}]}]
+4c:["$","$L38",null,{"as":"h3","id":"profound_category_topics","children":["$","code",null,{"children":"profound_category_topics"}]}]
+4d:["$","p",null,{"children":"List topics for a specific category in Profound"}]
+4e:["$","$L38",null,{"as":"h4","id":"entrée-6","children":"Entrée"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}]]}]]}]}]
+50:["$","$L38",null,{"as":"h4","id":"sortie-6","children":"Sortie"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"topics"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of topics in the category"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Topic ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Topic name"}]]}]]}]]}]}]
+52:["$","$L38",null,{"as":"h3","id":"profound_category_tags","children":["$","code",null,{"children":"profound_category_tags"}]}]
+53:["$","p",null,{"children":"List tags for a specific category in Profound"}]
+54:["$","$L38",null,{"as":"h4","id":"entrée-7","children":"Entrée"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}]]}]]}]}]
+56:["$","$L38",null,{"as":"h4","id":"sortie-7","children":"Sortie"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of tags in the category"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Tag ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Tag name"}]]}]]}]]}]}]
+58:["$","$L38",null,{"as":"h3","id":"profound_category_prompts","children":["$","code",null,{"children":"profound_category_prompts"}]}]
+59:["$","p",null,{"children":"List prompts for a specific category in Profound"}]
+5a:["$","$L38",null,{"as":"h4","id":"entrée-8","children":"Entrée"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 10000)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Pagination cursor from previous response"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderDir"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Sort direction: asc or desc (default desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"promptType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated prompt types to filter: visibility, sentiment"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"topicId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated topic IDs (UUIDs) to filter by"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated tag IDs (UUIDs) to filter by"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"regionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated region IDs (UUIDs) to filter by"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"platformId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated platform IDs (UUIDs) to filter by"}]]}]]}]]}]}]
+5c:["$","$L38",null,{"as":"h4","id":"sortie-8","children":"Sortie"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of prompts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextCursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Cursor for next page of results"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"prompts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of prompts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Prompt ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"prompt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Prompt text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"promptType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Prompt type (visibility or sentiment)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"topicId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Topic ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"topicName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Topic name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"tags"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Associated tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"regions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Associated regions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"platforms"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Associated platforms"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When the prompt was created"}]]}]]}]]}]}]
+5e:["$","$L38",null,{"as":"h3","id":"profound_category_assets","children":["$","code",null,{"children":"profound_category_assets"}]}]
+5f:["$","p",null,{"children":"List assets (companies/brands) for a specific category in Profound"}]
+60:["$","$L38",null,{"as":"h4","id":"entrée-9","children":"Entrée"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}]]}]]}]}]
+62:["$","$L38",null,{"as":"h4","id":"sortie-9","children":"Sortie"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assets"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of assets in the category"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset/company name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"website"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Website URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"alternateDomains"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alternate domain names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isOwned"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the asset is owned by the organization"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When the asset was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"logoUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL of the asset logo"}]]}]]}]]}]}]
+64:["$","$L38",null,{"as":"h3","id":"profound_category_personas","children":["$","code",null,{"children":"profound_category_personas"}]}]
+65:["$","p",null,{"children":"List personas for a specific category in Profound"}]
+66:["$","$L38",null,{"as":"h4","id":"entrée-10","children":"Entrée"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}]]}]]}]}]
+68:["$","$L38",null,{"as":"h4","id":"sortie-10","children":"Sortie"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"personas"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of personas in the category"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Persona ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Persona name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"persona"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Persona profile with behavior, employment, and demographics"}]]}]]}]]}]}]
+6a:["$","$L38",null,{"as":"h3","id":"profound_visibility_report","children":["$","code",null,{"children":"profound_visibility_report"}]}]
+6b:["$","p",null,{"children":"Query AI visibility report for a category in Profound"}]
+6c:["$","$L38",null,{"as":"h4","id":"entrée-11","children":"Entrée"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: share_of_voice, mentions_count, visibility_score, executions, average_position"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: date, region, topic, model, asset_name, prompt, tag, persona"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"asset_name\",\"operator\":\"is\",\"value\":\"Company\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+6e:["$","$L38",null,{"as":"h4","id":"sortie-11","children":"Sortie"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Report data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+70:["$","$L38",null,{"as":"h3","id":"profound_sentiment_report","children":["$","code",null,{"children":"profound_sentiment_report"}]}]
+71:["$","p",null,{"children":"Query sentiment report for a category in Profound"}]
+72:["$","$L38",null,{"as":"h4","id":"entrée-12","children":"Entrée"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: positive, negative, occurrences"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: theme, date, region, topic, model, asset_name, tag, prompt, sentiment_type, persona"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"asset_name\",\"operator\":\"is\",\"value\":\"Company\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+74:["$","$L38",null,{"as":"h4","id":"sortie-12","children":"Sortie"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Report data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+76:["$","$L38",null,{"as":"h3","id":"profound_citations_report","children":["$","code",null,{"children":"profound_citations_report"}]}]
+77:["$","p",null,{"children":"Query citations report for a category in Profound"}]
+78:["$","$L38",null,{"as":"h4","id":"entrée-13","children":"Entrée"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: count, citation_share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: hostname, path, date, region, topic, model, tag, prompt, url, root_domain, persona, citation_category"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"hostname\",\"operator\":\"is\",\"value\":\"example.com\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+7a:["$","$L38",null,{"as":"h4","id":"sortie-13","children":"Sortie"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Report data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+7c:["$","$L38",null,{"as":"h3","id":"profound_query_fanouts","children":["$","code",null,{"children":"profound_query_fanouts"}]}]
+7d:["$","p",null,{"children":"Query fanout report showing how AI models expand prompts into sub-queries in Profound"}]
+7e:["$","$L38",null,{"as":"h4","id":"entrée-14","children":"Entrée"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: fanouts_per_execution, total_fanouts, share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: prompt, query, model, region, date"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+80:["$","$L38",null,{"as":"h4","id":"sortie-14","children":"Sortie"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Report data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+82:["$","$L38",null,{"as":"h3","id":"profound_prompt_answers","children":["$","code",null,{"children":"profound_prompt_answers"}]}]
+83:["$","p",null,{"children":"Get raw prompt answers data for a category in Profound"}]
+84:["$","$L38",null,{"as":"h4","id":"entrée-15","children":"Entrée"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categoryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Category ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"prompt_type\",\"operator\":\"is\",\"value\":\"visibility\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+86:["$","$L38",null,{"as":"h4","id":"sortie-15","children":"Sortie"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of answer rows"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Raw prompt answer data"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"prompt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The prompt text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"promptType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Prompt type (visibility or sentiment)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"response"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"AI model response text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mentions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Companies/assets mentioned in the response"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"citations"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"URLs cited in the response"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"topic"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Topic name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"region"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Region name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"model"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"AI model/platform name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"asset"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the answer was collected"}]]}]]}]]}]}]
+88:["$","$L38",null,{"as":"h3","id":"profound_bots_report","children":["$","code",null,{"children":"profound_bots_report"}]}]
+89:["$","p",null,{"children":"Query bot traffic report with hourly granularity for a domain in Profound"}]
+8a:["$","$L38",null,{"as":"h4","id":"entrée-16","children":"Entrée"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Domain to query bot traffic for (e.g. example.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601). Defaults to now"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: count, citations, indexing, training, last_visit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: date, hour, path, bot_name, bot_provider, bot_type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"bot_name\",\"operator\":\"is\",\"value\":\"GPTBot\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+8c:["$","$L38",null,{"as":"h4","id":"sortie-16","children":"Sortie"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Report data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+8e:["$","$L38",null,{"as":"h3","id":"profound_referrals_report","children":["$","code",null,{"children":"profound_referrals_report"}]}]
+8f:["$","p",null,{"children":"Query human referral traffic report with hourly granularity for a domain in Profound"}]
+90:["$","$L38",null,{"as":"h4","id":"entrée-17","children":"Entrée"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Domain to query referral traffic for (e.g. example.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601). Defaults to now"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: visits, last_visit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: date, hour, path, referral_source, referral_type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"referral_source\",\"operator\":\"is\",\"value\":\"openai\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+92:["$","$L38",null,{"as":"h4","id":"sortie-17","children":"Sortie"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Report data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+94:["$","$L38",null,{"as":"h3","id":"profound_raw_logs","children":["$","code",null,{"children":"profound_raw_logs"}]}]
+95:["$","p",null,{"children":"Get raw traffic logs with filters for a domain in Profound"}]
+96:["$","$L38",null,{"as":"h4","id":"entrée-18","children":"Entrée"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Domain to query logs for (e.g. example.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601). Defaults to now"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: timestamp, method, host, path, status_code, ip, user_agent, referer, bytes_sent, duration_ms, query_params"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"path\",\"operator\":\"contains\",\"value\":\"/blog\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+98:["$","$L38",null,{"as":"h4","id":"sortie-18","children":"Sortie"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of log entries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Log data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values (count)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+9a:["$","$L38",null,{"as":"h3","id":"profound_bot_logs","children":["$","code",null,{"children":"profound_bot_logs"}]}]
+9b:["$","p",null,{"children":"Get identified bot visit logs with filters for a domain in Profound"}]
+9c:["$","$L38",null,{"as":"h4","id":"entrée-19","children":"Entrée"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Domain to query bot logs for (e.g. example.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601). Defaults to now"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: timestamp, method, host, path, status_code, ip, user_agent, referer, bytes_sent, duration_ms, query_params, bot_name, bot_provider, bot_types"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"bot_name\",\"operator\":\"is\",\"value\":\"GPTBot\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+9e:["$","$L38",null,{"as":"h4","id":"sortie-19","children":"Sortie"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of bot log entries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Bot log data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values (count)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+a0:["$","$L38",null,{"as":"h3","id":"profound_list_optimizations","children":["$","code",null,{"children":"profound_list_optimizations"}]}]
+a1:["$","p",null,{"children":"List content optimization entries for an asset in Profound"}]
+a2:["$","$L38",null,{"as":"h4","id":"entrée-20","children":"Entrée"}]
+a3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assetId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Asset ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Offset for pagination (default 0)"}]]}]]}]]}]}]
+a4:["$","$L38",null,{"as":"h4","id":"sortie-20","children":"Sortie"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of optimization entries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"optimizations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of content optimization entries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Optimization ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Content title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When the optimization was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"extractedInput"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Extracted input text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Content type: file, text, or url"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Optimization status"}]]}]]}]]}]}]
+a6:["$","$L38",null,{"as":"h3","id":"profound_optimization_analysis","children":["$","code",null,{"children":"profound_optimization_analysis"}]}]
+a7:["$","p",null,{"children":"Get detailed content optimization analysis for a specific content item in Profound"}]
+a8:["$","$L38",null,{"as":"h4","id":"entrée-21","children":"Entrée"}]
+a9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assetId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Asset ID (UUID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Content/optimization ID (UUID)"}]]}]]}]]}]}]
+aa:["$","$L38",null,{"as":"h4","id":"sortie-21","children":"Sortie"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The analyzed content"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"format"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Content format: markdown or html"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"value"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Content text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"aeoContentScore"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"AEO content score with target zone"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"value"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"AEO score value"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"targetZone"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Target zone range"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"low"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Low end of target range"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"high"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"High end of target range"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"analysis"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Analysis breakdown by category"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"breakdown"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of scoring breakdowns"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Category title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"weight"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Category weight"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"score"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Category score"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recommendations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Content optimization recommendations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Recommendation title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Status: done or pending"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"impact"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Impact details with section and score"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"suggestion"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Suggestion text and rationale"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"text"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Suggestion text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rationale"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Why this recommendation matters"}]]}]]}]]}]}]
+ac:["$","$L38",null,{"as":"h3","id":"profound_prompt_volume","children":["$","code",null,{"children":"profound_prompt_volume"}]}]
+ad:["$","p",null,{"children":"Query prompt volume data to understand search demand across AI platforms in Profound"}]
+ae:["$","$L38",null,{"as":"h4","id":"entrée-22","children":"Entrée"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Start date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"End date (YYYY-MM-DD or ISO 8601)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metrics"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Comma-separated metrics: volume, change"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dimensions"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Comma-separated dimensions: keyword, date, platform, country_code, matching_type, frequency"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateInterval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date interval: hour, day, week, month, year"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"JSON array of filter objects, e.g. [{\"field\":\"keyword\",\"operator\":\"contains\",\"value\":\"best\"}]"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Maximum number of results (default 10000, max 50000)"}]]}]]}]]}]}]
+b0:["$","$L38",null,{"as":"h4","id":"sortie-22","children":"Sortie"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalRows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of rows in the report"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Volume data rows with metrics and dimension values"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metrics"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of metric values matching requested metrics order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dimensions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array of dimension values matching requested dimensions order"}]]}]]}]]}]}]
+b2:["$","$L38",null,{"as":"h3","id":"profound_citation_prompts","children":["$","code",null,{"children":"profound_citation_prompts"}]}]
+b3:["$","p",null,{"children":"Get prompts that cite a specific domain across AI platforms in Profound"}]
+b4:["$","$L38",null,{"as":"h4","id":"entrée-23","children":"Entrée"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Profound API Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inputDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Domain to look up citations for (e.g. ramp.com)"}]]}]]}]]}]}]
+b6:["$","$L38",null,{"as":"h4","id":"sortie-23","children":"Sortie"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Citation prompt data for the queried domain"}]]}]}]]}]}]
+ba:null

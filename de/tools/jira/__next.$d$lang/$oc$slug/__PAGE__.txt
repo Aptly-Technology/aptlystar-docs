@@ -1,0 +1,783 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+2c:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+2d:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+32:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+33:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+34:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+35:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+c4:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+c5:"$Sreact.suspense"
+c7:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+c8:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+c9:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Jira\",\"description\":\"Mit Jira interagieren\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/jira\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/jira\"},\"inLanguage\":\"de\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/jira\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Jira\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/jira\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#nutzungsanweisungen","title":"Nutzungsanweisungen"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#jira_retrieve","title":["$","code",null,{"children":"jira_retrieve"}]},{"depth":4,"url":"#eingabe","title":"Eingabe"},{"depth":4,"url":"#ausgabe","title":"Ausgabe"},{"depth":3,"url":"#jira_update","title":["$","code",null,{"children":"jira_update"}]},{"depth":4,"url":"#eingabe-1","title":"Eingabe"},{"depth":4,"url":"#ausgabe-1","title":"Ausgabe"},{"depth":3,"url":"#jira_write","title":["$","code",null,{"children":"jira_write"}]},{"depth":4,"url":"#eingabe-2","title":"Eingabe"},{"depth":4,"url":"#ausgabe-2","title":"Ausgabe"},{"depth":3,"url":"#jira_bulk_read","title":["$","code",null,{"children":"jira_bulk_read"}]},{"depth":4,"url":"#eingabe-3","title":"Eingabe"},{"depth":4,"url":"#ausgabe-3","title":"Ausgabe"},{"depth":3,"url":"#jira_delete_issue","title":["$","code",null,{"children":"jira_delete_issue"}]},{"depth":4,"url":"#eingabe-4","title":"Eingabe"},{"depth":4,"url":"#ausgabe-4","title":"Ausgabe"},{"depth":3,"url":"#jira_assign_issue","title":["$","code",null,{"children":"jira_assign_issue"}]},{"depth":4,"url":"#eingabe-5","title":"Eingabe"},{"depth":4,"url":"#ausgabe-5","title":"Ausgabe"},{"depth":3,"url":"#jira_transition_issue","title":["$","code",null,{"children":"jira_transition_issue"}]},{"depth":4,"url":"#eingabe-6","title":"Eingabe"},{"depth":4,"url":"#ausgabe-6","title":"Ausgabe"},{"depth":3,"url":"#jira_search_issues","title":["$","code",null,{"children":"jira_search_issues"}]},{"depth":4,"url":"#eingabe-7","title":"Eingabe"},{"depth":4,"url":"#ausgabe-7","title":"Ausgabe"},{"depth":3,"url":"#jira_add_comment","title":["$","code",null,{"children":"jira_add_comment"}]},{"depth":4,"url":"#eingabe-8","title":"Eingabe"},{"depth":4,"url":"#ausgabe-8","title":"Ausgabe"},{"depth":3,"url":"#jira_get_comments","title":["$","code",null,{"children":"jira_get_comments"}]},{"depth":4,"url":"#eingabe-9","title":"Eingabe"},{"depth":4,"url":"#ausgabe-9","title":"Ausgabe"},{"depth":3,"url":"#jira_update_comment","title":["$","code",null,{"children":"jira_update_comment"}]},{"depth":4,"url":"#eingabe-10","title":"Eingabe"},{"depth":4,"url":"#ausgabe-10","title":"Ausgabe"},{"depth":3,"url":"#jira_delete_comment","title":["$","code",null,{"children":"jira_delete_comment"}]},{"depth":4,"url":"#eingabe-11","title":"Eingabe"},{"depth":4,"url":"#ausgabe-11","title":"Ausgabe"},{"depth":3,"url":"#jira_get_attachments","title":["$","code",null,{"children":"jira_get_attachments"}]},{"depth":4,"url":"#eingabe-12","title":"Eingabe"},{"depth":4,"url":"#ausgabe-12","title":"Ausgabe"},{"depth":3,"url":"#jira_delete_attachment","title":"$L3"},{"depth":4,"url":"#eingabe-13","title":"$L4"},{"depth":4,"url":"#ausgabe-13","title":"$L5"},{"depth":3,"url":"#jira_add_worklog","title":"$L6"},{"depth":4,"url":"#eingabe-14","title":"$L7"},{"depth":4,"url":"#ausgabe-14","title":"$L8"},{"depth":3,"url":"#jira_get_worklogs","title":"$L9"},{"depth":4,"url":"#eingabe-15","title":"$La"},{"depth":4,"url":"#ausgabe-15","title":"$Lb"},{"depth":3,"url":"#jira_update_worklog","title":"$Lc"},{"depth":4,"url":"#eingabe-16","title":"$Ld"},{"depth":4,"url":"#ausgabe-16","title":"$Le"},{"depth":3,"url":"#jira_delete_worklog","title":"$Lf"},{"depth":4,"url":"#eingabe-17","title":"$L10"},{"depth":4,"url":"#ausgabe-17","title":"$L11"},{"depth":3,"url":"#jira_create_issue_link","title":"$L12"},{"depth":4,"url":"#eingabe-18","title":"$L13"},{"depth":4,"url":"#ausgabe-18","title":"$L14"},{"depth":3,"url":"#jira_delete_issue_link","title":"$L15"},{"depth":4,"url":"#eingabe-19","title":"$L16"},{"depth":4,"url":"#ausgabe-19","title":"$L17"},{"depth":3,"url":"#jira_add_watcher","title":"$L18"},{"depth":4,"url":"#eingabe-20","title":"$L19"},{"depth":4,"url":"#ausgabe-20","title":"$L1a"},{"depth":3,"url":"#jira_remove_watcher","title":"$L1b"},{"depth":4,"url":"#eingabe-21","title":"$L1c"},{"depth":4,"url":"#ausgabe-21","title":"$L1d"},{"depth":3,"url":"#jira_get_users","title":"$L1e"},{"depth":4,"url":"#eingabe-22","title":"$L1f"},{"depth":4,"url":"#ausgabe-22","title":"$L20"},{"depth":2,"url":"#hinweise","title":"$L21"},{"depth":4,"url":"#eingabe-23","title":"$L22"},{"depth":4,"url":"#ausgabe-23","title":"$L23"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L24"},"children":["$L25","$L26"]}]],["$L27","$L28","$L29","$L2a"],"$L2b"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"jira_delete_attachment"}]
+4:"Eingabe"
+5:"Ausgabe"
+6:["$","code",null,{"children":"jira_add_worklog"}]
+7:"Eingabe"
+8:"Ausgabe"
+9:["$","code",null,{"children":"jira_get_worklogs"}]
+a:"Eingabe"
+b:"Ausgabe"
+c:["$","code",null,{"children":"jira_update_worklog"}]
+d:"Eingabe"
+e:"Ausgabe"
+f:["$","code",null,{"children":"jira_delete_worklog"}]
+10:"Eingabe"
+11:"Ausgabe"
+12:["$","code",null,{"children":"jira_create_issue_link"}]
+13:"Eingabe"
+14:"Ausgabe"
+15:["$","code",null,{"children":"jira_delete_issue_link"}]
+16:"Eingabe"
+17:"Ausgabe"
+18:["$","code",null,{"children":"jira_add_watcher"}]
+19:"Eingabe"
+1a:"Ausgabe"
+1b:["$","code",null,{"children":"jira_remove_watcher"}]
+1c:"Eingabe"
+1d:"Ausgabe"
+1e:["$","code",null,{"children":"jira_get_users"}]
+1f:"Eingabe"
+20:"Ausgabe"
+21:"Hinweise"
+22:"Eingabe"
+23:"Ausgabe"
+24:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L2c",null,{"href":"/de/tools/jina","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Jina"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L2c",null,{"href":"/de/tools/knowledge","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Wissen",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+2e:Ta51a,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="jira" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Jira](https://www.atlassian.com/jira) ist eine führende Projektmanagement- und Issue-Tracking-Plattform, die Teams dabei hilft, agile Softwareentwicklungsprojekte effektiv zu planen, zu verfolgen und zu verwalten. Als Teil der Atlassian-Suite hat sich Jira zum Industriestandard für Softwareentwicklungsteams und Projektmanagement-Fachleute weltweit entwickelt.
+
+Jira bietet ein umfassendes Set an Werkzeugen für die Verwaltung komplexer Projekte durch sein flexibles und anpassbares Workflow-System. Mit seinen robusten API- und Integrationsfähigkeiten ermöglicht Jira Teams, ihre Entwicklungsprozesse zu optimieren und eine klare Übersicht über den Projektfortschritt zu behalten.
+
+Zu den Hauptfunktionen von Jira gehören:
+
+* Agiles Projektmanagement: Unterstützung für Scrum- und Kanban-Methoden mit anpassbaren Boards und Workflows
+* Issue-Tracking: Ausgeklügeltes Tracking-System für Bugs, Stories, Epics und Tasks mit detaillierter Berichterstattung
+* Workflow-Automatisierung: Leistungsstarke Automatisierungsregeln zur Optimierung wiederkehrender Aufgaben und Prozesse
+* Erweiterte Suche: JQL (Jira Query Language) für komplexe Issue-Filterung und Berichterstattung
+
+In Aptlystar ermöglicht die Jira-Integration Ihren Agenten eine nahtlose Interaktion mit Ihrem Projektmanagement-Workflow. Dies schafft Möglichkeiten für automatisierte Issue-Erstellung, -Aktualisierung und -Verfolgung als Teil Ihrer KI-Workflows. Die Integration ermöglicht es Agenten, Jira-Issues programmatisch zu erstellen, abzurufen und zu aktualisieren, was automatisierte Projektmanagement-Aufgaben erleichtert und sicherstellt, dass wichtige Informationen ordnungsgemäß verfolgt und dokumentiert werden. Durch die Verbindung von Aptlystar mit Jira können Sie intelligente Agenten erstellen, die die Projektübersicht aufrechterhalten und gleichzeitig Routine-Projektmanagementaufgaben automatisieren, die Teamproduktivität steigern und eine konsistente Projektverfolgung gewährleisten.
+
+{/* MANUAL-CONTENT-END */}
+
+Nutzungsanweisungen [#nutzungsanweisungen]
+
+Integrieren Sie Jira in den Workflow. Kann Issues lesen, schreiben und aktualisieren. Kann auch Workflows basierend auf Jira-Webhook-Ereignissen auslösen.
+
+Tools [#tools]
+
+jira_retrieve [#jira_retrieve]
+
+Ruft detaillierte Informationen zu einem bestimmten Jira-Issue ab
+
+Eingabe [#eingabe]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `projectId` | string | Nein         | Jira-Projekt-ID (optional; nicht erforderlich, um ein einzelnes Issue abzurufen).        |
+| `issueKey`  | string | Ja           | Jira-Issue-Key zum Abrufen (z.B. PROJ-123)                                               |
+| `cloudId`   | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe]
+
+| Parameter     | Typ    | Beschreibung                                 |
+| ------------- | ------ | -------------------------------------------- |
+| `ts`          | string | Zeitstempel der Operation                    |
+| `issueKey`    | string | Issue-Key (z.B. PROJ-123)                    |
+| `summary`     | string | Issue-Zusammenfassung                        |
+| `description` | json   | Inhalt der Issue-Beschreibung                |
+| `created`     | string | Zeitstempel der Issue-Erstellung             |
+| `updated`     | string | Zeitstempel der letzten Issue-Aktualisierung |
+| `issue`       | json   | Vollständiges Issue-Objekt mit allen Feldern |
+
+jira_update [#jira_update]
+
+Ein Jira-Issue aktualisieren
+
+Eingabe [#eingabe-1]
+
+| Parameter     | Typ    | Erforderlich | Beschreibung                                                                                                   |
+| ------------- | ------ | ------------ | -------------------------------------------------------------------------------------------------------------- |
+| `domain`      | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                                                 |
+| `projectId`   | string | Nein         | Jira-Projekt-ID, in der Issues aktualisiert werden sollen. Wenn nicht angegeben, werden alle Issues abgerufen. |
+| `issueKey`    | string | Ja           | Jira-Issue-Key zum Aktualisieren                                                                               |
+| `summary`     | string | Nein         | Neue Zusammenfassung für das Issue                                                                             |
+| `description` | string | Nein         | Neue Beschreibung für das Issue                                                                                |
+| `status`      | string | Nein         | Neuer Status für das Issue                                                                                     |
+| `priority`    | string | Nein         | Neue Priorität für das Issue                                                                                   |
+| `assignee`    | string | Nein         | Neuer Bearbeiter für das Issue                                                                                 |
+| `cloudId`     | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen.                       |
+
+Ausgabe [#ausgabe-1]
+
+| Parameter  | Typ    | Beschreibung                                  |
+| ---------- | ------ | --------------------------------------------- |
+| `ts`       | string | Zeitstempel der Operation                     |
+| `issueKey` | string | Aktualisierter Issue-Key (z.B. PROJ-123)      |
+| `summary`  | string | Issue-Zusammenfassung nach der Aktualisierung |
+
+jira_write [#jira_write]
+
+Ein Jira-Issue erstellen
+
+Eingabe [#eingabe-2]
+
+| Parameter          | Typ    | Erforderlich | Beschreibung                                                                             |
+| ------------------ | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`           | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `projectId`        | string | Ja           | Projekt-ID für das Issue                                                                 |
+| `summary`          | string | Ja           | Zusammenfassung für das Issue                                                            |
+| `description`      | string | Nein         | Beschreibung für das Issue                                                               |
+| `priority`         | string | Nein         | Prioritäts-ID oder -Name für das Issue (z.B. "10000" oder "High")                        |
+| `assignee`         | string | Nein         | Account-ID des Bearbeiters für das Issue                                                 |
+| `cloudId`          | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+| `issueType`        | string | Ja           | Typ des zu erstellenden Issues (z.B. Task, Story)                                        |
+| `labels`           | array  | Nein         | Labels für das Issue (Array von Label-Namen)                                             |
+| `duedate`          | string | Nein         | Fälligkeitsdatum für das Issue (Format: YYYY-MM-DD)                                      |
+| `reporter`         | string | Nein         | Account-ID des Melders für das Issue                                                     |
+| `environment`      | string | Nein         | Umgebungsinformationen für das Issue                                                     |
+| `customFieldId`    | string | Nein         | Benutzerdefinierte Feld-ID (z.B. customfield\_10001)                                     |
+| `customFieldValue` | string | Nein         | Wert für das benutzerdefinierte Feld                                                     |
+
+Ausgabe [#ausgabe-2]
+
+| Parameter    | Typ    | Beschreibung                                             |
+| ------------ | ------ | -------------------------------------------------------- |
+| `ts`         | string | Zeitstempel der Operation                                |
+| `issueKey`   | string | Erstellter Issue-Key (z.B. PROJ-123)                     |
+| `summary`    | string | Issue-Zusammenfassung                                    |
+| `url`        | string | URL zum erstellten Issue                                 |
+| `assigneeId` | string | Account-ID des zugewiesenen Benutzers (falls zugewiesen) |
+
+jira_bulk_read [#jira_bulk_read]
+
+Mehrere Jira-Issues in Masse abrufen
+
+Eingabe [#eingabe-3]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                   |
+| ----------- | ------ | ------------ | ---------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net) |
+| `projectId` | string | Ja           | Jira-Projekt-ID                                |
+| `cloudId`   | string | Nein         | Jira-Cloud-ID                                  |
+
+Ausgabe [#ausgabe-3]
+
+| Parameter | Typ   | Beschreibung                                                                                                       |
+| --------- | ----- | ------------------------------------------------------------------------------------------------------------------ |
+| `issues`  | array | Array von Jira-Issues mit Zeitstempel, Zusammenfassung, Beschreibung, Erstellungs- und Aktualisierungszeitstempeln |
+
+jira_delete_issue [#jira_delete_issue]
+
+Ein Jira-Issue löschen
+
+Eingabe [#eingabe-4]
+
+| Parameter        | Typ     | Erforderlich | Beschreibung                                                                                                              |
+| ---------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| `domain`         | string  | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                                                            |
+| `issueKey`       | string  | Ja           | Jira-Issue-Key zum Löschen (z.B. PROJ-123)                                                                                |
+| `deleteSubtasks` | boolean | Nein         | Ob Unteraufgaben gelöscht werden sollen. Wenn false, können übergeordnete Issues mit Unteraufgaben nicht gelöscht werden. |
+| `cloudId`        | string  | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen.                                  |
+
+Ausgabe [#ausgabe-4]
+
+| Parameter  | Typ    | Beschreibung              |
+| ---------- | ------ | ------------------------- |
+| `ts`       | string | Zeitstempel der Operation |
+| `issueKey` | string | Gelöschter Issue-Key      |
+
+jira_assign_issue [#jira_assign_issue]
+
+Ein Jira-Issue einem Benutzer zuweisen
+
+Eingabe [#eingabe-5]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                                                                                          |
+| ----------- | ------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                                                                                        |
+| `issueKey`  | string | Ja           | Jira-Issue-Key zum Zuweisen (z.B. PROJ-123)                                                                                                           |
+| `accountId` | string | Ja           | Account-ID des Benutzers, dem das Issue zugewiesen werden soll. Verwenden Sie "-1" für automatische Zuweisung oder null, um die Zuweisung aufzuheben. |
+| `cloudId`   | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen.                                                              |
+
+Ausgabe [#ausgabe-5]
+
+| Parameter    | Typ    | Beschreibung                    |
+| ------------ | ------ | ------------------------------- |
+| `ts`         | string | Zeitstempel der Operation       |
+| `issueKey`   | string | Issue-Key, der zugewiesen wurde |
+| `assigneeId` | string | Konto-ID des Bearbeiters        |
+
+jira_transition_issue [#jira_transition_issue]
+
+Ein Jira-Issue zwischen Workflow-Status verschieben (z.B. To Do -> In Progress)
+
+Eingabe [#eingabe-6]
+
+| Parameter      | Typ    | Erforderlich | Beschreibung                                                                             |
+| -------------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`       | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`     | string | Ja           | Jira-Issue-Key für den Übergang (z.B. PROJ-123)                                          |
+| `transitionId` | string | Ja           | ID des auszuführenden Übergangs (z.B. "11" für "To Do", "21" für "In Progress")          |
+| `comment`      | string | Nein         | Optionaler Kommentar, der beim Übergang des Issues hinzugefügt werden soll               |
+| `cloudId`      | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-6]
+
+| Parameter      | Typ    | Beschreibung                    |
+| -------------- | ------ | ------------------------------- |
+| `ts`           | string | Zeitstempel der Operation       |
+| `issueKey`     | string | Issue-Key, der übergangen wurde |
+| `transitionId` | string | Angewendete Übergangs-ID        |
+
+jira_search_issues [#jira_search_issues]
+
+Nach Jira-Issues mit JQL (Jira Query Language) suchen
+
+Eingabe [#eingabe-7]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                                                              |
+| ------------ | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| `domain`     | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                                                            |
+| `jql`        | string | Ja           | JQL-Abfragestring zur Suche nach Issues (z.B. "project = PROJ AND status = Open")                                         |
+| `startAt`    | number | Nein         | Der Index des ersten zurückzugebenden Ergebnisses (für Paginierung)                                                       |
+| `maxResults` | number | Nein         | Maximale Anzahl der zurückzugebenden Ergebnisse (Standard: 50)                                                            |
+| `fields`     | array  | Nein         | Array von Feldnamen, die zurückgegeben werden sollen (Standard: \['summary', 'status', 'assignee', 'created', 'updated']) |
+| `cloudId`    | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen.                                  |
+
+Ausgabe [#ausgabe-7]
+
+| Parameter    | Typ    | Beschreibung                                                                                                       |
+| ------------ | ------ | ------------------------------------------------------------------------------------------------------------------ |
+| `ts`         | string | Zeitstempel der Operation                                                                                          |
+| `total`      | number | Gesamtanzahl der übereinstimmenden Issues                                                                          |
+| `startAt`    | number | Paginierungsstartindex                                                                                             |
+| `maxResults` | number | Maximale Ergebnisse pro Seite                                                                                      |
+| `issues`     | array  | Array übereinstimmender Issues mit Key, Zusammenfassung, Status, Bearbeiter, Erstellungs- und Aktualisierungsdatum |
+
+jira_add_comment [#jira_add_comment]
+
+Einen Kommentar zu einem Jira-Issue hinzufügen
+
+Eingabe [#eingabe-8]
+
+| Parameter  | Typ    | Erforderlich | Beschreibung                                                                             |
+| ---------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`   | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey` | string | Ja           | Jira-Issue-Key, zu dem ein Kommentar hinzugefügt werden soll (z.B. PROJ-123)             |
+| `body`     | string | Ja           | Text des Kommentars                                                                      |
+| `cloudId`  | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-8]
+
+| Parameter   | Typ    | Beschreibung                                      |
+| ----------- | ------ | ------------------------------------------------- |
+| `ts`        | string | Zeitstempel der Operation                         |
+| `issueKey`  | string | Issue-Key, zu dem der Kommentar hinzugefügt wurde |
+| `commentId` | string | Erstellte Kommentar-ID                            |
+| `body`      | string | Kommentartextinhalt                               |
+
+jira_get_comments [#jira_get_comments]
+
+Alle Kommentare eines Jira-Issues abrufen
+
+Eingabe [#eingabe-9]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                             |
+| ------------ | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`     | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`   | string | Ja           | Jira-Issue-Key, von dem Kommentare abgerufen werden sollen (z.B. PROJ-123)               |
+| `startAt`    | number | Nein         | Index des ersten zurückzugebenden Kommentars (Standard: 0)                               |
+| `maxResults` | number | Nein         | Maximale Anzahl der zurückzugebenden Kommentare (Standard: 50)                           |
+| `cloudId`    | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-9]
+
+| Parameter  | Typ    | Beschreibung                                                                       |
+| ---------- | ------ | ---------------------------------------------------------------------------------- |
+| `ts`       | string | Zeitstempel der Operation                                                          |
+| `issueKey` | string | Issue-Key                                                                          |
+| `total`    | number | Gesamtanzahl der Kommentare                                                        |
+| `comments` | array  | Array von Kommentaren mit ID, Autor, Inhalt, Erstellungs- und Aktualisierungsdatum |
+
+jira_update_comment [#jira_update_comment]
+
+Einen bestehenden Kommentar zu einem Jira-Issue aktualisieren
+
+Eingabe [#eingabe-10]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`  | string | Ja           | Jira-Issue-Key, der den Kommentar enthält (z.B. PROJ-123)                                |
+| `commentId` | string | Ja           | ID des zu aktualisierenden Kommentars                                                    |
+| `body`      | string | Ja           | Aktualisierter Kommentartext                                                             |
+| `cloudId`   | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-10]
+
+| Parameter   | Typ    | Beschreibung                 |
+| ----------- | ------ | ---------------------------- |
+| `ts`        | string | Zeitstempel der Operation    |
+| `issueKey`  | string | Issue-Key                    |
+| `commentId` | string | Aktualisierte Kommentar-ID   |
+| `body`      | string | Aktualisierter Kommentartext |
+
+jira_delete_comment [#jira_delete_comment]
+
+Einen Kommentar aus einem Jira-Issue löschen
+
+Eingabe [#eingabe-11]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`  | string | Ja           | Jira-Issue-Key, der den Kommentar enthält (z.B. PROJ-123)                                |
+| `commentId` | string | Ja           | ID des zu löschenden Kommentars                                                          |
+| `cloudId`   | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-11]
+
+| Parameter   | Typ    | Beschreibung                 |
+| ----------- | ------ | ---------------------------- |
+| `ts`        | string | Zeitstempel der Operation    |
+| `issueKey`  | string | Issue-Key                    |
+| `commentId` | string | ID des gelöschten Kommentars |
+
+jira_get_attachments [#jira_get_attachments]
+
+Alle Anhänge eines Jira-Issues abrufen
+
+Eingabe [#eingabe-12]
+
+| Parameter  | Typ    | Erforderlich | Beschreibung                                                                             |
+| ---------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`   | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey` | string | Ja           | Jira-Issue-Key, von dem Anhänge abgerufen werden sollen (z.B. PROJ-123)                  |
+| `cloudId`  | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-12]
+
+| Parameter     | Typ    | Beschreibung                                                                      |
+| ------------- | ------ | --------------------------------------------------------------------------------- |
+| `ts`          | string | Zeitstempel der Operation                                                         |
+| `issueKey`    | string | Issue-Key                                                                         |
+| `attachments` | array  | Array von Anhängen mit ID, Dateiname, Größe, MIME-Typ, Erstellungsdatum und Autor |
+
+jira_delete_attachment [#jira_delete_attachment]
+
+Einen Anhang von einem Jira-Issue löschen
+
+Eingabe [#eingabe-13]
+
+| Parameter      | Typ    | Erforderlich | Beschreibung                                                                             |
+| -------------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`       | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `attachmentId` | string | Ja           | ID des zu löschenden Anhangs                                                             |
+| `cloudId`      | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-13]
+
+| Parameter      | Typ    | Beschreibung              |
+| -------------- | ------ | ------------------------- |
+| `ts`           | string | Zeitstempel der Operation |
+| `attachmentId` | string | ID des gelöschten Anhangs |
+
+jira_add_worklog [#jira_add_worklog]
+
+Einen Zeiterfassungseintrag zu einem Jira-Issue hinzufügen
+
+Eingabe [#eingabe-14]
+
+| Parameter          | Typ    | Erforderlich | Beschreibung                                                                               |
+| ------------------ | ------ | ------------ | ------------------------------------------------------------------------------------------ |
+| `domain`           | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                             |
+| `issueKey`         | string | Ja           | Jira-Issue-Key, zu dem der Worklog hinzugefügt werden soll (z.B. PROJ-123)                 |
+| `timeSpentSeconds` | number | Ja           | Aufgewendete Zeit in Sekunden                                                              |
+| `comment`          | string | Nein         | Optionaler Kommentar für den Worklog-Eintrag                                               |
+| `started`          | string | Nein         | Optionale Startzeit im ISO-Format (standardmäßig aktuelle Zeit)                            |
+| `cloudId`          | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen. |
+
+Ausgabe [#ausgabe-14]
+
+| Parameter          | Typ    | Beschreibung                                    |
+| ------------------ | ------ | ----------------------------------------------- |
+| `ts`               | string | Zeitstempel der Operation                       |
+| `issueKey`         | string | Issue-Key, zu dem der Worklog hinzugefügt wurde |
+| `worklogId`        | string | ID des erstellten Worklogs                      |
+| `timeSpentSeconds` | number | Aufgewendete Zeit in Sekunden                   |
+
+jira_get_worklogs [#jira_get_worklogs]
+
+Alle Worklog-Einträge eines Jira-Issues abrufen
+
+Eingabe [#eingabe-15]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                               |
+| ------------ | ------ | ------------ | ------------------------------------------------------------------------------------------ |
+| `domain`     | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                             |
+| `issueKey`   | string | Ja           | Jira-Issue-Key, von dem Worklogs abgerufen werden sollen (z.B. PROJ-123)                   |
+| `startAt`    | number | Nein         | Index des ersten zurückzugebenden Worklogs (Standard: 0)                                   |
+| `maxResults` | number | Nein         | Maximale Anzahl der zurückzugebenden Worklogs (Standard: 50)                               |
+| `cloudId`    | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen. |
+
+Ausgabe [#ausgabe-15]
+
+| Parameter  | Typ    | Beschreibung                                                                                                                                   |
+| ---------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ts`       | string | Zeitstempel der Operation                                                                                                                      |
+| `issueKey` | string | Issue-Key                                                                                                                                      |
+| `total`    | number | Gesamtanzahl der Worklogs                                                                                                                      |
+| `worklogs` | array  | Array von Worklogs mit ID, Autor, aufgewendeter Zeit in Sekunden, aufgewendeter Zeit, Kommentar, Erstellungs-, Aktualisierungs- und Startdatum |
+
+jira_update_worklog [#jira_update_worklog]
+
+Aktualisieren eines vorhandenen Worklog-Eintrags in einem Jira-Issue
+
+Eingabe [#eingabe-16]
+
+| Parameter          | Typ    | Erforderlich | Beschreibung                                                                             |
+| ------------------ | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`           | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`         | string | Ja           | Jira-Issue-Key, der den Worklog enthält (z.B. PROJ-123)                                  |
+| `worklogId`        | string | Ja           | ID des zu aktualisierenden Worklog-Eintrags                                              |
+| `timeSpentSeconds` | number | Nein         | Aufgewendete Zeit in Sekunden                                                            |
+| `comment`          | string | Nein         | Optionaler Kommentar für den Worklog-Eintrag                                             |
+| `started`          | string | Nein         | Optionale Startzeit im ISO-Format                                                        |
+| `cloudId`          | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-16]
+
+| Parameter   | Typ    | Beschreibung                   |
+| ----------- | ------ | ------------------------------ |
+| `ts`        | string | Zeitstempel der Operation      |
+| `issueKey`  | string | Issue-Key                      |
+| `worklogId` | string | ID des aktualisierten Worklogs |
+
+jira_delete_worklog [#jira_delete_worklog]
+
+Löschen eines Worklog-Eintrags aus einem Jira-Issue
+
+Eingabe [#eingabe-17]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`  | string | Ja           | Jira-Issue-Key, der den Worklog enthält (z.B. PROJ-123)                                  |
+| `worklogId` | string | Ja           | ID des zu löschenden Worklog-Eintrags                                                    |
+| `cloudId`   | string | Nein         | Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-17]
+
+| Parameter   | Typ    | Beschreibung               |
+| ----------- | ------ | -------------------------- |
+| `ts`        | string | Zeitstempel der Operation  |
+| `issueKey`  | string | Issue-Key                  |
+| `worklogId` | string | ID des gelöschten Worklogs |
+
+jira_create_issue_link [#jira_create_issue_link]
+
+Eine Verknüpfungsbeziehung zwischen zwei Jira-Issues erstellen
+
+Eingabe [#eingabe-18]
+
+| Parameter         | Typ    | Erforderlich | Beschreibung                                                                               |
+| ----------------- | ------ | ------------ | ------------------------------------------------------------------------------------------ |
+| `domain`          | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                             |
+| `inwardIssueKey`  | string | Ja           | Jira-Issue-Key für das eingehende Issue (z.B. PROJ-123)                                    |
+| `outwardIssueKey` | string | Ja           | Jira-Issue-Key für das ausgehende Issue (z.B. PROJ-456)                                    |
+| `linkType`        | string | Ja           | Die Art der Verknüpfungsbeziehung (z.B. "Blocks", "Relates to", "Duplicates")              |
+| `comment`         | string | Nein         | Optionaler Kommentar zur Issue-Verknüpfung                                                 |
+| `cloudId`         | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen. |
+
+Ausgabe [#ausgabe-18]
+
+| Parameter      | Typ    | Beschreibung                  |
+| -------------- | ------ | ----------------------------- |
+| `ts`           | string | Zeitstempel der Operation     |
+| `inwardIssue`  | string | Key des eingehenden Issues    |
+| `outwardIssue` | string | Key des ausgehenden Issues    |
+| `linkType`     | string | Art der Issue-Verknüpfung     |
+| `linkId`       | string | ID der erstellten Verknüpfung |
+
+jira_delete_issue_link [#jira_delete_issue_link]
+
+Eine Verknüpfung zwischen zwei Jira-Issues löschen
+
+Eingabe [#eingabe-19]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                                                               |
+| --------- | ------ | ------------ | ------------------------------------------------------------------------------------------ |
+| `domain`  | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                             |
+| `linkId`  | string | Ja           | ID der zu löschenden Issue-Verknüpfung                                                     |
+| `cloudId` | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen. |
+
+Ausgabe [#ausgabe-19]
+
+| Parameter | Typ    | Beschreibung                  |
+| --------- | ------ | ----------------------------- |
+| `ts`      | string | Zeitstempel der Operation     |
+| `linkId`  | string | ID der gelöschten Verknüpfung |
+
+jira_add_watcher [#jira_add_watcher]
+
+Einen Beobachter zu einem Jira-Issue hinzufügen, um Benachrichtigungen über Aktualisierungen zu erhalten
+
+Eingabe [#eingabe-20]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`  | string | Ja           | Jira-Issue-Key, zu dem ein Beobachter hinzugefügt werden soll (z.B. PROJ-123)            |
+| `accountId` | string | Ja           | Account-ID des Benutzers, der als Beobachter hinzugefügt werden soll                     |
+| `cloudId`   | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-20]
+
+| Parameter          | Typ    | Beschreibung                             |
+| ------------------ | ------ | ---------------------------------------- |
+| `ts`               | string | Zeitstempel der Operation                |
+| `issueKey`         | string | Issue-Key                                |
+| `watcherAccountId` | string | Account-ID des hinzugefügten Beobachters |
+
+jira_remove_watcher [#jira_remove_watcher]
+
+Einen Beobachter von einem Jira-Issue entfernen
+
+Eingabe [#eingabe-21]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                           |
+| `issueKey`  | string | Ja           | Jira-Issue-Key, von dem ein Beobachter entfernt werden soll (z.B. PROJ-123)              |
+| `accountId` | string | Ja           | Account-ID des Benutzers, der als Beobachter entfernt werden soll                        |
+| `cloudId`   | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen. |
+
+Ausgabe [#ausgabe-21]
+
+| Parameter          | Typ    | Beschreibung                          |
+| ------------------ | ------ | ------------------------------------- |
+| `ts`               | string | Zeitstempel der Operation             |
+| `issueKey`         | string | Issue-Key                             |
+| `watcherAccountId` | string | Account-ID des entfernten Beobachters |
+
+jira_get_users [#jira_get_users]
+
+Jira-Benutzer abrufen. Wenn eine Account-ID angegeben wird, wird ein einzelner Benutzer zurückgegeben. Andernfalls wird eine Liste aller Benutzer zurückgegeben.
+
+Eingabe [#eingabe-22]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                                                            |
+| ------------ | ------ | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| `domain`     | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                                                          |
+| `accountId`  | string | Nein         | Optionale Account-ID, um einen bestimmten Benutzer abzurufen. Wenn nicht angegeben, werden alle Benutzer zurückgegeben. |
+| `startAt`    | number | Nein         | Der Index des ersten zurückzugebenden Benutzers (für Paginierung, Standard: 0)                                          |
+| `maxResults` | number | Nein         | Maximale Anzahl der zurückzugebenden Benutzer (Standard: 50)                                                            |
+| `cloudId`    | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen.                              |
+
+Ausgabe [#ausgabe-22]
+
+| Parameter    | Typ    | Beschreibung                                                                               |
+| ------------ | ------ | ------------------------------------------------------------------------------------------ |
+| `ts`         | string | Zeitstempel der Operation                                                                  |
+| `users`      | json   | Array von Benutzern mit accountId, displayName, emailAddress, active-Status und avatarUrls |
+| `total`      | number | Gesamtanzahl der zurückgegebenen Benutzer                                                  |
+| `startAt`    | number | Startindex für Paginierung                                                                 |
+| `maxResults` | number | Maximale Ergebnisse pro Seite                                                              |
+
+Hinweise [#hinweise]
+
+* Kategorie: `tools`
+* Typ: `jira`
+
+Eingabe [#eingabe-23]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                                                            |
+| ------------ | ------ | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| `domain`     | string | Ja           | Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)                                                                          |
+| `accountId`  | string | Nein         | Optionale Account-ID, um einen bestimmten Benutzer abzurufen. Wenn nicht angegeben, werden alle Benutzer zurückgegeben. |
+| `startAt`    | number | Nein         | Der Index des ersten zurückzugebenden Benutzers (für Paginierung, Standard: 0)                                          |
+| `maxResults` | number | Nein         | Maximale Anzahl der zurückzugebenden Benutzer (Standard: 50)                                                            |
+| `cloudId`    | string | Nein         | Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen.                              |
+
+Ausgabe [#ausgabe-23]
+
+| Parameter        | Typ     | Beschreibung                                                         |
+| ---------------- | ------- | -------------------------------------------------------------------- |
+| `ts`             | string  | ISO 8601-Zeitstempel der Operation                                   |
+| `users`          | array   | Array von Jira-Benutzern                                             |
+| ↳ `accountId`    | string  | Atlassian-Account-ID des Benutzers                                   |
+| ↳ `displayName`  | string  | Anzeigename des Benutzers                                            |
+| ↳ `active`       | boolean | Ob das Benutzerkonto aktiv ist                                       |
+| ↳ `emailAddress` | string  | E-Mail-Adresse des Benutzers                                         |
+| ↳ `accountType`  | string  | Kontotyp (z.B. atlassian, app, customer)                             |
+| ↳ `avatarUrl`    | string  | URL zum Benutzer-Avatar (48x48)                                      |
+| ↳ `timeZone`     | string  | Zeitzone des Benutzers                                               |
+| ↳ `avatarUrls`   | json    | Benutzer-Avatar-URLs in mehreren Größen (16x16, 24x24, 32x32, 48x48) |
+| ↳ `self`         | string  | REST-API-URL für diesen Benutzer                                     |
+| `total`          | number  | Gesamtanzahl der zurückgegebenen Benutzer                            |
+| `startAt`        | number  | Paginierungs-Startindex                                              |
+| `maxResults`     | number  | Maximale Ergebnisse pro Seite                                        |
+25:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L2d",null,{"content":"$2e"}]}],"$L2f"]}],"$L30","$L31"]}]
+26:["$","$L32",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L33",null,{"type":"jira","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L34",null,{"href":"https://www.atlassian.com/jira","children":"Jira"}]," ist eine führende Projektmanagement- und Issue-Tracking-Plattform, die Teams dabei hilft, agile Softwareentwicklungsprojekte effektiv zu planen, zu verfolgen und zu verwalten. Als Teil der Atlassian-Suite hat sich Jira zum Industriestandard für Softwareentwicklungsteams und Projektmanagement-Fachleute weltweit entwickelt."]}],"\n",["$","p",null,{"children":"Jira bietet ein umfassendes Set an Werkzeugen für die Verwaltung komplexer Projekte durch sein flexibles und anpassbares Workflow-System. Mit seinen robusten API- und Integrationsfähigkeiten ermöglicht Jira Teams, ihre Entwicklungsprozesse zu optimieren und eine klare Übersicht über den Projektfortschritt zu behalten."}],"\n",["$","p",null,{"children":"Zu den Hauptfunktionen von Jira gehören:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":"Agiles Projektmanagement: Unterstützung für Scrum- und Kanban-Methoden mit anpassbaren Boards und Workflows"}],"\n",["$","li",null,{"children":"Issue-Tracking: Ausgeklügeltes Tracking-System für Bugs, Stories, Epics und Tasks mit detaillierter Berichterstattung"}],"\n",["$","li",null,{"children":"Workflow-Automatisierung: Leistungsstarke Automatisierungsregeln zur Optimierung wiederkehrender Aufgaben und Prozesse"}],"\n",["$","li",null,{"children":"Erweiterte Suche: JQL (Jira Query Language) für komplexe Issue-Filterung und Berichterstattung"}],"\n"]}],"\n",["$","p",null,{"children":"In Aptlystar ermöglicht die Jira-Integration Ihren Agenten eine nahtlose Interaktion mit Ihrem Projektmanagement-Workflow. Dies schafft Möglichkeiten für automatisierte Issue-Erstellung, -Aktualisierung und -Verfolgung als Teil Ihrer KI-Workflows. Die Integration ermöglicht es Agenten, Jira-Issues programmatisch zu erstellen, abzurufen und zu aktualisieren, was automatisierte Projektmanagement-Aufgaben erleichtert und sicherstellt, dass wichtige Informationen ordnungsgemäß verfolgt und dokumentiert werden. Durch die Verbindung von Aptlystar mit Jira können Sie intelligente Agenten erstellen, die die Projektübersicht aufrechterhalten und gleichzeitig Routine-Projektmanagementaufgaben automatisieren, die Teamproduktivität steigern und eine konsistente Projektverfolgung gewährleisten."}],"\n","\n",["$","$L35",null,{"as":"h2","id":"nutzungsanweisungen","children":"Nutzungsanweisungen"}],"\n",["$","p",null,{"children":"Integrieren Sie Jira in den Workflow. Kann Issues lesen, schreiben und aktualisieren. Kann auch Workflows basierend auf Jira-Webhook-Ereignissen auslösen."}],"\n",["$","$L35",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L35",null,{"as":"h3","id":"jira_retrieve","children":["$","code",null,{"children":"jira_retrieve"}]}],"\n",["$","p",null,{"children":"Ruft detaillierte Informationen zu einem bestimmten Jira-Issue ab"}],"\n",["$","$L35",null,{"as":"h4","id":"eingabe","children":"Eingabe"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira-Projekt-ID (optional; nicht erforderlich, um ein einzelnes Issue abzurufen)."}]]}],"$L36","$L37"]}]]}]}],"\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3"]}]}]
+27:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+28:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+29:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+2a:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+2b:["$","$Lc4",null,{"children":["$","$c5",null,{"name":"Next.MetadataOutlet","children":"$@c6"}]}]
+2f:["$","$Lc7",null,{"previous":{"$id":"de:tools/jina.mdx","type":"page","name":"Jina","description":"Durchsuche das Web oder extrahiere Inhalte aus URLs","url":"/de/tools/jina","$ref":{"file":"tools/jina.mdx"}},"next":{"$id":"de:tools/knowledge.mdx","type":"page","name":"Wissen","description":"Vektorsuche verwenden","url":"/de/tools/knowledge","$ref":{"file":"tools/knowledge.mdx"}}}]
+30:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 30 30","width":"24","height":"24","focusable":"false","aria-hidden":"true","children":["$","path",null,{"fill":"#1868DB","d":"M11.03 21.99h-2.22c-3.35 0-5.75-2.05-5.75-5.05h11.93c.619 0 1.02.44 1.02 1.06v12.01c-2.98 0-4.98-2.42-4.98-5.78zm5.89-5.97h-2.22c-3.35 0-5.75-2.01-5.75-5.01h11.93c.618 0 1.06.402 1.06 1.02V24.04c-2.98 0-5.02-2.42-5.02-5.78zm5.93-5.93h-2.22c-3.35 0-5.75-2.05-5.75-5.05h11.93c.618 0 1.02.439 1.02 1.02v12.01c-2.98 0-4.98-2.42-4.98-5.78z"}]}]}],["$","$Lc8",null,{"className":"mb-0 min-w-0 flex-1","children":"Jira"}]]}]
+31:["$","$Lc9",null,{"children":"Mit Jira interagieren"}]
+36:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key zum Abrufen (z.B. PROJ-123)"}]]}]
+37:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]
+38:["$","$L35",null,{"as":"h4","id":"ausgabe","children":"Ausgabe"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Zusammenfassung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Inhalt der Issue-Beschreibung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Issue-Erstellung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der letzten Issue-Aktualisierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Vollständiges Issue-Objekt mit allen Feldern"}]]}]]}]]}]}]
+3a:["$","$L35",null,{"as":"h3","id":"jira_update","children":["$","code",null,{"children":"jira_update"}]}]
+3b:["$","p",null,{"children":"Ein Jira-Issue aktualisieren"}]
+3c:["$","$L35",null,{"as":"h4","id":"eingabe-1","children":"Eingabe"}]
+3d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira-Projekt-ID, in der Issues aktualisiert werden sollen. Wenn nicht angegeben, werden alle Issues abgerufen."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key zum Aktualisieren"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neue Zusammenfassung für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neue Beschreibung für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neuer Status für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priority"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neue Priorität für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neuer Bearbeiter für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+3e:["$","$L35",null,{"as":"h4","id":"ausgabe-1","children":"Ausgabe"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Aktualisierter Issue-Key (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Zusammenfassung nach der Aktualisierung"}]]}]]}]]}]}]
+40:["$","$L35",null,{"as":"h3","id":"jira_write","children":["$","code",null,{"children":"jira_write"}]}]
+41:["$","p",null,{"children":"Ein Jira-Issue erstellen"}]
+42:["$","$L35",null,{"as":"h4","id":"eingabe-2","children":"Eingabe"}]
+43:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zusammenfassung für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beschreibung für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priority"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Prioritäts-ID oder -Name für das Issue (z.B. \"10000\" oder \"High\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Account-ID des Bearbeiters für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Typ des zu erstellenden Issues (z.B. Task, Story)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Labels für das Issue (Array von Label-Namen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"duedate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Fälligkeitsdatum für das Issue (Format: YYYY-MM-DD)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reporter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Account-ID des Melders für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"environment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Umgebungsinformationen für das Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFieldId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzerdefinierte Feld-ID (z.B. customfield_10001)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFieldValue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Wert für das benutzerdefinierte Feld"}]]}]]}]]}]}]
+44:["$","$L35",null,{"as":"h4","id":"ausgabe-2","children":"Ausgabe"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erstellter Issue-Key (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Zusammenfassung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zum erstellten Issue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Account-ID des zugewiesenen Benutzers (falls zugewiesen)"}]]}]]}]]}]}]
+46:["$","$L35",null,{"as":"h3","id":"jira_bulk_read","children":["$","code",null,{"children":"jira_bulk_read"}]}]
+47:["$","p",null,{"children":"Mehrere Jira-Issues in Masse abrufen"}]
+48:["$","$L35",null,{"as":"h4","id":"eingabe-3","children":"Eingabe"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Projekt-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira-Cloud-ID"}]]}]]}]]}]}]
+4a:["$","$L35",null,{"as":"h4","id":"ausgabe-3","children":"Ausgabe"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Jira-Issues mit Zeitstempel, Zusammenfassung, Beschreibung, Erstellungs- und Aktualisierungszeitstempeln"}]]}]}]]}]}]
+4c:["$","$L35",null,{"as":"h3","id":"jira_delete_issue","children":["$","code",null,{"children":"jira_delete_issue"}]}]
+4d:["$","p",null,{"children":"Ein Jira-Issue löschen"}]
+4e:["$","$L35",null,{"as":"h4","id":"eingabe-4","children":"Eingabe"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key zum Löschen (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleteSubtasks"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ob Unteraufgaben gelöscht werden sollen. Wenn false, können übergeordnete Issues mit Unteraufgaben nicht gelöscht werden."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+50:["$","$L35",null,{"as":"h4","id":"ausgabe-4","children":"Ausgabe"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Gelöschter Issue-Key"}]]}]]}]]}]}]
+52:["$","$L35",null,{"as":"h3","id":"jira_assign_issue","children":["$","code",null,{"children":"jira_assign_issue"}]}]
+53:["$","p",null,{"children":"Ein Jira-Issue einem Benutzer zuweisen"}]
+54:["$","$L35",null,{"as":"h4","id":"eingabe-5","children":"Eingabe"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key zum Zuweisen (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Account-ID des Benutzers, dem das Issue zugewiesen werden soll. Verwenden Sie \"-1\" für automatische Zuweisung oder null, um die Zuweisung aufzuheben."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+56:["$","$L35",null,{"as":"h4","id":"ausgabe-5","children":"Ausgabe"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key, der zugewiesen wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Konto-ID des Bearbeiters"}]]}]]}]]}]}]
+58:["$","$L35",null,{"as":"h3","id":"jira_transition_issue","children":["$","code",null,{"children":"jira_transition_issue"}]}]
+59:["$","p",null,{"children":"Ein Jira-Issue zwischen Workflow-Status verschieben (z.B. To Do -> In Progress)"}]
+5a:["$","$L35",null,{"as":"h4","id":"eingabe-6","children":"Eingabe"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key für den Übergang (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"transitionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des auszuführenden Übergangs (z.B. \"11\" für \"To Do\", \"21\" für \"In Progress\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionaler Kommentar, der beim Übergang des Issues hinzugefügt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+5c:["$","$L35",null,{"as":"h4","id":"ausgabe-6","children":"Ausgabe"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key, der übergangen wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"transitionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Angewendete Übergangs-ID"}]]}]]}]]}]}]
+5e:["$","$L35",null,{"as":"h3","id":"jira_search_issues","children":["$","code",null,{"children":"jira_search_issues"}]}]
+5f:["$","p",null,{"children":"Nach Jira-Issues mit JQL (Jira Query Language) suchen"}]
+60:["$","$L35",null,{"as":"h4","id":"eingabe-7","children":"Eingabe"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jql"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"JQL-Abfragestring zur Suche nach Issues (z.B. \"project = PROJ AND status = Open\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Index des ersten zurückzugebenden Ergebnisses (für Paginierung)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Ergebnisse (Standard: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Array von Feldnamen, die zurückgegeben werden sollen (Standard: ['summary', 'status', 'assignee', 'created', 'updated'])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+62:["$","$L35",null,{"as":"h4","id":"ausgabe-7","children":"Ausgabe"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der übereinstimmenden Issues"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Paginierungsstartindex"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Maximale Ergebnisse pro Seite"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array übereinstimmender Issues mit Key, Zusammenfassung, Status, Bearbeiter, Erstellungs- und Aktualisierungsdatum"}]]}]]}]]}]}]
+64:["$","$L35",null,{"as":"h3","id":"jira_add_comment","children":["$","code",null,{"children":"jira_add_comment"}]}]
+65:["$","p",null,{"children":"Einen Kommentar zu einem Jira-Issue hinzufügen"}]
+66:["$","$L35",null,{"as":"h4","id":"eingabe-8","children":"Eingabe"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, zu dem ein Kommentar hinzugefügt werden soll (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Text des Kommentars"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+68:["$","$L35",null,{"as":"h4","id":"ausgabe-8","children":"Ausgabe"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key, zu dem der Kommentar hinzugefügt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erstellte Kommentar-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kommentartextinhalt"}]]}]]}]]}]}]
+6a:["$","$L35",null,{"as":"h3","id":"jira_get_comments","children":["$","code",null,{"children":"jira_get_comments"}]}]
+6b:["$","p",null,{"children":"Alle Kommentare eines Jira-Issues abrufen"}]
+6c:["$","$L35",null,{"as":"h4","id":"eingabe-9","children":"Eingabe"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, von dem Kommentare abgerufen werden sollen (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Index des ersten zurückzugebenden Kommentars (Standard: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Kommentare (Standard: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+6e:["$","$L35",null,{"as":"h4","id":"ausgabe-9","children":"Ausgabe"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Kommentare"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Kommentaren mit ID, Autor, Inhalt, Erstellungs- und Aktualisierungsdatum"}]]}]]}]]}]}]
+70:["$","$L35",null,{"as":"h3","id":"jira_update_comment","children":["$","code",null,{"children":"jira_update_comment"}]}]
+71:["$","p",null,{"children":"Einen bestehenden Kommentar zu einem Jira-Issue aktualisieren"}]
+72:["$","$L35",null,{"as":"h4","id":"eingabe-10","children":"Eingabe"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, der den Kommentar enthält (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu aktualisierenden Kommentars"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Aktualisierter Kommentartext"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+74:["$","$L35",null,{"as":"h4","id":"ausgabe-10","children":"Ausgabe"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Aktualisierte Kommentar-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Aktualisierter Kommentartext"}]]}]]}]]}]}]
+76:["$","$L35",null,{"as":"h3","id":"jira_delete_comment","children":["$","code",null,{"children":"jira_delete_comment"}]}]
+77:["$","p",null,{"children":"Einen Kommentar aus einem Jira-Issue löschen"}]
+78:["$","$L35",null,{"as":"h4","id":"eingabe-11","children":"Eingabe"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, der den Kommentar enthält (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu löschenden Kommentars"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+7a:["$","$L35",null,{"as":"h4","id":"ausgabe-11","children":"Ausgabe"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID des gelöschten Kommentars"}]]}]]}]]}]}]
+7c:["$","$L35",null,{"as":"h3","id":"jira_get_attachments","children":["$","code",null,{"children":"jira_get_attachments"}]}]
+7d:["$","p",null,{"children":"Alle Anhänge eines Jira-Issues abrufen"}]
+7e:["$","$L35",null,{"as":"h4","id":"eingabe-12","children":"Eingabe"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, von dem Anhänge abgerufen werden sollen (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+80:["$","$L35",null,{"as":"h4","id":"ausgabe-12","children":"Ausgabe"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Anhängen mit ID, Dateiname, Größe, MIME-Typ, Erstellungsdatum und Autor"}]]}]]}]]}]}]
+82:["$","$L35",null,{"as":"h3","id":"jira_delete_attachment","children":["$","code",null,{"children":"jira_delete_attachment"}]}]
+83:["$","p",null,{"children":"Einen Anhang von einem Jira-Issue löschen"}]
+84:["$","$L35",null,{"as":"h4","id":"eingabe-13","children":"Eingabe"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachmentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu löschenden Anhangs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+86:["$","$L35",null,{"as":"h4","id":"ausgabe-13","children":"Ausgabe"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachmentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID des gelöschten Anhangs"}]]}]]}]]}]}]
+88:["$","$L35",null,{"as":"h3","id":"jira_add_worklog","children":["$","code",null,{"children":"jira_add_worklog"}]}]
+89:["$","p",null,{"children":"Einen Zeiterfassungseintrag zu einem Jira-Issue hinzufügen"}]
+8a:["$","$L35",null,{"as":"h4","id":"eingabe-14","children":"Eingabe"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, zu dem der Worklog hinzugefügt werden soll (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeSpentSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Aufgewendete Zeit in Sekunden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionaler Kommentar für den Worklog-Eintrag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"started"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale Startzeit im ISO-Format (standardmäßig aktuelle Zeit)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen."}]]}]]}]]}]}]
+8c:["$","$L35",null,{"as":"h4","id":"ausgabe-14","children":"Ausgabe"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key, zu dem der Worklog hinzugefügt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID des erstellten Worklogs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeSpentSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Aufgewendete Zeit in Sekunden"}]]}]]}]]}]}]
+8e:["$","$L35",null,{"as":"h3","id":"jira_get_worklogs","children":["$","code",null,{"children":"jira_get_worklogs"}]}]
+8f:["$","p",null,{"children":"Alle Worklog-Einträge eines Jira-Issues abrufen"}]
+90:["$","$L35",null,{"as":"h4","id":"eingabe-15","children":"Eingabe"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, von dem Worklogs abgerufen werden sollen (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Index des ersten zurückzugebenden Worklogs (Standard: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Worklogs (Standard: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen."}]]}]]}]]}]}]
+92:["$","$L35",null,{"as":"h4","id":"ausgabe-15","children":"Ausgabe"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Worklogs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogs"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Worklogs mit ID, Autor, aufgewendeter Zeit in Sekunden, aufgewendeter Zeit, Kommentar, Erstellungs-, Aktualisierungs- und Startdatum"}]]}]]}]]}]}]
+94:["$","$L35",null,{"as":"h3","id":"jira_update_worklog","children":["$","code",null,{"children":"jira_update_worklog"}]}]
+95:["$","p",null,{"children":"Aktualisieren eines vorhandenen Worklog-Eintrags in einem Jira-Issue"}]
+96:["$","$L35",null,{"as":"h4","id":"eingabe-16","children":"Eingabe"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, der den Worklog enthält (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu aktualisierenden Worklog-Eintrags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeSpentSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Aufgewendete Zeit in Sekunden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionaler Kommentar für den Worklog-Eintrag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"started"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale Startzeit im ISO-Format"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+98:["$","$L35",null,{"as":"h4","id":"ausgabe-16","children":"Ausgabe"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID des aktualisierten Worklogs"}]]}]]}]]}]}]
+9a:["$","$L35",null,{"as":"h3","id":"jira_delete_worklog","children":["$","code",null,{"children":"jira_delete_worklog"}]}]
+9b:["$","p",null,{"children":"Löschen eines Worklog-Eintrags aus einem Jira-Issue"}]
+9c:["$","$L35",null,{"as":"h4","id":"eingabe-17","children":"Eingabe"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, der den Worklog enthält (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu löschenden Worklog-Eintrags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+9e:["$","$L35",null,{"as":"h4","id":"ausgabe-17","children":"Ausgabe"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID des gelöschten Worklogs"}]]}]]}]]}]}]
+a0:["$","$L35",null,{"as":"h3","id":"jira_create_issue_link","children":["$","code",null,{"children":"jira_create_issue_link"}]}]
+a1:["$","p",null,{"children":"Eine Verknüpfungsbeziehung zwischen zwei Jira-Issues erstellen"}]
+a2:["$","$L35",null,{"as":"h4","id":"eingabe-18","children":"Eingabe"}]
+a3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inwardIssueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key für das eingehende Issue (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"outwardIssueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key für das ausgehende Issue (z.B. PROJ-456)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Art der Verknüpfungsbeziehung (z.B. \"Blocks\", \"Relates to\", \"Duplicates\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionaler Kommentar zur Issue-Verknüpfung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen."}]]}]]}]]}]}]
+a4:["$","$L35",null,{"as":"h4","id":"ausgabe-18","children":"Ausgabe"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inwardIssue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Key des eingehenden Issues"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"outwardIssue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Key des ausgehenden Issues"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Art der Issue-Verknüpfung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID der erstellten Verknüpfung"}]]}]]}]]}]}]
+a6:["$","$L35",null,{"as":"h3","id":"jira_delete_issue_link","children":["$","code",null,{"children":"jira_delete_issue_link"}]}]
+a7:["$","p",null,{"children":"Eine Verknüpfung zwischen zwei Jira-Issues löschen"}]
+a8:["$","$L35",null,{"as":"h4","id":"eingabe-19","children":"Eingabe"}]
+a9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID der zu löschenden Issue-Verknüpfung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen."}]]}]]}]]}]}]
+aa:["$","$L35",null,{"as":"h4","id":"ausgabe-19","children":"Ausgabe"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID der gelöschten Verknüpfung"}]]}]]}]]}]}]
+ac:["$","$L35",null,{"as":"h3","id":"jira_add_watcher","children":["$","code",null,{"children":"jira_add_watcher"}]}]
+ad:["$","p",null,{"children":"Einen Beobachter zu einem Jira-Issue hinzufügen, um Benachrichtigungen über Aktualisierungen zu erhalten"}]
+ae:["$","$L35",null,{"as":"h4","id":"eingabe-20","children":"Eingabe"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, zu dem ein Beobachter hinzugefügt werden soll (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Account-ID des Benutzers, der als Beobachter hinzugefügt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+b0:["$","$L35",null,{"as":"h4","id":"ausgabe-20","children":"Ausgabe"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"watcherAccountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Account-ID des hinzugefügten Beobachters"}]]}]]}]]}]}]
+b2:["$","$L35",null,{"as":"h3","id":"jira_remove_watcher","children":["$","code",null,{"children":"jira_remove_watcher"}]}]
+b3:["$","p",null,{"children":"Einen Beobachter von einem Jira-Issue entfernen"}]
+b4:["$","$L35",null,{"as":"h4","id":"eingabe-21","children":"Eingabe"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Jira-Issue-Key, von dem ein Beobachter entfernt werden soll (z.B. PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Account-ID des Benutzers, der als Beobachter entfernt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie über die Domain abgerufen."}]]}]]}]]}]}]
+b6:["$","$L35",null,{"as":"h4","id":"ausgabe-21","children":"Ausgabe"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Issue-Key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"watcherAccountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Account-ID des entfernten Beobachters"}]]}]]}]]}]}]
+b8:["$","$L35",null,{"as":"h3","id":"jira_get_users","children":["$","code",null,{"children":"jira_get_users"}]}]
+b9:["$","p",null,{"children":"Jira-Benutzer abrufen. Wenn eine Account-ID angegeben wird, wird ein einzelner Benutzer zurückgegeben. Andernfalls wird eine Liste aller Benutzer zurückgegeben."}]
+ba:["$","$L35",null,{"as":"h4","id":"eingabe-22","children":"Eingabe"}]
+bb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale Account-ID, um einen bestimmten Benutzer abzurufen. Wenn nicht angegeben, werden alle Benutzer zurückgegeben."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Index des ersten zurückzugebenden Benutzers (für Paginierung, Standard: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Benutzer (Standard: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen."}]]}]]}]]}]}]
+bc:["$","$L35",null,{"as":"h4","id":"ausgabe-22","children":"Ausgabe"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Benutzern mit accountId, displayName, emailAddress, active-Status und avatarUrls"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der zurückgegebenen Benutzer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Startindex für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Maximale Ergebnisse pro Seite"}]]}]]}]]}]}]
+be:["$","$L35",null,{"as":"h2","id":"hinweise","children":"Hinweise"}]
+bf:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Kategorie: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Typ: ",["$","code",null,{"children":"jira"}]]}],"\n"]}]
+c0:["$","$L35",null,{"as":"h4","id":"eingabe-23","children":"Eingabe"}]
+c1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ihre Jira-Domain (z.B. ihrfirma.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale Account-ID, um einen bestimmten Benutzer abzurufen. Wenn nicht angegeben, werden alle Benutzer zurückgegeben."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Index des ersten zurückzugebenden Benutzers (für Paginierung, Standard: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Benutzer (Standard: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Jira Cloud-ID für die Instanz. Wenn nicht angegeben, wird sie anhand der Domain abgerufen."}]]}]]}]]}]}]
+c2:["$","$L35",null,{"as":"h4","id":"ausgabe-23","children":"Ausgabe"}]
+c3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ISO 8601-Zeitstempel der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Jira-Benutzern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"accountId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Atlassian-Account-ID des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Anzeigename des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"active"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob das Benutzerkonto aktiv ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"emailAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"E-Mail-Adresse des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"accountType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kontotyp (z.B. atlassian, app, customer)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatarUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zum Benutzer-Avatar (48x48)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitzone des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatarUrls"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Benutzer-Avatar-URLs in mehreren Größen (16x16, 24x24, 32x32, 48x48)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"self"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"REST-API-URL für diesen Benutzer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der zurückgegebenen Benutzer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Paginierungs-Startindex"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Maximale Ergebnisse pro Seite"}]]}]]}]]}]}]
+c6:null

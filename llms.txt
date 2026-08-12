@@ -1,0 +1,908 @@
+# Aptlystar Documentation
+
+> The enterprise AI workspace where teams build, deploy, and manage AI agents.
+
+Aptlystar is the proprietary enterprise AI workspace where teams build, deploy, and manage AI agents. Connect 1,000+ integrations and every major LLM to create agents that automate real work — visually, conversationally, or with code. Trusted by over 100,000 builders.
+
+## Documentation Overview
+
+This file provides an overview of our documentation. For full content of all pages, see https://aptly-technology.github.io/aptlystar-docs/llms-full.txt
+
+## Main Sections
+
+### Root
+
+- Documentation: https://aptly-technology.github.io/aptlystar-docs/en
+
+### Agents
+
+- Product agents: https://aptly-technology.github.io/aptlystar-docs/en/agents
+  Create, deploy, and operate workflow-backed AI agents from the Agents hub
+- Connect Slack to an agent: https://aptly-technology.github.io/aptlystar-docs/en/agents/slack
+  Receive Slack messages in a product agent and reply from the same workflow
+
+### Astra
+
+- Files & Documents: https://aptly-technology.github.io/aptlystar-docs/en/astra/files
+  Upload, create, edit, and generate files — documents, presentations, images, and more.
+- Astra: https://aptly-technology.github.io/aptlystar-docs/en/astra
+  Your AI command center. Build and manage your entire workspace in natural language.
+- Knowledge Bases: https://aptly-technology.github.io/aptlystar-docs/en/astra/knowledge
+  Create, populate, and query knowledge bases from Astra.
+- Research: https://aptly-technology.github.io/aptlystar-docs/en/astra/research
+  Ask Astra to research anything — it searches, reads, and synthesizes from the web.
+- Tables: https://aptly-technology.github.io/aptlystar-docs/en/astra/tables
+  Create, query, and manage workspace tables from Astra.
+- Automation & Configuration: https://aptly-technology.github.io/aptlystar-docs/en/astra/tasks
+  Schedule recurring jobs, take immediate actions, connect integrations, and configure your workspace.
+- Workflows: https://aptly-technology.github.io/aptlystar-docs/en/astra/workflows
+  Create, edit, run, debug, deploy, and organize workflows from Astra.
+
+### Api Reference
+
+- Authentication: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication
+  API key types, generation, and how to authenticate requests
+- Getting Started: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started
+  Base URL, first API call, response format, error handling, and pagination
+- Python: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python
+- TypeScript: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript
+- Execute Workflow: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/executeWorkflow
+  Execute a deployed workflow. Supports synchronous, asynchronous, and streaming modes. For async execution, the response includes a statusUrl you can poll for results.
+- Cancel Execution: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/cancelExecution
+  Cancel a running workflow execution. Only effective for executions that are still in progress.
+- List Paused Executions: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/human-in-the-loop/listPausedExecutions
+  List all paused executions for a workflow. Workflows pause at Human in the Loop blocks and wait for input before continuing. Use this endpoint to discover which executions need attention.
+- Get Paused Execution: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/human-in-the-loop/getPausedExecution
+  Get detailed information about a specific paused execution, including its pause points, execution snapshot, and resume queue. Use this to inspect the state before resuming.
+- Get Paused Execution (Resume Path): https://aptly-technology.github.io/aptlystar-docs/en/api-reference/human-in-the-loop/getPausedExecutionByResumePath
+  Get detailed information about a specific paused execution using the resume URL path. Returns the same data as the workflow paused execution detail endpoint.
+- Get Pause Context: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/human-in-the-loop/getPauseContext
+  Get detailed information about a specific pause context within a paused execution. Returns the pause point details, resume queue state, and any active resume entry.
+- Resume Execution: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/human-in-the-loop/resumeExecution
+  Resume a paused workflow execution by providing input for a specific pause context. The execution continues from where it paused, using the provided input. Supports synchronous, asynchronous, and streaming modes (determined by the original execution's configuration).
+- List Workflows: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/listWorkflows
+  Retrieve all workflows in a workspace with cursor-based pagination.
+- Get Workflow: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/getWorkflow
+  Retrieve details for a single workflow, including its input fields and deployment status.
+- Get Job Status: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/getJobStatus
+  Poll the status of an asynchronous workflow execution. Use the jobId returned from the Execute Workflow endpoint when the execution is queued asynchronously.
+- Query Logs: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/logs/queryLogs
+  List workflow execution logs with advanced filtering and cursor-based pagination. Supports filtering by workflow, trigger type, date range, duration, cost, and more.
+- Get Log Details: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/logs/getLogDetails
+  Retrieve detailed information about a specific log entry, including workflow metadata, execution data, and cost breakdown.
+- Get Execution Details: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/logs/getExecutionDetails
+  Retrieve the full execution state snapshot, including the workflow state at time of execution and detailed metadata.
+- List Audit Logs: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/audit-logs/listAuditLogs
+  Retrieve audit logs for your organization with cursor-based pagination. Requires an Enterprise subscription and organization admin or owner role.
+- Get Audit Log Details: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/audit-logs/getAuditLogDetails
+  Retrieve a single audit log entry by ID. Requires an Enterprise subscription and organization admin or owner role.
+- Get Usage Limits: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/usage/getUsageLimits
+  Retrieve your current rate limits, usage spending, and storage consumption for the billing period.
+- List Tables: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/listTables
+  List all tables in a workspace. Returns table metadata including name, schema, and row counts.
+- Create Table: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/createTable
+  Create a new table in a workspace. Define the table schema with typed columns, optional constraints (required, unique), and a name.
+- Get Table: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/getTable
+  Retrieve a table's metadata, schema, and row count.
+- Delete Table: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/deleteTable
+  Delete a table and all its rows. This action is irreversible.
+- Add Column: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/addColumn
+  Add a new column to the table schema. Optionally specify a position to insert the column at a specific index.
+- Update Column: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/updateColumn
+  Update a column's name, type, or constraints. Multiple updates can be applied in a single request. When renaming, subsequent updates (type, constraints) use the new name.
+- Delete Column: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/deleteColumn
+  Delete a column from the table schema. This removes the column definition and strips the corresponding key from all existing row data. Cannot delete the last remaining column.
+- List Rows: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/listRows
+  Query rows from a table with optional filtering, sorting, and pagination. Filters and sorts are passed as JSON-encoded query parameters.
+- Insert Rows: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/insertRows
+  Insert one or more rows into a table. For a single row, pass a `data` object. For batch insert, pass a `rows` array (up to 1000 rows).
+- Batch Update Rows: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/batchUpdateRows
+  Update multiple specific rows by their IDs in a single request. Each entry in the `updates` array specifies a row ID and the fields to update. Validates against the table schema and unique constraints. Up to 1000 rows can be updated per request.
+- Delete Rows: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/deleteRows
+  Delete rows by filter criteria or by an explicit list of row IDs. Pass either a `filter` object or a `rowIds` array.
+- Update Rows: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/updateRows
+  Bulk update rows matching a filter. All matching rows will have the specified fields updated. Validates against schema and unique constraints.
+- Get Row: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/getRow
+  Retrieve a single row by its ID.
+- Update Row: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/updateRow
+  Partially update a single row. Only the provided fields are updated; existing fields are preserved. Data is validated against the table schema.
+- Delete Row: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/deleteRow
+  Delete a single row by its ID.
+- Upsert Row: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/tables/upsertRow
+  Insert a new row or update an existing one based on a unique column value. The table must have at least one column with a unique constraint. If a row with a matching unique value exists, it is updated; otherwise, a new row is inserted. When multiple unique columns exist, specify `conflictTarget` to indicate which column to match on.
+- List Files: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/files/listFiles
+  List all files in a workspace.
+- Upload File: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/files/uploadFile
+  Upload a file to a workspace. Send the file as multipart/form-data with a `file` field and a `workspaceId` field. Maximum file size is 100MB. Duplicate filenames within a workspace are not allowed.
+- Download File: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/files/downloadFile
+  Download a file's content. Returns the raw file bytes with appropriate Content-Type, Content-Disposition, and Content-Length headers. File metadata is included in custom response headers: X-File-Id, X-File-Name, X-Uploaded-At.
+- Delete File: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/files/deleteFile
+  Delete a file from a workspace. This removes both the file content and its metadata. This action is irreversible.
+- List Knowledge Bases: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/listKnowledgeBases
+  List all knowledge bases in a workspace.
+- Create Knowledge Base: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/createKnowledgeBase
+  Create a new knowledge base in a workspace. Optionally configure chunking parameters for document processing.
+- Get Knowledge Base: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/getKnowledgeBase
+  Get details of a specific knowledge base.
+- Delete Knowledge Base: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/deleteKnowledgeBase
+  Soft-delete a knowledge base and all its documents.
+- Update Knowledge Base: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/updateKnowledgeBase
+  Update a knowledge base's name, description, or chunking configuration. At least one field must be provided.
+- List Documents: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/listDocuments
+  List documents in a knowledge base with pagination, filtering, and sorting.
+- Upload Document: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/uploadDocument
+  Upload a document to a knowledge base. The document will be processed asynchronously (chunked and embedded). Maximum file size is 100MB.
+- Get Document: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/getDocument
+  Get details of a specific document in a knowledge base.
+- Delete Document: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/deleteDocument
+  Soft-delete a document from a knowledge base. For connector-sourced documents, this also prevents re-import on future syncs.
+- Search Knowledge Base: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/searchKnowledgeBase
+  Perform vector similarity search across one or more knowledge bases. Supports semantic search via query text, tag-based filtering, or a combination of both.
+
+### Astrax
+
+- Astrax: https://aptly-technology.github.io/aptlystar-docs/en/astrax
+  Your per-workflow AI assistant for building and editing workflows.
+
+### Connections
+
+- Basics: https://aptly-technology.github.io/aptlystar-docs/en/connections/basics
+- Data Structure: https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/connections
+  Connect your blocks to one another.
+- Tags: https://aptly-technology.github.io/aptlystar-docs/en/connections/tags
+
+### Credentials
+
+- Secrets: https://aptly-technology.github.io/aptlystar-docs/en/credentials
+  Manage API keys and environment variables for your workflows
+
+### Blocks
+
+- Agent: https://aptly-technology.github.io/aptlystar-docs/en/blocks/agent
+- API: https://aptly-technology.github.io/aptlystar-docs/en/blocks/api
+- Condition: https://aptly-technology.github.io/aptlystar-docs/en/blocks/condition
+- Credential: https://aptly-technology.github.io/aptlystar-docs/en/blocks/credential
+- Evaluator: https://aptly-technology.github.io/aptlystar-docs/en/blocks/evaluator
+- Function: https://aptly-technology.github.io/aptlystar-docs/en/blocks/function
+- Guardrails: https://aptly-technology.github.io/aptlystar-docs/en/blocks/guardrails
+- Human in the Loop: https://aptly-technology.github.io/aptlystar-docs/en/blocks/human-in-the-loop
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/blocks
+  The building components of your AI workflows
+- Loop: https://aptly-technology.github.io/aptlystar-docs/en/blocks/loop
+- Parallel: https://aptly-technology.github.io/aptlystar-docs/en/blocks/parallel
+- Response: https://aptly-technology.github.io/aptlystar-docs/en/blocks/response
+- Router: https://aptly-technology.github.io/aptlystar-docs/en/blocks/router
+- Variables: https://aptly-technology.github.io/aptlystar-docs/en/blocks/variables
+- Wait: https://aptly-technology.github.io/aptlystar-docs/en/blocks/wait
+- Webhook: https://aptly-technology.github.io/aptlystar-docs/en/blocks/webhook
+- Workflow Block: https://aptly-technology.github.io/aptlystar-docs/en/blocks/workflow
+  Run another workflow inside the current flow
+
+### Enterprise
+
+- Access Control: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control
+  Restrict which models, blocks, and platform features each group of users can access
+- Audit Logs: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs
+  Track every action taken across your organization's workspaces
+- Data Retention: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention
+  Control how long execution logs, deleted resources, and astrax data are kept before permanent deletion
+- Enterprise: https://aptly-technology.github.io/aptlystar-docs/en/enterprise
+  Enterprise features for business organizations
+- Single Sign-On (SSO): https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso
+  Configure SAML 2.0 or OIDC-based single sign-on for your organization
+- Whitelabeling: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling
+  Replace Aptlystar branding with your own logo, colors, and links
+
+### Getting Started
+
+- Getting Started: https://aptly-technology.github.io/aptlystar-docs/en/getting-started
+
+### Execution
+
+- API Deployment: https://aptly-technology.github.io/aptlystar-docs/en/execution/api-deployment
+- External API: https://aptly-technology.github.io/aptlystar-docs/en/execution/api
+- Basics: https://aptly-technology.github.io/aptlystar-docs/en/execution/basics
+- Chat Deployment: https://aptly-technology.github.io/aptlystar-docs/en/execution/chat
+- Cost Calculation: https://aptly-technology.github.io/aptlystar-docs/en/execution/costs
+- Passing Files: https://aptly-technology.github.io/aptlystar-docs/en/execution/files
+- Form Deployment: https://aptly-technology.github.io/aptlystar-docs/en/execution/form
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/execution
+- Logging: https://aptly-technology.github.io/aptlystar-docs/en/execution/logging
+
+### Integrations
+
+- Google Service Accounts: https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account
+  Set up Google service accounts with domain-wide delegation for Gmail, Sheets, Drive, Calendar, and other Google services
+- Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations
+  Connect third-party services and OAuth accounts for your workflows
+- Create OAuth Apps For Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide
+  What to create for each OAuth integration, which keys to collect, and how to get them
+- Create OAuth Apps For Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration
+  What to create for each OAuth integration, which keys to collect, and how to get them
+
+### Introduction
+
+- Introduction: https://aptly-technology.github.io/aptlystar-docs/en/introduction
+
+### Mailer
+
+- Aptlystar Mailer: https://aptly-technology.github.io/aptlystar-docs/en/mailer
+  Send emails to your workspace and let Aptlystar handle them as tasks.
+
+### Knowledgebase
+
+- Chunking Strategies: https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase/chunking-strategies
+  How Aptlystar splits documents into searchable chunks, and which strategy to pick for your content
+- Connectors: https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase/connectors
+  Automatically sync documents from external sources into your knowledge base
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase
+  Upload, process, and search through your documents with intelligent vector search and chunking
+- Tags and Filtering: https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase/tags
+
+### Mcp
+
+- Deploy Workflows as MCP: https://aptly-technology.github.io/aptlystar-docs/en/mcp/deploy-workflows
+  Expose your workflows as MCP tools for external AI assistants and applications
+- Using MCP Tools: https://aptly-technology.github.io/aptlystar-docs/en/mcp
+  Connect external tools and services using the Model Context Protocol
+
+### Keyboard Shortcuts
+
+- Keyboard Shortcuts: https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts
+  Master the workflow canvas with keyboard shortcuts and mouse controls
+
+### Quick Reference
+
+- Quick Reference: https://aptly-technology.github.io/aptlystar-docs/en/quick-reference
+  Essential actions for navigating and using the Aptlystar workflow editor
+
+### Permissions
+
+- Roles and Permissions: https://aptly-technology.github.io/aptlystar-docs/en/permissions/roles-and-permissions
+
+### Skills
+
+- Agent Skills: https://aptly-technology.github.io/aptlystar-docs/en/skills
+
+### Variables
+
+- Variables: https://aptly-technology.github.io/aptlystar-docs/en/variables
+- Workflow Variables: https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables
+
+### Tables
+
+- Tables: https://aptly-technology.github.io/aptlystar-docs/en/tables
+  Store, query, and manage structured data directly within your workspace
+
+### Triggers
+
+- Airtable: https://aptly-technology.github.io/aptlystar-docs/en/triggers/airtable
+  Available Airtable triggers for automating workflows
+- Workspace Event: https://aptly-technology.github.io/aptlystar-docs/en/triggers/aptlystar-workspace-event
+  Trigger workflows from workspace run events and alert rules
+- Aptlystar Workspace Event: https://aptly-technology.github.io/aptlystar-docs/en/triggers/aptlystar_workspace_event
+  Available Aptlystar Workspace Event triggers for automating workflows
+- Ashby: https://aptly-technology.github.io/aptlystar-docs/en/triggers/ashby
+  Available Ashby triggers for automating workflows
+- Attio: https://aptly-technology.github.io/aptlystar-docs/en/triggers/attio
+  Available Attio triggers for automating workflows
+- Azure Devops: https://aptly-technology.github.io/aptlystar-docs/en/triggers/azure_devops
+  Available Azure Devops triggers for automating workflows
+- Cal.com: https://aptly-technology.github.io/aptlystar-docs/en/triggers/calcom
+  Available Cal.com triggers for automating workflows
+- Calendly: https://aptly-technology.github.io/aptlystar-docs/en/triggers/calendly
+  Available Calendly triggers for automating workflows
+- Circleback: https://aptly-technology.github.io/aptlystar-docs/en/triggers/circleback
+  Available Circleback triggers for automating workflows
+- Clerk: https://aptly-technology.github.io/aptlystar-docs/en/triggers/clerk
+  Available Clerk triggers for automating workflows
+- Confluence: https://aptly-technology.github.io/aptlystar-docs/en/triggers/confluence
+  Available Confluence triggers for automating workflows
+- Emailbison: https://aptly-technology.github.io/aptlystar-docs/en/triggers/emailbison
+  Available Emailbison triggers for automating workflows
+- Fathom: https://aptly-technology.github.io/aptlystar-docs/en/triggers/fathom
+  Available Fathom triggers for automating workflows
+- Fireflies: https://aptly-technology.github.io/aptlystar-docs/en/triggers/fireflies
+  Available Fireflies triggers for automating workflows
+- GitHub: https://aptly-technology.github.io/aptlystar-docs/en/triggers/github
+  Available GitHub triggers for automating workflows
+- Gitlab: https://aptly-technology.github.io/aptlystar-docs/en/triggers/gitlab
+  Available Gitlab triggers for automating workflows
+- Gmail: https://aptly-technology.github.io/aptlystar-docs/en/triggers/gmail
+  Available Gmail triggers for automating workflows
+- Gong: https://aptly-technology.github.io/aptlystar-docs/en/triggers/gong
+  Available Gong triggers for automating workflows
+- Google Calendar: https://aptly-technology.github.io/aptlystar-docs/en/triggers/google-calendar
+  Available Google Calendar triggers for automating workflows
+- Google Drive: https://aptly-technology.github.io/aptlystar-docs/en/triggers/google-drive
+  Available Google Drive triggers for automating workflows
+- Google Sheets: https://aptly-technology.github.io/aptlystar-docs/en/triggers/google-sheets
+  Available Google Sheets triggers for automating workflows
+- Google Forms: https://aptly-technology.github.io/aptlystar-docs/en/triggers/google_forms
+  Available Google Forms triggers for automating workflows
+- Grain: https://aptly-technology.github.io/aptlystar-docs/en/triggers/grain
+  Available Grain triggers for automating workflows
+- Greenhouse: https://aptly-technology.github.io/aptlystar-docs/en/triggers/greenhouse
+  Available Greenhouse triggers for automating workflows
+- HubSpot: https://aptly-technology.github.io/aptlystar-docs/en/triggers/hubspot
+  Available HubSpot triggers for automating workflows
+- IMAP: https://aptly-technology.github.io/aptlystar-docs/en/triggers/imap
+  Available IMAP triggers for automating workflows
+- Incidentio: https://aptly-technology.github.io/aptlystar-docs/en/triggers/incidentio
+  Available Incidentio triggers for automating workflows
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/triggers
+  Triggers are the core ways to start Aptlystar workflows
+- Intercom: https://aptly-technology.github.io/aptlystar-docs/en/triggers/intercom
+  Available Intercom triggers for automating workflows
+- Jira: https://aptly-technology.github.io/aptlystar-docs/en/triggers/jira
+  Available Jira triggers for automating workflows
+- Jsm: https://aptly-technology.github.io/aptlystar-docs/en/triggers/jsm
+  Available Jsm triggers for automating workflows
+- Lemlist: https://aptly-technology.github.io/aptlystar-docs/en/triggers/lemlist
+  Available Lemlist triggers for automating workflows
+- Linear: https://aptly-technology.github.io/aptlystar-docs/en/triggers/linear
+  Available Linear triggers for automating workflows
+- Loops: https://aptly-technology.github.io/aptlystar-docs/en/triggers/loops
+  Available Loops triggers for automating workflows
+- Microsoft Teams: https://aptly-technology.github.io/aptlystar-docs/en/triggers/microsoft-teams
+  Available Microsoft Teams triggers for automating workflows
+- Monday: https://aptly-technology.github.io/aptlystar-docs/en/triggers/monday
+  Available Monday triggers for automating workflows
+- Notion: https://aptly-technology.github.io/aptlystar-docs/en/triggers/notion
+  Available Notion triggers for automating workflows
+- Outlook: https://aptly-technology.github.io/aptlystar-docs/en/triggers/outlook
+  Available Outlook triggers for automating workflows
+- Pagerduty: https://aptly-technology.github.io/aptlystar-docs/en/triggers/pagerduty
+  Available Pagerduty triggers for automating workflows
+- Resend: https://aptly-technology.github.io/aptlystar-docs/en/triggers/resend
+  Available Resend triggers for automating workflows
+- Revenuecat: https://aptly-technology.github.io/aptlystar-docs/en/triggers/revenuecat
+  Available Revenuecat triggers for automating workflows
+- Rootly: https://aptly-technology.github.io/aptlystar-docs/en/triggers/rootly
+  Available Rootly triggers for automating workflows
+- RSS Feed: https://aptly-technology.github.io/aptlystar-docs/en/triggers/rss
+- Salesforce: https://aptly-technology.github.io/aptlystar-docs/en/triggers/salesforce
+  Available Salesforce triggers for automating workflows
+- Schedule: https://aptly-technology.github.io/aptlystar-docs/en/triggers/schedule
+- Sendblue: https://aptly-technology.github.io/aptlystar-docs/en/triggers/sendblue
+  Available Sendblue triggers for automating workflows
+- Sentry: https://aptly-technology.github.io/aptlystar-docs/en/triggers/sentry
+  Available Sentry triggers for automating workflows
+- ServiceNow: https://aptly-technology.github.io/aptlystar-docs/en/triggers/servicenow
+  Available ServiceNow triggers for automating workflows
+- Slack: https://aptly-technology.github.io/aptlystar-docs/en/triggers/slack
+  Available Slack triggers for automating workflows
+- Start: https://aptly-technology.github.io/aptlystar-docs/en/triggers/start
+- Stripe: https://aptly-technology.github.io/aptlystar-docs/en/triggers/stripe
+  Available Stripe triggers for automating workflows
+- Table: https://aptly-technology.github.io/aptlystar-docs/en/triggers/table
+  Available Table triggers for automating workflows
+- Telegram: https://aptly-technology.github.io/aptlystar-docs/en/triggers/telegram
+  Available Telegram triggers for automating workflows
+- Twilio: https://aptly-technology.github.io/aptlystar-docs/en/triggers/twilio
+  Available Twilio triggers for automating workflows
+- Twilio Live Voice: https://aptly-technology.github.io/aptlystar-docs/en/triggers/twilio_live_voice
+  Available Twilio Live Voice triggers for automating workflows
+- Twilio Voice: https://aptly-technology.github.io/aptlystar-docs/en/triggers/twilio_voice
+  Available Twilio Voice triggers for automating workflows
+- Typeform: https://aptly-technology.github.io/aptlystar-docs/en/triggers/typeform
+  Available Typeform triggers for automating workflows
+- Vercel: https://aptly-technology.github.io/aptlystar-docs/en/triggers/vercel
+  Available Vercel triggers for automating workflows
+- Webflow: https://aptly-technology.github.io/aptlystar-docs/en/triggers/webflow
+  Available Webflow triggers for automating workflows
+- Webhooks: https://aptly-technology.github.io/aptlystar-docs/en/triggers/webhook
+- WhatsApp: https://aptly-technology.github.io/aptlystar-docs/en/triggers/whatsapp
+  Available WhatsApp triggers for automating workflows
+- Zendesk: https://aptly-technology.github.io/aptlystar-docs/en/triggers/zendesk
+  Available Zendesk triggers for automating workflows
+- Zoom: https://aptly-technology.github.io/aptlystar-docs/en/triggers/zoom
+  Available Zoom triggers for automating workflows
+
+### Tools
+
+- A2A: https://aptly-technology.github.io/aptlystar-docs/en/tools/a2a
+  Interact with external A2A-compatible agents
+- AgentMail: https://aptly-technology.github.io/aptlystar-docs/en/tools/agentmail
+  Manage email inboxes, threads, and messages with AgentMail
+- AgentPhone: https://aptly-technology.github.io/aptlystar-docs/en/tools/agentphone
+  Provision numbers, send SMS and iMessage, and place voice calls with AgentPhone
+- Agiloft: https://aptly-technology.github.io/aptlystar-docs/en/tools/agiloft
+  Manage records in Agiloft CLM
+- Ahrefs: https://aptly-technology.github.io/aptlystar-docs/en/tools/ahrefs
+  SEO analysis with Ahrefs
+- Airtable: https://aptly-technology.github.io/aptlystar-docs/en/tools/airtable
+  Read, create, and update Airtable
+- Airweave: https://aptly-technology.github.io/aptlystar-docs/en/tools/airweave
+  Search your synced data collections
+- Algolia: https://aptly-technology.github.io/aptlystar-docs/en/tools/algolia
+  Search and manage Algolia indices
+- Amplitude: https://aptly-technology.github.io/aptlystar-docs/en/tools/amplitude
+  Track events and query analytics from Amplitude
+- Apify: https://aptly-technology.github.io/aptlystar-docs/en/tools/apify
+  Run Apify actors and retrieve results
+- Apollo: https://aptly-technology.github.io/aptlystar-docs/en/tools/apollo
+  Search, enrich, and manage contacts with Apollo.io
+- AWS AppConfig: https://aptly-technology.github.io/aptlystar-docs/en/tools/appconfig
+  Manage and retrieve configuration with AWS AppConfig
+- AptlyStar Workspace Events: https://aptly-technology.github.io/aptlystar-docs/en/tools/aptlystar_workspace_event
+  Trigger workflows from workspace run events and alert rules
+- ArXiv: https://aptly-technology.github.io/aptlystar-docs/en/tools/arxiv
+  Search and retrieve academic papers from ArXiv
+- Asana: https://aptly-technology.github.io/aptlystar-docs/en/tools/asana
+  Interact with Asana
+- Ashby: https://aptly-technology.github.io/aptlystar-docs/en/tools/ashby
+  Manage candidates, jobs, and applications in Ashby
+- Athena: https://aptly-technology.github.io/aptlystar-docs/en/tools/athena
+  Run SQL queries on data in Amazon S3 using AWS Athena
+- Attio: https://aptly-technology.github.io/aptlystar-docs/en/tools/attio
+  Manage records, notes, tasks, lists, comments, and more in Attio CRM
+- Azure DevOps: https://aptly-technology.github.io/aptlystar-docs/en/tools/azure_devops
+  Interact with Azure DevOps pipelines, builds, and work items
+- Box: https://aptly-technology.github.io/aptlystar-docs/en/tools/box
+  Manage files, folders, and e-signatures with Box
+- Brandfetch: https://aptly-technology.github.io/aptlystar-docs/en/tools/brandfetch
+  Look up brand assets, logos, colors, and company info
+- Brex: https://aptly-technology.github.io/aptlystar-docs/en/tools/brex
+  Manage expenses, receipts, transactions, and team data in Brex
+- Bright Data: https://aptly-technology.github.io/aptlystar-docs/en/tools/brightdata
+  Scrape websites, search engines, and extract structured data
+- Browser Use: https://aptly-technology.github.io/aptlystar-docs/en/tools/browser_use
+  Run browser automation tasks
+- Cal Com: https://aptly-technology.github.io/aptlystar-docs/en/tools/calcom
+  Manage Cal.com bookings, event types, schedules, and availability
+- Calendly: https://aptly-technology.github.io/aptlystar-docs/en/tools/calendly
+  Manage Calendly scheduling and events
+- Circleback: https://aptly-technology.github.io/aptlystar-docs/en/tools/circleback
+  AI-powered meeting notes and action items
+- Clay: https://aptly-technology.github.io/aptlystar-docs/en/tools/clay
+  Populate Clay workbook
+- Clerk: https://aptly-technology.github.io/aptlystar-docs/en/tools/clerk
+  Manage users, organizations, and sessions in Clerk
+- ClickHouse: https://aptly-technology.github.io/aptlystar-docs/en/tools/clickhouse
+  Connect to a ClickHouse database
+- Close CRM: https://aptly-technology.github.io/aptlystar-docs/en/tools/close
+  Manage Close CRM leads, contacts, and opportunities.
+- Cloudflare: https://aptly-technology.github.io/aptlystar-docs/en/tools/cloudflare
+  Manage DNS, domains, certificates, and cache
+- CloudFormation: https://aptly-technology.github.io/aptlystar-docs/en/tools/cloudformation
+  Manage and inspect AWS CloudFormation stacks, resources, and drift
+- CloudWatch: https://aptly-technology.github.io/aptlystar-docs/en/tools/cloudwatch
+  Query and monitor AWS CloudWatch logs, metrics, and alarms
+- CodePipeline: https://aptly-technology.github.io/aptlystar-docs/en/tools/codepipeline
+  Manage AWS CodePipeline executions
+- Confluence: https://aptly-technology.github.io/aptlystar-docs/en/tools/confluence
+  Interact with Confluence
+- Context.dev: https://aptly-technology.github.io/aptlystar-docs/en/tools/context_dev
+  Scrape, crawl, search, extract, and enrich web and brand data
+- Convex: https://aptly-technology.github.io/aptlystar-docs/en/tools/convex
+  Use Convex database
+- CrowdStrike: https://aptly-technology.github.io/aptlystar-docs/en/tools/crowdstrike
+  Query CrowdStrike Identity Protection sensors and documented aggregates
+- fastCRW: https://aptly-technology.github.io/aptlystar-docs/en/tools/crw
+  Scrape, search, crawl, and map web data
+- Cursor: https://aptly-technology.github.io/aptlystar-docs/en/tools/cursor
+  Launch and manage Cursor cloud agents to work on GitHub repositories
+- Custom Tools: https://aptly-technology.github.io/aptlystar-docs/en/tools/custom-tools
+  Create your own tools with JavaScript code and use them in Agent blocks
+- Dagster: https://aptly-technology.github.io/aptlystar-docs/en/tools/dagster
+  Orchestrate data pipelines and manage job runs with Dagster
+- Databricks: https://aptly-technology.github.io/aptlystar-docs/en/tools/databricks
+  Run SQL queries and manage jobs on Databricks
+- Datadog: https://aptly-technology.github.io/aptlystar-docs/en/tools/datadog
+  Monitor infrastructure, applications, and logs with Datadog
+- Datagma: https://aptly-technology.github.io/aptlystar-docs/en/tools/datagma
+  Find verified B2B emails, mobile phones, and enrich person or company profiles
+- Daytona: https://aptly-technology.github.io/aptlystar-docs/en/tools/daytona
+  Run code and commands in secure cloud sandboxes
+- Devin: https://aptly-technology.github.io/aptlystar-docs/en/tools/devin
+  Autonomous AI software engineer
+- Discord: https://aptly-technology.github.io/aptlystar-docs/en/tools/discord
+  Interact with Discord
+- DocuSign: https://aptly-technology.github.io/aptlystar-docs/en/tools/docusign
+  Send documents for e-signature via DocuSign
+- Downdetector: https://aptly-technology.github.io/aptlystar-docs/en/tools/downdetector
+  Monitor outages and service status with Downdetector
+- Dropbox: https://aptly-technology.github.io/aptlystar-docs/en/tools/dropbox
+  Upload, download, share, and manage files in Dropbox
+- Dropcontact: https://aptly-technology.github.io/aptlystar-docs/en/tools/dropcontact
+  Enrich B2B contacts with verified email, phone, and company data
+- DSPy: https://aptly-technology.github.io/aptlystar-docs/en/tools/dspy
+  Run predictions using your DSPy HTTP endpoints
+- Dub: https://aptly-technology.github.io/aptlystar-docs/en/tools/dub
+  Link management with Dub
+- DuckDuckGo: https://aptly-technology.github.io/aptlystar-docs/en/tools/duckduckgo
+  Search with DuckDuckGo
+- Amazon DynamoDB: https://aptly-technology.github.io/aptlystar-docs/en/tools/dynamodb
+  Get, put, query, scan, update, and delete items in Amazon DynamoDB tables
+- Elasticsearch: https://aptly-technology.github.io/aptlystar-docs/en/tools/elasticsearch
+  Search, index, and manage data in Elasticsearch
+- ElevenLabs: https://aptly-technology.github.io/aptlystar-docs/en/tools/elevenlabs
+  Convert TTS using ElevenLabs
+- Email Bison: https://aptly-technology.github.io/aptlystar-docs/en/tools/emailbison
+  Manage Email Bison leads, campaigns, replies, and tags
+- Enrich: https://aptly-technology.github.io/aptlystar-docs/en/tools/enrich
+  B2B data enrichment and LinkedIn intelligence with Enrich.so
+- Data Enrichment: https://aptly-technology.github.io/aptlystar-docs/en/tools/enrichment
+  Enrich data with a Data enrichment
+- Enrow: https://aptly-technology.github.io/aptlystar-docs/en/tools/enrow
+  Find and verify B2B emails with triple-verified accuracy
+- Evernote: https://aptly-technology.github.io/aptlystar-docs/en/tools/evernote
+  Manage notes, notebooks, and tags in Evernote
+- Exa: https://aptly-technology.github.io/aptlystar-docs/en/tools/exa
+  Search with Exa AI
+- Extend: https://aptly-technology.github.io/aptlystar-docs/en/tools/extend
+  Parse and extract content from documents
+- Fathom: https://aptly-technology.github.io/aptlystar-docs/en/tools/fathom
+  Access meeting recordings, transcripts, and summaries
+- File: https://aptly-technology.github.io/aptlystar-docs/en/tools/file
+  Read, fetch, write, append, compress, decompress, and manage sharing for files
+- Findymail: https://aptly-technology.github.io/aptlystar-docs/en/tools/findymail
+  Find and verify B2B emails, phones, employees, and company data
+- Firecrawl: https://aptly-technology.github.io/aptlystar-docs/en/tools/firecrawl
+  Scrape, search, crawl, map, and extract web data
+- Fireflies: https://aptly-technology.github.io/aptlystar-docs/en/tools/fireflies
+  Interact with Fireflies.ai meeting transcripts and recordings
+- Gamma: https://aptly-technology.github.io/aptlystar-docs/en/tools/gamma
+  Generate presentations, documents, and webpages with AI
+- GEO Readiness: https://aptly-technology.github.io/aptlystar-docs/en/tools/geo
+  Score how ready a page or site is for AI search and answer engines.
+- GitHub: https://aptly-technology.github.io/aptlystar-docs/en/tools/github
+  Interact with GitHub or trigger workflows from GitHub events
+- GitLab: https://aptly-technology.github.io/aptlystar-docs/en/tools/gitlab
+  Interact with GitLab projects, issues, merge requests, and pipelines
+- Gmail: https://aptly-technology.github.io/aptlystar-docs/en/tools/gmail
+  Send, read, search, and move Gmail messages or trigger workflows from Gmail events
+- Gong: https://aptly-technology.github.io/aptlystar-docs/en/tools/gong
+  Revenue intelligence and conversation analytics
+- Google Ads: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_ads
+  Query campaigns, ad groups, and performance metrics
+- Google Analytics: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_analytics
+  Send GA4 events via the Measurement Protocol so they appear in Google Analytics.
+- Google BigQuery: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_bigquery
+  Query, list, and insert data in Google BigQuery
+- Google Books: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_books
+  Search and retrieve book information
+- Google Calendar: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_calendar
+  Manage Google Calendar events
+- Google Contacts: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_contacts
+  Manage Google Contacts
+- Google Docs: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_docs
+  Read, write, create, and edit documents
+- Google Drive: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_drive
+  Manage files, folders, and permissions
+- Google Forms: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_forms
+  Manage Google Forms and responses
+- Google Groups: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_groups
+  Manage Google Workspace Groups and their members
+- Google Maps: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_maps
+  Geocoding, directions, places, and distance calculations
+- Google Meet: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_meet
+  Create and manage Google Meet meetings
+- Google PageSpeed: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_pagespeed
+  Analyze webpage performance with Google PageSpeed Insights
+- Google Search: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_search
+  Search the web
+- Google Sheets: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_sheets
+  Read, write, and update data with sheet selection
+- Google Slides: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_slides
+  Read, write, and create presentations
+- Google Tasks: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_tasks
+  Manage Google Tasks
+- Google Translate: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_translate
+  Translate text using Google Cloud Translation
+- Google Vault: https://aptly-technology.github.io/aptlystar-docs/en/tools/google_vault
+  Search, export, and manage holds/exports for Vault matters
+- Grafana: https://aptly-technology.github.io/aptlystar-docs/en/tools/grafana
+  Interact with Grafana dashboards, alerts, and annotations
+- Grain: https://aptly-technology.github.io/aptlystar-docs/en/tools/grain
+  Access meeting recordings, transcripts, and AI summaries
+- Granola: https://aptly-technology.github.io/aptlystar-docs/en/tools/granola
+  Access meeting notes and transcripts from Granola
+- Greenhouse: https://aptly-technology.github.io/aptlystar-docs/en/tools/greenhouse
+  Manage candidates, jobs, and applications in Greenhouse
+- Greptile: https://aptly-technology.github.io/aptlystar-docs/en/tools/greptile
+  AI-powered codebase search and Q&A
+- Hex: https://aptly-technology.github.io/aptlystar-docs/en/tools/hex
+  Run and manage Hex projects
+- HubSpot: https://aptly-technology.github.io/aptlystar-docs/en/tools/hubspot
+  Interact with HubSpot CRM or trigger workflows from HubSpot events
+- Hugging Face: https://aptly-technology.github.io/aptlystar-docs/en/tools/huggingface
+  Use Hugging Face Inference API
+- Hunter io: https://aptly-technology.github.io/aptlystar-docs/en/tools/hunter
+  Find and verify professional email addresses
+- AWS IAM: https://aptly-technology.github.io/aptlystar-docs/en/tools/iam
+  Manage AWS IAM users, roles, policies, and groups
+- Icypeas: https://aptly-technology.github.io/aptlystar-docs/en/tools/icypeas
+  Find and verify professional email addresses
+- AWS Identity Center: https://aptly-technology.github.io/aptlystar-docs/en/tools/identity_center
+  Manage temporary elevated access in AWS IAM Identity Center
+- Image Generator: https://aptly-technology.github.io/aptlystar-docs/en/tools/image_generator
+  Generate images
+- IMAP Email: https://aptly-technology.github.io/aptlystar-docs/en/tools/imap
+  Trigger workflows when new emails arrive via IMAP (works with any email provider)
+- incidentio: https://aptly-technology.github.io/aptlystar-docs/en/tools/incidentio
+  Manage incidents with incident.io
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/tools
+  Powerful tools to enhance your agentic workflows
+- Infisical: https://aptly-technology.github.io/aptlystar-docs/en/tools/infisical
+  Manage secrets with Infisical
+- Instantly: https://aptly-technology.github.io/aptlystar-docs/en/tools/instantly
+  Manage Instantly leads, campaigns, emails, and lead lists
+- Intercom: https://aptly-technology.github.io/aptlystar-docs/en/tools/intercom
+  Manage contacts, companies, conversations, tickets, and messages in Intercom
+- Jina: https://aptly-technology.github.io/aptlystar-docs/en/tools/jina
+  Search the web or extract content from URLs
+- Jira: https://aptly-technology.github.io/aptlystar-docs/en/tools/jira
+  Interact with Jira
+- Jira Service Management: https://aptly-technology.github.io/aptlystar-docs/en/tools/jira_service_management
+  Interact with Jira Service Management
+- Kalshi: https://aptly-technology.github.io/aptlystar-docs/en/tools/kalshi
+  Access prediction markets and trade on Kalshi
+- Ketch: https://aptly-technology.github.io/aptlystar-docs/en/tools/ketch
+  Manage privacy consent, subscriptions, and data subject rights
+- Knowledge: https://aptly-technology.github.io/aptlystar-docs/en/tools/knowledge
+  Use vector search
+- LangSmith: https://aptly-technology.github.io/aptlystar-docs/en/tools/langsmith
+  Forward workflow runs to LangSmith for observability
+- LaTeX: https://aptly-technology.github.io/aptlystar-docs/en/tools/latex
+  Compile LaTeX documents into PDFs
+- LaunchDarkly: https://aptly-technology.github.io/aptlystar-docs/en/tools/launchdarkly
+  Manage feature flags with LaunchDarkly.
+- LeadMagic: https://aptly-technology.github.io/aptlystar-docs/en/tools/leadmagic
+  Find and enrich B2B contacts, emails, mobile numbers, and company data
+- Lemlist: https://aptly-technology.github.io/aptlystar-docs/en/tools/lemlist
+  Manage outreach activities, leads, and send emails via Lemlist
+- Linear: https://aptly-technology.github.io/aptlystar-docs/en/tools/linear
+  Interact with Linear issues, projects, and more
+- LinkedIn: https://aptly-technology.github.io/aptlystar-docs/en/tools/linkedin
+  Share posts and manage your LinkedIn presence
+- Linkup: https://aptly-technology.github.io/aptlystar-docs/en/tools/linkup
+  Search the web with Linkup
+- Linq: https://aptly-technology.github.io/aptlystar-docs/en/tools/linq
+  Send iMessage, SMS, and RCS messages and manage conversations with Linq
+- Loops: https://aptly-technology.github.io/aptlystar-docs/en/tools/loops
+  Manage contacts and send emails with Loops
+- Luma: https://aptly-technology.github.io/aptlystar-docs/en/tools/luma
+  Manage events and guests on Luma
+- Mailchimp: https://aptly-technology.github.io/aptlystar-docs/en/tools/mailchimp
+  Manage audiences, campaigns, and marketing automation in Mailchimp
+- Mailgun: https://aptly-technology.github.io/aptlystar-docs/en/tools/mailgun
+  Send emails and manage mailing lists with Mailgun
+- Mem0: https://aptly-technology.github.io/aptlystar-docs/en/tools/mem0
+  Agent memory management
+- Memory: https://aptly-technology.github.io/aptlystar-docs/en/tools/memory
+  Add memory store
+- Azure AD: https://aptly-technology.github.io/aptlystar-docs/en/tools/microsoft_ad
+  Manage users and groups in Azure AD (Microsoft Entra ID)
+- Microsoft Dataverse: https://aptly-technology.github.io/aptlystar-docs/en/tools/microsoft_dataverse
+  Manage records in Microsoft Dataverse tables
+- Microsoft Excel: https://aptly-technology.github.io/aptlystar-docs/en/tools/microsoft_excel
+  Read and write data with sheet selection
+- Microsoft Planner: https://aptly-technology.github.io/aptlystar-docs/en/tools/microsoft_planner
+  Manage tasks, plans, and buckets in Microsoft Planner
+- Microsoft Teams: https://aptly-technology.github.io/aptlystar-docs/en/tools/microsoft_teams
+  Manage messages, reactions, and members in Teams
+- MillionVerifier: https://aptly-technology.github.io/aptlystar-docs/en/tools/millionverifier
+  Verify email deliverability and check account credits
+- Mistral Parser: https://aptly-technology.github.io/aptlystar-docs/en/tools/mistral_parse
+  Extract text from PDF documents
+- Monday: https://aptly-technology.github.io/aptlystar-docs/en/tools/monday
+  Manage Monday.com boards, items, and groups
+- MongoDB: https://aptly-technology.github.io/aptlystar-docs/en/tools/mongodb
+  Connect to MongoDB database
+- MySQL: https://aptly-technology.github.io/aptlystar-docs/en/tools/mysql
+  Connect to MySQL database
+- Neo4j: https://aptly-technology.github.io/aptlystar-docs/en/tools/neo4j
+  Connect to Neo4j graph database
+- NeverBounce: https://aptly-technology.github.io/aptlystar-docs/en/tools/neverbounce
+  Verify email deliverability and check account credits
+- New Relic: https://aptly-technology.github.io/aptlystar-docs/en/tools/new_relic
+  Query observability data and record deployments in New Relic
+- Notion: https://aptly-technology.github.io/aptlystar-docs/en/tools/notion
+  Manage Notion pages
+- Obsidian: https://aptly-technology.github.io/aptlystar-docs/en/tools/obsidian
+  Interact with your Obsidian vault via the Local REST API
+- Okta: https://aptly-technology.github.io/aptlystar-docs/en/tools/okta
+  Manage users and groups in Okta
+- OneDrive: https://aptly-technology.github.io/aptlystar-docs/en/tools/onedrive
+  Create, upload, download, list, and delete files
+- 1Password: https://aptly-technology.github.io/aptlystar-docs/en/tools/onepassword
+  Manage secrets and items in 1Password vaults
+- Embeddings: https://aptly-technology.github.io/aptlystar-docs/en/tools/openai
+  Generate Open AI embeddings
+- Outlook: https://aptly-technology.github.io/aptlystar-docs/en/tools/outlook
+  Send, read, draft, forward, and move Outlook email messages
+- PagerDuty: https://aptly-technology.github.io/aptlystar-docs/en/tools/pagerduty
+  Manage incidents and on-call schedules with PagerDuty
+- Parallel AI: https://aptly-technology.github.io/aptlystar-docs/en/tools/parallel_ai
+  Web research with Parallel AI
+- People Data Labs: https://aptly-technology.github.io/aptlystar-docs/en/tools/peopledatalabs
+  Enrich and search people and companies
+- Perplexity: https://aptly-technology.github.io/aptlystar-docs/en/tools/perplexity
+  Use Perplexity AI for chat and search
+- Persona: https://aptly-technology.github.io/aptlystar-docs/en/tools/persona
+  Verify identities with Persona
+- Pinecone: https://aptly-technology.github.io/aptlystar-docs/en/tools/pinecone
+  Use Pinecone vector database
+- Pipedrive: https://aptly-technology.github.io/aptlystar-docs/en/tools/pipedrive
+  Interact with Pipedrive CRM
+- Polymarket: https://aptly-technology.github.io/aptlystar-docs/en/tools/polymarket
+  Access prediction markets data from Polymarket
+- PostgreSQL: https://aptly-technology.github.io/aptlystar-docs/en/tools/postgresql
+  Connect to PostgreSQL database
+- PostHog: https://aptly-technology.github.io/aptlystar-docs/en/tools/posthog
+  Product analytics and feature management
+- Profound: https://aptly-technology.github.io/aptlystar-docs/en/tools/profound
+  AI visibility and analytics with Profound
+- Prospeo: https://aptly-technology.github.io/aptlystar-docs/en/tools/prospeo
+  Enrich and search B2B contacts and companies
+- Pulse: https://aptly-technology.github.io/aptlystar-docs/en/tools/pulse
+  Extract text from documents using Pulse OCR
+- Qdrant: https://aptly-technology.github.io/aptlystar-docs/en/tools/qdrant
+  Use Qdrant vector database
+- Quartr: https://aptly-technology.github.io/aptlystar-docs/en/tools/quartr
+  Access earnings calls, transcripts, filings, and slides
+- QuickBooks: https://aptly-technology.github.io/aptlystar-docs/en/tools/quickbooks
+  Manage QuickBooks Online customers, invoices, and accounting data
+- Quiver: https://aptly-technology.github.io/aptlystar-docs/en/tools/quiver
+  Generate and vectorize SVGs
+- Railway: https://aptly-technology.github.io/aptlystar-docs/en/tools/railway
+  Manage Railway projects, services, deployments, and variables
+- RB2B: https://aptly-technology.github.io/aptlystar-docs/en/tools/rb2b
+  Identify and enrich website visitors
+- Amazon RDS: https://aptly-technology.github.io/aptlystar-docs/en/tools/rds
+  Connect to Amazon RDS via Data API
+- Reddit: https://aptly-technology.github.io/aptlystar-docs/en/tools/reddit
+  Access Reddit data and content
+- Redis: https://aptly-technology.github.io/aptlystar-docs/en/tools/redis
+  Key-value operations with Redis
+- Reducto: https://aptly-technology.github.io/aptlystar-docs/en/tools/reducto
+  Extract text from PDF documents
+- Resend: https://aptly-technology.github.io/aptlystar-docs/en/tools/resend
+  Send emails and manage contacts with Resend.
+- RevenueCat: https://aptly-technology.github.io/aptlystar-docs/en/tools/revenuecat
+  Manage in-app subscriptions and entitlements
+- Rippling: https://aptly-technology.github.io/aptlystar-docs/en/tools/rippling
+  Manage workers, departments, custom objects, and company data in Rippling
+- Rootly: https://aptly-technology.github.io/aptlystar-docs/en/tools/rootly
+  Manage incidents, alerts, and on-call with Rootly
+- S3: https://aptly-technology.github.io/aptlystar-docs/en/tools/s3
+  Upload, download, list, and manage S3 files
+- Salesforce: https://aptly-technology.github.io/aptlystar-docs/en/tools/salesforce
+  Interact with Salesforce CRM
+- SAP Concur: https://aptly-technology.github.io/aptlystar-docs/en/tools/sap_concur
+  Manage expense reports, travel requests, cash advances, and more in SAP Concur
+- SAP S4HANA: https://aptly-technology.github.io/aptlystar-docs/en/tools/sap_s4hana
+  Read and write SAP S4HANA Cloud business data via OData
+- Search: https://aptly-technology.github.io/aptlystar-docs/en/tools/search
+  Search the web ($0.01 per search)
+- AWS Secrets Manager: https://aptly-technology.github.io/aptlystar-docs/en/tools/secrets_manager
+  Connect to AWS Secrets Manager
+- Sendblue: https://aptly-technology.github.io/aptlystar-docs/en/tools/sendblue
+  Send and receive iMessage and SMS
+- SendGrid: https://aptly-technology.github.io/aptlystar-docs/en/tools/sendgrid
+  Send emails and manage contacts, lists, and templates with SendGrid
+- Sentry: https://aptly-technology.github.io/aptlystar-docs/en/tools/sentry
+  Manage Sentry issues, projects, events, and releases
+- Serper: https://aptly-technology.github.io/aptlystar-docs/en/tools/serper
+  Search the web using Serper
+- ServiceNow: https://aptly-technology.github.io/aptlystar-docs/en/tools/servicenow
+  Create, read, update, and delete ServiceNow records
+- AWS SES: https://aptly-technology.github.io/aptlystar-docs/en/tools/ses
+  Send emails and manage templates with AWS Simple Email Service
+- SFTP: https://aptly-technology.github.io/aptlystar-docs/en/tools/sftp
+  Transfer files via SFTP (SSH File Transfer Protocol)
+- Sharepoint: https://aptly-technology.github.io/aptlystar-docs/en/tools/sharepoint
+  Work with pages and lists
+- Shopify: https://aptly-technology.github.io/aptlystar-docs/en/tools/shopify
+  Manage products, orders, customers, and inventory in your Shopify store
+- Similarweb: https://aptly-technology.github.io/aptlystar-docs/en/tools/similarweb
+  Website traffic and analytics data
+- Sixtyfour AI: https://aptly-technology.github.io/aptlystar-docs/en/tools/sixtyfour
+  Enrich leads and companies with AI-powered research
+- Slack: https://aptly-technology.github.io/aptlystar-docs/en/tools/slack
+  Send, update, delete messages, manage views and modals, add or remove reactions, manage canvases, get channel info and user presence in Slack
+- SMTP: https://aptly-technology.github.io/aptlystar-docs/en/tools/smtp
+  Send emails via any SMTP mail server
+- Amazon SQS: https://aptly-technology.github.io/aptlystar-docs/en/tools/sqs
+  Connect to Amazon SQS
+- Square: https://aptly-technology.github.io/aptlystar-docs/en/tools/square
+  Process payments and manage Square commerce data
+- SSH: https://aptly-technology.github.io/aptlystar-docs/en/tools/ssh
+  Connect to remote servers via SSH
+- Stagehand: https://aptly-technology.github.io/aptlystar-docs/en/tools/stagehand
+  Web automation and data extraction
+- Stripe: https://aptly-technology.github.io/aptlystar-docs/en/tools/stripe
+  Process payments and manage Stripe data
+- AWS STS: https://aptly-technology.github.io/aptlystar-docs/en/tools/sts
+  Connect to AWS Security Token Service
+- Speech-to-Text: https://aptly-technology.github.io/aptlystar-docs/en/tools/stt
+  Convert speech to text using AI
+- Supabase: https://aptly-technology.github.io/aptlystar-docs/en/tools/supabase
+  Use Supabase database
+- Table: https://aptly-technology.github.io/aptlystar-docs/en/tools/table
+  User-defined data tables for storing and querying structured data
+- Tailscale: https://aptly-technology.github.io/aptlystar-docs/en/tools/tailscale
+  Manage devices and network settings in your Tailscale tailnet
+- Tavily: https://aptly-technology.github.io/aptlystar-docs/en/tools/tavily
+  Search and extract information
+- Telegram: https://aptly-technology.github.io/aptlystar-docs/en/tools/telegram
+  Interact with Telegram
+- Temporal: https://aptly-technology.github.io/aptlystar-docs/en/tools/temporal
+  Start, signal, query, and manage Temporal workflow executions
+- AWS Textract: https://aptly-technology.github.io/aptlystar-docs/en/tools/textract
+  Extract text, tables, and forms from documents
+- Tinybird: https://aptly-technology.github.io/aptlystar-docs/en/tools/tinybird
+  Send events, query data, and manage Data Sources with Tinybird
+- Translate: https://aptly-technology.github.io/aptlystar-docs/en/tools/translate
+  Translate text to any language
+- Trello: https://aptly-technology.github.io/aptlystar-docs/en/tools/trello
+  Manage Trello lists, cards, and activity
+- Trigger.dev: https://aptly-technology.github.io/aptlystar-docs/en/tools/trigger_dev
+  Trigger tasks and manage runs and schedules
+- Text-to-Speech: https://aptly-technology.github.io/aptlystar-docs/en/tools/tts
+  Convert text to speech using AI voices
+- Twilio Live Voice: https://aptly-technology.github.io/aptlystar-docs/en/tools/twilio_live_voice
+  Hold a live, two-way voice conversation on a phone call. The agent speaks, listens, and replies in real time.
+- Twilio SMS: https://aptly-technology.github.io/aptlystar-docs/en/tools/twilio_sms
+  Send SMS messages
+- Twilio Voice: https://aptly-technology.github.io/aptlystar-docs/en/tools/twilio_voice
+  Make and manage phone calls
+- Typeform: https://aptly-technology.github.io/aptlystar-docs/en/tools/typeform
+  Interact with Typeform
+- Upstash: https://aptly-technology.github.io/aptlystar-docs/en/tools/upstash
+  Serverless Redis with Upstash
+- Vanta: https://aptly-technology.github.io/aptlystar-docs/en/tools/vanta
+  Query compliance status and manage evidence in Vanta
+- Vercel: https://aptly-technology.github.io/aptlystar-docs/en/tools/vercel
+  Manage Vercel deployments, projects, and infrastructure
+- Video Generator: https://aptly-technology.github.io/aptlystar-docs/en/tools/video_generator
+  Generate videos from text using AI
+- Wealthbox: https://aptly-technology.github.io/aptlystar-docs/en/tools/wealthbox
+  Interact with Wealthbox
+- Webflow: https://aptly-technology.github.io/aptlystar-docs/en/tools/webflow
+  Manage Webflow CMS collections
+- WhatsApp: https://aptly-technology.github.io/aptlystar-docs/en/tools/whatsapp
+  Send WhatsApp messages
+- Wikipedia: https://aptly-technology.github.io/aptlystar-docs/en/tools/wikipedia
+  Search and retrieve content from Wikipedia
+- Wiza: https://aptly-technology.github.io/aptlystar-docs/en/tools/wiza
+  Find, enrich, and verify B2B contact data with Wiza
+- WordPress: https://aptly-technology.github.io/aptlystar-docs/en/tools/wordpress
+  Manage WordPress content
+- Workday: https://aptly-technology.github.io/aptlystar-docs/en/tools/workday
+  Manage workers, hiring, onboarding, and HR operations in Workday
+- X: https://aptly-technology.github.io/aptlystar-docs/en/tools/x
+  Interact with X
+- YouTube: https://aptly-technology.github.io/aptlystar-docs/en/tools/youtube
+  Interact with YouTube videos, channels, and playlists
+- Zendesk: https://aptly-technology.github.io/aptlystar-docs/en/tools/zendesk
+  Manage support tickets, users, and organizations in Zendesk
+- Zep: https://aptly-technology.github.io/aptlystar-docs/en/tools/zep
+  Long-term memory for AI agents
+- ZeroBounce: https://aptly-technology.github.io/aptlystar-docs/en/tools/zerobounce
+  Validate email deliverability and check account credits
+- Zoom: https://aptly-technology.github.io/aptlystar-docs/en/tools/zoom
+  Create and manage Zoom meetings and recordings
+- ZoomInfo: https://aptly-technology.github.io/aptlystar-docs/en/tools/zoominfo
+  Search and enrich B2B company and contact data with ZoomInfo.
+
+## Additional Resources
+
+- Full documentation content: https://aptly-technology.github.io/aptlystar-docs/llms-full.txt
+- Individual page content: https://aptly-technology.github.io/aptlystar-docs/llms.mdx/[page-path]
+- API documentation: https://aptly-technology.github.io/aptlystar-docs/api-reference/
+- Tool integrations: https://aptly-technology.github.io/aptlystar-docs/tools/
+
+## Statistics
+
+- Total pages: 424 (English only)
+- Other languages available at: https://aptly-technology.github.io/aptlystar-docs/[lang]/ (es, fr, de, ja, zh)
+
+---
+
+Generated: 2026-08-12T18:06:01.960Z
+Format: llms.txt v0.1.0
+See: https://llmstxt.org for specification

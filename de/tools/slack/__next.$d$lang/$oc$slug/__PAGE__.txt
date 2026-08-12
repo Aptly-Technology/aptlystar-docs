@@ -1,0 +1,556 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+11:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+12:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+17:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+18:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+19:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+73:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+74:"$Sreact.suspense"
+76:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+77:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+78:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+79:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Slack\",\"description\":\"Nachrichten senden, aktualisieren, löschen, Reaktionen in Slack hinzufügen oder Workflows von Slack-Ereignissen auslösen\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/slack\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/slack\"},\"inLanguage\":\"de\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/slack\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Slack\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/slack\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#nutzungsanweisungen","title":"Nutzungsanweisungen"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#slack_message","title":["$","code",null,{"children":"slack_message"}]},{"depth":4,"url":"#eingabe","title":"Eingabe"},{"depth":4,"url":"#ausgabe","title":"Ausgabe"},{"depth":3,"url":"#slack_canvas","title":["$","code",null,{"children":"slack_canvas"}]},{"depth":4,"url":"#eingabe-1","title":"Eingabe"},{"depth":4,"url":"#ausgabe-1","title":"Ausgabe"},{"depth":3,"url":"#slack_message_reader","title":["$","code",null,{"children":"slack_message_reader"}]},{"depth":4,"url":"#eingabe-2","title":"Eingabe"},{"depth":4,"url":"#ausgabe-2","title":"Ausgabe"},{"depth":3,"url":"#slack_list_channels","title":["$","code",null,{"children":"slack_list_channels"}]},{"depth":4,"url":"#eingabe-3","title":"Eingabe"},{"depth":4,"url":"#ausgabe-3","title":"Ausgabe"},{"depth":3,"url":"#slack_list_members","title":["$","code",null,{"children":"slack_list_members"}]},{"depth":4,"url":"#eingabe-4","title":"Eingabe"},{"depth":4,"url":"#ausgabe-4","title":"Ausgabe"},{"depth":3,"url":"#slack_list_users","title":["$","code",null,{"children":"slack_list_users"}]},{"depth":4,"url":"#eingabe-5","title":"Eingabe"},{"depth":4,"url":"#ausgabe-5","title":"Ausgabe"},{"depth":3,"url":"#slack_get_user","title":["$","code",null,{"children":"slack_get_user"}]},{"depth":4,"url":"#eingabe-6","title":"Eingabe"},{"depth":4,"url":"#ausgabe-6","title":"Ausgabe"},{"depth":3,"url":"#slack_download","title":["$","code",null,{"children":"slack_download"}]},{"depth":4,"url":"#eingabe-7","title":"Eingabe"},{"depth":4,"url":"#ausgabe-7","title":"Ausgabe"},{"depth":3,"url":"#slack_update_message","title":["$","code",null,{"children":"slack_update_message"}]},{"depth":4,"url":"#eingabe-8","title":"Eingabe"},{"depth":4,"url":"#ausgabe-8","title":"Ausgabe"},{"depth":3,"url":"#slack_delete_message","title":["$","code",null,{"children":"slack_delete_message"}]},{"depth":4,"url":"#eingabe-9","title":"Eingabe"},{"depth":4,"url":"#ausgabe-9","title":"Ausgabe"},{"depth":3,"url":"#slack_add_reaction","title":["$","code",null,{"children":"slack_add_reaction"}]},{"depth":4,"url":"#eingabe-10","title":"Eingabe"},{"depth":4,"url":"#ausgabe-10","title":"Ausgabe"},{"depth":2,"url":"#hinweise","title":"Hinweise"},{"depth":4,"url":"#eingabe-11","title":"Eingabe"},{"depth":4,"url":"#ausgabe-11","title":"Ausgabe"},{"depth":3,"url":"#slack_delete_message-1","title":"$L3"},{"depth":4,"url":"#eingabe-12","title":"$L4"},{"depth":4,"url":"#ausgabe-12","title":"$L5"},{"depth":3,"url":"#slack_add_reaction-1","title":"$L6"},{"depth":4,"url":"#eingabe-13","title":"$L7"},{"depth":4,"url":"#ausgabe-13","title":"$L8"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L9"},"children":["$La","$Lb"]}]],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"slack_delete_message"}]
+4:"Eingabe"
+5:"Ausgabe"
+6:["$","code",null,{"children":"slack_add_reaction"}]
+7:"Eingabe"
+8:"Ausgabe"
+9:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L11",null,{"href":"/de/tools/sharepoint","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Sharepoint"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L11",null,{"href":"/de/tools/stagehand","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Stagehand",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+13:T74fa,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="slack" color="#611f69" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Slack](https://www.slack.com/) ist eine Business-Kommunikationsplattform, die Teams einen einheitlichen Ort für Nachrichten, Tools und Dateien bietet.
+
+{/* VIDEO_PLACEHOLDER */}
+
+Mit Slack kannst du:
+
+* **Automatisieren Sie Agenten-Benachrichtigungen**: Senden Sie Echtzeit-Updates von Ihren Aptlystar-Agenten an jeden Slack-Kanal
+* **Erstellen Sie Webhook-Endpunkte**: Konfigurieren Sie Slack-Bots als Webhooks, um Aptlystar-Workflows aus Slack-Aktivitäten auszulösen
+* **Verbessern Sie Agenten-Workflows**: Integrieren Sie Slack-Messaging in Ihre Agenten, um Ergebnisse, Warnungen und Statusaktualisierungen zu liefern
+* **Erstellen und teilen Sie Slack-Canvases**: Erstellen Sie programmatisch kollaborative Dokumente (Canvases) in Slack-Kanälen
+* **Lesen Sie Nachrichten aus Kanälen**: Rufen Sie aktuelle Nachrichten aus jedem Slack-Kanal ab und verarbeiten Sie diese für Überwachungs- oder Workflow-Auslöser
+* **Verwalten Sie Bot-Nachrichten**: Aktualisieren, löschen und fügen Sie Reaktionen zu Nachrichten hinzu, die von Ihrem Bot gesendet wurden
+
+In Aptlystar ermöglicht die Slack-Integration Ihren Agenten, programmatisch mit Slack zu interagieren, mit vollständigen Nachrichtenverwaltungsfunktionen als Teil ihrer Workflows:
+
+* **Nachrichten senden**: Agenten können formatierte Nachrichten an jeden Slack-Kanal oder Benutzer senden und unterstützen dabei Slacks mrkdwn-Syntax für umfangreiche Formatierung
+* **Nachrichten aktualisieren**: Bearbeiten Sie zuvor gesendete Bot-Nachrichten, um Informationen zu korrigieren oder Statusaktualisierungen bereitzustellen
+* **Nachrichten löschen**: Entfernen Sie Bot-Nachrichten, wenn sie nicht mehr benötigt werden oder Fehler enthalten
+* **Reaktionen hinzufügen**: Drücken Sie Stimmungen oder Bestätigungen aus, indem Sie Emoji-Reaktionen zu jeder Nachricht hinzufügen
+* **Canvases erstellen**: Erstellen und teilen Sie Slack-Canvases (kollaborative Dokumente) direkt in Kanälen, um reichhaltigere Inhalte zu teilen und zu dokumentieren
+* **Nachrichten lesen**: Lesen Sie aktuelle Nachrichten aus Kanälen, um Überwachung, Berichterstattung oder das Auslösen weiterer Aktionen basierend auf Kanalaktivitäten zu ermöglichen
+* **Dateien herunterladen**: Rufen Sie in Slack-Kanälen geteilte Dateien zur Verarbeitung oder Archivierung ab
+
+Dies ermöglicht leistungsstarke Automatisierungsszenarien wie das Senden von Benachrichtigungen mit dynamischen Updates, das Verwalten von Gesprächsabläufen mit bearbeitbaren Statusnachrichten, das Bestätigen wichtiger Nachrichten mit Reaktionen und das Sauberhalten von Kanälen durch Entfernen veralteter Bot-Nachrichten. Ihre Agenten können zeitnahe Informationen liefern, Nachrichten aktualisieren, während Workflows fortschreiten, kollaborative Dokumente erstellen oder Teammitglieder benachrichtigen, wenn Aufmerksamkeit benötigt wird. Diese Integration überbrückt die Lücke zwischen Ihren KI-Workflows und der Kommunikation Ihres Teams und stellt sicher, dass jeder mit genauen, aktuellen Informationen auf dem Laufenden bleibt. Durch die Verbindung von Aptlystar mit Slack können Sie Agenten erstellen, die Ihr Team mit relevanten Informationen zur richtigen Zeit auf dem Laufenden halten, die Zusammenarbeit verbessern, indem sie Erkenntnisse automatisch teilen und aktualisieren, und die Notwendigkeit manueller Statusaktualisierungen reduzieren – alles während Sie Ihren bestehenden Slack-Workspace nutzen, in dem Ihr Team bereits kommuniziert.
+
+{/* MANUAL-CONTENT-END */}
+
+Nutzungsanweisungen [#nutzungsanweisungen]
+
+Integriert Slack in den Workflow. Kann Nachrichten senden, aktualisieren und löschen, Canvases erstellen, Nachrichten lesen und Reaktionen hinzufügen. Erfordert im erweiterten Modus ein Bot-Token anstelle von OAuth. Kann im Trigger-Modus verwendet werden, um einen Workflow auszulösen, wenn eine Nachricht an einen Kanal gesendet wird.
+
+Tools [#tools]
+
+slack_message [#slack_message]
+
+Sende Nachrichten an Slack-Kanäle oder Direktnachrichten. Unterstützt Slack mrkdwn-Formatierung.
+
+Eingabe [#eingabe]
+
+| Parameter    | Typ     | Erforderlich | Beschreibung                                                         |
+| ------------ | ------- | ------------ | -------------------------------------------------------------------- |
+| `authMethod` | string  | Nein         | Authentifizierungsmethode: oauth oder bot\_token                     |
+| `botToken`   | string  | Nein         | Bot-Token für benutzerdefinierten Bot                                |
+| `channel`    | string  | Nein         | Ziel-Slack-Kanal (z.B. #general)                                     |
+| `userId`     | string  | Nein         | Ziel-Slack-Benutzer-ID für Direktnachrichten (z.B. U1234567890)      |
+| `text`       | string  | Ja           | Zu sendender Nachrichtentext (unterstützt Slack mrkdwn-Formatierung) |
+| `thread_ts`  | string  | Nein         | Thread-Zeitstempel für Antworten (erstellt Thread-Antwort)           |
+| `files`      | file\[] | Nein         | Dateien, die an die Nachricht angehängt werden sollen                |
+
+Ausgabe [#ausgabe]
+
+| Parameter   | Typ    | Beschreibung                                                                      |
+| ----------- | ------ | --------------------------------------------------------------------------------- |
+| `message`   | object | Vollständiges Nachrichtenobjekt mit allen von Slack zurückgegebenen Eigenschaften |
+| `ts`        | string | Nachrichtenzeitstempel                                                            |
+| `channel`   | string | Kanal-ID, in dem die Nachricht gesendet wurde                                     |
+| `fileCount` | number | Anzahl der hochgeladenen Dateien (wenn Dateien angehängt sind)                    |
+
+slack_canvas [#slack_canvas]
+
+Erstellen und teilen Sie Slack-Canvases in Kanälen. Canvases sind kollaborative Dokumente innerhalb von Slack.
+
+Eingabe [#eingabe-1]
+
+| Parameter          | Typ    | Erforderlich | Beschreibung                                     |
+| ------------------ | ------ | ------------ | ------------------------------------------------ |
+| `authMethod`       | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token |
+| `botToken`         | string | Nein         | Bot-Token für Custom Bot                         |
+| `channel`          | string | Ja           | Ziel-Slack-Kanal (z.B. #general)                 |
+| `title`            | string | Ja           | Titel des Canvas                                 |
+| `content`          | string | Ja           | Canvas-Inhalt im Markdown-Format                 |
+| `document_content` | object | Nein         | Strukturierter Canvas-Dokumentinhalt             |
+
+Ausgabe [#ausgabe-1]
+
+| Parameter   | Typ    | Beschreibung                            |
+| ----------- | ------ | --------------------------------------- |
+| `canvas_id` | string | ID des erstellten Canvas                |
+| `channel`   | string | Kanal, in dem das Canvas erstellt wurde |
+| `title`     | string | Titel des Canvas                        |
+
+slack_message_reader [#slack_message_reader]
+
+Lesen Sie die neuesten Nachrichten aus Slack-Kanälen. Rufen Sie den Konversationsverlauf mit Filteroptionen ab.
+
+Eingabe [#eingabe-2]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                           |
+| ------------ | ------ | ------------ | ---------------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                       |
+| `botToken`   | string | Nein         | Bot-Token für Custom Bot                                               |
+| `channel`    | string | Nein         | Slack-Kanal, aus dem Nachrichten gelesen werden sollen (z.B. #general) |
+| `userId`     | string | Nein         | Benutzer-ID für DM-Konversation (z.B. U1234567890)                     |
+| `limit`      | number | Nein         | Anzahl der abzurufenden Nachrichten (Standard: 10, max: 15)            |
+| `oldest`     | string | Nein         | Beginn des Zeitbereichs (Zeitstempel)                                  |
+| `latest`     | string | Nein         | Ende des Zeitbereichs (Zeitstempel)                                    |
+
+Ausgabe [#ausgabe-2]
+
+| Parameter  | Typ   | Beschreibung                                |
+| ---------- | ----- | ------------------------------------------- |
+| `messages` | array | Array von Nachrichtenobjekten aus dem Kanal |
+
+slack_list_channels [#slack_list_channels]
+
+Listet alle Kanäle in einem Slack-Workspace auf. Gibt öffentliche und private Kanäle zurück, auf die der Bot Zugriff hat.
+
+Eingabe [#eingabe-3]
+
+| Parameter         | Typ     | Erforderlich | Beschreibung                                                                |
+| ----------------- | ------- | ------------ | --------------------------------------------------------------------------- |
+| `authMethod`      | string  | Nein         | Authentifizierungsmethode: oauth oder bot\_token                            |
+| `botToken`        | string  | Nein         | Bot-Token für benutzerdefinierten Bot                                       |
+| `includePrivate`  | boolean | Nein         | Private Kanäle einschließen, in denen der Bot Mitglied ist (Standard: true) |
+| `excludeArchived` | boolean | Nein         | Archivierte Kanäle ausschließen (Standard: true)                            |
+| `limit`           | number  | Nein         | Maximale Anzahl der zurückzugebenden Kanäle (Standard: 100, max: 200)       |
+
+Ausgabe [#ausgabe-3]
+
+| Parameter  | Typ   | Beschreibung                              |
+| ---------- | ----- | ----------------------------------------- |
+| `channels` | array | Array von Kanalobjekten aus dem Workspace |
+
+slack_list_members [#slack_list_members]
+
+Listet alle Mitglieder (Benutzer-IDs) in einem Slack-Kanal auf. Verwenden Sie diese Funktion mit Get User Info, um IDs in Namen aufzulösen.
+
+Eingabe [#eingabe-4]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                              |
+| ------------ | ------ | ------------ | ------------------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                          |
+| `botToken`   | string | Nein         | Bot-Token für benutzerdefinierten Bot                                     |
+| `channel`    | string | Ja           | Kanal-ID, aus der Mitglieder aufgelistet werden sollen                    |
+| `limit`      | number | Nein         | Maximale Anzahl der zurückzugebenden Mitglieder (Standard: 100, max: 200) |
+
+Ausgabe [#ausgabe-4]
+
+| Parameter | Typ   | Beschreibung                                                              |
+| --------- | ----- | ------------------------------------------------------------------------- |
+| `members` | array | Array von Benutzer-IDs, die Mitglieder des Kanals sind (z.B. U1234567890) |
+
+slack_list_users [#slack_list_users]
+
+Listet alle Benutzer in einem Slack-Workspace auf. Gibt Benutzerprofile mit Namen und Avataren zurück.
+
+Eingabe [#eingabe-5]
+
+| Parameter        | Typ     | Erforderlich | Beschreibung                                                            |
+| ---------------- | ------- | ------------ | ----------------------------------------------------------------------- |
+| `authMethod`     | string  | Nein         | Authentifizierungsmethode: oauth oder bot\_token                        |
+| `botToken`       | string  | Nein         | Bot-Token für benutzerdefinierten Bot                                   |
+| `includeDeleted` | boolean | Nein         | Deaktivierte/gelöschte Benutzer einbeziehen (Standard: false)           |
+| `limit`          | number  | Nein         | Maximale Anzahl der zurückzugebenden Benutzer (Standard: 100, max: 200) |
+
+Ausgabe [#ausgabe-5]
+
+| Parameter | Typ   | Beschreibung                                 |
+| --------- | ----- | -------------------------------------------- |
+| `users`   | array | Array von Benutzerobjekten aus dem Workspace |
+
+slack_get_user [#slack_get_user]
+
+Ruft detaillierte Informationen über einen bestimmten Slack-Benutzer anhand seiner Benutzer-ID ab.
+
+Eingabe [#eingabe-6]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                     |
+| ------------ | ------ | ------------ | ------------------------------------------------ |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token |
+| `botToken`   | string | Nein         | Bot-Token für benutzerdefinierten Bot            |
+| `userId`     | string | Ja           | Zu suchende Benutzer-ID (z.B. U1234567890)       |
+
+Ausgabe [#ausgabe-6]
+
+| Parameter | Typ    | Beschreibung                       |
+| --------- | ------ | ---------------------------------- |
+| `user`    | object | Detaillierte Benutzerinformationen |
+
+slack_download [#slack_download]
+
+Eine Datei von Slack herunterladen
+
+Eingabe [#eingabe-7]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                     |
+| ------------ | ------ | ------------ | ------------------------------------------------ |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token |
+| `botToken`   | string | Nein         | Bot-Token für benutzerdefinierten Bot            |
+| `fileId`     | string | Ja           | Die ID der herunterzuladenden Datei              |
+| `fileName`   | string | Nein         | Optionale Überschreibung des Dateinamens         |
+
+Ausgabe [#ausgabe-7]
+
+| Parameter | Typ  | Beschreibung                                                  |
+| --------- | ---- | ------------------------------------------------------------- |
+| `file`    | file | Heruntergeladene Datei, gespeichert in den Ausführungsdateien |
+
+slack_update_message [#slack_update_message]
+
+Eine zuvor vom Bot in Slack gesendete Nachricht aktualisieren
+
+Eingabe [#eingabe-8]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                           |
+| ------------ | ------ | ------------ | ---------------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                       |
+| `botToken`   | string | Nein         | Bot-Token für benutzerdefinierten Bot                                  |
+| `channel`    | string | Ja           | Kanal-ID, in dem die Nachricht gepostet wurde (z.B. C1234567890)       |
+| `timestamp`  | string | Ja           | Zeitstempel der zu aktualisierenden Nachricht (z.B. 1405894322.002768) |
+| `text`       | string | Ja           | Neuer Nachrichtentext (unterstützt Slack mrkdwn-Formatierung)          |
+
+Ausgabe [#ausgabe-8]
+
+| Parameter  | Typ    | Beschreibung                                                                                     |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------ |
+| `message`  | object | Vollständiges aktualisiertes Nachrichtenobjekt mit allen von Slack zurückgegebenen Eigenschaften |
+| `content`  | string | Erfolgsmeldung                                                                                   |
+| `metadata` | object | Aktualisierte Nachrichtenmetadaten                                                               |
+
+slack_delete_message [#slack_delete_message]
+
+Eine zuvor vom Bot in Slack gesendete Nachricht löschen
+
+Eingabe [#eingabe-9]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                     |
+| ------------ | ------ | ------------ | ---------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                 |
+| `botToken`   | string | Nein         | Bot-Token für benutzerdefinierten Bot                            |
+| `channel`    | string | Ja           | Kanal-ID, in dem die Nachricht gepostet wurde (z.B. C1234567890) |
+| `timestamp`  | string | Ja           | Zeitstempel der zu löschenden Nachricht (z.B. 1405894322.002768) |
+
+Ausgabe [#ausgabe-9]
+
+| Parameter  | Typ    | Beschreibung                       |
+| ---------- | ------ | ---------------------------------- |
+| `content`  | string | Erfolgsmeldung                     |
+| `metadata` | object | Metadaten der gelöschten Nachricht |
+
+slack_add_reaction [#slack_add_reaction]
+
+Eine Emoji-Reaktion zu einer Slack-Nachricht hinzufügen
+
+Eingabe [#eingabe-10]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                     |
+| ------------ | ------ | ------------ | -------------------------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                                 |
+| `botToken`   | string | Nein         | Bot-Token für Custom Bot                                                         |
+| `channel`    | string | Ja           | Kanal-ID, in dem die Nachricht gepostet wurde (z.B. C1234567890)                 |
+| `timestamp`  | string | Ja           | Zeitstempel der Nachricht, auf die reagiert werden soll (z.B. 1405894322.002768) |
+| `name`       | string | Ja           | Name der Emoji-Reaktion (ohne Doppelpunkte, z.B. thumbsup, heart, eyes)          |
+
+Ausgabe [#ausgabe-10]
+
+| Parameter  | Typ    | Beschreibung        |
+| ---------- | ------ | ------------------- |
+| `content`  | string | Erfolgsmeldung      |
+| `metadata` | object | Reaktions-Metadaten |
+
+Hinweise [#hinweise]
+
+* Kategorie: `tools`
+* Typ: `slack`
+
+Eine zuvor vom Bot gesendete Nachricht in Slack aktualisieren
+
+Eingabe [#eingabe-11]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                            |
+| ------------ | ------ | ------------ | ----------------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                        |
+| `botToken`   | string | Nein         | Bot-Token für Custom Bot                                                |
+| `channel`    | string | Ja           | Kanal-ID, in der die Nachricht gepostet wurde (z. B. C1234567890)       |
+| `timestamp`  | string | Ja           | Zeitstempel der zu aktualisierenden Nachricht (z. B. 1405894322.002768) |
+| `text`       | string | Ja           | Neuer Nachrichtentext (unterstützt Slack-mrkdwn-Formatierung)           |
+
+Ausgabe [#ausgabe-11]
+
+| Parameter             | Typ     | Beschreibung                                                                                     |
+| --------------------- | ------- | ------------------------------------------------------------------------------------------------ |
+| `message`             | object  | Vollständiges aktualisiertes Nachrichtenobjekt mit allen von Slack zurückgegebenen Eigenschaften |
+| ↳ `type`              | string  | Nachrichtentyp (normalerweise "message")                                                         |
+| ↳ `ts`                | string  | Nachrichtenzeitstempel (eindeutige Kennung)                                                      |
+| ↳ `text`              | string  | Nachrichtentextinhalt                                                                            |
+| ↳ `user`              | string  | Benutzer-ID des Absenders                                                                        |
+| ↳ `bot_id`            | string  | Bot-ID, falls von einem Bot gesendet                                                             |
+| ↳ `username`          | string  | Angezeigter Benutzername                                                                         |
+| ↳ `channel`           | string  | Kanal-ID                                                                                         |
+| ↳ `team`              | string  | Team-/Workspace-ID                                                                               |
+| ↳ `thread_ts`         | string  | Zeitstempel der übergeordneten Nachricht (für Thread-Antworten)                                  |
+| ↳ `parent_user_id`    | string  | Benutzer-ID des Autors der übergeordneten Thread-Nachricht                                       |
+| ↳ `reply_count`       | number  | Gesamtanzahl der Antworten im Thread                                                             |
+| ↳ `reply_users_count` | number  | Anzahl der eindeutigen Benutzer, die geantwortet haben                                           |
+| ↳ `latest_reply`      | string  | Zeitstempel der neuesten Antwort                                                                 |
+| ↳ `subscribed`        | boolean | Ob der Benutzer den Thread abonniert hat                                                         |
+| ↳ `last_read`         | string  | Zeitstempel der zuletzt gelesenen Nachricht                                                      |
+| ↳ `unread_count`      | number  | Anzahl ungelesener Nachrichten im Thread                                                         |
+| ↳ `subtype`           | string  | Nachrichtensubtyp (bot\_message, file\_share usw.)                                               |
+| ↳ `is_starred`        | boolean | Ob die Nachricht vom Benutzer mit Stern markiert wurde                                           |
+| ↳ `pinned_to`         | array   | Kanal-IDs, in denen die Nachricht angeheftet ist                                                 |
+| ↳ `permalink`         | string  | Permanente URL zur Nachricht                                                                     |
+| ↳ `reactions`         | array   | Reaktionen auf diese Nachricht                                                                   |
+| ↳ `name`              | string  | Emoji-Name (ohne Doppelpunkte)                                                                   |
+| ↳ `count`             | number  | Anzahl, wie oft diese Reaktion hinzugefügt wurde                                                 |
+| ↳ `users`             | array   | Array von Benutzer-IDs, die reagiert haben                                                       |
+| ↳ `files`             | array   | An die Nachricht angehängte Dateien                                                              |
+| ↳ `id`                | string  | Eindeutige Dateikennung                                                                          |
+| ↳ `name`              | string  | Dateiname                                                                                        |
+| ↳ `mimetype`          | string  | MIME-Typ der Datei                                                                               |
+| ↳ `size`              | number  | Dateigröße in Bytes                                                                              |
+| ↳ `url_private`       | string  | Private Download-URL (erfordert Authentifizierung)                                               |
+| ↳ `permalink`         | string  | Permanenter Link zur Datei                                                                       |
+| ↳ `mode`              | string  | Dateimodus (hosted, external usw.)                                                               |
+| ↳ `attachments`       | array   | Legacy-Anhänge an der Nachricht                                                                  |
+| ↳ `id`                | number  | Anhang-ID                                                                                        |
+| ↳ `fallback`          | string  | Klartextzusammenfassung                                                                          |
+| ↳ `text`              | string  | Hauptanhangtext                                                                                  |
+| ↳ `pretext`           | string  | Text, der vor dem Anhang angezeigt wird                                                          |
+| ↳ `color`             | string  | Farbbalken-Hex-Code oder Voreinstellung                                                          |
+| ↳ `author_name`       | string  | Angezeigter Autorenname                                                                          |
+| ↳ `author_link`       | string  | Autoren-Link-URL                                                                                 |
+| ↳ `author_icon`       | string  | Autoren-Icon-URL                                                                                 |
+| ↳ `title`             | string  | Anhangtitel                                                                                      |
+| ↳ `title_link`        | string  | Titel-Link-URL                                                                                   |
+| ↳ `image_url`         | string  | Bild-URL                                                                                         |
+| ↳ `thumb_url`         | string  | Vorschaubild-URL                                                                                 |
+| ↳ `footer`            | string  | Fußzeilentext                                                                                    |
+| ↳ `footer_icon`       | string  | Fußzeilen-Icon-URL                                                                               |
+| ↳ `ts`                | string  | In der Fußzeile angezeigter Zeitstempel                                                          |
+| ↳ `blocks`            | array   | Block-Kit-Blöcke in der Nachricht                                                                |
+| ↳ `type`              | string  | Blocktyp (section, divider, image, actions usw.)                                                 |
+| ↳ `block_id`          | string  | Eindeutige Blockkennung                                                                          |
+| ↳ `edited`            | object  | Bearbeitungsinformationen, falls die Nachricht bearbeitet wurde                                  |
+| ↳ `user`              | string  | Benutzer-ID des Bearbeiters                                                                      |
+| ↳ `ts`                | string  | Zeitstempel der Bearbeitung                                                                      |
+| `content`             | string  | Erfolgsmeldung                                                                                   |
+| `metadata`            | object  | Aktualisierte Nachrichtenmetadaten                                                               |
+| ↳ `channel`           | string  | Kanal-ID                                                                                         |
+| ↳ `timestamp`         | string  | Nachrichtenzeitstempel                                                                           |
+| ↳ `text`              | string  | Aktualisierter Nachrichtentext                                                                   |
+
+slack_delete_message [#slack_delete_message-1]
+
+Eine zuvor vom Bot in Slack gesendete Nachricht löschen
+
+Eingabe [#eingabe-12]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                     |
+| ------------ | ------ | ------------ | ---------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                 |
+| `botToken`   | string | Nein         | Bot-Token für Custom Bot                                         |
+| `channel`    | string | Ja           | Kanal-ID, in der die Nachricht gepostet wurde (z.B. C1234567890) |
+| `timestamp`  | string | Ja           | Zeitstempel der zu löschenden Nachricht (z.B. 1405894322.002768) |
+
+Ausgabe [#ausgabe-12]
+
+| Parameter     | Typ    | Beschreibung                       |
+| ------------- | ------ | ---------------------------------- |
+| `content`     | string | Erfolgsmeldung                     |
+| `metadata`    | object | Metadaten der gelöschten Nachricht |
+| ↳ `channel`   | string | Kanal-ID                           |
+| ↳ `timestamp` | string | Nachrichten-Zeitstempel            |
+
+slack_add_reaction [#slack_add_reaction-1]
+
+Eine Emoji-Reaktion zu einer Slack-Nachricht hinzufügen
+
+Eingabe [#eingabe-13]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                     |
+| ------------ | ------ | ------------ | -------------------------------------------------------------------------------- |
+| `authMethod` | string | Nein         | Authentifizierungsmethode: oauth oder bot\_token                                 |
+| `botToken`   | string | Nein         | Bot-Token für Custom Bot                                                         |
+| `channel`    | string | Ja           | Kanal-ID, in der die Nachricht gepostet wurde (z.B. C1234567890)                 |
+| `timestamp`  | string | Ja           | Zeitstempel der Nachricht, auf die reagiert werden soll (z.B. 1405894322.002768) |
+| `name`       | string | Ja           | Name der Emoji-Reaktion (ohne Doppelpunkte, z.B. thumbsup, heart, eyes)          |
+
+Ausgabe [#ausgabe-13]
+
+| Parameter     | Typ    | Beschreibung            |
+| ------------- | ------ | ----------------------- |
+| `content`     | string | Erfolgsmeldung          |
+| `metadata`    | object | Reaktions-Metadaten     |
+| ↳ `channel`   | string | Kanal-ID                |
+| ↳ `timestamp` | string | Nachrichten-Zeitstempel |
+| ↳ `reaction`  | string | Emoji-Reaktionsname     |
+a:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L12",null,{"content":"$13"}]}],"$L14"]}],"$L15","$L16"]}]
+1a:T491,Dies ermöglicht leistungsstarke Automatisierungsszenarien wie das Senden von Benachrichtigungen mit dynamischen Updates, das Verwalten von Gesprächsabläufen mit bearbeitbaren Statusnachrichten, das Bestätigen wichtiger Nachrichten mit Reaktionen und das Sauberhalten von Kanälen durch Entfernen veralteter Bot-Nachrichten. Ihre Agenten können zeitnahe Informationen liefern, Nachrichten aktualisieren, während Workflows fortschreiten, kollaborative Dokumente erstellen oder Teammitglieder benachrichtigen, wenn Aufmerksamkeit benötigt wird. Diese Integration überbrückt die Lücke zwischen Ihren KI-Workflows und der Kommunikation Ihres Teams und stellt sicher, dass jeder mit genauen, aktuellen Informationen auf dem Laufenden bleibt. Durch die Verbindung von Aptlystar mit Slack können Sie Agenten erstellen, die Ihr Team mit relevanten Informationen zur richtigen Zeit auf dem Laufenden halten, die Zusammenarbeit verbessern, indem sie Erkenntnisse automatisch teilen und aktualisieren, und die Notwendigkeit manueller Statusaktualisierungen reduzieren – alles während Sie Ihren bestehenden Slack-Workspace nutzen, in dem Ihr Team bereits kommuniziert.b:["$","$L17",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L18",null,{"type":"slack","color":"#611f69"}],"\n","\n",["$","p",null,{"children":[["$","$L19",null,{"href":"https://www.slack.com/","children":"Slack"}]," ist eine Business-Kommunikationsplattform, die Teams einen einheitlichen Ort für Nachrichten, Tools und Dateien bietet."]}],"\n","\n",["$","p",null,{"children":"Mit Slack kannst du:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Automatisieren Sie Agenten-Benachrichtigungen"}],": Senden Sie Echtzeit-Updates von Ihren Aptlystar-Agenten an jeden Slack-Kanal"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Erstellen Sie Webhook-Endpunkte"}],": Konfigurieren Sie Slack-Bots als Webhooks, um Aptlystar-Workflows aus Slack-Aktivitäten auszulösen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Verbessern Sie Agenten-Workflows"}],": Integrieren Sie Slack-Messaging in Ihre Agenten, um Ergebnisse, Warnungen und Statusaktualisierungen zu liefern"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Erstellen und teilen Sie Slack-Canvases"}],": Erstellen Sie programmatisch kollaborative Dokumente (Canvases) in Slack-Kanälen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Lesen Sie Nachrichten aus Kanälen"}],": Rufen Sie aktuelle Nachrichten aus jedem Slack-Kanal ab und verarbeiten Sie diese für Überwachungs- oder Workflow-Auslöser"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Verwalten Sie Bot-Nachrichten"}],": Aktualisieren, löschen und fügen Sie Reaktionen zu Nachrichten hinzu, die von Ihrem Bot gesendet wurden"]}],"\n"]}],"\n",["$","p",null,{"children":"In Aptlystar ermöglicht die Slack-Integration Ihren Agenten, programmatisch mit Slack zu interagieren, mit vollständigen Nachrichtenverwaltungsfunktionen als Teil ihrer Workflows:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Nachrichten senden"}],": Agenten können formatierte Nachrichten an jeden Slack-Kanal oder Benutzer senden und unterstützen dabei Slacks mrkdwn-Syntax für umfangreiche Formatierung"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Nachrichten aktualisieren"}],": Bearbeiten Sie zuvor gesendete Bot-Nachrichten, um Informationen zu korrigieren oder Statusaktualisierungen bereitzustellen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Nachrichten löschen"}],": Entfernen Sie Bot-Nachrichten, wenn sie nicht mehr benötigt werden oder Fehler enthalten"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Reaktionen hinzufügen"}],": Drücken Sie Stimmungen oder Bestätigungen aus, indem Sie Emoji-Reaktionen zu jeder Nachricht hinzufügen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Canvases erstellen"}],": Erstellen und teilen Sie Slack-Canvases (kollaborative Dokumente) direkt in Kanälen, um reichhaltigere Inhalte zu teilen und zu dokumentieren"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Nachrichten lesen"}],": Lesen Sie aktuelle Nachrichten aus Kanälen, um Überwachung, Berichterstattung oder das Auslösen weiterer Aktionen basierend auf Kanalaktivitäten zu ermöglichen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Dateien herunterladen"}],": Rufen Sie in Slack-Kanälen geteilte Dateien zur Verarbeitung oder Archivierung ab"]}],"\n"]}],"\n",["$","p",null,{"children":"$1a"}],"\n","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72"]}]}]
+c:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+d:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+e:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+f:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+10:["$","$L73",null,{"children":["$","$74",null,{"name":"Next.MetadataOutlet","children":"$@75"}]}]
+14:["$","$L76",null,{"previous":{"$id":"de:tools/sharepoint.mdx","type":"page","name":"Sharepoint","description":"Mit Seiten und Listen arbeiten","url":"/de/tools/sharepoint","$ref":{"file":"tools/sharepoint.mdx"}},"next":{"$id":"de:tools/stagehand.mdx","type":"page","name":"Stagehand","description":"Web-Automatisierung und Datenextraktion","url":"/de/tools/stagehand","$ref":{"file":"tools/stagehand.mdx"}}}]
+15:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"viewBox":"0 0 256 256","xmlns":"http://www.w3.org/2000/svg","className":"size-7","children":["$","g",null,{"children":[["$","path",null,{"d":"M53.84,161.32 C53.84,176.15 41.85,188.14 27.02,188.14 C12.19,188.14 0.2,176.15 0.2,161.32 C0.2,146.49 12.19,134.5 27.02,134.5 L53.84,134.5 L53.84,161.32 Z M67.25,161.32 C67.25,146.49 79.24,134.5 94.07,134.5 C108.9,134.5 120.89,146.49 120.89,161.32 L120.89,228.37 C120.89,243.2 108.9,255.19 94.07,255.19 C79.24,255.19 67.25,243.2 67.25,228.37 L67.25,161.32 Z","fill":"#E01E5A"}],["$","path",null,{"d":"M94.07,53.64 C79.24,53.64 67.25,41.65 67.25,26.82 C67.25,11.99 79.24,-7.11e-15 94.07,-7.11e-15 C108.9,-7.11e-15 120.89,11.99 120.89,26.82 L120.89,53.64 L94.07,53.64 Z M94.07,67.25 C108.9,67.25 120.89,79.24 120.89,94.07 C120.89,108.9 108.9,120.89 94.07,120.89 L26.82,120.89 C11.99,120.89 0,108.9 0,94.07 C0,79.24 11.99,67.25 26.82,67.25 L94.07,67.25 Z","fill":"#36C5F0"}],["$","path",null,{"d":"M201.55,94.07 C201.55,79.24 213.54,67.25 228.37,67.25 C243.2,67.25 255.19,79.24 255.19,94.07 C255.19,108.9 243.2,120.89 228.37,120.89 L201.55,120.89 L201.55,94.07 Z M188.14,94.07 C188.14,108.9 176.15,120.89 161.32,120.89 C146.49,120.89 134.5,108.9 134.5,94.07 L134.5,26.82 C134.5,11.99 146.49,-1.42e-14 161.32,-1.42e-14 C176.15,-1.42e-14 188.14,11.99 188.14,26.82 L188.14,94.07 Z","fill":"#2EB67D"}],["$","path",null,{"d":"M161.32,201.55 C176.15,201.55 188.14,213.54 188.14,228.37 C188.14,243.2 176.15,255.19 161.32,255.19 C146.49,255.19 134.5,243.2 134.5,228.37 L134.5,201.55 L161.32,201.55 Z M161.32,188.14 C146.49,188.14 134.5,176.15 134.5,161.32 C134.5,146.49 146.49,134.5 161.32,134.5 L228.57,134.5 C243.4,134.5 255.39,146.49 255.39,161.32 C255.39,176.15 243.4,188.14 228.57,188.14 L161.32,188.14 Z","fill":"#ECB22E"}]]}]}]}],["$","$L77",null,{"className":"mb-0 min-w-0 flex-1","children":"Slack"}]]}]
+16:["$","$L78",null,{"children":"Nachrichten senden, aktualisieren, löschen, Reaktionen in Slack hinzufügen oder Workflows von Slack-Ereignissen auslösen"}]
+1b:["$","$L79",null,{"as":"h2","id":"nutzungsanweisungen","children":"Nutzungsanweisungen"}]
+1c:["$","p",null,{"children":"Integriert Slack in den Workflow. Kann Nachrichten senden, aktualisieren und löschen, Canvases erstellen, Nachrichten lesen und Reaktionen hinzufügen. Erfordert im erweiterten Modus ein Bot-Token anstelle von OAuth. Kann im Trigger-Modus verwendet werden, um einen Workflow auszulösen, wenn eine Nachricht an einen Kanal gesendet wird."}]
+1d:["$","$L79",null,{"as":"h2","id":"tools","children":"Tools"}]
+1e:["$","$L79",null,{"as":"h3","id":"slack_message","children":["$","code",null,{"children":"slack_message"}]}]
+1f:["$","p",null,{"children":"Sende Nachrichten an Slack-Kanäle oder Direktnachrichten. Unterstützt Slack mrkdwn-Formatierung."}]
+20:["$","$L79",null,{"as":"h4","id":"eingabe","children":"Eingabe"}]
+21:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ziel-Slack-Kanal (z.B. #general)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ziel-Slack-Benutzer-ID für Direktnachrichten (z.B. U1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zu sendender Nachrichtentext (unterstützt Slack mrkdwn-Formatierung)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"thread_ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Thread-Zeitstempel für Antworten (erstellt Thread-Antwort)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"files"}]}],["$","td",null,{"children":"file[]"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Dateien, die an die Nachricht angehängt werden sollen"}]]}]]}]]}]}]
+22:["$","$L79",null,{"as":"h4","id":"ausgabe","children":"Ausgabe"}]
+23:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Vollständiges Nachrichtenobjekt mit allen von Slack zurückgegebenen Eigenschaften"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichtenzeitstempel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kanal-ID, in dem die Nachricht gesendet wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl der hochgeladenen Dateien (wenn Dateien angehängt sind)"}]]}]]}]]}]}]
+24:["$","$L79",null,{"as":"h3","id":"slack_canvas","children":["$","code",null,{"children":"slack_canvas"}]}]
+25:["$","p",null,{"children":"Erstellen und teilen Sie Slack-Canvases in Kanälen. Canvases sind kollaborative Dokumente innerhalb von Slack."}]
+26:["$","$L79",null,{"as":"h4","id":"eingabe-1","children":"Eingabe"}]
+27:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für Custom Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Ziel-Slack-Kanal (z.B. #general)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Titel des Canvas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Canvas-Inhalt im Markdown-Format"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"document_content"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Strukturierter Canvas-Dokumentinhalt"}]]}]]}]]}]}]
+28:["$","$L79",null,{"as":"h4","id":"ausgabe-1","children":"Ausgabe"}]
+29:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canvas_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID des erstellten Canvas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kanal, in dem das Canvas erstellt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Titel des Canvas"}]]}]]}]]}]}]
+2a:["$","$L79",null,{"as":"h3","id":"slack_message_reader","children":["$","code",null,{"children":"slack_message_reader"}]}]
+2b:["$","p",null,{"children":"Lesen Sie die neuesten Nachrichten aus Slack-Kanälen. Rufen Sie den Konversationsverlauf mit Filteroptionen ab."}]
+2c:["$","$L79",null,{"as":"h4","id":"eingabe-2","children":"Eingabe"}]
+2d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für Custom Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Slack-Kanal, aus dem Nachrichten gelesen werden sollen (z.B. #general)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID für DM-Konversation (z.B. U1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der abzurufenden Nachrichten (Standard: 10, max: 15)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"oldest"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beginn des Zeitbereichs (Zeitstempel)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"latest"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ende des Zeitbereichs (Zeitstempel)"}]]}]]}]]}]}]
+2e:["$","$L79",null,{"as":"h4","id":"ausgabe-2","children":"Ausgabe"}]
+2f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messages"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Nachrichtenobjekten aus dem Kanal"}]]}]}]]}]}]
+30:["$","$L79",null,{"as":"h3","id":"slack_list_channels","children":["$","code",null,{"children":"slack_list_channels"}]}]
+31:["$","p",null,{"children":"Listet alle Kanäle in einem Slack-Workspace auf. Gibt öffentliche und private Kanäle zurück, auf die der Bot Zugriff hat."}]
+32:["$","$L79",null,{"as":"h4","id":"eingabe-3","children":"Eingabe"}]
+33:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includePrivate"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Private Kanäle einschließen, in denen der Bot Mitglied ist (Standard: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excludeArchived"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Archivierte Kanäle ausschließen (Standard: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Kanäle (Standard: 100, max: 200)"}]]}]]}]]}]}]
+34:["$","$L79",null,{"as":"h4","id":"ausgabe-3","children":"Ausgabe"}]
+35:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channels"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Kanalobjekten aus dem Workspace"}]]}]}]]}]}]
+36:["$","$L79",null,{"as":"h3","id":"slack_list_members","children":["$","code",null,{"children":"slack_list_members"}]}]
+37:["$","p",null,{"children":"Listet alle Mitglieder (Benutzer-IDs) in einem Slack-Kanal auf. Verwenden Sie diese Funktion mit Get User Info, um IDs in Namen aufzulösen."}]
+38:["$","$L79",null,{"as":"h4","id":"eingabe-4","children":"Eingabe"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, aus der Mitglieder aufgelistet werden sollen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Mitglieder (Standard: 100, max: 200)"}]]}]]}]]}]}]
+3a:["$","$L79",null,{"as":"h4","id":"ausgabe-4","children":"Ausgabe"}]
+3b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"members"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Benutzer-IDs, die Mitglieder des Kanals sind (z.B. U1234567890)"}]]}]}]]}]}]
+3c:["$","$L79",null,{"as":"h3","id":"slack_list_users","children":["$","code",null,{"children":"slack_list_users"}]}]
+3d:["$","p",null,{"children":"Listet alle Benutzer in einem Slack-Workspace auf. Gibt Benutzerprofile mit Namen und Avataren zurück."}]
+3e:["$","$L79",null,{"as":"h4","id":"eingabe-5","children":"Eingabe"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeDeleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Deaktivierte/gelöschte Benutzer einbeziehen (Standard: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl der zurückzugebenden Benutzer (Standard: 100, max: 200)"}]]}]]}]]}]}]
+40:["$","$L79",null,{"as":"h4","id":"ausgabe-5","children":"Ausgabe"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Benutzerobjekten aus dem Workspace"}]]}]}]]}]}]
+42:["$","$L79",null,{"as":"h3","id":"slack_get_user","children":["$","code",null,{"children":"slack_get_user"}]}]
+43:["$","p",null,{"children":"Ruft detaillierte Informationen über einen bestimmten Slack-Benutzer anhand seiner Benutzer-ID ab."}]
+44:["$","$L79",null,{"as":"h4","id":"eingabe-6","children":"Eingabe"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zu suchende Benutzer-ID (z.B. U1234567890)"}]]}]]}]]}]}]
+46:["$","$L79",null,{"as":"h4","id":"ausgabe-6","children":"Ausgabe"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Detaillierte Benutzerinformationen"}]]}]}]]}]}]
+48:["$","$L79",null,{"as":"h3","id":"slack_download","children":["$","code",null,{"children":"slack_download"}]}]
+49:["$","p",null,{"children":"Eine Datei von Slack herunterladen"}]
+4a:["$","$L79",null,{"as":"h4","id":"eingabe-7","children":"Eingabe"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der herunterzuladenden Datei"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale Überschreibung des Dateinamens"}]]}]]}]]}]}]
+4c:["$","$L79",null,{"as":"h4","id":"ausgabe-7","children":"Ausgabe"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"Heruntergeladene Datei, gespeichert in den Ausführungsdateien"}]]}]}]]}]}]
+4e:["$","$L79",null,{"as":"h3","id":"slack_update_message","children":["$","code",null,{"children":"slack_update_message"}]}]
+4f:["$","p",null,{"children":"Eine zuvor vom Bot in Slack gesendete Nachricht aktualisieren"}]
+50:["$","$L79",null,{"as":"h4","id":"eingabe-8","children":"Eingabe"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, in dem die Nachricht gepostet wurde (z.B. C1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zeitstempel der zu aktualisierenden Nachricht (z.B. 1405894322.002768)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Neuer Nachrichtentext (unterstützt Slack mrkdwn-Formatierung)"}]]}]]}]]}]}]
+52:["$","$L79",null,{"as":"h4","id":"ausgabe-8","children":"Ausgabe"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Vollständiges aktualisiertes Nachrichtenobjekt mit allen von Slack zurückgegebenen Eigenschaften"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erfolgsmeldung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Aktualisierte Nachrichtenmetadaten"}]]}]]}]]}]}]
+54:["$","$L79",null,{"as":"h3","id":"slack_delete_message","children":["$","code",null,{"children":"slack_delete_message"}]}]
+55:["$","p",null,{"children":"Eine zuvor vom Bot in Slack gesendete Nachricht löschen"}]
+56:["$","$L79",null,{"as":"h4","id":"eingabe-9","children":"Eingabe"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für benutzerdefinierten Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, in dem die Nachricht gepostet wurde (z.B. C1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zeitstempel der zu löschenden Nachricht (z.B. 1405894322.002768)"}]]}]]}]]}]}]
+58:["$","$L79",null,{"as":"h4","id":"ausgabe-9","children":"Ausgabe"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erfolgsmeldung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Metadaten der gelöschten Nachricht"}]]}]]}]]}]}]
+5a:["$","$L79",null,{"as":"h3","id":"slack_add_reaction","children":["$","code",null,{"children":"slack_add_reaction"}]}]
+5b:["$","p",null,{"children":"Eine Emoji-Reaktion zu einer Slack-Nachricht hinzufügen"}]
+5c:["$","$L79",null,{"as":"h4","id":"eingabe-10","children":"Eingabe"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für Custom Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, in dem die Nachricht gepostet wurde (z.B. C1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zeitstempel der Nachricht, auf die reagiert werden soll (z.B. 1405894322.002768)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Name der Emoji-Reaktion (ohne Doppelpunkte, z.B. thumbsup, heart, eyes)"}]]}]]}]]}]}]
+5e:["$","$L79",null,{"as":"h4","id":"ausgabe-10","children":"Ausgabe"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erfolgsmeldung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Reaktions-Metadaten"}]]}]]}]]}]}]
+60:["$","$L79",null,{"as":"h2","id":"hinweise","children":"Hinweise"}]
+61:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Kategorie: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Typ: ",["$","code",null,{"children":"slack"}]]}],"\n"]}]
+62:["$","p",null,{"children":"Eine zuvor vom Bot gesendete Nachricht in Slack aktualisieren"}]
+63:["$","$L79",null,{"as":"h4","id":"eingabe-11","children":"Eingabe"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für Custom Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, in der die Nachricht gepostet wurde (z. B. C1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zeitstempel der zu aktualisierenden Nachricht (z. B. 1405894322.002768)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Neuer Nachrichtentext (unterstützt Slack-mrkdwn-Formatierung)"}]]}]]}]]}]}]
+65:["$","$L79",null,{"as":"h4","id":"ausgabe-11","children":"Ausgabe"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Vollständiges aktualisiertes Nachrichtenobjekt mit allen von Slack zurückgegebenen Eigenschaften"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichtentyp (normalerweise \"message\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ts"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichtenzeitstempel (eindeutige Kennung)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"text"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichtentextinhalt"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"user"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Benutzer-ID des Absenders"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"bot_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Bot-ID, falls von einem Bot gesendet"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Angezeigter Benutzername"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"channel"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kanal-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Team-/Workspace-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thread_ts"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der übergeordneten Nachricht (für Thread-Antworten)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parent_user_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Benutzer-ID des Autors der übergeordneten Thread-Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reply_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Antworten im Thread"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reply_users_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl der eindeutigen Benutzer, die geantwortet haben"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"latest_reply"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der neuesten Antwort"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"subscribed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob der Benutzer den Thread abonniert hat"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"last_read"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der zuletzt gelesenen Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"unread_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl ungelesener Nachrichten im Thread"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"subtype"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichtensubtyp (bot_message, file_share usw.)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"is_starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob die Nachricht vom Benutzer mit Stern markiert wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pinned_to"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Kanal-IDs, in denen die Nachricht angeheftet ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permalink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permanente URL zur Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactions"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Reaktionen auf diese Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ","$L7a"]}],"$L7b","$L7c"]}],"$L7d","$L7e","$L7f","$L80","$L81","$L82","$L83","$L84","$L85","$L86","$L87","$L88","$L89","$L8a","$L8b","$L8c","$L8d","$L8e","$L8f","$L90","$L91","$L92","$L93","$L94","$L95","$L96","$L97","$L98","$L99","$L9a","$L9b","$L9c","$L9d","$L9e","$L9f","$La0","$La1"]}]]}]}]
+67:["$","$L79",null,{"as":"h3","id":"slack_delete_message-1","children":["$","code",null,{"children":"slack_delete_message"}]}]
+68:["$","p",null,{"children":"Eine zuvor vom Bot in Slack gesendete Nachricht löschen"}]
+69:["$","$L79",null,{"as":"h4","id":"eingabe-12","children":"Eingabe"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für Custom Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, in der die Nachricht gepostet wurde (z.B. C1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zeitstempel der zu löschenden Nachricht (z.B. 1405894322.002768)"}]]}]]}]]}]}]
+6b:["$","$L79",null,{"as":"h4","id":"ausgabe-12","children":"Ausgabe"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erfolgsmeldung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Metadaten der gelöschten Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"channel"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kanal-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timestamp"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichten-Zeitstempel"}]]}]]}]]}]}]
+6d:["$","$L79",null,{"as":"h3","id":"slack_add_reaction-1","children":["$","code",null,{"children":"slack_add_reaction"}]}]
+6e:["$","p",null,{"children":"Eine Emoji-Reaktion zu einer Slack-Nachricht hinzufügen"}]
+6f:["$","$L79",null,{"as":"h4","id":"eingabe-13","children":"Eingabe"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Authentifizierungsmethode: oauth oder bot_token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"botToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bot-Token für Custom Bot"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"channel"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kanal-ID, in der die Nachricht gepostet wurde (z.B. C1234567890)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Zeitstempel der Nachricht, auf die reagiert werden soll (z.B. 1405894322.002768)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Name der Emoji-Reaktion (ohne Doppelpunkte, z.B. thumbsup, heart, eyes)"}]]}]]}]]}]}]
+71:["$","$L79",null,{"as":"h4","id":"ausgabe-13","children":"Ausgabe"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erfolgsmeldung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Reaktions-Metadaten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"channel"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kanal-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timestamp"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichten-Zeitstempel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reaction"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Emoji-Reaktionsname"}]]}]]}]]}]}]
+75:null
+7a:["$","code",null,{"children":"name"}]
+7b:["$","td",null,{"children":"string"}]
+7c:["$","td",null,{"children":"Emoji-Name (ohne Doppelpunkte)"}]
+7d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl, wie oft diese Reaktion hinzugefügt wurde"}]]}]
+7e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"users"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Benutzer-IDs, die reagiert haben"}]]}]
+7f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"files"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"An die Nachricht angehängte Dateien"}]]}]
+80:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Eindeutige Dateikennung"}]]}]
+81:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dateiname"}]]}]
+82:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimetype"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME-Typ der Datei"}]]}]
+83:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Dateigröße in Bytes"}]]}]
+84:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url_private"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Private Download-URL (erfordert Authentifizierung)"}]]}]
+85:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permalink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permanenter Link zur Datei"}]]}]
+86:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mode"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dateimodus (hosted, external usw.)"}]]}]
+87:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attachments"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Legacy-Anhänge an der Nachricht"}]]}]
+88:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anhang-ID"}]]}]
+89:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fallback"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Klartextzusammenfassung"}]]}]
+8a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"text"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Hauptanhangtext"}]]}]
+8b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pretext"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Text, der vor dem Anhang angezeigt wird"}]]}]
+8c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"color"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Farbbalken-Hex-Code oder Voreinstellung"}]]}]
+8d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"author_name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Angezeigter Autorenname"}]]}]
+8e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"author_link"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Autoren-Link-URL"}]]}]
+8f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"author_icon"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Autoren-Icon-URL"}]]}]
+90:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Anhangtitel"}]]}]
+91:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title_link"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Titel-Link-URL"}]]}]
+92:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"image_url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Bild-URL"}]]}]
+93:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumb_url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Vorschaubild-URL"}]]}]
+94:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"footer"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Fußzeilentext"}]]}]
+95:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"footer_icon"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Fußzeilen-Icon-URL"}]]}]
+96:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ts"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"In der Fußzeile angezeigter Zeitstempel"}]]}]
+97:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"blocks"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Block-Kit-Blöcke in der Nachricht"}]]}]
+98:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Blocktyp (section, divider, image, actions usw.)"}]]}]
+99:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"block_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Eindeutige Blockkennung"}]]}]
+9a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"edited"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Bearbeitungsinformationen, falls die Nachricht bearbeitet wurde"}]]}]
+9b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"user"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Benutzer-ID des Bearbeiters"}]]}]
+9c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ts"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zeitstempel der Bearbeitung"}]]}]
+9d:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Erfolgsmeldung"}]]}]
+9e:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Aktualisierte Nachrichtenmetadaten"}]]}]
+9f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"channel"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Kanal-ID"}]]}]
+a0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timestamp"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nachrichtenzeitstempel"}]]}]
+a1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"text"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Aktualisierter Nachrichtentext"}]]}]

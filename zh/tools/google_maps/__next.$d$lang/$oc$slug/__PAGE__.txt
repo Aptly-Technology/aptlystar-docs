@@ -1,0 +1,553 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+b:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+10:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+11:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+12:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+13:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+69:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6a:"$Sreact.suspense"
+6c:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+6d:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+6e:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Google Maps\",\"description\":\"地理编码、路线规划、地点查询和距离计算\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_maps\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_maps\"},\"inLanguage\":\"zh\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_maps\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Google Maps\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/google_maps\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#使用说明","title":"使用说明"},{"depth":2,"url":"#工具","title":"工具"},{"depth":3,"url":"#google_maps_air_quality","title":["$","code",null,{"children":"google_maps_air_quality"}]},{"depth":4,"url":"#输入","title":"输入"},{"depth":4,"url":"#输出","title":"输出"},{"depth":3,"url":"#google_maps_directions","title":["$","code",null,{"children":"google_maps_directions"}]},{"depth":4,"url":"#输入-1","title":"输入"},{"depth":4,"url":"#输出-1","title":"输出"},{"depth":3,"url":"#google_maps_distance_matrix","title":["$","code",null,{"children":"google_maps_distance_matrix"}]},{"depth":4,"url":"#输入-2","title":"输入"},{"depth":4,"url":"#输出-2","title":"输出"},{"depth":3,"url":"#google_maps_elevation","title":["$","code",null,{"children":"google_maps_elevation"}]},{"depth":4,"url":"#输入-3","title":"输入"},{"depth":4,"url":"#输出-3","title":"输出"},{"depth":3,"url":"#google_maps_geocode","title":["$","code",null,{"children":"google_maps_geocode"}]},{"depth":4,"url":"#输入-4","title":"输入"},{"depth":4,"url":"#输出-4","title":"输出"},{"depth":3,"url":"#google_maps_geolocate","title":["$","code",null,{"children":"google_maps_geolocate"}]},{"depth":4,"url":"#输入-5","title":"输入"},{"depth":4,"url":"#输出-5","title":"输出"},{"depth":3,"url":"#google_maps_place_details","title":["$","code",null,{"children":"google_maps_place_details"}]},{"depth":4,"url":"#输入-6","title":"输入"},{"depth":4,"url":"#输出-6","title":"输出"},{"depth":3,"url":"#google_maps_places_search","title":["$","code",null,{"children":"google_maps_places_search"}]},{"depth":4,"url":"#输入-7","title":"输入"},{"depth":4,"url":"#输出-7","title":"输出"},{"depth":3,"url":"#google_maps_reverse_geocode","title":["$","code",null,{"children":"google_maps_reverse_geocode"}]},{"depth":4,"url":"#输入-8","title":"输入"},{"depth":4,"url":"#输出-8","title":"输出"},{"depth":3,"url":"#google_maps_snap_to_roads","title":["$","code",null,{"children":"google_maps_snap_to_roads"}]},{"depth":4,"url":"#输入-9","title":"输入"},{"depth":4,"url":"#输出-9","title":"输出"},{"depth":3,"url":"#google_maps_speed_limits","title":["$","code",null,{"children":"google_maps_speed_limits"}]},{"depth":4,"url":"#输入-10","title":"输入"},{"depth":4,"url":"#输出-10","title":"输出"},{"depth":3,"url":"#google_maps_timezone","title":["$","code",null,{"children":"google_maps_timezone"}]},{"depth":4,"url":"#输入-11","title":"输入"},{"depth":4,"url":"#输出-11","title":"输出"},{"depth":3,"url":"#google_maps_validate_address","title":["$","code",null,{"children":"google_maps_validate_address"}]},{"depth":4,"url":"#输入-12","title":"输入"},{"depth":4,"url":"#输出-12","title":"输出"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L3"},"children":["$L4","$L5"]}]],["$L6","$L7","$L8","$L9"],"$La"]}],"loading":null,"isPartial":false}
+3:null
+c:T6d40,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="google_maps" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Google Maps](https://maps.google.com) 是一个功能全面的平台，提供丰富的 API，涵盖地图、地理编码、路径规划、地点、环境数据等多种服务。通过 Aptlystar，您的代理可以利用 Google Maps Platform 的核心 API，自动化各种基于位置的工作流程。
+
+**本集成包含以下 Google Maps API：**
+
+* **Geocoding API：** 将地址转换为经纬度坐标，并支持逆地理编码。
+* **Directions API：** 计算驾车、步行、骑行或公共交通的路线和导航。
+* **Distance Matrix API：** 计算多个起点和终点之间的行程距离和时间。
+* **Places API：** 按名称、类型或距离搜索地点（如商家、地标、机构等）。
+* **Place Details API：** 获取特定地点的详细信息，如地址、评分、营业时间和联系方式。
+* **Elevation API：** 获取全球任意地点的海拔高度数据。
+* **Time Zone API：** 查询任意地理位置的时区信息。
+* **Air Quality API：** 获取指定坐标的实时空气质量数据。
+
+借助这些 API，您的 Aptlystar 代理可以自动完成位置查询与数据丰富、规划最优路线与配送、估算时间与距离、分析地点数据、为记录添加地理信息、获取环境状况等，无需手动操作或外部工具。
+
+如果您需要上述未列出的功能，或希望支持更多 Google Maps API，请随时联系我们！
+
+{/* MANUAL-CONTENT-END */}
+
+使用说明 [#使用说明]
+
+将 Google Maps Platform API 集成到您的工作流程中。支持地址地理编码为坐标、逆地理编码、获取地点间路线、计算距离矩阵、地点搜索、获取地点详情、高程数据和时区信息。
+
+工具 [#工具]
+
+google_maps_air_quality [#google_maps_air_quality]
+
+获取某地的当前空气质量数据
+
+输入 [#输入]
+
+| 参数             | 类型     | 必填 | 说明                                      |
+| -------------- | ------ | -- | --------------------------------------- |
+| `apiKey`       | string | 是  | 启用 Air Quality API 的 Google Maps API 密钥 |
+| `lat`          | number | 是  | 纬度坐标                                    |
+| `lng`          | number | 是  | 经度坐标                                    |
+| `languageCode` | string | 否  | 响应的语言代码（如 "en"、"es"）                    |
+
+输出 [#输出]
+
+| 参数                      | 类型     | 说明                          |
+| ----------------------- | ------ | --------------------------- |
+| `dateTime`              | string | 空气质量数据的时间戳                  |
+| `regionCode`            | string | 该位置的区域代码                    |
+| `indexes`               | array  | 空气质量指数数组                    |
+| ↳ `code`                | string | 指数代码（如 "uaqi"、"usa\_epa"）   |
+| ↳ `displayName`         | string | 指数显示名称                      |
+| ↳ `aqi`                 | number | 空气质量指数值                     |
+| ↳ `aqiDisplay`          | string | 格式化 AQI 显示字符串               |
+| ↳ `color`               | object | AQI 等级的 RGB 颜色              |
+| ↳ `category`            | string | 类别描述（如 "Good"、"Moderate"）   |
+| ↳ `dominantPollutant`   | string | 主要污染物                       |
+| `pollutants`            | array  | 污染物浓度数组                     |
+| ↳ `code`                | string | 污染物代码（如 "pm25"、"o3"）        |
+| ↳ `displayName`         | string | 显示名称                        |
+| ↳ `fullName`            | string | 污染物全名                       |
+| ↳ `concentration`       | object | 浓度信息                        |
+| ↳ `value`               | number | 浓度值                         |
+| ↳ `units`               | string | 单位（如 "PARTS\_PER\_BILLION"） |
+| ↳ `additionalInfo`      | object | 关于来源和影响的附加信息                |
+| `healthRecommendations` | object | 针对不同人群的健康建议                 |
+
+google_maps_directions [#google_maps_directions]
+
+获取两个地点之间的路线和导航信息
+
+输入 [#输入-1]
+
+| 参数            | 类型     | 必填 | 说明                                       |
+| ------------- | ------ | -- | ---------------------------------------- |
+| `apiKey`      | string | 是  | Google Maps API key                      |
+| `origin`      | string | 是  | 起始位置（地址或经纬度）                             |
+| `destination` | string | 是  | 目的地位置（地址或经纬度）                            |
+| `mode`        | string | 否  | 出行方式：driving、walking、bicycling 或 transit |
+| `avoid`       | string | 否  | 规避选项：tolls、highways 或 ferries            |
+| `waypoints`   | json   | 否  | 中间途经点数组                                  |
+| `units`       | string | 否  | 单位系统：metric 或 imperial                   |
+| `language`    | string | 否  | 结果语言代码（如 en、es、fr）                       |
+
+输出 [#输出-1]
+
+| 参数                   | 类型     | 说明                      |
+| -------------------- | ------ | ----------------------- |
+| `routes`             | array  | 所有可用路线                  |
+| ↳ `summary`          | string | 路线摘要（主要道路名称）            |
+| ↳ `legs`             | array  | 路线分段（途经点之间的区段）          |
+| ↳ `overviewPolyline` | string | 整条路线的编码折线               |
+| ↳ `warnings`         | array  | 路线警告信息                  |
+| ↳ `waypointOrder`    | array  | 优化后的途经点顺序（如有请求）         |
+| `distanceText`       | string | 总距离（人类可读文本，如 "5.2 km"）  |
+| `distanceMeters`     | number | 总距离（米）                  |
+| `durationText`       | string | 总时长（人类可读文本，如 "15 mins"） |
+| `durationSeconds`    | number | 总时长（秒）                  |
+| `startAddress`       | string | 解析后的起始地址                |
+| `endAddress`         | string | 解析后的目的地地址               |
+| `steps`              | array  | 分步导航指令                  |
+| ↳ `instruction`      | string | 导航指令（去除 HTML）           |
+| ↳ `distanceText`     | string | 步骤距离（文本）                |
+| ↳ `distanceMeters`   | number | 步骤距离（米）                 |
+| ↳ `durationText`     | string | 步骤时长（文本）                |
+| ↳ `durationSeconds`  | number | 步骤时长（秒）                 |
+| ↳ `startLocation`    | object | 步骤起点坐标                  |
+| ↳ `endLocation`      | object | 步骤终点坐标                  |
+| ↳ `travelMode`       | string | 此步骤的出行方式                |
+| ↳ `maneuver`         | string | 操作类型（如 turn-left 等）     |
+| `polyline`           | string | 主路线的编码折线                |
+
+google_maps_distance_matrix [#google_maps_distance_matrix]
+
+计算多个起点和终点之间的行驶距离和时间
+
+输入 [#输入-2]
+
+| 参数             | 类型     | 必填 | 说明                                       |
+| -------------- | ------ | -- | ---------------------------------------- |
+| `apiKey`       | string | 是  | Google Maps API key                      |
+| `origin`       | string | 是  | 起点位置（地址或 lat,lng）                        |
+| `destinations` | json   | 是  | 终点位置数组                                   |
+| `mode`         | string | 否  | 出行方式：driving、walking、bicycling 或 transit |
+| `avoid`        | string | 否  | 规避特性：tolls、highways 或 ferries            |
+| `units`        | string | 否  | 单位系统：metric 或 imperial                   |
+| `language`     | string | 否  | 结果语言代码（如 en、es、fr）                       |
+
+输出 [#输出-2]
+
+| 参数                           | 类型     | 说明                                |
+| ---------------------------- | ------ | --------------------------------- |
+| `originAddresses`            | array  | 解析后的起点地址                          |
+| `destinationAddresses`       | array  | 解析后的终点地址                          |
+| `rows`                       | array  | 距离矩阵行（每个起点一行）                     |
+| ↳ `elements`                 | array  | 元素（每个终点一个）                        |
+| ↳ `distanceText`             | string | 距离文本（如 "5.2 km"）                  |
+| ↳ `distanceMeters`           | number | 距离（米）                             |
+| ↳ `durationText`             | string | 时长文本（如 "15 mins"）                 |
+| ↳ `durationSeconds`          | number | 时长（秒）                             |
+| ↳ `durationInTrafficText`    | string | 路况下时长文本                           |
+| ↳ `durationInTrafficSeconds` | number | 路况下时长（秒）                          |
+| ↳ `status`                   | string | 元素状态（OK、NOT\_FOUND、ZERO\_RESULTS） |
+
+google_maps_elevation [#google_maps_elevation]
+
+获取某地的海拔数据
+
+输入 [#输入-3]
+
+| 参数       | 类型     | 必填 | 说明                  |
+| -------- | ------ | -- | ------------------- |
+| `apiKey` | string | 是  | Google Maps API key |
+| `lat`    | number | 是  | 纬度坐标                |
+| `lng`    | number | 是  | 经度坐标                |
+
+输出 [#输出-3]
+
+| 参数           | 类型     | 说明                   |
+| ------------ | ------ | -------------------- |
+| `elevation`  | number | 海拔高度（米），高于海平面为正，低于为负 |
+| `lat`        | number | 采样点的纬度               |
+| `lng`        | number | 采样点的经度               |
+| `resolution` | number | 插值所用数据点之间的最大距离（米）    |
+
+google_maps_geocode [#google_maps_geocode]
+
+将地址转换为地理坐标（纬度和经度）
+
+输入 [#输入-4]
+
+| 参数         | 类型     | 必填 | 说明                     |
+| ---------- | ------ | -- | ---------------------- |
+| `apiKey`   | string | 是  | Google Maps API key    |
+| `address`  | string | 是  | 需要地理编码的地址              |
+| `language` | string | 否  | 结果的语言代码（如 en、es、fr）    |
+| `region`   | string | 否  | 区域偏好 ccTLD 代码（如 us、uk） |
+
+输出 [#输出-4]
+
+| 参数                  | 类型     | 说明                                    |
+| ------------------- | ------ | ------------------------------------- |
+| `formattedAddress`  | string | 格式化后的地址字符串                            |
+| `lat`               | number | 纬度坐标                                  |
+| `lng`               | number | 经度坐标                                  |
+| `location`          | json   | 包含 lat 和 lng 的位置对象                    |
+| `placeId`           | string | 此位置的 Google Place ID                  |
+| `addressComponents` | array  | 详细地址组成部分                              |
+| ↳ `longName`        | string | 组成部分全名                                |
+| ↳ `shortName`       | string | 缩写名称                                  |
+| ↳ `types`           | array  | 组成部分类型                                |
+| `locationType`      | string | 位置精度类型（ROOFTOP、RANGE\_INTERPOLATED 等） |
+
+google_maps_geolocate [#google_maps_geolocate]
+
+使用 WiFi 接入点、蜂窝基站或 IP 地址对设备进行地理定位
+
+输入 [#输入-5]
+
+| 参数                      | 类型      | 必填 | 说明                                                                     |
+| ----------------------- | ------- | -- | ---------------------------------------------------------------------- |
+| `apiKey`                | string  | 是  | 已启用 Geolocation API 的 Google Maps API 密钥                               |
+| `homeMobileCountryCode` | number  | 否  | 本国移动国家码（MCC）                                                           |
+| `homeMobileNetworkCode` | number  | 否  | 本国移动网络码（MNC）                                                           |
+| `radioType`             | string  | 否  | 无线电类型：lte、gsm、cdma、wcdma 或 nr                                          |
+| `carrier`               | string  | 否  | 运营商名称                                                                  |
+| `considerIp`            | boolean | 否  | 是否使用 IP 地址进行地理定位（默认：true）                                              |
+| `cellTowers`            | array   | 否  | 包含 cellId、locationAreaCode、mobileCountryCode、mobileNetworkCode 的基站对象数组 |
+| `wifiAccessPoints`      | array   | 否  | 包含 macAddress（必填）、signalStrength 等信息的 WiFi 接入点对象数组                     |
+
+输出 [#输出-5]
+
+| 参数         | 类型     | 说明      |
+| ---------- | ------ | ------- |
+| `lat`      | number | 纬度坐标    |
+| `lng`      | number | 经度坐标    |
+| `accuracy` | number | 精度半径（米） |
+
+google_maps_place_details [#google_maps_place_details]
+
+获取特定地点的详细信息
+
+输入 [#输入-6]
+
+| 参数         | 类型     | 必填 | 说明                  |
+| ---------- | ------ | -- | ------------------- |
+| `apiKey`   | string | 是  | Google Maps API 密钥  |
+| `placeId`  | string | 是  | Google Place ID     |
+| `fields`   | string | 否  | 以逗号分隔的返回字段列表        |
+| `language` | string | 否  | 结果的语言代码（如 en、es、fr） |
+
+输出 [#输出-6]
+
+| 参数                          | 类型      | 描述                                                        |
+| --------------------------- | ------- | --------------------------------------------------------- |
+| `placeId`                   | string  | Google Place ID                                           |
+| `name`                      | string  | 地点名称                                                      |
+| `formattedAddress`          | string  | 格式化街道地址                                                   |
+| `lat`                       | number  | 纬度坐标                                                      |
+| `lng`                       | number  | 经度坐标                                                      |
+| `types`                     | array   | 地点类型（如 restaurant、cafe）                                   |
+| `rating`                    | number  | 平均评分（1.0 到 5.0）                                           |
+| `userRatingsTotal`          | number  | 用户评分总数                                                    |
+| `priceLevel`                | number  | 价格等级（0=免费，1=便宜，2=适中，3=昂贵，4=非常昂贵）                          |
+| `website`                   | string  | 地点网站 URL                                                  |
+| `phoneNumber`               | string  | 本地格式化电话号码                                                 |
+| `internationalPhoneNumber`  | string  | 国际格式化电话号码                                                 |
+| `openNow`                   | boolean | 该地点当前是否营业                                                 |
+| `weekdayText`               | array   | 按星期格式化的营业时间                                               |
+| `reviews`                   | array   | 用户评论（最多 5 条最相关）                                           |
+| ↳ `authorName`              | string  | 评论者姓名                                                     |
+| ↳ `authorUrl`               | string  | 评论者个人资料 URL                                               |
+| ↳ `profilePhotoUrl`         | string  | 评论者照片 URL                                                 |
+| ↳ `rating`                  | number  | 给出的评分（1-5）                                                |
+| ↳ `text`                    | string  | 评论内容                                                      |
+| ↳ `time`                    | number  | 评论时间戳（Unix epoch）                                         |
+| ↳ `relativeTimeDescription` | string  | 相对时间（如 “1 个月前”）                                           |
+| `photos`                    | array   | 地点照片                                                      |
+| ↳ `photoReference`          | string  | Place Photos API 的照片引用                                    |
+| ↳ `height`                  | number  | 照片高度（像素）                                                  |
+| ↳ `width`                   | number  | 照片宽度（像素）                                                  |
+| ↳ `htmlAttributions`        | array   | 必需的归属信息                                                   |
+| `url`                       | string  | 该地点的 Google Maps URL                                      |
+| `utcOffset`                 | number  | UTC 偏移量（分钟）                                               |
+| `vicinity`                  | string  | 简化地址（社区/街道）                                               |
+| `businessStatus`            | string  | 经营状态（OPERATIONAL、CLOSED\_TEMPORARILY、CLOSED\_PERMANENTLY） |
+
+google_maps_places_search [#google_maps_places_search]
+
+使用文本查询搜索地点
+
+输入 [#输入-7]
+
+| 参数         | 类型     | 必填 | 说明                               |
+| ---------- | ------ | -- | -------------------------------- |
+| `apiKey`   | string | 是  | Google Maps API key              |
+| `query`    | string | 是  | 搜索查询（例如，"Times Square 附近的餐厅"）    |
+| `location` | json   | 否  | 用于结果偏向的地理位置（\{lat, lng}）         |
+| `radius`   | number | 否  | 搜索半径（米）                          |
+| `type`     | string | 否  | 地点类型筛选（例如，restaurant、cafe、hotel） |
+| `language` | string | 否  | 结果的语言代码（例如，en、es、fr）             |
+| `region`   | string | 否  | 区域偏向的 ccTLD 代码（例如，us、uk）         |
+
+输出 [#输出-7]
+
+| 参数                   | 类型      | 说明                  |
+| -------------------- | ------- | ------------------- |
+| `places`             | array   | 找到的地点列表             |
+| ↳ `placeId`          | string  | Google Place ID     |
+| ↳ `name`             | string  | 地点名称                |
+| ↳ `formattedAddress` | string  | 格式化地址               |
+| ↳ `lat`              | number  | 纬度                  |
+| ↳ `lng`              | number  | 经度                  |
+| ↳ `types`            | array   | 地点类型                |
+| ↳ `rating`           | number  | 平均评分（1-5）           |
+| ↳ `userRatingsTotal` | number  | 评分数量                |
+| ↳ `priceLevel`       | number  | 价格等级（0-4）           |
+| ↳ `openNow`          | boolean | 当前是否营业              |
+| ↳ `photoReference`   | string  | 用于 Photos API 的照片引用 |
+| ↳ `businessStatus`   | string  | 营业状态                |
+| `nextPageToken`      | string  | 用于获取下一页结果的令牌        |
+
+google_maps_reverse_geocode [#google_maps_reverse_geocode]
+
+将地理坐标（纬度和经度）转换为可读的地址
+
+输入 [#输入-8]
+
+| 参数         | 类型     | 必填 | 说明                   |
+| ---------- | ------ | -- | -------------------- |
+| `apiKey`   | string | 是  | Google Maps API key  |
+| `lat`      | number | 是  | 纬度坐标                 |
+| `lng`      | number | 是  | 经度坐标                 |
+| `language` | string | 否  | 结果的语言代码（例如 en、es、fr） |
+
+输出 [#输出-8]
+
+| 参数                  | 类型     | 说明                            |
+| ------------------- | ------ | ----------------------------- |
+| `formattedAddress`  | string | 格式化后的地址字符串                    |
+| `placeId`           | string | 此位置的 Google Place ID          |
+| `addressComponents` | array  | 详细地址组成部分                      |
+| ↳ `longName`        | string | 组成部分全名                        |
+| ↳ `shortName`       | string | 缩写名称                          |
+| ↳ `types`           | array  | 组成部分类型                        |
+| `types`             | array  | 地址类型（如 street\_address、route） |
+
+google_maps_snap_to_roads [#google_maps_snap_to_roads]
+
+将 GPS 坐标点匹配到最近的道路段
+
+输入 [#输入-9]
+
+| 参数            | 类型      | 必填 | 说明                                       |                       |
+| ------------- | ------- | -- | ---------------------------------------- | --------------------- |
+| `apiKey`      | string  | 是  | 启用 Roads API 的 Google Maps API key       |                       |
+| `path`        | string  | 是  | 以管道符分隔的纬度、经度坐标列表（例如 "60.170880,24.942795 | 60.170879,24.942796"） |
+| `interpolate` | boolean | 否  | 是否在道路上插值额外点位                             |                       |
+
+输出 [#输出-9]
+
+| 参数                | 类型     | 说明                |
+| ----------------- | ------ | ----------------- |
+| `snappedPoints`   | array  | 匹配到道路上的点数组        |
+| ↳ `location`      | object | 匹配点的坐标            |
+| ↳ `lat`           | number | 纬度                |
+| ↳ `lng`           | number | 经度                |
+| ↳ `originalIndex` | number | 在原始路径中的索引（如果未插值）  |
+| ↳ `placeId`       | string | 此道路段的 Place ID    |
+| `warningMessage`  | string | 警告信息（如有，例如无法匹配点时） |
+
+google_maps_speed_limits [#google_maps_speed_limits]
+
+获取道路路段的限速信息。需要提供路径坐标或 placeId。
+
+输入 [#输入-10]
+
+| 参数         | 类型     | 必填 | 说明                                   |
+| ---------- | ------ | -- | ------------------------------------ |
+| `apiKey`   | string | 是  | 已启用 Roads API 的 Google Maps API 密钥   |
+| `path`     | string | 否  | 以管道符分隔的纬度、经度坐标列表（如果未提供 placeIds，则必填） |
+| `placeIds` | array  | 否  | 道路路段的 Place ID 数组（如果未提供 path，则必填）    |
+
+输出 [#输出-10]
+
+| 参数                | 类型     | 说明              |
+| ----------------- | ------ | --------------- |
+| `speedLimits`     | array  | 道路路段的限速数组       |
+| ↳ `placeId`       | string | 该路段的 Place ID   |
+| ↳ `speedLimit`    | number | 限速值             |
+| ↳ `units`         | string | 限速单位（KPH 或 MPH） |
+| `snappedPoints`   | array  | 与限速对应的捕捉点数组     |
+| ↳ `location`      | object | 捕捉到的位置坐标        |
+| ↳ `lat`           | number | 纬度              |
+| ↳ `lng`           | number | 经度              |
+| ↳ `originalIndex` | number | 在原始路径中的索引       |
+| ↳ `placeId`       | string | 此路段的 Place ID   |
+
+google_maps_timezone [#google_maps_timezone]
+
+获取某地的时区信息
+
+输入 [#输入-11]
+
+| 参数          | 类型     | 必填 | 说明                           |
+| ----------- | ------ | -- | ---------------------------- |
+| `apiKey`    | string | 是  | Google Maps API 密钥           |
+| `lat`       | number | 是  | 纬度坐标                         |
+| `lng`       | number | 是  | 经度坐标                         |
+| `timestamp` | number | 否  | 用于确定夏令时偏移的 Unix 时间戳（默认为当前时间） |
+| `language`  | string | 否  | 时区名称的语言代码（如 en、es、fr）        |
+
+输出 [#输出-11]
+
+| 参数                   | 类型     | 描述                                                 |
+| -------------------- | ------ | -------------------------------------------------- |
+| `timeZoneId`         | string | IANA 时区 ID（例如，"America/New\_York"，"Europe/London"） |
+| `timeZoneName`       | string | 本地化时区名称（例如，"Eastern Daylight Time"）                |
+| `rawOffset`          | number | UTC 偏移秒数（不含夏令时）                                    |
+| `dstOffset`          | number | 夏令时偏移秒数（如果不在夏令时则为 0）                               |
+| `totalOffsetSeconds` | number | 总 UTC 偏移秒数（rawOffset + dstOffset）                  |
+| `totalOffsetHours`   | number | 总 UTC 偏移小时数（例如，EST 为 -5，EDT 为 -4）                  |
+
+google_maps_validate_address [#google_maps_validate_address]
+
+验证并标准化邮政地址
+
+输入 [#输入-12]
+
+| 参数               | 类型      | 必填 | 描述                                             |
+| ---------------- | ------- | -- | ---------------------------------------------- |
+| `apiKey`         | string  | 是  | 启用 Address Validation API 的 Google Maps API 密钥 |
+| `address`        | string  | 是  | 需要验证的地址（作为单个字符串）                               |
+| `regionCode`     | string  | 否  | ISO 3166-1 alpha-2 国家代码（例如，"US"，"CA"）          |
+| `locality`       | string  | 否  | 城市或地区名称                                        |
+| `enableUspsCass` | boolean | 否  | 针对美国地址启用 USPS CASS 验证                          |
+
+输出 [#输出-12]
+
+| 参数                          | 类型      | 描述                                 |
+| --------------------------- | ------- | ---------------------------------- |
+| `formattedAddress`          | string  | 标准化格式地址                            |
+| `lat`                       | number  | 纬度坐标                               |
+| `lng`                       | number  | 经度坐标                               |
+| `placeId`                   | string  | 此地址的 Google Place ID               |
+| `addressComplete`           | boolean | 地址是否完整且可投递                         |
+| `hasUnconfirmedComponents`  | boolean | 是否有部分地址组件无法确认                      |
+| `hasInferredComponents`     | boolean | 是否有部分组件为推断得出（非输入中提供）               |
+| `hasReplacedComponents`     | boolean | 是否有部分组件被替换为规范值                     |
+| `validationGranularity`     | string  | 验证粒度（PREMISE、SUB\_PREMISE、ROUTE 等） |
+| `geocodeGranularity`        | string  | 地理编码结果的粒度                          |
+| `addressComponents`         | array   | 详细地址组件                             |
+| ↳ `longName`                | string  | 组件全名                               |
+| ↳ `shortName`               | string  | 缩写名称                               |
+| ↳ `types`                   | array   | 组件类型                               |
+| `missingComponentTypes`     | array   | 缺失的地址组件类型                          |
+| `unconfirmedComponentTypes` | array   | 无法确认的组件类型                          |
+| `unresolvedTokens`          | array   | 无法解析的输入标记                          |
+4:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$Lb",null,{"content":"$c"}]}],"$Ld"]}],"$Le","$Lf"]}]
+5:["$","$L10",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L11",null,{"type":"google_maps","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L12",null,{"href":"https://maps.google.com","children":"Google Maps"}]," 是一个功能全面的平台，提供丰富的 API，涵盖地图、地理编码、路径规划、地点、环境数据等多种服务。通过 Aptlystar，您的代理可以利用 Google Maps Platform 的核心 API，自动化各种基于位置的工作流程。"]}],"\n",["$","p",null,{"children":["$","strong",null,{"children":"本集成包含以下 Google Maps API："}]}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Geocoding API："}]," 将地址转换为经纬度坐标，并支持逆地理编码。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Directions API："}]," 计算驾车、步行、骑行或公共交通的路线和导航。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Distance Matrix API："}]," 计算多个起点和终点之间的行程距离和时间。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Places API："}]," 按名称、类型或距离搜索地点（如商家、地标、机构等）。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Place Details API："}]," 获取特定地点的详细信息，如地址、评分、营业时间和联系方式。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Elevation API："}]," 获取全球任意地点的海拔高度数据。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Time Zone API："}]," 查询任意地理位置的时区信息。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Air Quality API："}]," 获取指定坐标的实时空气质量数据。"]}],"\n"]}],"\n",["$","p",null,{"children":"借助这些 API，您的 Aptlystar 代理可以自动完成位置查询与数据丰富、规划最优路线与配送、估算时间与距离、分析地点数据、为记录添加地理信息、获取环境状况等，无需手动操作或外部工具。"}],"\n",["$","p",null,{"children":"如果您需要上述未列出的功能，或希望支持更多 Google Maps API，请随时联系我们！"}],"\n","\n",["$","$L13",null,{"as":"h2","id":"使用说明","children":"使用说明"}],"\n",["$","p",null,{"children":"将 Google Maps Platform API 集成到您的工作流程中。支持地址地理编码为坐标、逆地理编码、获取地点间路线、计算距离矩阵、地点搜索、获取地点详情、高程数据和时区信息。"}],"\n",["$","$L13",null,{"as":"h2","id":"工具","children":"工具"}],"\n",["$","$L13",null,{"as":"h3","id":"google_maps_air_quality","children":["$","code",null,{"children":"google_maps_air_quality"}]}],"\n",["$","p",null,{"children":"获取某地的当前空气质量数据"}],"\n",["$","$L13",null,{"as":"h4","id":"输入","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"启用 Air Quality API 的 Google Maps API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"languageCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"响应的语言代码（如 \"en\"、\"es\"）"}]]}]]}]]}]}],"\n",["$","$L13",null,{"as":"h4","id":"输出","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dateTime"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"空气质量数据的时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"regionCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"该位置的区域代码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"indexes"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"空气质量指数数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"code"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"指数代码（如 \"uaqi\"、\"usa_epa\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"指数显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"aqi"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"空气质量指数值"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"aqiDisplay"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"格式化 AQI 显示字符串"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"color"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"AQI 等级的 RGB 颜色"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ","$L14"]}],"$L15","$L16"]}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]]}]}],"\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68"]}]}]
+6:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+7:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+8:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+9:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+a:["$","$L69",null,{"children":["$","$6a",null,{"name":"Next.MetadataOutlet","children":"$@6b"}]}]
+d:["$","$L6c",null,{}]
+e:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 92.3 132.3","children":[["$","path",null,{"fill":"#1a73e8","d":"M60.2 2.2C55.8.8 51 0 46.1 0 32 0 19.3 6.4 10.8 16.5l21.8 18.3L60.2 2.2z"}],["$","path",null,{"fill":"#ea4335","d":"M10.8 16.5C4.1 24.5 0 34.9 0 46.1c0 8.7 1.7 15.7 4.6 22l28-33.3-21.8-18.3z"}],["$","path",null,{"fill":"#4285f4","d":"M46.2 28.5c9.8 0 17.7 7.9 17.7 17.7 0 4.3-1.6 8.3-4.2 11.4 0 0 13.9-16.6 27.5-32.7-5.6-10.8-15.3-19-27-22.7L32.6 34.8c3.3-3.8 8.1-6.3 13.6-6.3"}],["$","path",null,{"fill":"#fbbc04","d":"M46.2 63.8c-9.8 0-17.7-7.9-17.7-17.7 0-4.3 1.5-8.3 4.1-11.3l-28 33.3c4.8 10.6 12.8 19.2 21 29.9l34.1-40.5c-3.3 3.9-8.1 6.3-13.5 6.3"}],["$","path",null,{"fill":"#34a853","d":"M59.1 109.2c15.4-24.1 33.3-35 33.3-63 0-7.7-1.9-14.9-5.2-21.3L25.6 98c2.6 3.4 5.3 7.3 7.9 11.3 9.4 14.5 6.8 23.1 12.8 23.1s3.4-8.7 12.8-23.2"}]]}]}],["$","$L6d",null,{"className":"mb-0 min-w-0 flex-1","children":"Google Maps"}]]}]
+f:["$","$L6e",null,{"children":"地理编码、路线规划、地点查询和距离计算"}]
+14:["$","code",null,{"children":"category"}]
+15:["$","td",null,{"children":"string"}]
+16:["$","td",null,{"children":"类别描述（如 \"Good\"、\"Moderate\"）"}]
+17:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dominantPollutant"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主要污染物"}]]}]
+18:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pollutants"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"污染物浓度数组"}]]}]
+19:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"code"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"污染物代码（如 \"pm25\"、\"o3\"）"}]]}]
+1a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"显示名称"}]]}]
+1b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fullName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"污染物全名"}]]}]
+1c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"concentration"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"浓度信息"}]]}]
+1d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"value"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"浓度值"}]]}]
+1e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"units"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"单位（如 \"PARTS_PER_BILLION\"）"}]]}]
+1f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"additionalInfo"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"关于来源和影响的附加信息"}]]}]
+20:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"healthRecommendations"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"针对不同人群的健康建议"}]]}]
+21:["$","$L13",null,{"as":"h3","id":"google_maps_directions","children":["$","code",null,{"children":"google_maps_directions"}]}]
+22:["$","p",null,{"children":"获取两个地点之间的路线和导航信息"}]
+23:["$","$L13",null,{"as":"h4","id":"输入-1","children":"输入"}]
+24:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"origin"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"起始位置（地址或经纬度）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destination"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"目的地位置（地址或经纬度）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"出行方式：driving、walking、bicycling 或 transit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avoid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"规避选项：tolls、highways 或 ferries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"waypoints"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"中间途经点数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"units"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"单位系统：metric 或 imperial"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结果语言代码（如 en、es、fr）"}]]}]]}]]}]}]
+25:["$","$L13",null,{"as":"h4","id":"输出-1","children":"输出"}]
+26:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"routes"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"所有可用路线"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"summary"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"路线摘要（主要道路名称）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"legs"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"路线分段（途经点之间的区段）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"overviewPolyline"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"整条路线的编码折线"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"warnings"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"路线警告信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"waypointOrder"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"优化后的途经点顺序（如有请求）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"distanceText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"总距离（人类可读文本，如 \"5.2 km\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"distanceMeters"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总距离（米）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"durationText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"总时长（人类可读文本，如 \"15 mins\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"durationSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总时长（秒）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAddress"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"解析后的起始地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endAddress"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"解析后的目的地地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"steps"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"分步导航指令"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"instruction"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"导航指令（去除 HTML）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"distanceText"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"步骤距离（文本）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"distanceMeters"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"步骤距离（米）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"durationText"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"步骤时长（文本）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"durationSeconds"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"步骤时长（秒）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startLocation"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"步骤起点坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endLocation"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"步骤终点坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"travelMode"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"此步骤的出行方式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"maneuver"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"操作类型（如 turn-left 等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"polyline"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主路线的编码折线"}]]}]]}]]}]}]
+27:["$","$L13",null,{"as":"h3","id":"google_maps_distance_matrix","children":["$","code",null,{"children":"google_maps_distance_matrix"}]}]
+28:["$","p",null,{"children":"计算多个起点和终点之间的行驶距离和时间"}]
+29:["$","$L13",null,{"as":"h4","id":"输入-2","children":"输入"}]
+2a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"origin"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"起点位置（地址或 lat,lng）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destinations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"终点位置数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"出行方式：driving、walking、bicycling 或 transit"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avoid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"规避特性：tolls、highways 或 ferries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"units"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"单位系统：metric 或 imperial"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结果语言代码（如 en、es、fr）"}]]}]]}]]}]}]
+2b:["$","$L13",null,{"as":"h4","id":"输出-2","children":"输出"}]
+2c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"originAddresses"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"解析后的起点地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destinationAddresses"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"解析后的终点地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"距离矩阵行（每个起点一行）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"elements"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"元素（每个终点一个）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"distanceText"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"距离文本（如 \"5.2 km\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"distanceMeters"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"距离（米）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"durationText"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时长文本（如 \"15 mins\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"durationSeconds"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时长（秒）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"durationInTrafficText"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"路况下时长文本"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"durationInTrafficSeconds"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"路况下时长（秒）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"元素状态（OK、NOT_FOUND、ZERO_RESULTS）"}]]}]]}]]}]}]
+2d:["$","$L13",null,{"as":"h3","id":"google_maps_elevation","children":["$","code",null,{"children":"google_maps_elevation"}]}]
+2e:["$","p",null,{"children":"获取某地的海拔数据"}]
+2f:["$","$L13",null,{"as":"h4","id":"输入-3","children":"输入"}]
+30:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"经度坐标"}]]}]]}]]}]}]
+31:["$","$L13",null,{"as":"h4","id":"输出-3","children":"输出"}]
+32:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"elevation"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"海拔高度（米），高于海平面为正，低于为负"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"采样点的纬度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"采样点的经度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"resolution"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"插值所用数据点之间的最大距离（米）"}]]}]]}]]}]}]
+33:["$","$L13",null,{"as":"h3","id":"google_maps_geocode","children":["$","code",null,{"children":"google_maps_geocode"}]}]
+34:["$","p",null,{"children":"将地址转换为地理坐标（纬度和经度）"}]
+35:["$","$L13",null,{"as":"h4","id":"输入-4","children":"输入"}]
+36:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"address"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"需要地理编码的地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结果的语言代码（如 en、es、fr）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"region"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"区域偏好 ccTLD 代码（如 us、uk）"}]]}]]}]]}]}]
+37:["$","$L13",null,{"as":"h4","id":"输出-4","children":"输出"}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"formattedAddress"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"格式化后的地址字符串"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"location"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"包含 lat 和 lng 的位置对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"此位置的 Google Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"addressComponents"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"详细地址组成部分"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"longName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"组成部分全名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shortName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"缩写名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"types"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"组成部分类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"位置精度类型（ROOFTOP、RANGE_INTERPOLATED 等）"}]]}]]}]]}]}]
+39:["$","$L13",null,{"as":"h3","id":"google_maps_geolocate","children":["$","code",null,{"children":"google_maps_geolocate"}]}]
+3a:["$","p",null,{"children":"使用 WiFi 接入点、蜂窝基站或 IP 地址对设备进行地理定位"}]
+3b:["$","$L13",null,{"as":"h4","id":"输入-5","children":"输入"}]
+3c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"已启用 Geolocation API 的 Google Maps API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"homeMobileCountryCode"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"本国移动国家码（MCC）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"homeMobileNetworkCode"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"本国移动网络码（MNC）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"radioType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"无线电类型：lte、gsm、cdma、wcdma 或 nr"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"carrier"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"运营商名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"considerIp"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否使用 IP 地址进行地理定位（默认：true）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cellTowers"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"包含 cellId、locationAreaCode、mobileCountryCode、mobileNetworkCode 的基站对象数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"wifiAccessPoints"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"包含 macAddress（必填）、signalStrength 等信息的 WiFi 接入点对象数组"}]]}]]}]]}]}]
+3d:["$","$L13",null,{"as":"h4","id":"输出-5","children":"输出"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accuracy"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"精度半径（米）"}]]}]]}]]}]}]
+3f:["$","$L13",null,{"as":"h3","id":"google_maps_place_details","children":["$","code",null,{"children":"google_maps_place_details"}]}]
+40:["$","p",null,{"children":"获取特定地点的详细信息"}]
+41:["$","$L13",null,{"as":"h4","id":"输入-6","children":"输入"}]
+42:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"以逗号分隔的返回字段列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结果的语言代码（如 en、es、fr）"}]]}]]}]]}]}]
+43:["$","$L13",null,{"as":"h4","id":"输出-6","children":"输出"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"formattedAddress"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"格式化街道地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"types"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"地点类型（如 restaurant、cafe）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rating"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"平均评分（1.0 到 5.0）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userRatingsTotal"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"用户评分总数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priceLevel"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"价格等级（0=免费，1=便宜，2=适中，3=昂贵，4=非常昂贵）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点网站 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phoneNumber"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"本地格式化电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"internationalPhoneNumber"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"国际格式化电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"openNow"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"该地点当前是否营业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"weekdayText"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"按星期格式化的营业时间"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reviews"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"用户评论（最多 5 条最相关）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"authorName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"authorUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论者个人资料 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profilePhotoUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论者照片 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rating"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"给出的评分（1-5）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"text"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"time"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"评论时间戳（Unix epoch）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"relativeTimeDescription"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"相对时间（如 “1 个月前”）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"photos"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"地点照片"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"photoReference"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Place Photos API 的照片引用"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"height"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"照片高度（像素）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"width"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"照片宽度（像素）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"htmlAttributions"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"必需的归属信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"该地点的 Google Maps URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"utcOffset"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"UTC 偏移量（分钟）"}]]}],"$L6f","$L70"]}]]}]}]
+45:["$","$L13",null,{"as":"h3","id":"google_maps_places_search","children":["$","code",null,{"children":"google_maps_places_search"}]}]
+46:["$","p",null,{"children":"使用文本查询搜索地点"}]
+47:["$","$L13",null,{"as":"h4","id":"输入-7","children":"输入"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"搜索查询（例如，\"Times Square 附近的餐厅\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"location"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用于结果偏向的地理位置（{lat, lng}）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"radius"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"搜索半径（米）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"地点类型筛选（例如，restaurant、cafe、hotel）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结果的语言代码（例如，en、es、fr）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"region"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"区域偏向的 ccTLD 代码（例如，us、uk）"}]]}]]}]]}]}]
+49:["$","$L13",null,{"as":"h4","id":"输出-7","children":"输出"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"places"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"找到的地点列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"placeId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"formattedAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"格式化地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lat"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lng"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"types"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"地点类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rating"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"平均评分（1-5）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"userRatingsTotal"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"评分数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"priceLevel"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"价格等级（0-4）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"openNow"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"当前是否营业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"photoReference"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于 Photos API 的照片引用"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"businessStatus"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"营业状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextPageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于获取下一页结果的令牌"}]]}]]}]]}]}]
+4b:["$","$L13",null,{"as":"h3","id":"google_maps_reverse_geocode","children":["$","code",null,{"children":"google_maps_reverse_geocode"}]}]
+4c:["$","p",null,{"children":"将地理坐标（纬度和经度）转换为可读的地址"}]
+4d:["$","$L13",null,{"as":"h4","id":"输入-8","children":"输入"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结果的语言代码（例如 en、es、fr）"}]]}]]}]]}]}]
+4f:["$","$L13",null,{"as":"h4","id":"输出-8","children":"输出"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"formattedAddress"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"格式化后的地址字符串"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"此位置的 Google Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"addressComponents"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"详细地址组成部分"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"longName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"组成部分全名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shortName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"缩写名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"types"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"组成部分类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"types"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"地址类型（如 street_address、route）"}]]}]]}]]}]}]
+51:["$","$L13",null,{"as":"h3","id":"google_maps_snap_to_roads","children":["$","code",null,{"children":"google_maps_snap_to_roads"}]}]
+52:["$","p",null,{"children":"将 GPS 坐标点匹配到最近的道路段"}]
+53:["$","$L13",null,{"as":"h4","id":"输入-9","children":"输入"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"启用 Roads API 的 Google Maps API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"以管道符分隔的纬度、经度坐标列表（例如 \"60.170880,24.942795"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"interpolate"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否在道路上插值额外点位"}]]}]]}]]}]}]
+55:["$","$L13",null,{"as":"h4","id":"输出-9","children":"输出"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snappedPoints"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"匹配到道路上的点数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"匹配点的坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lat"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lng"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalIndex"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"在原始路径中的索引（如果未插值）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"placeId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"此道路段的 Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"warningMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"警告信息（如有，例如无法匹配点时）"}]]}]]}]]}]}]
+57:["$","$L13",null,{"as":"h3","id":"google_maps_speed_limits","children":["$","code",null,{"children":"google_maps_speed_limits"}]}]
+58:["$","p",null,{"children":"获取道路路段的限速信息。需要提供路径坐标或 placeId。"}]
+59:["$","$L13",null,{"as":"h4","id":"输入-10","children":"输入"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"已启用 Roads API 的 Google Maps API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"以管道符分隔的纬度、经度坐标列表（如果未提供 placeIds，则必填）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"道路路段的 Place ID 数组（如果未提供 path，则必填）"}]]}]]}]]}]}]
+5b:["$","$L13",null,{"as":"h4","id":"输出-10","children":"输出"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"speedLimits"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"道路路段的限速数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"placeId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"该路段的 Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"speedLimit"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"限速值"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"units"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"限速单位（KPH 或 MPH）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snappedPoints"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"与限速对应的捕捉点数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"捕捉到的位置坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lat"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lng"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalIndex"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"在原始路径中的索引"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"placeId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"此路段的 Place ID"}]]}]]}]]}]}]
+5d:["$","$L13",null,{"as":"h3","id":"google_maps_timezone","children":["$","code",null,{"children":"google_maps_timezone"}]}]
+5e:["$","p",null,{"children":"获取某地的时区信息"}]
+5f:["$","$L13",null,{"as":"h4","id":"输入-11","children":"输入"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Google Maps API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用于确定夏令时偏移的 Unix 时间戳（默认为当前时间）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"时区名称的语言代码（如 en、es、fr）"}]]}]]}]]}]}]
+61:["$","$L13",null,{"as":"h4","id":"输出-11","children":"输出"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeZoneId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"IANA 时区 ID（例如，\"America/New_York\"，\"Europe/London\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeZoneName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"本地化时区名称（例如，\"Eastern Daylight Time\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rawOffset"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"UTC 偏移秒数（不含夏令时）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dstOffset"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"夏令时偏移秒数（如果不在夏令时则为 0）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalOffsetSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总 UTC 偏移秒数（rawOffset + dstOffset）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalOffsetHours"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总 UTC 偏移小时数（例如，EST 为 -5，EDT 为 -4）"}]]}]]}]]}]}]
+63:["$","$L13",null,{"as":"h3","id":"google_maps_validate_address","children":["$","code",null,{"children":"google_maps_validate_address"}]}]
+64:["$","p",null,{"children":"验证并标准化邮政地址"}]
+65:["$","$L13",null,{"as":"h4","id":"输入-12","children":"输入"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"启用 Address Validation API 的 Google Maps API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"address"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"需要验证的地址（作为单个字符串）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"regionCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"ISO 3166-1 alpha-2 国家代码（例如，\"US\"，\"CA\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locality"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"城市或地区名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"enableUspsCass"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"针对美国地址启用 USPS CASS 验证"}]]}]]}]]}]}]
+67:["$","$L13",null,{"as":"h4","id":"输出-12","children":"输出"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"formattedAddress"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标准化格式地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lat"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"纬度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lng"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"经度坐标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"此地址的 Google Place ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"addressComplete"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"地址是否完整且可投递"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasUnconfirmedComponents"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否有部分地址组件无法确认"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasInferredComponents"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否有部分组件为推断得出（非输入中提供）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasReplacedComponents"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否有部分组件被替换为规范值"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"validationGranularity"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"验证粒度（PREMISE、SUB_PREMISE、ROUTE 等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"geocodeGranularity"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地理编码结果的粒度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"addressComponents"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"详细地址组件"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"longName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"组件全名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shortName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"缩写名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"types"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"组件类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"missingComponentTypes"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"缺失的地址组件类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unconfirmedComponentTypes"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"无法确认的组件类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unresolvedTokens"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"无法解析的输入标记"}]]}]]}]]}]}]
+6b:null
+6f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"vicinity"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"简化地址（社区/街道）"}]]}]
+70:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"businessStatus"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"经营状态（OPERATIONAL、CLOSED_TEMPORARILY、CLOSED_PERMANENTLY）"}]]}]

@@ -1,0 +1,942 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+34:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+35:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+3a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+3b:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+3c:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+3d:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+d2:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+d3:"$Sreact.suspense"
+d5:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+d9:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+dd:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Grafana\",\"description\":\"Interact with Grafana dashboards, alerts, and annotations\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/grafana\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/grafana\"},\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/grafana\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Grafana\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/grafana\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#usage-instructions","title":"Usage Instructions"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#grafana_get_dashboard","title":["$","code",null,{"children":"grafana_get_dashboard"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#grafana_list_dashboards","title":["$","code",null,{"children":"grafana_list_dashboards"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#grafana_create_dashboard","title":["$","code",null,{"children":"grafana_create_dashboard"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#grafana_update_dashboard","title":["$","code",null,{"children":"grafana_update_dashboard"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#grafana_delete_dashboard","title":["$","code",null,{"children":"grafana_delete_dashboard"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#grafana_list_alert_rules","title":["$","code",null,{"children":"grafana_list_alert_rules"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#grafana_get_alert_rule","title":["$","code",null,{"children":"grafana_get_alert_rule"}]},{"depth":4,"url":"#input-6","title":"Input"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#grafana_create_alert_rule","title":["$","code",null,{"children":"grafana_create_alert_rule"}]},{"depth":4,"url":"#input-7","title":"Input"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#grafana_update_alert_rule","title":["$","code",null,{"children":"grafana_update_alert_rule"}]},{"depth":4,"url":"#input-8","title":"Input"},{"depth":4,"url":"#output-8","title":"Output"},{"depth":3,"url":"#grafana_delete_alert_rule","title":["$","code",null,{"children":"grafana_delete_alert_rule"}]},{"depth":4,"url":"#input-9","title":"Input"},{"depth":4,"url":"#output-9","title":"Output"},{"depth":3,"url":"#grafana_list_contact_points","title":["$","code",null,{"children":"grafana_list_contact_points"}]},{"depth":4,"url":"#input-10","title":"Input"},{"depth":4,"url":"#output-10","title":"Output"},{"depth":3,"url":"#grafana_create_contact_point","title":["$","code",null,{"children":"grafana_create_contact_point"}]},{"depth":4,"url":"#input-11","title":"$L3"},{"depth":4,"url":"#output-11","title":"$L4"},{"depth":3,"url":"#grafana_create_annotation","title":"$L5"},{"depth":4,"url":"#input-12","title":"$L6"},{"depth":4,"url":"#output-12","title":"$L7"},{"depth":3,"url":"#grafana_list_annotations","title":"$L8"},{"depth":4,"url":"#input-13","title":"$L9"},{"depth":4,"url":"#output-13","title":"$La"},{"depth":3,"url":"#grafana_update_annotation","title":"$Lb"},{"depth":4,"url":"#input-14","title":"$Lc"},{"depth":4,"url":"#output-14","title":"$Ld"},{"depth":3,"url":"#grafana_delete_annotation","title":"$Le"},{"depth":4,"url":"#input-15","title":"$Lf"},{"depth":4,"url":"#output-15","title":"$L10"},{"depth":3,"url":"#grafana_list_data_sources","title":"$L11"},{"depth":4,"url":"#input-16","title":"$L12"},{"depth":4,"url":"#output-16","title":"$L13"},{"depth":3,"url":"#grafana_get_data_source","title":"$L14"},{"depth":4,"url":"#input-17","title":"$L15"},{"depth":4,"url":"#output-17","title":"$L16"},{"depth":3,"url":"#grafana_check_data_source_health","title":"$L17"},{"depth":4,"url":"#input-18","title":"$L18"},{"depth":4,"url":"#output-18","title":"$L19"},{"depth":3,"url":"#grafana_list_folders","title":"$L1a"},{"depth":4,"url":"#input-19","title":"$L1b"},{"depth":4,"url":"#output-19","title":"$L1c"},{"depth":3,"url":"#grafana_create_folder","title":"$L1d"},{"depth":4,"url":"#input-20","title":"$L1e"},{"depth":4,"url":"#output-20","title":"$L1f"},{"depth":3,"url":"#grafana_get_folder","title":"$L20"},{"depth":4,"url":"#input-21","title":"$L21"},{"depth":4,"url":"#output-21","title":"$L22"},{"depth":3,"url":"#grafana_update_folder","title":"$L23"},{"depth":4,"url":"#input-22","title":"$L24"},{"depth":4,"url":"#output-22","title":"$L25"},{"depth":3,"url":"#grafana_delete_folder","title":"$L26"},{"depth":4,"url":"#input-23","title":"$L27"},{"depth":4,"url":"#output-23","title":"$L28"},{"depth":3,"url":"#grafana_get_health","title":"$L29"},{"depth":4,"url":"#input-24","title":"$L2a"},{"depth":4,"url":"#output-24","title":"$L2b"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L2c"},"children":["$L2d","$L2e"]}]],["$L2f","$L30","$L31","$L32"],"$L33"]}],"loading":null,"isPartial":false}
+3:"Input"
+4:"Output"
+5:["$","code",null,{"children":"grafana_create_annotation"}]
+6:"Input"
+7:"Output"
+8:["$","code",null,{"children":"grafana_list_annotations"}]
+9:"Input"
+a:"Output"
+b:["$","code",null,{"children":"grafana_update_annotation"}]
+c:"Input"
+d:"Output"
+e:["$","code",null,{"children":"grafana_delete_annotation"}]
+f:"Input"
+10:"Output"
+11:["$","code",null,{"children":"grafana_list_data_sources"}]
+12:"Input"
+13:"Output"
+14:["$","code",null,{"children":"grafana_get_data_source"}]
+15:"Input"
+16:"Output"
+17:["$","code",null,{"children":"grafana_check_data_source_health"}]
+18:"Input"
+19:"Output"
+1a:["$","code",null,{"children":"grafana_list_folders"}]
+1b:"Input"
+1c:"Output"
+1d:["$","code",null,{"children":"grafana_create_folder"}]
+1e:"Input"
+1f:"Output"
+20:["$","code",null,{"children":"grafana_get_folder"}]
+21:"Input"
+22:"Output"
+23:["$","code",null,{"children":"grafana_update_folder"}]
+24:"Input"
+25:"Output"
+26:["$","code",null,{"children":"grafana_delete_folder"}]
+27:"Input"
+28:"Output"
+29:["$","code",null,{"children":"grafana_get_health"}]
+2a:"Input"
+2b:"Output"
+2c:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L34",null,{"href":"/en/tools/gong","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Gong"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L34",null,{"href":"/en/tools/grain","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Grain",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+36:Tc5b2,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="grafana" color="#F46800" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Grafana](https://grafana.com/) is a leading platform for monitoring, observability, and visualization. It allows users to query, visualize, alert on, and analyze data from a variety of sources, making it an essential tool for infrastructure and application monitoring.
+
+With Grafana, you can:
+
+* **Visualize data**: Build and customize dashboards to display metrics, logs, and traces in real time
+* **Monitor health and status**: Check the health of your Grafana instance and connected data sources
+* **Manage alerts and annotations**: Set up alert rules, manage notifications, and annotate dashboards with important events
+* **Organize content**: Organize dashboards and data sources into folders for better access management
+
+In Aptlystar, the Grafana integration empowers your agents to interact directly with your Grafana instance via API, enabling actions such as:
+
+* Checking the Grafana server, database, and data source health status
+* Retrieving, listing, and managing dashboards, alert rules, annotations, data sources, and folders
+* Automating the monitoring of your infrastructure by integrating Grafana data and alerts into your workflow automations
+
+These capabilities enable Aptlystar agents to monitor systems, proactively respond to alerts, and help ensure the reliability and visibility of your services — all as part of your automated workflows.
+
+{/* MANUAL-CONTENT-END */}
+
+Usage Instructions [#usage-instructions]
+
+Integrate Grafana into workflows. Manage dashboards, alerts, annotations, data sources, folders, and monitor health status.
+
+Tools [#tools]
+
+grafana_get_dashboard [#grafana_get_dashboard]
+
+Get a dashboard by its UID
+
+Input [#input]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `dashboardUid`   | string | Yes      | The UID of the dashboard to retrieve (e.g., abc123def)                                |
+
+Output [#output]
+
+| Parameter   | Type | Description                                     |
+| ----------- | ---- | ----------------------------------------------- |
+| `dashboard` | json | The full dashboard JSON object                  |
+| `meta`      | json | Dashboard metadata (version, permissions, etc.) |
+
+grafana_list_dashboards [#grafana_list_dashboards]
+
+Search and list all dashboards
+
+Input [#input-1]
+
+| Parameter        | Type    | Required | Description                                                                           |
+| ---------------- | ------- | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string  | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string  | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string  | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `query`          | string  | No       | Search query to filter dashboards by title                                            |
+| `tag`            | string  | No       | Filter by tag (comma-separated for multiple tags)                                     |
+| `folderIds`      | string  | No       | Filter by folder IDs (comma-separated, e.g., 1,2,3)                                   |
+| `starred`        | boolean | No       | Only return starred dashboards                                                        |
+| `limit`          | number  | No       | Maximum number of dashboards to return                                                |
+
+Output [#output-1]
+
+| Parameter       | Type   | Description                      |
+| --------------- | ------ | -------------------------------- |
+| `dashboards`    | array  | List of dashboard search results |
+| ↳ `id`          | number | Dashboard ID                     |
+| ↳ `uid`         | string | Dashboard UID                    |
+| ↳ `title`       | string | Dashboard title                  |
+| ↳ `url`         | string | Dashboard URL path               |
+| ↳ `tags`        | array  | Dashboard tags                   |
+| ↳ `folderTitle` | string | Parent folder title              |
+
+grafana_create_dashboard [#grafana_create_dashboard]
+
+Create a new dashboard
+
+Input [#input-2]
+
+| Parameter        | Type    | Required | Description                                                                           |
+| ---------------- | ------- | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string  | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string  | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string  | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `title`          | string  | Yes      | The title of the new dashboard                                                        |
+| `folderUid`      | string  | No       | The UID of the folder to create the dashboard in (e.g., folder-abc123)                |
+| `tags`           | string  | No       | Comma-separated list of tags                                                          |
+| `timezone`       | string  | No       | Dashboard timezone (e.g., browser, utc)                                               |
+| `refresh`        | string  | No       | Auto-refresh interval (e.g., 5s, 1m, 5m)                                              |
+| `panels`         | string  | No       | JSON array of panel configurations                                                    |
+| `overwrite`      | boolean | No       | Overwrite existing dashboard with same title                                          |
+| `message`        | string  | No       | Commit message for the dashboard version                                              |
+
+Output [#output-2]
+
+| Parameter | Type   | Description                             |
+| --------- | ------ | --------------------------------------- |
+| `id`      | number | The numeric ID of the created dashboard |
+| `uid`     | string | The UID of the created dashboard        |
+| `url`     | string | The URL path to the dashboard           |
+| `status`  | string | Status of the operation (success)       |
+| `version` | number | The version number of the dashboard     |
+| `slug`    | string | URL-friendly slug of the dashboard      |
+
+grafana_update_dashboard [#grafana_update_dashboard]
+
+Update an existing dashboard. Fetches the current dashboard and merges your changes.
+
+Input [#input-3]
+
+| Parameter        | Type    | Required | Description                                                                                |
+| ---------------- | ------- | -------- | ------------------------------------------------------------------------------------------ |
+| `apiKey`         | string  | Yes      | Grafana Service Account Token                                                              |
+| `baseUrl`        | string  | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\))      |
+| `organizationId` | string  | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                               |
+| `dashboardUid`   | string  | Yes      | The UID of the dashboard to update (e.g., abc123def)                                       |
+| `title`          | string  | No       | New title for the dashboard                                                                |
+| `folderUid`      | string  | No       | New folder UID to move the dashboard to (e.g., folder-abc123)                              |
+| `tags`           | string  | No       | Comma-separated list of new tags                                                           |
+| `timezone`       | string  | No       | Dashboard timezone (e.g., browser, utc)                                                    |
+| `refresh`        | string  | No       | Auto-refresh interval (e.g., 5s, 1m, 5m)                                                   |
+| `panels`         | string  | No       | JSON array of panel configurations                                                         |
+| `overwrite`      | boolean | No       | Overwrite even if there is a version conflict (defaults to false to surface 412 conflicts) |
+| `message`        | string  | No       | Commit message for this version                                                            |
+
+Output [#output-3]
+
+| Parameter | Type   | Description                             |
+| --------- | ------ | --------------------------------------- |
+| `id`      | number | The numeric ID of the updated dashboard |
+| `uid`     | string | The UID of the updated dashboard        |
+| `url`     | string | The URL path to the dashboard           |
+| `status`  | string | Status of the operation (success)       |
+| `version` | number | The new version number of the dashboard |
+| `slug`    | string | URL-friendly slug of the dashboard      |
+
+grafana_delete_dashboard [#grafana_delete_dashboard]
+
+Delete a dashboard by its UID
+
+Input [#input-4]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `dashboardUid`   | string | Yes      | The UID of the dashboard to delete (e.g., abc123def)                                  |
+
+Output [#output-4]
+
+| Parameter | Type   | Description                        |
+| --------- | ------ | ---------------------------------- |
+| `title`   | string | The title of the deleted dashboard |
+| `message` | string | Confirmation message               |
+| `id`      | number | The ID of the deleted dashboard    |
+
+grafana_list_alert_rules [#grafana_list_alert_rules]
+
+List all alert rules in the Grafana instance
+
+Input [#input-5]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+
+Output [#output-5]
+
+| Parameter        | Type   | Description                    |
+| ---------------- | ------ | ------------------------------ |
+| `rules`          | array  | List of alert rules            |
+| ↳ `uid`          | string | Alert rule UID                 |
+| ↳ `title`        | string | Alert rule title               |
+| ↳ `condition`    | string | Alert condition                |
+| ↳ `folderUID`    | string | Parent folder UID              |
+| ↳ `ruleGroup`    | string | Rule group name                |
+| ↳ `noDataState`  | string | State when no data is returned |
+| ↳ `execErrState` | string | State on execution error       |
+
+grafana_get_alert_rule [#grafana_get_alert_rule]
+
+Get a specific alert rule by its UID
+
+Input [#input-6]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `alertRuleUid`   | string | Yes      | The UID of the alert rule to retrieve                                                 |
+
+Output [#output-6]
+
+| Parameter      | Type   | Description                    |
+| -------------- | ------ | ------------------------------ |
+| `uid`          | string | Alert rule UID                 |
+| `title`        | string | Alert rule title               |
+| `condition`    | string | Alert condition                |
+| `data`         | json   | Alert rule query data          |
+| `folderUID`    | string | Parent folder UID              |
+| `ruleGroup`    | string | Rule group name                |
+| `noDataState`  | string | State when no data is returned |
+| `execErrState` | string | State on execution error       |
+| `annotations`  | json   | Alert annotations              |
+| `labels`       | json   | Alert labels                   |
+
+grafana_create_alert_rule [#grafana_create_alert_rule]
+
+Create a new alert rule
+
+Input [#input-7]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `title`          | string | Yes      | The title of the alert rule                                                           |
+| `folderUid`      | string | Yes      | The UID of the folder to create the alert in (e.g., folder-abc123)                    |
+| `ruleGroup`      | string | Yes      | The name of the rule group                                                            |
+| `condition`      | string | Yes      | The refId of the query or expression to use as the alert condition                    |
+| `data`           | string | Yes      | JSON array of query/expression data objects                                           |
+| `forDuration`    | string | No       | Duration to wait before firing (e.g., 5m, 1h)                                         |
+| `noDataState`    | string | No       | State when no data is returned (NoData, Alerting, OK)                                 |
+| `execErrState`   | string | No       | State on execution error (Alerting, OK)                                               |
+| `annotations`    | string | No       | JSON object of annotations                                                            |
+| `labels`         | string | No       | JSON object of labels                                                                 |
+
+Output [#output-7]
+
+| Parameter   | Type   | Description                       |
+| ----------- | ------ | --------------------------------- |
+| `uid`       | string | The UID of the created alert rule |
+| `title`     | string | Alert rule title                  |
+| `folderUID` | string | Parent folder UID                 |
+| `ruleGroup` | string | Rule group name                   |
+
+grafana_update_alert_rule [#grafana_update_alert_rule]
+
+Update an existing alert rule. Fetches the current rule and merges your changes.
+
+Input [#input-8]
+
+| Parameter                     | Type    | Required | Description                                                                           |
+| ----------------------------- | ------- | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`                      | string  | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`                     | string  | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId`              | string  | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `alertRuleUid`                | string  | Yes      | The UID of the alert rule to update                                                   |
+| `title`                       | string  | No       | New title for the alert rule                                                          |
+| `folderUid`                   | string  | No       | New folder UID to move the alert to (e.g., folder-abc123)                             |
+| `ruleGroup`                   | string  | No       | New rule group name                                                                   |
+| `condition`                   | string  | No       | New condition refId                                                                   |
+| `data`                        | string  | No       | New JSON array of query/expression data objects                                       |
+| `forDuration`                 | string  | No       | Duration to wait before firing (e.g., 5m, 1h)                                         |
+| `noDataState`                 | string  | No       | State when no data is returned (NoData, Alerting, OK)                                 |
+| `execErrState`                | string  | No       | State on execution error (Error, Alerting, OK)                                        |
+| `annotations`                 | string  | No       | JSON object of annotations                                                            |
+| `labels`                      | string  | No       | JSON object of labels                                                                 |
+| `isPaused`                    | boolean | No       | Whether the rule is paused                                                            |
+| `keepFiringFor`               | string  | No       | Duration to keep firing after the condition stops (e.g., 5m)                          |
+| `missingSeriesEvalsToResolve` | number  | No       | Number of missing series evaluations before resolving                                 |
+| `notificationSettings`        | string  | No       | JSON object of per-rule notification settings (overrides)                             |
+| `record`                      | string  | No       | JSON object configuring this as a recording rule                                      |
+| `disableProvenance`           | boolean | No       | Set X-Disable-Provenance header so the rule remains editable in the Grafana UI        |
+
+Output [#output-8]
+
+| Parameter                     | Type    | Description                                           |
+| ----------------------------- | ------- | ----------------------------------------------------- |
+| `id`                          | number  | Alert rule numeric ID                                 |
+| `uid`                         | string  | Alert rule UID                                        |
+| `title`                       | string  | Alert rule title                                      |
+| `condition`                   | string  | RefId of the query used as the alert condition        |
+| `data`                        | json    | Alert rule query/expression data array                |
+| `updated`                     | string  | Last update timestamp                                 |
+| `noDataState`                 | string  | State when no data is returned                        |
+| `execErrState`                | string  | State on execution error                              |
+| `for`                         | string  | Duration the condition must hold before firing        |
+| `keepFiringFor`               | string  | Duration to keep firing after condition stops         |
+| `missingSeriesEvalsToResolve` | number  | Number of missing series evaluations before resolving |
+| `annotations`                 | json    | Alert annotations                                     |
+| `labels`                      | json    | Alert labels                                          |
+| `isPaused`                    | boolean | Whether the rule is paused                            |
+| `folderUID`                   | string  | Parent folder UID                                     |
+| `ruleGroup`                   | string  | Rule group name                                       |
+| `orgID`                       | number  | Organization ID                                       |
+| `provenance`                  | string  | Provisioning source (empty if API-managed)            |
+| `notification_settings`       | json    | Per-rule notification settings (overrides)            |
+| `record`                      | json    | Recording rule configuration (recording rules only)   |
+
+grafana_delete_alert_rule [#grafana_delete_alert_rule]
+
+Delete an alert rule by its UID
+
+Input [#input-9]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `alertRuleUid`   | string | Yes      | The UID of the alert rule to delete                                                   |
+
+Output [#output-9]
+
+| Parameter | Type   | Description          |
+| --------- | ------ | -------------------- |
+| `message` | string | Confirmation message |
+
+grafana_list_contact_points [#grafana_list_contact_points]
+
+List all alert notification contact points
+
+Input [#input-10]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+
+Output [#output-10]
+
+| Parameter       | Type   | Description                            |
+| --------------- | ------ | -------------------------------------- |
+| `contactPoints` | array  | List of contact points                 |
+| ↳ `uid`         | string | Contact point UID                      |
+| ↳ `name`        | string | Contact point name                     |
+| ↳ `type`        | string | Notification type (email, slack, etc.) |
+| ↳ `settings`    | object | Type-specific settings                 |
+
+grafana_create_contact_point [#grafana_create_contact_point]
+
+Create a notification contact point (e.g., Slack, email, PagerDuty)
+
+Input [#input-11]
+
+| Parameter               | Type    | Required | Description                                                                                                                  |
+| ----------------------- | ------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`                | string  | Yes      | Grafana Service Account Token                                                                                                |
+| `baseUrl`               | string  | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\))                                        |
+| `organizationId`        | string  | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                                                                 |
+| `name`                  | string  | Yes      | Name of the contact point (groups receivers shown in the UI)                                                                 |
+| `type`                  | string  | Yes      | Receiver type (e.g., slack, email, pagerduty, webhook)                                                                       |
+| `settings`              | string  | Yes      | JSON object of type-specific settings (e.g., \{"addresses":"[a@b.com](mailto:a@b.com)"} for email, \{"url":"..."} for slack) |
+| `disableResolveMessage` | boolean | No       | Do not send a notification when the alert resolves                                                                           |
+| `disableProvenance`     | boolean | No       | Set X-Disable-Provenance header so the contact point remains editable in the UI                                              |
+
+Output [#output-11]
+
+| Parameter               | Type    | Description                                  |
+| ----------------------- | ------- | -------------------------------------------- |
+| `uid`                   | string  | UID of the created contact point             |
+| `name`                  | string  | Name of the contact point                    |
+| `type`                  | string  | Receiver type                                |
+| `settings`              | json    | Type-specific settings                       |
+| `disableResolveMessage` | boolean | Whether resolve notifications are suppressed |
+| `provenance`            | string  | Provisioning source (empty if API-managed)   |
+
+grafana_create_annotation [#grafana_create_annotation]
+
+Create an annotation on a dashboard or as a global annotation
+
+Input [#input-12]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `text`           | string | Yes      | The text content of the annotation                                                    |
+| `tags`           | string | No       | Comma-separated list of tags                                                          |
+| `dashboardUid`   | string | Yes      | UID of the dashboard to add the annotation to (e.g., abc123def)                       |
+| `panelId`        | number | No       | ID of the panel to add the annotation to (e.g., 1, 2)                                 |
+| `time`           | number | No       | Start time in epoch milliseconds (e.g., 1704067200000, defaults to now)               |
+| `timeEnd`        | number | No       | End time in epoch milliseconds for range annotations (e.g., 1704153600000)            |
+
+Output [#output-12]
+
+| Parameter | Type   | Description                      |
+| --------- | ------ | -------------------------------- |
+| `id`      | number | The ID of the created annotation |
+| `message` | string | Confirmation message             |
+
+grafana_list_annotations [#grafana_list_annotations]
+
+Query annotations by time range, dashboard, or tags
+
+Input [#input-13]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `from`           | number | No       | Start time in epoch milliseconds (e.g., 1704067200000)                                |
+| `to`             | number | No       | End time in epoch milliseconds (e.g., 1704153600000)                                  |
+| `dashboardUid`   | string | Yes      | Dashboard UID to query annotations from (e.g., abc123def)                             |
+| `panelId`        | number | No       | Filter by panel ID (e.g., 1, 2)                                                       |
+| `tags`           | string | No       | Comma-separated list of tags to filter by                                             |
+| `type`           | string | No       | Filter by type (alert or annotation)                                                  |
+| `limit`          | number | No       | Maximum number of annotations to return                                               |
+
+Output [#output-13]
+
+| Parameter        | Type   | Description                                    |
+| ---------------- | ------ | ---------------------------------------------- |
+| `annotations`    | array  | List of annotations                            |
+| ↳ `id`           | number | Annotation ID                                  |
+| ↳ `dashboardId`  | number | Dashboard ID                                   |
+| ↳ `dashboardUID` | string | Dashboard UID                                  |
+| ↳ `created`      | number | Creation timestamp in epoch ms                 |
+| ↳ `updated`      | number | Last update timestamp in epoch ms              |
+| ↳ `time`         | number | Start time in epoch ms                         |
+| ↳ `timeEnd`      | number | End time in epoch ms                           |
+| ↳ `text`         | string | Annotation text                                |
+| ↳ `tags`         | array  | Annotation tags                                |
+| ↳ `login`        | string | Login of the user who created the annotation   |
+| ↳ `email`        | string | Email of the user who created the annotation   |
+| ↳ `avatarUrl`    | string | Avatar URL of the user                         |
+| ↳ `data`         | json   | Additional annotation data object from Grafana |
+
+grafana_update_annotation [#grafana_update_annotation]
+
+Update an existing annotation
+
+Input [#input-14]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `annotationId`   | number | Yes      | The ID of the annotation to update                                                    |
+| `text`           | string | Yes      | New text content for the annotation                                                   |
+| `tags`           | string | No       | Comma-separated list of new tags                                                      |
+| `time`           | number | No       | New start time in epoch milliseconds (e.g., 1704067200000)                            |
+| `timeEnd`        | number | No       | New end time in epoch milliseconds (e.g., 1704153600000)                              |
+
+Output [#output-14]
+
+| Parameter | Type   | Description                      |
+| --------- | ------ | -------------------------------- |
+| `id`      | number | The ID of the updated annotation |
+| `message` | string | Confirmation message             |
+
+grafana_delete_annotation [#grafana_delete_annotation]
+
+Delete an annotation by its ID
+
+Input [#input-15]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `annotationId`   | number | Yes      | The ID of the annotation to delete                                                    |
+
+Output [#output-15]
+
+| Parameter | Type   | Description          |
+| --------- | ------ | -------------------- |
+| `message` | string | Confirmation message |
+
+grafana_list_data_sources [#grafana_list_data_sources]
+
+List all data sources configured in Grafana
+
+Input [#input-16]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+
+Output [#output-16]
+
+| Parameter     | Type    | Description                                |
+| ------------- | ------- | ------------------------------------------ |
+| `dataSources` | array   | List of data sources                       |
+| ↳ `id`        | number  | Data source ID                             |
+| ↳ `uid`       | string  | Data source UID                            |
+| ↳ `name`      | string  | Data source name                           |
+| ↳ `type`      | string  | Data source type (prometheus, mysql, etc.) |
+| ↳ `url`       | string  | Data source URL                            |
+| ↳ `isDefault` | boolean | Whether this is the default data source    |
+
+grafana_get_data_source [#grafana_get_data_source]
+
+Get a data source by its ID or UID
+
+Input [#input-17]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `dataSourceId`   | string | Yes      | The ID or UID of the data source to retrieve (e.g., prometheus, P1234AB5678)          |
+
+Output [#output-17]
+
+| Parameter   | Type    | Description                             |
+| ----------- | ------- | --------------------------------------- |
+| `id`        | number  | Data source ID                          |
+| `uid`       | string  | Data source UID                         |
+| `name`      | string  | Data source name                        |
+| `type`      | string  | Data source type                        |
+| `url`       | string  | Data source connection URL              |
+| `database`  | string  | Database name (if applicable)           |
+| `isDefault` | boolean | Whether this is the default data source |
+| `jsonData`  | json    | Additional data source configuration    |
+
+grafana_check_data_source_health [#grafana_check_data_source_health]
+
+Test connectivity to a data source by its UID
+
+Input [#input-18]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `dataSourceUid`  | string | Yes      | The UID of the data source to health-check (e.g., P1234AB5678)                        |
+
+Output [#output-18]
+
+| Parameter | Type   | Description                                  |
+| --------- | ------ | -------------------------------------------- |
+| `status`  | string | Health status of the data source (e.g., OK)  |
+| `message` | string | Detailed health message from the data source |
+
+grafana_list_folders [#grafana_list_folders]
+
+List all folders in Grafana
+
+Input [#input-19]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `limit`          | number | No       | Maximum number of folders to return                                                   |
+| `page`           | number | No       | Page number for pagination                                                            |
+
+Output [#output-19]
+
+| Parameter     | Type    | Description                                    |
+| ------------- | ------- | ---------------------------------------------- |
+| `folders`     | array   | List of folders                                |
+| ↳ `id`        | number  | Folder ID                                      |
+| ↳ `uid`       | string  | Folder UID                                     |
+| ↳ `title`     | string  | Folder title                                   |
+| ↳ `hasAcl`    | boolean | Whether the folder has custom ACL permissions  |
+| ↳ `canSave`   | boolean | Whether the current user can save the folder   |
+| ↳ `canEdit`   | boolean | Whether the current user can edit the folder   |
+| ↳ `canAdmin`  | boolean | Whether the current user has admin rights      |
+| ↳ `canDelete` | boolean | Whether the current user can delete the folder |
+| ↳ `createdBy` | string  | Username of who created the folder             |
+| ↳ `created`   | string  | Timestamp when the folder was created          |
+| ↳ `updatedBy` | string  | Username of who last updated the folder        |
+| ↳ `updated`   | string  | Timestamp when the folder was last updated     |
+| ↳ `version`   | number  | Version number of the folder                   |
+
+grafana_create_folder [#grafana_create_folder]
+
+Create a new folder in Grafana
+
+Input [#input-20]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `title`          | string | Yes      | The title of the new folder                                                           |
+| `uid`            | string | No       | Optional UID for the folder (auto-generated if not provided)                          |
+
+Output [#output-20]
+
+| Parameter   | Type    | Description                                             |
+| ----------- | ------- | ------------------------------------------------------- |
+| `id`        | number  | The numeric ID of the created folder                    |
+| `uid`       | string  | The UID of the created folder                           |
+| `title`     | string  | The title of the created folder                         |
+| `url`       | string  | The URL path to the folder                              |
+| `hasAcl`    | boolean | Whether the folder has custom ACL permissions           |
+| `canSave`   | boolean | Whether the current user can save the folder            |
+| `canEdit`   | boolean | Whether the current user can edit the folder            |
+| `canAdmin`  | boolean | Whether the current user has admin rights on the folder |
+| `canDelete` | boolean | Whether the current user can delete the folder          |
+| `createdBy` | string  | Username of who created the folder                      |
+| `created`   | string  | Timestamp when the folder was created                   |
+| `updatedBy` | string  | Username of who last updated the folder                 |
+| `updated`   | string  | Timestamp when the folder was last updated              |
+| `version`   | number  | Version number of the folder                            |
+
+grafana_get_folder [#grafana_get_folder]
+
+Get a folder by its UID
+
+Input [#input-21]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `folderUid`      | string | Yes      | The UID of the folder to retrieve (e.g., folder-abc123)                               |
+
+Output [#output-21]
+
+| Parameter   | Type    | Description                                             |
+| ----------- | ------- | ------------------------------------------------------- |
+| `id`        | number  | The numeric ID of the folder                            |
+| `uid`       | string  | The UID of the folder                                   |
+| `title`     | string  | The title of the folder                                 |
+| `url`       | string  | The URL path to the folder                              |
+| `parentUid` | string  | Parent folder UID (nested folders only)                 |
+| `parents`   | array   | Ancestor folder hierarchy (nested folders only)         |
+| `hasAcl`    | boolean | Whether the folder has custom ACL permissions           |
+| `canSave`   | boolean | Whether the current user can save the folder            |
+| `canEdit`   | boolean | Whether the current user can edit the folder            |
+| `canAdmin`  | boolean | Whether the current user has admin rights on the folder |
+| `createdBy` | string  | Username of who created the folder                      |
+| `created`   | string  | Timestamp when the folder was created                   |
+| `updatedBy` | string  | Username of who last updated the folder                 |
+| `updated`   | string  | Timestamp when the folder was last updated              |
+| `version`   | number  | Version number of the folder                            |
+
+grafana_update_folder [#grafana_update_folder]
+
+Update (rename) a folder. Fetches the current folder and merges your changes.
+
+Input [#input-22]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `folderUid`      | string | Yes      | The UID of the folder to update (e.g., folder-abc123)                                 |
+| `title`          | string | Yes      | New title for the folder                                                              |
+
+Output [#output-22]
+
+| Parameter   | Type    | Description                                             |
+| ----------- | ------- | ------------------------------------------------------- |
+| `id`        | number  | The numeric ID of the folder                            |
+| `uid`       | string  | The UID of the folder                                   |
+| `title`     | string  | The updated title of the folder                         |
+| `url`       | string  | The URL path to the folder                              |
+| `parentUid` | string  | Parent folder UID (nested folders only)                 |
+| `parents`   | array   | Ancestor folder hierarchy (nested folders only)         |
+| `hasAcl`    | boolean | Whether the folder has custom ACL permissions           |
+| `canSave`   | boolean | Whether the current user can save the folder            |
+| `canEdit`   | boolean | Whether the current user can edit the folder            |
+| `canAdmin`  | boolean | Whether the current user has admin rights on the folder |
+| `createdBy` | string  | Username of who created the folder                      |
+| `created`   | string  | Timestamp when the folder was created                   |
+| `updatedBy` | string  | Username of who last updated the folder                 |
+| `updated`   | string  | Timestamp when the folder was last updated              |
+| `version`   | number  | Version number of the folder                            |
+
+grafana_delete_folder [#grafana_delete_folder]
+
+Delete a folder by its UID
+
+Input [#input-23]
+
+| Parameter          | Type    | Required | Description                                                                           |
+| ------------------ | ------- | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`           | string  | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`          | string  | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId`   | string  | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+| `folderUid`        | string  | Yes      | The UID of the folder to delete (e.g., folder-abc123)                                 |
+| `forceDeleteRules` | boolean | No       | Delete any alert rules stored in the folder along with it (default false)             |
+
+Output [#output-23]
+
+| Parameter | Type   | Description                   |
+| --------- | ------ | ----------------------------- |
+| `uid`     | string | The UID of the deleted folder |
+| `message` | string | Confirmation message          |
+
+grafana_get_health [#grafana_get_health]
+
+Check the health of the Grafana instance (version, database status)
+
+Input [#input-24]
+
+| Parameter        | Type   | Required | Description                                                                           |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Yes      | Grafana Service Account Token                                                         |
+| `baseUrl`        | string | Yes      | Grafana instance URL (e.g., [https://your-grafana.com\\](https://your-grafana.com\\)) |
+| `organizationId` | string | No       | Organization ID for multi-org Grafana instances (e.g., 1, 2)                          |
+
+Output [#output-24]
+
+| Parameter  | Type   | Description                                  |
+| ---------- | ------ | -------------------------------------------- |
+| `commit`   | string | Git commit hash of the running Grafana build |
+| `database` | string | Database health status (e.g., ok)            |
+| `version`  | string | Grafana version                              |
+2d:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L35",null,{"content":"$36"}]}],"$L37"]}],"$L38","$L39"]}]
+2e:["$","$L3a",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L3b",null,{"type":"grafana","color":"#F46800"}],"\n","\n",["$","p",null,{"children":[["$","$L3c",null,{"href":"https://grafana.com/","children":"Grafana"}]," is a leading platform for monitoring, observability, and visualization. It allows users to query, visualize, alert on, and analyze data from a variety of sources, making it an essential tool for infrastructure and application monitoring."]}],"\n",["$","p",null,{"children":"With Grafana, you can:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Visualize data"}],": Build and customize dashboards to display metrics, logs, and traces in real time"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Monitor health and status"}],": Check the health of your Grafana instance and connected data sources"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Manage alerts and annotations"}],": Set up alert rules, manage notifications, and annotate dashboards with important events"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Organize content"}],": Organize dashboards and data sources into folders for better access management"]}],"\n"]}],"\n",["$","p",null,{"children":"In Aptlystar, the Grafana integration empowers your agents to interact directly with your Grafana instance via API, enabling actions such as:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":"Checking the Grafana server, database, and data source health status"}],"\n",["$","li",null,{"children":"Retrieving, listing, and managing dashboards, alert rules, annotations, data sources, and folders"}],"\n",["$","li",null,{"children":"Automating the monitoring of your infrastructure by integrating Grafana data and alerts into your workflow automations"}],"\n"]}],"\n",["$","p",null,{"children":"These capabilities enable Aptlystar agents to monitor systems, proactively respond to alerts, and help ensure the reliability and visibility of your services — all as part of your automated workflows."}],"\n","\n",["$","$L3d",null,{"as":"h2","id":"usage-instructions","children":"Usage Instructions"}],"\n",["$","p",null,{"children":"Integrate Grafana into workflows. Manage dashboards, alerts, annotations, data sources, folders, and monitor health status."}],"\n",["$","$L3d",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L3d",null,{"as":"h3","id":"grafana_get_dashboard","children":["$","code",null,{"children":"grafana_get_dashboard"}]}],"\n",["$","p",null,{"children":"Get a dashboard by its UID"}],"\n",["$","$L3d",null,{"as":"h4","id":"input","children":"Input"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the dashboard to retrieve (e.g., abc123def)"}]]}]]}]]}]}],"\n",["$","$L3d",null,{"as":"h4","id":"output","children":"Output"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":["$L3e","$L3f","$L40"]}]}],"$L41"]}]}],"\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1"]}]}]
+2f:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+30:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+31:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+32:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+33:["$","$Ld2",null,{"children":["$","$d3",null,{"name":"Next.MetadataOutlet","children":"$@d4"}]}]
+37:["$","$Ld5",null,{"previous":{"$id":"en:tools/gong.mdx","type":"page","name":"Gong","description":"Revenue intelligence and conversation analytics","url":"/en/tools/gong","$ref":{"file":"tools/gong.mdx"}},"next":{"$id":"en:tools/grain.mdx","type":"page","name":"Grain","description":"Access meeting recordings, transcripts, and AI summaries","url":"/en/tools/grain","$ref":{"file":"tools/grain.mdx"}}}]
+d6:Tc90,M13.99 7.18a4.41 4.41 0 0 0 -.138 -.802 5.04 5.04 0 00-1.05-2 2.96 2.96 0 00-.366-.393c.198-.787-.245-1.47-.245-1.47-.764-.046-1.24.227-1.42.36-.031-.015-.062-.03-.092-.03-.122-.046-.26-.106-.397-.137-.138-.045-.275-.075-.413-.12-.137-.031-.29-.061-.443-.092-.03 0-.046 0-.076-.015C9.01 1.44 8.06 1 8.06 1 7 1.67 6.79 2.6 6.79 2.6s0 .015-.016.06l-.183.05c-.076.03-.168.06-.244.08-.077.03-.168.06-.245.09-.153.08-.32.15-.473.23-.153.09-.306.18-.443.27-.016-.015-.03-.015-.03-.015-1.47-.545-2.77.136-2.77.136-.122 1.54.58 2.53.733 2.71-.03.09-.6.2-.91.29a8.1 8.1 0 0 0 -.245 1.09c0 .06-.15.11-.15.17C1.4 8.39 1 9.75 1 9.75c1.13 1.29 2.46 1.38 2.46 1.38.167.3.366.58.58.85.92.11.183.21.29.32a3.01 3.01 0 0 0 .06 2.15c1.27.045 2.09-.545 2.26-.681.12.045.26.08.382.11.382.11.78.15 1.18.181h.49c.595.85 1.63.954 1.63.954.75-.772.78-1.54.779-1.71v-.015-.03-.03c.153-.107.31-.228.44-.35a5.37 5.37 0 0 0 .78 -.892c.015-.3.05-.6.06-.09.84.05 1.44-.515 1.44-.515-.138-.863-.642-1.29-.749-1.38l-.015-.015h-.015s-.015 0-.015-.015c0-.45.02-.106.02-.151 0-.91.02-.182.02-.288V9.4v-.166-.076-.152l-.015-.075c-.015-.091-.03-.197-.061-.288a3.51 3.51 0 0 0 -.428 -1.04 3.86 3.86 0 00-.718-.848 3.78 3.78 0 00-.901-.575 3.35 3.35 0 00-.993-.272c-.168-.015-.336-.03-.504-.03H9.37 9.2c-.92.02-.169.02-.26.03-.336.06-.642.18-.932.35-.275.17-.52.36-.718.61a2.58 2.58 0 0 0 -.459 .76 2.63 2.63 0 00-.183.82v.393c.15.14.46.27.77.39.76.26.183.49.336.67.137.2.32.35.504.49.183.12.38.212.58.27.199.6.38.76.57.076h.244c.031 0 .047 0 .062-.15.02 0 .046-.15.06-.15.05-.16.08-.16.12-.03l.23-.092a.869 .87 0 0 0 .2 -.12c.015-.016.03-.3.05-.03a.129 .13 0 0 0 .02 -.198c-.046-.06-.122-.075-.183-.03-.15.02-.3.02-.046.03-.046.03-.107.05-.168.06l-.183.05c-.03 0-.61.02-.92.02H8.73a1.52 1.52 0 0 1 -.825 -.378 1.45 1.45 0 01-.306-.378 1.66 1.66 0 01-.168-.485c-.015-.09-.015-.166-.015-.257v-.106-.03c0-.46.02-.91.02-.136.06-.364.26-.727.55-1 .077-.75.15-.136.23-.181.08-.6.17-.106.26-.151.09-.46.18-.076.29-.106a.993 .99 0 1 0 .31 -.046h.321c.107.02.229.3.34.46.21.45.43.12.63.242.4.212.73.56.95.969.11.211.18.423.21.65.02.6.02.121.02.167v.363c0 .06-.15.12-.15.18 0 .06-.015.12-.3.18l-.46.18c-.3.12-.77.24-.123.36a3.18 3.18 0 0 1 -.366 .67 3 3 0 01-1.91 1.18c-.122.02-.26.03-.382.05h-.198c-.061 0-.138 0-.199-.015a3.64 3.64 0 0 1 -.81 -.151 4.07 4.07 0 01-.748-.303 4.1 4.1 0 01-1.7-1.69 4.4 4.4 0 01-.29-.742c-.076-.257-.107-.514-.137-.772v-.302-.091c0-.136.01-.258.03-.394s.046-.272.06-.393c.03-.137.06-.258.09-.394a5.33 5.33 0 1 0 .27 -.741c.214-.47.5-.893.86-1.23.092-.91.18-.167.28-.243.09-.75.18-.136.29-.211a5.39 5.39 0 1 0 .31 -.182c.046-.3.11-.45.15-.076a.26 .26 0 1 0 .08 -.03.26.26 0 1.08-.03c.107-.46.23-.91.34-.121.03-.015.06-.15.09-.03.03-.16.06-.16.09-.3.06-.16.12-.31.17-.046.03-.15.06-.15.09-.015.03 0 .06-.16.09-.016.03 0 .061-.15.09-.015l.046-.015h.046c.03 0 .06-.15.09-.015.03 0 .061-.15.11-.015.03 0 .077-.15.11-.015h.764c.23.02.443.3.66.75.43.076.84.21 1.21.394.37.182.7.393.98.636l.46.05.46.05c.03.3.06.61.11.091l.92.09.091.09c.123.12.23.26.336.39.199.26.367.52.49.77.14.02.014.03.3.05.15.02.015.3.02.045l.046.9.05.92.05.09c.46.12.92.23.123.33.6.17.107.32.137.46.15.05.061.9.12.075a.104 .1 0 0 0 .11 -.106c.092-.227.09-.393.08-.575z38:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"800px","height":"800px","viewBox":"0 0 16 16","xmlns":"http://www.w3.org/2000/svg","fill":"none","children":[["$","path",null,{"fill":"url(#grafana_gradient__S_1_)","d":"$d6"}],"$Ld7"]}]}],"$Ld8"]}]
+39:["$","$Ld9",null,{"children":"Interact with Grafana dashboards, alerts, and annotations"}]
+3e:["$","th",null,{"children":"Parameter"}]
+3f:["$","th",null,{"children":"Type"}]
+40:["$","th",null,{"children":"Description"}]
+41:["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboard"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The full dashboard JSON object"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"meta"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Dashboard metadata (version, permissions, etc.)"}]]}]]}]
+42:["$","$L3d",null,{"as":"h3","id":"grafana_list_dashboards","children":["$","code",null,{"children":"grafana_list_dashboards"}]}]
+43:["$","p",null,{"children":"Search and list all dashboards"}]
+44:["$","$L3d",null,{"as":"h4","id":"input-1","children":"Input"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Search query to filter dashboards by title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tag"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by tag (comma-separated for multiple tags)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by folder IDs (comma-separated, e.g., 1,2,3)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starred"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Only return starred dashboards"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Maximum number of dashboards to return"}]]}]]}]]}]}]
+46:["$","$L3d",null,{"as":"h4","id":"output-1","children":"Output"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboards"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of dashboard search results"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Dashboard ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dashboard UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dashboard title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dashboard URL path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"tags"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Dashboard tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"folderTitle"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder title"}]]}]]}]]}]}]
+48:["$","$L3d",null,{"as":"h3","id":"grafana_create_dashboard","children":["$","code",null,{"children":"grafana_create_dashboard"}]}]
+49:["$","p",null,{"children":"Create a new dashboard"}]
+4a:["$","$L3d",null,{"as":"h4","id":"input-2","children":"Input"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The title of the new dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The UID of the folder to create the dashboard in (e.g., folder-abc123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timezone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dashboard timezone (e.g., browser, utc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Auto-refresh interval (e.g., 5s, 1m, 5m)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON array of panel configurations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"overwrite"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Overwrite existing dashboard with same title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Commit message for the dashboard version"}]]}]]}]]}]}]
+4c:["$","$L3d",null,{"as":"h4","id":"output-2","children":"Output"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The numeric ID of the created dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the created dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The URL path to the dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Status of the operation (success)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The version number of the dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL-friendly slug of the dashboard"}]]}]]}]]}]}]
+4e:["$","$L3d",null,{"as":"h3","id":"grafana_update_dashboard","children":["$","code",null,{"children":"grafana_update_dashboard"}]}]
+4f:["$","p",null,{"children":"Update an existing dashboard. Fetches the current dashboard and merges your changes."}]
+50:["$","$L3d",null,{"as":"h4","id":"input-3","children":"Input"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the dashboard to update (e.g., abc123def)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New title for the dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New folder UID to move the dashboard to (e.g., folder-abc123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of new tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timezone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dashboard timezone (e.g., browser, utc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Auto-refresh interval (e.g., 5s, 1m, 5m)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON array of panel configurations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"overwrite"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Overwrite even if there is a version conflict (defaults to false to surface 412 conflicts)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Commit message for this version"}]]}]]}]]}]}]
+52:["$","$L3d",null,{"as":"h4","id":"output-3","children":"Output"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The numeric ID of the updated dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the updated dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The URL path to the dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Status of the operation (success)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The new version number of the dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL-friendly slug of the dashboard"}]]}]]}]]}]}]
+54:["$","$L3d",null,{"as":"h3","id":"grafana_delete_dashboard","children":["$","code",null,{"children":"grafana_delete_dashboard"}]}]
+55:["$","p",null,{"children":"Delete a dashboard by its UID"}]
+56:["$","$L3d",null,{"as":"h4","id":"input-4","children":"Input"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the dashboard to delete (e.g., abc123def)"}]]}]]}]]}]}]
+58:["$","$L3d",null,{"as":"h4","id":"output-4","children":"Output"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The title of the deleted dashboard"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Confirmation message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The ID of the deleted dashboard"}]]}]]}]]}]}]
+5a:["$","$L3d",null,{"as":"h3","id":"grafana_list_alert_rules","children":["$","code",null,{"children":"grafana_list_alert_rules"}]}]
+5b:["$","p",null,{"children":"List all alert rules in the Grafana instance"}]
+5c:["$","$L3d",null,{"as":"h4","id":"input-5","children":"Input"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}]]}]]}]}]
+5e:["$","$L3d",null,{"as":"h4","id":"output-5","children":"Output"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rules"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of alert rules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"condition"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert condition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"folderUID"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ruleGroup"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Rule group name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"noDataState"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"State when no data is returned"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"execErrState"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"State on execution error"}]]}]]}]]}]}]
+60:["$","$L3d",null,{"as":"h3","id":"grafana_get_alert_rule","children":["$","code",null,{"children":"grafana_get_alert_rule"}]}]
+61:["$","p",null,{"children":"Get a specific alert rule by its UID"}]
+62:["$","$L3d",null,{"as":"h4","id":"input-6","children":"Input"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alertRuleUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the alert rule to retrieve"}]]}]]}]]}]}]
+64:["$","$L3d",null,{"as":"h4","id":"output-6","children":"Output"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert condition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alert rule query data"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUID"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Rule group name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"State when no data is returned"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"State on execution error"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alert annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alert labels"}]]}]]}]]}]}]
+66:["$","$L3d",null,{"as":"h3","id":"grafana_create_alert_rule","children":["$","code",null,{"children":"grafana_create_alert_rule"}]}]
+67:["$","p",null,{"children":"Create a new alert rule"}]
+68:["$","$L3d",null,{"as":"h4","id":"input-7","children":"Input"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The title of the alert rule"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the folder to create the alert in (e.g., folder-abc123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The name of the rule group"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The refId of the query or expression to use as the alert condition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"JSON array of query/expression data objects"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"forDuration"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Duration to wait before firing (e.g., 5m, 1h)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"State when no data is returned (NoData, Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"State on execution error (Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of labels"}]]}]]}]]}]}]
+6a:["$","$L3d",null,{"as":"h4","id":"output-7","children":"Output"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the created alert rule"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUID"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Rule group name"}]]}]]}]]}]}]
+6c:["$","$L3d",null,{"as":"h3","id":"grafana_update_alert_rule","children":["$","code",null,{"children":"grafana_update_alert_rule"}]}]
+6d:["$","p",null,{"children":"Update an existing alert rule. Fetches the current rule and merges your changes."}]
+6e:["$","$L3d",null,{"as":"h4","id":"input-8","children":"Input"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alertRuleUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the alert rule to update"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New title for the alert rule"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New folder UID to move the alert to (e.g., folder-abc123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New rule group name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New condition refId"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New JSON array of query/expression data objects"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"forDuration"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Duration to wait before firing (e.g., 5m, 1h)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"State when no data is returned (NoData, Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"State on execution error (Error, Alerting, OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of labels"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isPaused"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether the rule is paused"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keepFiringFor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Duration to keep firing after the condition stops (e.g., 5m)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"missingSeriesEvalsToResolve"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of missing series evaluations before resolving"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"notificationSettings"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of per-rule notification settings (overrides)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"record"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object configuring this as a recording rule"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disableProvenance"}]}],"$Lda","$Ldb","$Ldc"]}]]}]]}]}]
+70:["$","$L3d",null,{"as":"h4","id":"output-8","children":"Output"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Alert rule numeric ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Alert rule title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"condition"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"RefId of the query used as the alert condition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alert rule query/expression data array"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last update timestamp"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noDataState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"State when no data is returned"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"execErrState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"State on execution error"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"for"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Duration the condition must hold before firing"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keepFiringFor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Duration to keep firing after condition stops"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"missingSeriesEvalsToResolve"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of missing series evaluations before resolving"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alert annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Alert labels"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isPaused"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the rule is paused"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUID"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ruleGroup"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Rule group name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orgID"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Organization ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"provenance"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Provisioning source (empty if API-managed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"notification_settings"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Per-rule notification settings (overrides)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"record"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Recording rule configuration (recording rules only)"}]]}]]}]]}]}]
+72:["$","$L3d",null,{"as":"h3","id":"grafana_delete_alert_rule","children":["$","code",null,{"children":"grafana_delete_alert_rule"}]}]
+73:["$","p",null,{"children":"Delete an alert rule by its UID"}]
+74:["$","$L3d",null,{"as":"h4","id":"input-9","children":"Input"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"alertRuleUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the alert rule to delete"}]]}]]}]]}]}]
+76:["$","$L3d",null,{"as":"h4","id":"output-9","children":"Output"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Confirmation message"}]]}]}]]}]}]
+78:["$","$L3d",null,{"as":"h3","id":"grafana_list_contact_points","children":["$","code",null,{"children":"grafana_list_contact_points"}]}]
+79:["$","p",null,{"children":"List all alert notification contact points"}]
+7a:["$","$L3d",null,{"as":"h4","id":"input-10","children":"Input"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}]]}]]}]}]
+7c:["$","$L3d",null,{"as":"h4","id":"output-10","children":"Output"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactPoints"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of contact points"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contact point UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contact point name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Notification type (email, slack, etc.)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"settings"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Type-specific settings"}]]}]]}]]}]}]
+7e:["$","$L3d",null,{"as":"h3","id":"grafana_create_contact_point","children":["$","code",null,{"children":"grafana_create_contact_point"}]}]
+7f:["$","p",null,{"children":"Create a notification contact point (e.g., Slack, email, PagerDuty)"}]
+80:["$","$L3d",null,{"as":"h4","id":"input-11","children":"Input"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Name of the contact point (groups receivers shown in the UI)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Receiver type (e.g., slack, email, pagerduty, webhook)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"settings"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["JSON object of type-specific settings (e.g., {\"addresses\":\"",["$","$L3c",null,{"href":"mailto:a@b.com","children":"a@b.com"}],"\"} for email, {\"url\":\"...\"} for slack)"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disableResolveMessage"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Do not send a notification when the alert resolves"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disableProvenance"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Set X-Disable-Provenance header so the contact point remains editable in the UI"}]]}]]}]]}]}]
+82:["$","$L3d",null,{"as":"h4","id":"output-11","children":"Output"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"UID of the created contact point"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Name of the contact point"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Receiver type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"settings"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Type-specific settings"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disableResolveMessage"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether resolve notifications are suppressed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"provenance"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Provisioning source (empty if API-managed)"}]]}]]}]]}]}]
+84:["$","$L3d",null,{"as":"h3","id":"grafana_create_annotation","children":["$","code",null,{"children":"grafana_create_annotation"}]}]
+85:["$","p",null,{"children":"Create an annotation on a dashboard or as a global annotation"}]
+86:["$","$L3d",null,{"as":"h4","id":"input-12","children":"Input"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The text content of the annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"UID of the dashboard to add the annotation to (e.g., abc123def)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panelId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID of the panel to add the annotation to (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"time"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Start time in epoch milliseconds (e.g., 1704067200000, defaults to now)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeEnd"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"End time in epoch milliseconds for range annotations (e.g., 1704153600000)"}]]}]]}]]}]}]
+88:["$","$L3d",null,{"as":"h4","id":"output-12","children":"Output"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The ID of the created annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Confirmation message"}]]}]]}]]}]}]
+8a:["$","$L3d",null,{"as":"h3","id":"grafana_list_annotations","children":["$","code",null,{"children":"grafana_list_annotations"}]}]
+8b:["$","p",null,{"children":"Query annotations by time range, dashboard, or tags"}]
+8c:["$","$L3d",null,{"as":"h4","id":"input-13","children":"Input"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Start time in epoch milliseconds (e.g., 1704067200000)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"End time in epoch milliseconds (e.g., 1704153600000)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dashboardUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Dashboard UID to query annotations from (e.g., abc123def)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"panelId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by panel ID (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of tags to filter by"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by type (alert or annotation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Maximum number of annotations to return"}]]}]]}]]}]}]
+8e:["$","$L3d",null,{"as":"h4","id":"output-13","children":"Output"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of annotations"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Annotation ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dashboardId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Dashboard ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"dashboardUID"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dashboard UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Creation timestamp in epoch ms"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Last update timestamp in epoch ms"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"time"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Start time in epoch ms"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeEnd"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"End time in epoch ms"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"text"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Annotation text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"tags"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Annotation tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"login"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Login of the user who created the annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Email of the user who created the annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatarUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Avatar URL of the user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"data"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Additional annotation data object from Grafana"}]]}]]}]]}]}]
+90:["$","$L3d",null,{"as":"h3","id":"grafana_update_annotation","children":["$","code",null,{"children":"grafana_update_annotation"}]}]
+91:["$","p",null,{"children":"Update an existing annotation"}]
+92:["$","$L3d",null,{"as":"h4","id":"input-14","children":"Input"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotationId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the annotation to update"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"New text content for the annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of new tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"time"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New start time in epoch milliseconds (e.g., 1704067200000)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeEnd"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New end time in epoch milliseconds (e.g., 1704153600000)"}]]}]]}]]}]}]
+94:["$","$L3d",null,{"as":"h4","id":"output-14","children":"Output"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The ID of the updated annotation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Confirmation message"}]]}]]}]]}]}]
+96:["$","$L3d",null,{"as":"h3","id":"grafana_delete_annotation","children":["$","code",null,{"children":"grafana_delete_annotation"}]}]
+97:["$","p",null,{"children":"Delete an annotation by its ID"}]
+98:["$","$L3d",null,{"as":"h4","id":"input-15","children":"Input"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"annotationId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the annotation to delete"}]]}]]}]]}]}]
+9a:["$","$L3d",null,{"as":"h4","id":"output-15","children":"Output"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Confirmation message"}]]}]}]]}]}]
+9c:["$","$L3d",null,{"as":"h3","id":"grafana_list_data_sources","children":["$","code",null,{"children":"grafana_list_data_sources"}]}]
+9d:["$","p",null,{"children":"List all data sources configured in Grafana"}]
+9e:["$","$L3d",null,{"as":"h4","id":"input-16","children":"Input"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}]]}]]}]}]
+a0:["$","$L3d",null,{"as":"h4","id":"output-16","children":"Output"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dataSources"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of data sources"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Data source ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source type (prometheus, mysql, etc.)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isDefault"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether this is the default data source"}]]}]]}]]}]}]
+a2:["$","$L3d",null,{"as":"h3","id":"grafana_get_data_source","children":["$","code",null,{"children":"grafana_get_data_source"}]}]
+a3:["$","p",null,{"children":"Get a data source by its ID or UID"}]
+a4:["$","$L3d",null,{"as":"h4","id":"input-17","children":"Input"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dataSourceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID or UID of the data source to retrieve (e.g., prometheus, P1234AB5678)"}]]}]]}]]}]}]
+a6:["$","$L3d",null,{"as":"h4","id":"output-17","children":"Output"}]
+a7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Data source ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Data source connection URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Database name (if applicable)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isDefault"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether this is the default data source"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jsonData"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Additional data source configuration"}]]}]]}]]}]}]
+a8:["$","$L3d",null,{"as":"h3","id":"grafana_check_data_source_health","children":["$","code",null,{"children":"grafana_check_data_source_health"}]}]
+a9:["$","p",null,{"children":"Test connectivity to a data source by its UID"}]
+aa:["$","$L3d",null,{"as":"h4","id":"input-18","children":"Input"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dataSourceUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the data source to health-check (e.g., P1234AB5678)"}]]}]]}]]}]}]
+ac:["$","$L3d",null,{"as":"h4","id":"output-18","children":"Output"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Health status of the data source (e.g., OK)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Detailed health message from the data source"}]]}]]}]]}]}]
+ae:["$","$L3d",null,{"as":"h3","id":"grafana_list_folders","children":["$","code",null,{"children":"grafana_list_folders"}]}]
+af:["$","p",null,{"children":"List all folders in Grafana"}]
+b0:["$","$L3d",null,{"as":"h4","id":"input-19","children":"Input"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Maximum number of folders to return"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+b2:["$","$L3d",null,{"as":"h4","id":"output-19","children":"Output"}]
+b3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folders"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of folders"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Folder ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Folder UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Folder title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasAcl"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the folder has custom ACL permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"canSave"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can save the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"canEdit"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can edit the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"canAdmin"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user has admin rights"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"canDelete"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can delete the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdBy"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who created the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedBy"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who last updated the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was last updated"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Version number of the folder"}]]}]]}]]}]}]
+b4:["$","$L3d",null,{"as":"h3","id":"grafana_create_folder","children":["$","code",null,{"children":"grafana_create_folder"}]}]
+b5:["$","p",null,{"children":"Create a new folder in Grafana"}]
+b6:["$","$L3d",null,{"as":"h4","id":"input-20","children":"Input"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The title of the new folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Optional UID for the folder (auto-generated if not provided)"}]]}]]}]]}]}]
+b8:["$","$L3d",null,{"as":"h4","id":"output-20","children":"Output"}]
+b9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The numeric ID of the created folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the created folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The title of the created folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The URL path to the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasAcl"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the folder has custom ACL permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canSave"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can save the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canEdit"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can edit the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canAdmin"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user has admin rights on the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canDelete"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can delete the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who created the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who last updated the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was last updated"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Version number of the folder"}]]}]]}]]}]}]
+ba:["$","$L3d",null,{"as":"h3","id":"grafana_get_folder","children":["$","code",null,{"children":"grafana_get_folder"}]}]
+bb:["$","p",null,{"children":"Get a folder by its UID"}]
+bc:["$","$L3d",null,{"as":"h4","id":"input-21","children":"Input"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the folder to retrieve (e.g., folder-abc123)"}]]}]]}]]}]}]
+be:["$","$L3d",null,{"as":"h4","id":"output-21","children":"Output"}]
+bf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The numeric ID of the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The title of the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The URL path to the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder UID (nested folders only)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parents"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ancestor folder hierarchy (nested folders only)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasAcl"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the folder has custom ACL permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canSave"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can save the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canEdit"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can edit the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canAdmin"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user has admin rights on the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who created the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who last updated the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was last updated"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Version number of the folder"}]]}]]}]]}]}]
+c0:["$","$L3d",null,{"as":"h3","id":"grafana_update_folder","children":["$","code",null,{"children":"grafana_update_folder"}]}]
+c1:["$","p",null,{"children":"Update (rename) a folder. Fetches the current folder and merges your changes."}]
+c2:["$","$L3d",null,{"as":"h4","id":"input-22","children":"Input"}]
+c3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the folder to update (e.g., folder-abc123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"New title for the folder"}]]}]]}]]}]}]
+c4:["$","$L3d",null,{"as":"h4","id":"output-22","children":"Output"}]
+c5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The numeric ID of the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The updated title of the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The URL path to the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Parent folder UID (nested folders only)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parents"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ancestor folder hierarchy (nested folders only)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hasAcl"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the folder has custom ACL permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canSave"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can save the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canEdit"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user can edit the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canAdmin"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the current user has admin rights on the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who created the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was created"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Username of who last updated the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Timestamp when the folder was last updated"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Version number of the folder"}]]}]]}]]}]}]
+c6:["$","$L3d",null,{"as":"h3","id":"grafana_delete_folder","children":["$","code",null,{"children":"grafana_delete_folder"}]}]
+c7:["$","p",null,{"children":"Delete a folder by its UID"}]
+c8:["$","$L3d",null,{"as":"h4","id":"input-23","children":"Input"}]
+c9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The UID of the folder to delete (e.g., folder-abc123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"forceDeleteRules"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Delete any alert rules stored in the folder along with it (default false)"}]]}]]}]]}]}]
+ca:["$","$L3d",null,{"as":"h4","id":"output-23","children":"Output"}]
+cb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"uid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The UID of the deleted folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Confirmation message"}]]}]]}]]}]}]
+cc:["$","$L3d",null,{"as":"h3","id":"grafana_get_health","children":["$","code",null,{"children":"grafana_get_health"}]}]
+cd:["$","p",null,{"children":"Check the health of the Grafana instance (version, database status)"}]
+ce:["$","$L3d",null,{"as":"h4","id":"input-24","children":"Input"}]
+cf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Grafana Service Account Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"baseUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":["Grafana instance URL (e.g., ",["$","$L3c",null,{"href":"https://your-grafana.com%5C","children":"https://your-grafana.com\\"}],")"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Organization ID for multi-org Grafana instances (e.g., 1, 2)"}]]}]]}]]}]}]
+d0:["$","$L3d",null,{"as":"h4","id":"output-24","children":"Output"}]
+d1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Git commit hash of the running Grafana build"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"database"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Database health status (e.g., ok)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Grafana version"}]]}]]}]]}]}]
+d4:null
+d7:["$","defs",null,{"children":["$","linearGradient",null,{"id":"grafana_gradient__S_1_","x1":"7.5","x2":"7.5","y1":"18.14","y2":"5.36","gradientUnits":"userSpaceOnUse","children":[["$","stop",null,{"stopColor":"#FFF200"}],["$","stop",null,{"offset":"1","stopColor":"#F15A29"}]]}]}]
+d8:["$","$Ldd",null,{"className":"mb-0 min-w-0 flex-1","children":"Grafana"}]
+da:["$","td",null,{"children":"boolean"}]
+db:["$","td",null,{"children":"No"}]
+dc:["$","td",null,{"children":"Set X-Disable-Provenance header so the rule remains editable in the Grafana UI"}]

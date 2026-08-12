@@ -1,0 +1,676 @@
+1:"$Sreact.fragment"
+3:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+d:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+12:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+13:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+14:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+15:I[315927,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlock"]
+16:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Pre"]
+8e:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+8f:"$Sreact.suspense"
+91:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+92:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+93:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+2:T42e,{"@context":"https://schema.org","@type":"TechArticle","headline":"Create OAuth Apps For Integrations","description":"What to create for each OAuth integration, which keys to collect, and how to get them","url":"https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration","author":{"@type":"Organization","name":"Aptly Technology Corporation","url":"https://aptly-technology.github.io/aptlystar-docs"},"publisher":{"@type":"Organization","name":"AptlyStar","url":"https://aptly-technology.github.io/aptlystar-docs","logo":{"@type":"ImageObject","url":"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration"},"inLanguage":"es","isPartOf":{"@type":"WebSite","name":"AptlyStar Documentation","url":"https://aptly-technology.github.io/aptlystar-docs"},"potentialAction":{"@type":"ReadAction","target":"https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration"}}0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Integrations\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/integrations\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Create OAuth Apps For Integrations\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration\"}]}"}}],false],["$","$L3",null,{"toc":[{"depth":2,"url":"#what-you-need-from-each-provider","title":"What You Need From Each Provider"},{"depth":2,"url":"#how-redirect-uris-work-in-aptlystar","title":"How Redirect URIs Work In Aptlystar"},{"depth":2,"url":"#environment-examples","title":"Environment Examples"},{"depth":2,"url":"#the-basic-workflow","title":"The Basic Workflow"},{"depth":2,"url":"#provider-groups-at-a-glance","title":"Provider Groups At A Glance"},{"depth":2,"url":"#shared-provider-apps","title":"Shared Provider Apps"},{"depth":3,"url":"#google-cloud","title":"Google Cloud"},{"depth":3,"url":"#microsoft-entra-id","title":"Microsoft Entra ID"},{"depth":3,"url":"#atlassian","title":"Atlassian"},{"depth":4,"url":"#confluence","title":"Confluence"},{"depth":4,"url":"#jira","title":"Jira"},{"depth":2,"url":"#one-provider-app-per-integration","title":"One Provider App Per Integration"},{"depth":3,"url":"#slack","title":"Slack"},{"depth":3,"url":"#notion","title":"Notion"},{"depth":3,"url":"#mondaycom","title":"Monday.com"},{"depth":3,"url":"#airtable","title":"Airtable"},{"depth":3,"url":"#hubspot","title":"HubSpot"},{"depth":3,"url":"#salesforce","title":"Salesforce"},{"depth":3,"url":"#linear","title":"Linear"},{"depth":3,"url":"#box","title":"Box"},{"depth":3,"url":"#dropbox","title":"Dropbox"},{"depth":3,"url":"#asana","title":"Asana"},{"depth":3,"url":"#pipedrive","title":"Pipedrive"},{"depth":3,"url":"#wealthbox","title":"Wealthbox"},{"depth":3,"url":"#linkedin","title":"LinkedIn"},{"depth":3,"url":"#reddit","title":"Reddit"},{"depth":3,"url":"#webflow","title":"Webflow"},{"depth":3,"url":"#x","title":"X"},{"depth":3,"url":"#zoom","title":"Zoom"},{"depth":3,"url":"#spotify","title":"Spotify"},{"depth":3,"url":"#wordpresscom","title":"WordPress.com"},{"depth":3,"url":"#docusign","title":"DocuSign"},{"depth":3,"url":"#attio","title":"Attio"},{"depth":3,"url":"#calcom","title":"Cal.com"},{"depth":3,"url":"#shopify","title":"Shopify"},{"depth":3,"url":"#trello","title":"Trello"},{"depth":2,"url":"#quick-reference-matrix","title":"Quick Reference Matrix"},{"depth":2,"url":"#validation-checklist","title":"Validation Checklist"},{"depth":2,"url":"#keep-this-page-updated","title":"$L4"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L5"},"children":["$L6","$L7"]}]],["$L8","$L9","$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:"Keep This Page Updated"
+5:null
+e:T57e3,
+
+import { Callout } from 'fumadocs-ui/components/callout'
+import { Step, Steps } from 'fumadocs-ui/components/steps'
+
+This guide is for workspace admins and operators who need to create OAuth apps for Aptlystar integrations. It focuses on the practical setup work: what app to create in each provider, what values to copy out of that provider, and which Aptlystar environment variables those values belong in.
+
+<Callout type="info">
+  This page covers user-consent OAuth integrations. Google service accounts use a different flow. See [Google Service Accounts](/integrations/google-service-account).
+</Callout>
+
+What You Need From Each Provider [#what-you-need-from-each-provider]
+
+For almost every OAuth integration, you need to collect these values from the provider portal:
+
+* `client id`
+* `client secret`
+* registered redirect URI or callback URL
+* approved scopes or permissions
+* sometimes an app review or publish step before the integration works for non-admin users
+
+The main exception in the current codebase is `trello`, which uses an API key instead of a client ID and client secret pair.
+
+How Redirect URIs Work In Aptlystar [#how-redirect-uris-work-in-aptlystar]
+
+Most integrations use this redirect URI pattern:
+
+```txt
+${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/{provider-id}
+```
+
+Special cases:
+
+* `shopify` uses `/api/auth/oauth2/callback/shopify`
+* `trello` uses `/api/auth/trello/callback`
+
+<Callout type="warn">
+  Always register the public browser-facing URL, not `INTERNAL_API_BASE_URL` or any internal cluster URL.
+</Callout>
+
+Keep these two app env vars aligned for each environment:
+
+```bash
+BETTER_AUTH_URL=<public app origin>
+NEXT_PUBLIC_APP_URL=<public app origin>
+```
+
+Environment Examples [#environment-examples]
+
+Use your real public domain for each environment:
+
+| Environment | Example public origin         | Required app env                         |
+| ----------- | ----------------------------- | ---------------------------------------- |
+| Local       | `http://localhost:3000`       | `BETTER_AUTH_URL`, `NEXT_PUBLIC_APP_URL` |
+| Test        | `https://staging.example.com` | `BETTER_AUTH_URL`, `NEXT_PUBLIC_APP_URL` |
+| Production  | `https://app.example.com`     | `BETTER_AUTH_URL`, `NEXT_PUBLIC_APP_URL` |
+
+If a provider lets you register multiple redirect URIs in one OAuth app, you can usually use one provider app for local, test, and production. If a provider only allows one redirect URI, create one provider app per environment.
+
+The Basic Workflow [#the-basic-workflow]
+
+<Steps>
+  <Step>
+    Pick the provider you want to enable in Aptlystar.
+  </Step>
+
+  <Step>
+    Create an OAuth app in that provider's developer portal.
+  </Step>
+
+  <Step>
+    Add the Aptlystar redirect URI for local, test, and production.
+  </Step>
+
+  <Step>
+    Copy the client ID, client secret, or API key into the matching Aptlystar env vars.
+  </Step>
+
+  <Step>
+    Restart the app, then test the connection in **Settings → Integrations**.
+  </Step>
+</Steps>
+
+Provider Groups At A Glance [#provider-groups-at-a-glance]
+
+Some Aptlystar integrations share one provider app:
+
+* Google: Gmail, Calendar, Drive, Docs, Sheets, Contacts, Forms, Ads, BigQuery, Vault, Groups, Meet, Tasks, Vertex AI
+* Microsoft: Teams, Excel, Dataverse, Planner, Outlook, OneDrive, SharePoint, Microsoft Ads
+* Atlassian: Confluence and Jira are separate registrations in the current codebase
+
+The rest are usually one provider app per integration.
+
+Shared Provider Apps [#shared-provider-apps]
+
+Google Cloud [#google-cloud]
+
+**Covers**
+
+* Gmail
+* Google Calendar
+* Google Drive
+* Google Docs
+* Google Sheets
+* Google Contacts
+* Google Forms
+* Google Ads
+* BigQuery
+* Google Vault
+* Google Groups
+* Google Meet
+* Google Tasks
+* Vertex AI
+
+**Collect from Google**
+
+* client ID
+* client secret
+
+**Set in Aptlystar**
+
+```bash
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+```
+
+**Redirect URIs to register**
+
+* `/api/auth/oauth2/callback/google-email`
+* `/api/auth/oauth2/callback/google-calendar`
+* `/api/auth/oauth2/callback/google-drive`
+* `/api/auth/oauth2/callback/google-docs`
+* `/api/auth/oauth2/callback/google-sheets`
+* `/api/auth/oauth2/callback/google-contacts`
+* `/api/auth/oauth2/callback/google-forms`
+* `/api/auth/oauth2/callback/google-ads`
+* `/api/auth/oauth2/callback/google-bigquery`
+* `/api/auth/oauth2/callback/google-vault`
+* `/api/auth/oauth2/callback/google-groups`
+* `/api/auth/oauth2/callback/google-meet`
+* `/api/auth/oauth2/callback/google-tasks`
+* `/api/auth/oauth2/callback/vertex-ai`
+
+**Steps**
+
+1. Open Google Cloud Console and create or pick a project.
+2. Open **APIs & Services** and configure the OAuth consent screen.
+3. Enable the APIs you plan to use.
+4. Open **Credentials** and create an **OAuth client ID** for a web application.
+5. Add the Aptlystar redirect URIs above for local, test, and production.
+6. Copy the **client ID** and **client secret** into `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`.
+
+**Notes**
+
+* Aptlystar requests offline access and stores refresh tokens.
+* Review the provider scopes in `apps/aptlystar/lib/oauth/oauth.ts` before finalizing the consent screen.
+
+Microsoft Entra ID [#microsoft-entra-id]
+
+**Covers**
+
+* Microsoft Ads
+* Microsoft Teams
+* Microsoft Excel
+* Microsoft Dataverse
+* Microsoft Planner
+* Outlook
+* OneDrive
+* SharePoint
+
+**Collect from Microsoft**
+
+* application/client ID
+* client secret
+
+**Set in Aptlystar**
+
+```bash
+MICROSOFT_CLIENT_ID=
+MICROSOFT_CLIENT_SECRET=
+```
+
+**Redirect URIs to register**
+
+* `/api/auth/oauth2/callback/microsoft-ad`
+* `/api/auth/oauth2/callback/microsoft-teams`
+* `/api/auth/oauth2/callback/microsoft-excel`
+* `/api/auth/oauth2/callback/microsoft-dataverse`
+* `/api/auth/oauth2/callback/microsoft-planner`
+* `/api/auth/oauth2/callback/outlook`
+* `/api/auth/oauth2/callback/onedrive`
+* `/api/auth/oauth2/callback/sharepoint`
+
+**Steps**
+
+1. Open Microsoft Entra ID and go to **App registrations**.
+2. Create a **New registration**.
+3. Under **Supported account types**, choose **Accounts in any organizational directory and personal Microsoft accounts** if you want the app registration to allow both work/school accounts and personal Microsoft accounts.
+4. Add a **Web** redirect URI for each Aptlystar callback you need.
+5. Open **Certificates & secrets** and create a new client secret.
+6. Open **API permissions** and add the Microsoft Graph or Dataverse permissions needed by Aptlystar.
+7. Copy the **Application (client) ID** and the generated secret into `MICROSOFT_CLIENT_ID` and `MICROSOFT_CLIENT_SECRET`.
+
+**Notes**
+
+* These integrations use PKCE and `offline_access`.
+* Review requested permissions in `apps/aptlystar/lib/oauth/oauth.ts`.
+* Even with a multi-tenant + personal app registration, not every Aptlystar Microsoft integration is practical for personal Microsoft accounts.
+* `outlook`, `onedrive`, and `microsoft-excel` are the most likely to work with personal accounts.
+* `microsoft-ad`, `microsoft-teams`, `sharepoint`, `microsoft-planner`, and `microsoft-dataverse` are typically work or school account integrations because they depend on org or tenant-level Microsoft Graph and Dataverse permissions.
+
+Atlassian [#atlassian]
+
+Atlassian uses separate app registrations in the current Aptlystar env model.
+
+Confluence [#confluence]
+
+**Collect**
+
+* client ID
+* client secret
+
+**Set in Aptlystar**
+
+```bash
+CONFLUENCE_CLIENT_ID=
+CONFLUENCE_CLIENT_SECRET=
+```
+
+**Redirect URI**
+
+```txt
+${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/confluence
+```
+
+**Steps**
+
+1. Open Atlassian's developer console.
+2. Create an OAuth 2.0 app for Confluence.
+3. Add the Aptlystar redirect URIs for local, test, and production.
+4. Configure the scopes Aptlystar needs.
+5. Copy the client ID and client secret into `CONFLUENCE_CLIENT_ID` and `CONFLUENCE_CLIENT_SECRET`.
+
+Jira [#jira]
+
+**Collect**
+
+* client ID
+* client secret
+
+**Set in Aptlystar**
+
+```bash
+JIRA_CLIENT_ID=
+JIRA_CLIENT_SECRET=
+```
+
+**Redirect URI**
+
+```txt
+${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/jira
+```
+
+**Steps**
+
+1. Open Atlassian's developer console.
+2. Create a separate OAuth 2.0 app for Jira.
+3. Add the Aptlystar redirect URIs.
+4. Configure Jira scopes, including the extra Jira Service Management scopes if you use JSM features.
+5. Copy the client ID and client secret into `JIRA_CLIENT_ID` and `JIRA_CLIENT_SECRET`.
+
+One Provider App Per Integration [#one-provider-app-per-integration]
+
+The sections below tell you what to create and what to collect for the remaining OAuth integrations.
+
+Slack [#slack]
+
+* **Create:** Slack app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `SLACK_CLIENT_ID`, `SLACK_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/slack`
+* **Steps:** Open Slack API apps, create a new app, add redirect URIs under **OAuth & Permissions**, add the scopes Aptlystar needs, then copy the client ID and client secret from the app settings.
+
+Notion [#notion]
+
+* **Create:** Notion public integration
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `NOTION_CLIENT_ID`, `NOTION_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/notion`
+* **Steps:** Open the Notion integrations portal, create a new public integration, add the Aptlystar redirect URIs in the OAuth settings, then copy the client ID and client secret.
+
+Monday.com [#mondaycom]
+
+* **Create:** Monday app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `MONDAY_CLIENT_ID`, `MONDAY_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/monday`
+* **Steps:** Open the Monday developer center, create an app, enable OAuth, add Aptlystar redirect URIs, then copy the client ID and client secret.
+
+Airtable [#airtable]
+
+* **Create:** Airtable OAuth integration
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `AIRTABLE_CLIENT_ID`, `AIRTABLE_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/airtable`
+* **Steps:** Open Airtable's developer area, create a new OAuth integration, register the Aptlystar redirect URIs, configure the scopes, then copy the client ID and client secret.
+
+HubSpot [#hubspot]
+
+* **Create:** HubSpot public app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `HUBSPOT_CLIENT_ID`, `HUBSPOT_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/hubspot`
+* **Steps:** Open your HubSpot developer account, create an app, open the **Auth** section, add the Aptlystar redirect URIs, set the required scopes, then copy the client ID and client secret.
+
+Salesforce [#salesforce]
+
+* **Create:** Salesforce connected app
+* **Collect:** consumer key, consumer secret
+* **Set in Aptlystar:** `SALESFORCE_CLIENT_ID`, `SALESFORCE_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/salesforce`
+* **Steps:** Open Salesforce **App Manager**, create a **New Connected App**, enable OAuth settings, add the Aptlystar callback URI, choose the required scopes, then copy the consumer key and consumer secret into the Aptlystar env vars.
+
+Linear [#linear]
+
+* **Create:** Linear OAuth app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `LINEAR_CLIENT_ID`, `LINEAR_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/linear`
+* **Steps:** Open Linear developer settings, create an OAuth app, add the Aptlystar redirect URIs, then copy the client ID and client secret.
+
+Box [#box]
+
+* **Create:** Box custom app with OAuth 2.0 user authentication
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `BOX_CLIENT_ID`, `BOX_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/box`
+* **Steps:** Open the Box developer console, create a custom app that uses OAuth 2.0, add the Aptlystar redirect URIs, enable the scopes you need, then copy the client ID and client secret.
+
+Dropbox [#dropbox]
+
+* **Create:** Dropbox app
+* **Collect:** app key, app secret
+* **Set in Aptlystar:** `DROPBOX_CLIENT_ID`, `DROPBOX_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/dropbox`
+* **Steps:** Open the Dropbox App Console, create an app, add the Aptlystar redirect URIs, configure the required permissions, then copy the app key and app secret.
+
+Asana [#asana]
+
+* **Create:** Asana OAuth app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `ASANA_CLIENT_ID`, `ASANA_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/asana`
+* **Steps:** Open the Asana developer console, create a new app, add the Aptlystar callback URI, then copy the client ID and client secret.
+
+Pipedrive [#pipedrive]
+
+* **Create:** Pipedrive OAuth app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `PIPEDRIVE_CLIENT_ID`, `PIPEDRIVE_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/pipedrive`
+* **Steps:** Open Pipedrive's developer portal, create an OAuth app, add the Aptlystar redirect URIs, then copy the client ID and client secret.
+
+Wealthbox [#wealthbox]
+
+* **Create:** Wealthbox OAuth application
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `WEALTHBOX_CLIENT_ID`, `WEALTHBOX_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/wealthbox`
+* **Steps:** Open the Wealthbox developer settings, create an OAuth application, register the Aptlystar callback URI, then copy the client ID and client secret.
+
+LinkedIn [#linkedin]
+
+* **Create:** LinkedIn app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `LINKEDIN_CLIENT_ID`, `LINKEDIN_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/linkedin`
+* **Steps:** Open the LinkedIn developer portal, create an app, open the auth products or OAuth settings, add the Aptlystar redirect URIs, then copy the client ID and client secret.
+
+Reddit [#reddit]
+
+* **Create:** Reddit web app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/reddit`
+* **Steps:** Open Reddit app preferences, create a new **web app**, add the Aptlystar callback URI, then copy the app ID as the client ID and the secret as the client secret.
+
+Webflow [#webflow]
+
+* **Create:** Webflow app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `WEBFLOW_CLIENT_ID`, `WEBFLOW_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/webflow`
+* **Steps:** Open the Webflow developer portal, create an app, configure OAuth redirect URIs, then copy the client ID and client secret.
+
+X [#x]
+
+* **Create:** X app with OAuth 2.0 user authentication
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `X_CLIENT_ID`, `X_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/x`
+* **Steps:** Open the X developer portal, create a project and app if needed, enable OAuth 2.0 user authentication, add the Aptlystar callback URI, then copy the client ID and client secret.
+
+Zoom [#zoom]
+
+* **Create:** Zoom OAuth app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `ZOOM_CLIENT_ID`, `ZOOM_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/zoom`
+* **Steps:** Open Zoom Marketplace, build an OAuth app, add Aptlystar redirect URIs, configure scopes, then copy the client ID and client secret.
+
+Spotify [#spotify]
+
+* **Create:** Spotify app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/spotify`
+* **Steps:** Open the Spotify developer dashboard, create an app, add the Aptlystar redirect URIs in the app settings, then copy the client ID and client secret.
+
+WordPress.com [#wordpresscom]
+
+* **Create:** WordPress.com OAuth app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `WORDPRESS_CLIENT_ID`, `WORDPRESS_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/wordpress`
+* **Steps:** Open the WordPress.com developer app page, create an OAuth app, add the Aptlystar redirect URIs, then copy the client ID and client secret.
+
+DocuSign [#docusign]
+
+* **Create:** DocuSign app or integration key setup
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `DOCUSIGN_CLIENT_ID`, `DOCUSIGN_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/docusign`
+* **Steps:** Open DocuSign **Apps and Keys**, create a new app or integration key, enable OAuth, add the Aptlystar redirect URIs, then copy the client ID and client secret.
+
+Attio [#attio]
+
+* **Create:** Attio OAuth app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `ATTIO_CLIENT_ID`, `ATTIO_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/attio`
+* **Steps:** Open Attio's developer settings, create an OAuth app, add the Aptlystar callback URI, then copy the client ID and client secret.
+
+Cal.com [#calcom]
+
+* **Create:** Cal.com OAuth app
+* **Collect:** client ID
+* **Set in Aptlystar:** `CALCOM_CLIENT_ID`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/calcom`
+* **Steps:** Open Cal.com's developer settings, create an OAuth app, add the Aptlystar callback URI, then copy the client ID. The current Aptlystar env schema only exposes `CALCOM_CLIENT_ID`.
+
+Shopify [#shopify]
+
+* **Create:** Shopify app
+* **Collect:** client ID, client secret
+* **Set in Aptlystar:** `SHOPIFY_CLIENT_ID`, `SHOPIFY_CLIENT_SECRET`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/shopify`
+* **Steps:** Open the Shopify Partners dashboard, create an app, configure the App URL and allowed redirection URL(s), add the Aptlystar callback URI, then copy the client ID and client secret.
+* **Important:** Users also need to provide their `store-name.myshopify.com` domain when connecting Shopify inside Aptlystar.
+
+Trello [#trello]
+
+* **Create:** Trello API key setup
+* **Collect:** API key
+* **Set in Aptlystar:** `TRELLO_API_KEY`
+* **Redirect URI:** `${NEXT_PUBLIC_APP_URL}/api/auth/trello/callback`
+* **Steps:** Open Trello developer settings, generate an API key, register the Aptlystar return URL if Trello asks for it, then copy the API key into `TRELLO_API_KEY`.
+* **Important:** Trello does not use a client secret in the current Aptlystar flow.
+
+Quick Reference Matrix [#quick-reference-matrix]
+
+| Integration      | What you need to collect      | Aptlystar env vars                                 |
+| ---------------- | ----------------------------- | -------------------------------------------------- |
+| Google family    | client ID, client secret      | `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`         |
+| Microsoft family | client ID, client secret      | `MICROSOFT_CLIENT_ID`, `MICROSOFT_CLIENT_SECRET`   |
+| Confluence       | client ID, client secret      | `CONFLUENCE_CLIENT_ID`, `CONFLUENCE_CLIENT_SECRET` |
+| Jira             | client ID, client secret      | `JIRA_CLIENT_ID`, `JIRA_CLIENT_SECRET`             |
+| Slack            | client ID, client secret      | `SLACK_CLIENT_ID`, `SLACK_CLIENT_SECRET`           |
+| Notion           | client ID, client secret      | `NOTION_CLIENT_ID`, `NOTION_CLIENT_SECRET`         |
+| Monday.com       | client ID, client secret      | `MONDAY_CLIENT_ID`, `MONDAY_CLIENT_SECRET`         |
+| Airtable         | client ID, client secret      | `AIRTABLE_CLIENT_ID`, `AIRTABLE_CLIENT_SECRET`     |
+| HubSpot          | client ID, client secret      | `HUBSPOT_CLIENT_ID`, `HUBSPOT_CLIENT_SECRET`       |
+| Salesforce       | consumer key, consumer secret | `SALESFORCE_CLIENT_ID`, `SALESFORCE_CLIENT_SECRET` |
+| Linear           | client ID, client secret      | `LINEAR_CLIENT_ID`, `LINEAR_CLIENT_SECRET`         |
+| Box              | client ID, client secret      | `BOX_CLIENT_ID`, `BOX_CLIENT_SECRET`               |
+| Dropbox          | app key, app secret           | `DROPBOX_CLIENT_ID`, `DROPBOX_CLIENT_SECRET`       |
+| Asana            | client ID, client secret      | `ASANA_CLIENT_ID`, `ASANA_CLIENT_SECRET`           |
+| Pipedrive        | client ID, client secret      | `PIPEDRIVE_CLIENT_ID`, `PIPEDRIVE_CLIENT_SECRET`   |
+| Wealthbox        | client ID, client secret      | `WEALTHBOX_CLIENT_ID`, `WEALTHBOX_CLIENT_SECRET`   |
+| LinkedIn         | client ID, client secret      | `LINKEDIN_CLIENT_ID`, `LINKEDIN_CLIENT_SECRET`     |
+| Reddit           | client ID, client secret      | `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`         |
+| Webflow          | client ID, client secret      | `WEBFLOW_CLIENT_ID`, `WEBFLOW_CLIENT_SECRET`       |
+| X                | client ID, client secret      | `X_CLIENT_ID`, `X_CLIENT_SECRET`                   |
+| Zoom             | client ID, client secret      | `ZOOM_CLIENT_ID`, `ZOOM_CLIENT_SECRET`             |
+| Spotify          | client ID, client secret      | `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`       |
+| WordPress.com    | client ID, client secret      | `WORDPRESS_CLIENT_ID`, `WORDPRESS_CLIENT_SECRET`   |
+| DocuSign         | client ID, client secret      | `DOCUSIGN_CLIENT_ID`, `DOCUSIGN_CLIENT_SECRET`     |
+| Attio            | client ID, client secret      | `ATTIO_CLIENT_ID`, `ATTIO_CLIENT_SECRET`           |
+| Cal.com          | client ID                     | `CALCOM_CLIENT_ID`                                 |
+| Shopify          | client ID, client secret      | `SHOPIFY_CLIENT_ID`, `SHOPIFY_CLIENT_SECRET`       |
+| Trello           | API key                       | `TRELLO_API_KEY`                                   |
+
+Validation Checklist [#validation-checklist]
+
+* `BETTER_AUTH_URL` and `NEXT_PUBLIC_APP_URL` match the real public origin
+* all required redirect URIs are registered in the provider app
+* the client ID, client secret, or API key is stored in the correct Aptlystar env var
+* the provider app has the scopes Aptlystar expects
+* the integration can be connected from **Settings → Integrations**
+* token refresh or reconnect works after the initial connection
+
+Keep This Page Updated [#keep-this-page-updated]
+
+Update this page whenever:
+
+* a new provider is added in `apps/aptlystar/lib/auth/auth.ts`
+* a provider ID changes, because the callback path changes
+* env var names change in `apps/aptlystar/lib/core/config/env.ts`
+* scopes change in `apps/aptlystar/lib/oauth/oauth.ts`
+6:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$Ld",null,{"content":"$e"}]}],"$Lf"]}],"$L10","$L11"]}]
+7:["$","$L12",null,{"children":["$","div",null,{"className":"","children":[["$","p",null,{"children":"This guide is for workspace admins and operators who need to create OAuth apps for Aptlystar integrations. It focuses on the practical setup work: what app to create in each provider, what values to copy out of that provider, and which Aptlystar environment variables those values belong in."}],"\n",["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":["This page covers user-consent OAuth integrations. Google service accounts use a different flow. See ",["$","$L13",null,{"href":"/integrations/google-service-account","children":"Google Service Accounts"}],"."]}]}]]}]]}],"\n",["$","$L14",null,{"as":"h2","id":"what-you-need-from-each-provider","children":"What You Need From Each Provider"}],"\n",["$","p",null,{"children":"For almost every OAuth integration, you need to collect these values from the provider portal:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":["$","code",null,{"children":"client id"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"client secret"}]}],"\n",["$","li",null,{"children":"registered redirect URI or callback URL"}],"\n",["$","li",null,{"children":"approved scopes or permissions"}],"\n",["$","li",null,{"children":"sometimes an app review or publish step before the integration works for non-admin users"}],"\n"]}],"\n",["$","p",null,{"children":["The main exception in the current codebase is ",["$","code",null,{"children":"trello"}],", which uses an API key instead of a client ID and client secret pair."]}],"\n",["$","$L14",null,{"as":"h2","id":"how-redirect-uris-work-in-aptlystar","children":"How Redirect URIs Work In Aptlystar"}],"\n",["$","p",null,{"children":"Most integrations use this redirect URI pattern:"}],"\n",["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":["$","span",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/{provider-id}"}]}]}]}]}],"\n",["$","p",null,{"children":"Special cases:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","code",null,{"children":"shopify"}]," uses ",["$","code",null,{"children":"/api/auth/oauth2/callback/shopify"}]]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"trello"}]," uses ",["$","code",null,{"children":"/api/auth/trello/callback"}]]}],"\n"]}],"\n",["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-warning, var(--color-fd-muted))"},"children":["$L17","$L18","$L19"]}],"\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d"]}]}]
+8:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+9:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+a:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+b:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+c:["$","$L8e",null,{"children":["$","$8f",null,{"name":"Next.MetadataOutlet","children":"$@90"}]}]
+f:["$","$L91",null,{}]
+10:["$","$L92",null,{"className":"mb-2","children":"Create OAuth Apps For Integrations"}]
+11:["$","$L93",null,{"children":"What to create for each OAuth integration, which keys to collect, and how to get them"}]
+17:["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}]
+18:["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-triangle-alert size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","path","wmoenq",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"}],["$","path","juzpu7",{"d":"M12 9v4"}],["$","path","p32p05",{"d":"M12 17h.01"}],"$undefined"]}]
+19:["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":["Always register the public browser-facing URL, not ",["$","code",null,{"children":"INTERNAL_API_BASE_URL"}]," or any internal cluster URL."]}]}]]}]
+1a:["$","p",null,{"children":"Keep these two app env vars aligned for each environment:"}]
+1b:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"BETTER_AUTH_URL"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"=<"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"public"}],["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":" app"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" origi"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"n"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":">"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"NEXT_PUBLIC_APP_URL"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"=<"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"public"}],["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":" app"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" origi"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"n"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":">"}]]}]]}]}]}]
+1c:["$","$L14",null,{"as":"h2","id":"environment-examples","children":"Environment Examples"}]
+1d:["$","p",null,{"children":"Use your real public domain for each environment:"}]
+1e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Environment"}],["$","th",null,{"children":"Example public origin"}],["$","th",null,{"children":"Required app env"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Local"}],["$","td",null,{"children":["$","code",null,{"children":"http://localhost:3000"}]}],["$","td",null,{"children":[["$","code",null,{"children":"BETTER_AUTH_URL"}],", ",["$","code",null,{"children":"NEXT_PUBLIC_APP_URL"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Test"}],["$","td",null,{"children":["$","code",null,{"children":"https://staging.example.com"}]}],["$","td",null,{"children":[["$","code",null,{"children":"BETTER_AUTH_URL"}],", ",["$","code",null,{"children":"NEXT_PUBLIC_APP_URL"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Production"}],["$","td",null,{"children":["$","code",null,{"children":"https://app.example.com"}]}],["$","td",null,{"children":[["$","code",null,{"children":"BETTER_AUTH_URL"}],", ",["$","code",null,{"children":"NEXT_PUBLIC_APP_URL"}]]}]]}]]}]]}]}]
+1f:["$","p",null,{"children":"If a provider lets you register multiple redirect URIs in one OAuth app, you can usually use one provider app for local, test, and production. If a provider only allows one redirect URI, create one provider app per environment."}]
+20:["$","$L14",null,{"as":"h2","id":"the-basic-workflow","children":"The Basic Workflow"}]
+21:["$","div",null,{"className":"fd-steps","children":[["$","div",null,{"className":"fd-step","children":["$","p",null,{"children":"Pick the provider you want to enable in Aptlystar."}]}],["$","div",null,{"className":"fd-step","children":["$","p",null,{"children":"Create an OAuth app in that provider's developer portal."}]}],["$","div",null,{"className":"fd-step","children":["$","p",null,{"children":"Add the Aptlystar redirect URI for local, test, and production."}]}],["$","div",null,{"className":"fd-step","children":["$","p",null,{"children":"Copy the client ID, client secret, or API key into the matching Aptlystar env vars."}]}],["$","div",null,{"className":"fd-step","children":["$","p",null,{"children":["Restart the app, then test the connection in ",["$","strong",null,{"children":"Settings → Integrations"}],"."]}]}]]}]
+22:["$","$L14",null,{"as":"h2","id":"provider-groups-at-a-glance","children":"Provider Groups At A Glance"}]
+23:["$","p",null,{"children":"Some Aptlystar integrations share one provider app:"}]
+24:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Google: Gmail, Calendar, Drive, Docs, Sheets, Contacts, Forms, Ads, BigQuery, Vault, Groups, Meet, Tasks, Vertex AI"}],"\n",["$","li",null,{"children":"Microsoft: Teams, Excel, Dataverse, Planner, Outlook, OneDrive, SharePoint, Microsoft Ads"}],"\n",["$","li",null,{"children":"Atlassian: Confluence and Jira are separate registrations in the current codebase"}],"\n"]}]
+25:["$","p",null,{"children":"The rest are usually one provider app per integration."}]
+26:["$","$L14",null,{"as":"h2","id":"shared-provider-apps","children":"Shared Provider Apps"}]
+27:["$","$L14",null,{"as":"h3","id":"google-cloud","children":"Google Cloud"}]
+28:["$","p",null,{"children":["$","strong",null,{"children":"Covers"}]}]
+29:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Gmail"}],"\n",["$","li",null,{"children":"Google Calendar"}],"\n",["$","li",null,{"children":"Google Drive"}],"\n",["$","li",null,{"children":"Google Docs"}],"\n",["$","li",null,{"children":"Google Sheets"}],"\n",["$","li",null,{"children":"Google Contacts"}],"\n",["$","li",null,{"children":"Google Forms"}],"\n",["$","li",null,{"children":"Google Ads"}],"\n",["$","li",null,{"children":"BigQuery"}],"\n",["$","li",null,{"children":"Google Vault"}],"\n",["$","li",null,{"children":"Google Groups"}],"\n",["$","li",null,{"children":"Google Meet"}],"\n",["$","li",null,{"children":"Google Tasks"}],"\n",["$","li",null,{"children":"Vertex AI"}],"\n"]}]
+2a:["$","p",null,{"children":["$","strong",null,{"children":"Collect from Google"}]}]
+2b:["$","ul",null,{"children":["\n",["$","li",null,{"children":"client ID"}],"\n",["$","li",null,{"children":"client secret"}],"\n"]}]
+2c:["$","p",null,{"children":["$","strong",null,{"children":"Set in Aptlystar"}]}]
+2d:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"GOOGLE_CLIENT_ID"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"GOOGLE_CLIENT_SECRET"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}]]}]}]}]
+2e:["$","p",null,{"children":["$","strong",null,{"children":"Redirect URIs to register"}]}]
+2f:["$","ul",null,{"children":["\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-email"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-calendar"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-drive"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-docs"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-sheets"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-contacts"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-forms"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-ads"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-bigquery"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-vault"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-groups"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-meet"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/google-tasks"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/vertex-ai"}]}],"\n"]}]
+30:["$","p",null,{"children":["$","strong",null,{"children":"Steps"}]}]
+31:["$","ol",null,{"children":["\n",["$","li",null,{"children":"Open Google Cloud Console and create or pick a project."}],"\n",["$","li",null,{"children":["Open ",["$","strong",null,{"children":"APIs & Services"}]," and configure the OAuth consent screen."]}],"\n",["$","li",null,{"children":"Enable the APIs you plan to use."}],"\n",["$","li",null,{"children":["Open ",["$","strong",null,{"children":"Credentials"}]," and create an ",["$","strong",null,{"children":"OAuth client ID"}]," for a web application."]}],"\n",["$","li",null,{"children":"Add the Aptlystar redirect URIs above for local, test, and production."}],"\n",["$","li",null,{"children":["Copy the ",["$","strong",null,{"children":"client ID"}]," and ",["$","strong",null,{"children":"client secret"}]," into ",["$","code",null,{"children":"GOOGLE_CLIENT_ID"}]," and ",["$","code",null,{"children":"GOOGLE_CLIENT_SECRET"}],"."]}],"\n"]}]
+32:["$","p",null,{"children":["$","strong",null,{"children":"Notes"}]}]
+33:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Aptlystar requests offline access and stores refresh tokens."}],"\n",["$","li",null,{"children":["Review the provider scopes in ",["$","code",null,{"children":"apps/aptlystar/lib/oauth/oauth.ts"}]," before finalizing the consent screen."]}],"\n"]}]
+34:["$","$L14",null,{"as":"h3","id":"microsoft-entra-id","children":"Microsoft Entra ID"}]
+35:["$","p",null,{"children":["$","strong",null,{"children":"Covers"}]}]
+36:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Microsoft Ads"}],"\n",["$","li",null,{"children":"Microsoft Teams"}],"\n",["$","li",null,{"children":"Microsoft Excel"}],"\n",["$","li",null,{"children":"Microsoft Dataverse"}],"\n",["$","li",null,{"children":"Microsoft Planner"}],"\n",["$","li",null,{"children":"Outlook"}],"\n",["$","li",null,{"children":"OneDrive"}],"\n",["$","li",null,{"children":"SharePoint"}],"\n"]}]
+37:["$","p",null,{"children":["$","strong",null,{"children":"Collect from Microsoft"}]}]
+38:["$","ul",null,{"children":["\n",["$","li",null,{"children":"application/client ID"}],"\n",["$","li",null,{"children":"client secret"}],"\n"]}]
+39:["$","p",null,{"children":["$","strong",null,{"children":"Set in Aptlystar"}]}]
+3a:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"MICROSOFT_CLIENT_ID"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"MICROSOFT_CLIENT_SECRET"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}]]}]}]}]
+3b:["$","p",null,{"children":["$","strong",null,{"children":"Redirect URIs to register"}]}]
+3c:["$","ul",null,{"children":["\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/microsoft-ad"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/microsoft-teams"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/microsoft-excel"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/microsoft-dataverse"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/microsoft-planner"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/outlook"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/onedrive"}]}],"\n",["$","li",null,{"children":["$","code",null,{"children":"/api/auth/oauth2/callback/sharepoint"}]}],"\n"]}]
+3d:["$","p",null,{"children":["$","strong",null,{"children":"Steps"}]}]
+3e:["$","ol",null,{"children":["\n",["$","li",null,{"children":["Open Microsoft Entra ID and go to ",["$","strong",null,{"children":"App registrations"}],"."]}],"\n",["$","li",null,{"children":["Create a ",["$","strong",null,{"children":"New registration"}],"."]}],"\n",["$","li",null,{"children":["Under ",["$","strong",null,{"children":"Supported account types"}],", choose ",["$","strong",null,{"children":"Accounts in any organizational directory and personal Microsoft accounts"}]," if you want the app registration to allow both work/school accounts and personal Microsoft accounts."]}],"\n",["$","li",null,{"children":["Add a ",["$","strong",null,{"children":"Web"}]," redirect URI for each Aptlystar callback you need."]}],"\n",["$","li",null,{"children":["Open ",["$","strong",null,{"children":"Certificates & secrets"}]," and create a new client secret."]}],"\n",["$","li",null,{"children":["Open ",["$","strong",null,{"children":"API permissions"}]," and add the Microsoft Graph or Dataverse permissions needed by Aptlystar."]}],"\n",["$","li",null,{"children":["Copy the ",["$","strong",null,{"children":"Application (client) ID"}]," and the generated secret into ",["$","code",null,{"children":"MICROSOFT_CLIENT_ID"}]," and ",["$","code",null,{"children":"MICROSOFT_CLIENT_SECRET"}],"."]}],"\n"]}]
+3f:["$","p",null,{"children":["$","strong",null,{"children":"Notes"}]}]
+40:["$","ul",null,{"children":["\n",["$","li",null,{"children":["These integrations use PKCE and ",["$","code",null,{"children":"offline_access"}],"."]}],"\n",["$","li",null,{"children":["Review requested permissions in ",["$","code",null,{"children":"apps/aptlystar/lib/oauth/oauth.ts"}],"."]}],"\n",["$","li",null,{"children":"Even with a multi-tenant + personal app registration, not every Aptlystar Microsoft integration is practical for personal Microsoft accounts."}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"outlook"}],", ",["$","code",null,{"children":"onedrive"}],", and ",["$","code",null,{"children":"microsoft-excel"}]," are the most likely to work with personal accounts."]}],"\n",["$","li",null,{"children":[["$","code",null,{"children":"microsoft-ad"}],", ",["$","code",null,{"children":"microsoft-teams"}],", ",["$","code",null,{"children":"sharepoint"}],", ",["$","code",null,{"children":"microsoft-planner"}],", and ",["$","code",null,{"children":"microsoft-dataverse"}]," are typically work or school account integrations because they depend on org or tenant-level Microsoft Graph and Dataverse permissions."]}],"\n"]}]
+41:["$","$L14",null,{"as":"h3","id":"atlassian","children":"Atlassian"}]
+42:["$","p",null,{"children":"Atlassian uses separate app registrations in the current Aptlystar env model."}]
+43:["$","$L14",null,{"as":"h4","id":"confluence","children":"Confluence"}]
+44:["$","p",null,{"children":["$","strong",null,{"children":"Collect"}]}]
+45:["$","ul",null,{"children":["\n",["$","li",null,{"children":"client ID"}],"\n",["$","li",null,{"children":"client secret"}],"\n"]}]
+46:["$","p",null,{"children":["$","strong",null,{"children":"Set in Aptlystar"}]}]
+47:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"CONFLUENCE_CLIENT_ID"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"CONFLUENCE_CLIENT_SECRET"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}]]}]}]}]
+48:["$","p",null,{"children":["$","strong",null,{"children":"Redirect URI"}]}]
+49:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":["$","span",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/confluence"}]}]}]}]}]
+4a:["$","p",null,{"children":["$","strong",null,{"children":"Steps"}]}]
+4b:["$","ol",null,{"children":["\n",["$","li",null,{"children":"Open Atlassian's developer console."}],"\n",["$","li",null,{"children":"Create an OAuth 2.0 app for Confluence."}],"\n",["$","li",null,{"children":"Add the Aptlystar redirect URIs for local, test, and production."}],"\n",["$","li",null,{"children":"Configure the scopes Aptlystar needs."}],"\n",["$","li",null,{"children":["Copy the client ID and client secret into ",["$","code",null,{"children":"CONFLUENCE_CLIENT_ID"}]," and ",["$","code",null,{"children":"CONFLUENCE_CLIENT_SECRET"}],"."]}],"\n"]}]
+4c:["$","$L14",null,{"as":"h4","id":"jira","children":"Jira"}]
+4d:["$","p",null,{"children":["$","strong",null,{"children":"Collect"}]}]
+4e:["$","ul",null,{"children":["\n",["$","li",null,{"children":"client ID"}],"\n",["$","li",null,{"children":"client secret"}],"\n"]}]
+4f:["$","p",null,{"children":["$","strong",null,{"children":"Set in Aptlystar"}]}]
+50:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"JIRA_CLIENT_ID"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"JIRA_CLIENT_SECRET"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}]]}]]}]}]}]
+51:["$","p",null,{"children":["$","strong",null,{"children":"Redirect URI"}]}]
+52:["$","$L15",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L16",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":["$","span",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/jira"}]}]}]}]}]
+53:["$","p",null,{"children":["$","strong",null,{"children":"Steps"}]}]
+54:["$","ol",null,{"children":["\n",["$","li",null,{"children":"Open Atlassian's developer console."}],"\n",["$","li",null,{"children":"Create a separate OAuth 2.0 app for Jira."}],"\n",["$","li",null,{"children":"Add the Aptlystar redirect URIs."}],"\n",["$","li",null,{"children":"Configure Jira scopes, including the extra Jira Service Management scopes if you use JSM features."}],"\n",["$","li",null,{"children":["Copy the client ID and client secret into ",["$","code",null,{"children":"JIRA_CLIENT_ID"}]," and ",["$","code",null,{"children":"JIRA_CLIENT_SECRET"}],"."]}],"\n"]}]
+55:["$","$L14",null,{"as":"h2","id":"one-provider-app-per-integration","children":"One Provider App Per Integration"}]
+56:["$","p",null,{"children":"The sections below tell you what to create and what to collect for the remaining OAuth integrations."}]
+57:["$","$L14",null,{"as":"h3","id":"slack","children":"Slack"}]
+58:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Slack app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"SLACK_CLIENT_ID"}],", ",["$","code",null,{"children":"SLACK_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/slack"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Slack API apps, create a new app, add redirect URIs under ",["$","strong",null,{"children":"OAuth & Permissions"}],", add the scopes Aptlystar needs, then copy the client ID and client secret from the app settings."]}],"\n"]}]
+59:["$","$L14",null,{"as":"h3","id":"notion","children":"Notion"}]
+5a:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Notion public integration"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"NOTION_CLIENT_ID"}],", ",["$","code",null,{"children":"NOTION_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/notion"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Notion integrations portal, create a new public integration, add the Aptlystar redirect URIs in the OAuth settings, then copy the client ID and client secret."]}],"\n"]}]
+5b:["$","$L14",null,{"as":"h3","id":"mondaycom","children":"Monday.com"}]
+5c:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Monday app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"MONDAY_CLIENT_ID"}],", ",["$","code",null,{"children":"MONDAY_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/monday"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Monday developer center, create an app, enable OAuth, add Aptlystar redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+5d:["$","$L14",null,{"as":"h3","id":"airtable","children":"Airtable"}]
+5e:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Airtable OAuth integration"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"AIRTABLE_CLIENT_ID"}],", ",["$","code",null,{"children":"AIRTABLE_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/airtable"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Airtable's developer area, create a new OAuth integration, register the Aptlystar redirect URIs, configure the scopes, then copy the client ID and client secret."]}],"\n"]}]
+5f:["$","$L14",null,{"as":"h3","id":"hubspot","children":"HubSpot"}]
+60:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," HubSpot public app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"HUBSPOT_CLIENT_ID"}],", ",["$","code",null,{"children":"HUBSPOT_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/hubspot"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open your HubSpot developer account, create an app, open the ",["$","strong",null,{"children":"Auth"}]," section, add the Aptlystar redirect URIs, set the required scopes, then copy the client ID and client secret."]}],"\n"]}]
+61:["$","$L14",null,{"as":"h3","id":"salesforce","children":"Salesforce"}]
+62:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Salesforce connected app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," consumer key, consumer secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"SALESFORCE_CLIENT_ID"}],", ",["$","code",null,{"children":"SALESFORCE_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/salesforce"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Salesforce ",["$","strong",null,{"children":"App Manager"}],", create a ",["$","strong",null,{"children":"New Connected App"}],", enable OAuth settings, add the Aptlystar callback URI, choose the required scopes, then copy the consumer key and consumer secret into the Aptlystar env vars."]}],"\n"]}]
+63:["$","$L14",null,{"as":"h3","id":"linear","children":"Linear"}]
+64:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Linear OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"LINEAR_CLIENT_ID"}],", ",["$","code",null,{"children":"LINEAR_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/linear"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Linear developer settings, create an OAuth app, add the Aptlystar redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+65:["$","$L14",null,{"as":"h3","id":"box","children":"Box"}]
+66:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Box custom app with OAuth 2.0 user authentication"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"BOX_CLIENT_ID"}],", ",["$","code",null,{"children":"BOX_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/box"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Box developer console, create a custom app that uses OAuth 2.0, add the Aptlystar redirect URIs, enable the scopes you need, then copy the client ID and client secret."]}],"\n"]}]
+67:["$","$L14",null,{"as":"h3","id":"dropbox","children":"Dropbox"}]
+68:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Dropbox app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," app key, app secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"DROPBOX_CLIENT_ID"}],", ",["$","code",null,{"children":"DROPBOX_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/dropbox"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Dropbox App Console, create an app, add the Aptlystar redirect URIs, configure the required permissions, then copy the app key and app secret."]}],"\n"]}]
+69:["$","$L14",null,{"as":"h3","id":"asana","children":"Asana"}]
+6a:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Asana OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"ASANA_CLIENT_ID"}],", ",["$","code",null,{"children":"ASANA_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/asana"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Asana developer console, create a new app, add the Aptlystar callback URI, then copy the client ID and client secret."]}],"\n"]}]
+6b:["$","$L14",null,{"as":"h3","id":"pipedrive","children":"Pipedrive"}]
+6c:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Pipedrive OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"PIPEDRIVE_CLIENT_ID"}],", ",["$","code",null,{"children":"PIPEDRIVE_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/pipedrive"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Pipedrive's developer portal, create an OAuth app, add the Aptlystar redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+6d:["$","$L14",null,{"as":"h3","id":"wealthbox","children":"Wealthbox"}]
+6e:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Wealthbox OAuth application"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"WEALTHBOX_CLIENT_ID"}],", ",["$","code",null,{"children":"WEALTHBOX_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/wealthbox"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Wealthbox developer settings, create an OAuth application, register the Aptlystar callback URI, then copy the client ID and client secret."]}],"\n"]}]
+6f:["$","$L14",null,{"as":"h3","id":"linkedin","children":"LinkedIn"}]
+70:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," LinkedIn app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"LINKEDIN_CLIENT_ID"}],", ",["$","code",null,{"children":"LINKEDIN_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/linkedin"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the LinkedIn developer portal, create an app, open the auth products or OAuth settings, add the Aptlystar redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+71:["$","$L14",null,{"as":"h3","id":"reddit","children":"Reddit"}]
+72:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Reddit web app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"REDDIT_CLIENT_ID"}],", ",["$","code",null,{"children":"REDDIT_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/reddit"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Reddit app preferences, create a new ",["$","strong",null,{"children":"web app"}],", add the Aptlystar callback URI, then copy the app ID as the client ID and the secret as the client secret."]}],"\n"]}]
+73:["$","$L14",null,{"as":"h3","id":"webflow","children":"Webflow"}]
+74:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Webflow app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"WEBFLOW_CLIENT_ID"}],", ",["$","code",null,{"children":"WEBFLOW_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/webflow"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Webflow developer portal, create an app, configure OAuth redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+75:["$","$L14",null,{"as":"h3","id":"x","children":"X"}]
+76:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," X app with OAuth 2.0 user authentication"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"X_CLIENT_ID"}],", ",["$","code",null,{"children":"X_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/x"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the X developer portal, create a project and app if needed, enable OAuth 2.0 user authentication, add the Aptlystar callback URI, then copy the client ID and client secret."]}],"\n"]}]
+77:["$","$L14",null,{"as":"h3","id":"zoom","children":"Zoom"}]
+78:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Zoom OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"ZOOM_CLIENT_ID"}],", ",["$","code",null,{"children":"ZOOM_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/zoom"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Zoom Marketplace, build an OAuth app, add Aptlystar redirect URIs, configure scopes, then copy the client ID and client secret."]}],"\n"]}]
+79:["$","$L14",null,{"as":"h3","id":"spotify","children":"Spotify"}]
+7a:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Spotify app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"SPOTIFY_CLIENT_ID"}],", ",["$","code",null,{"children":"SPOTIFY_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/spotify"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Spotify developer dashboard, create an app, add the Aptlystar redirect URIs in the app settings, then copy the client ID and client secret."]}],"\n"]}]
+7b:["$","$L14",null,{"as":"h3","id":"wordpresscom","children":"WordPress.com"}]
+7c:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," WordPress.com OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"WORDPRESS_CLIENT_ID"}],", ",["$","code",null,{"children":"WORDPRESS_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/wordpress"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the WordPress.com developer app page, create an OAuth app, add the Aptlystar redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+7d:["$","$L14",null,{"as":"h3","id":"docusign","children":"DocuSign"}]
+7e:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," DocuSign app or integration key setup"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"DOCUSIGN_CLIENT_ID"}],", ",["$","code",null,{"children":"DOCUSIGN_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/docusign"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open DocuSign ",["$","strong",null,{"children":"Apps and Keys"}],", create a new app or integration key, enable OAuth, add the Aptlystar redirect URIs, then copy the client ID and client secret."]}],"\n"]}]
+7f:["$","$L14",null,{"as":"h3","id":"attio","children":"Attio"}]
+80:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Attio OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"ATTIO_CLIENT_ID"}],", ",["$","code",null,{"children":"ATTIO_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/attio"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Attio's developer settings, create an OAuth app, add the Aptlystar callback URI, then copy the client ID and client secret."]}],"\n"]}]
+81:["$","$L14",null,{"as":"h3","id":"calcom","children":"Cal.com"}]
+82:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Cal.com OAuth app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"CALCOM_CLIENT_ID"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/calcom"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Cal.com's developer settings, create an OAuth app, add the Aptlystar callback URI, then copy the client ID. The current Aptlystar env schema only exposes ",["$","code",null,{"children":"CALCOM_CLIENT_ID"}],"."]}],"\n"]}]
+83:["$","$L14",null,{"as":"h3","id":"shopify","children":"Shopify"}]
+84:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Shopify app"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," client ID, client secret"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"SHOPIFY_CLIENT_ID"}],", ",["$","code",null,{"children":"SHOPIFY_CLIENT_SECRET"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/oauth2/callback/shopify"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open the Shopify Partners dashboard, create an app, configure the App URL and allowed redirection URL(s), add the Aptlystar callback URI, then copy the client ID and client secret."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Important:"}]," Users also need to provide their ",["$","code",null,{"children":"store-name.myshopify.com"}]," domain when connecting Shopify inside Aptlystar."]}],"\n"]}]
+85:["$","$L14",null,{"as":"h3","id":"trello","children":"Trello"}]
+86:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Create:"}]," Trello API key setup"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collect:"}]," API key"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Set in Aptlystar:"}]," ",["$","code",null,{"children":"TRELLO_API_KEY"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Redirect URI:"}]," ",["$","code",null,{"children":"$${NEXT_PUBLIC_APP_URL}/api/auth/trello/callback"}]]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Steps:"}]," Open Trello developer settings, generate an API key, register the Aptlystar return URL if Trello asks for it, then copy the API key into ",["$","code",null,{"children":"TRELLO_API_KEY"}],"."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Important:"}]," Trello does not use a client secret in the current Aptlystar flow."]}],"\n"]}]
+87:["$","$L14",null,{"as":"h2","id":"quick-reference-matrix","children":"Quick Reference Matrix"}]
+88:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Integration"}],["$","th",null,{"children":"What you need to collect"}],["$","th",null,{"children":"Aptlystar env vars"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Google family"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"GOOGLE_CLIENT_ID"}],", ",["$","code",null,{"children":"GOOGLE_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Microsoft family"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"MICROSOFT_CLIENT_ID"}],", ",["$","code",null,{"children":"MICROSOFT_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Confluence"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"CONFLUENCE_CLIENT_ID"}],", ",["$","code",null,{"children":"CONFLUENCE_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Jira"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"JIRA_CLIENT_ID"}],", ",["$","code",null,{"children":"JIRA_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Slack"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"SLACK_CLIENT_ID"}],", ",["$","code",null,{"children":"SLACK_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Notion"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"NOTION_CLIENT_ID"}],", ",["$","code",null,{"children":"NOTION_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Monday.com"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"MONDAY_CLIENT_ID"}],", ",["$","code",null,{"children":"MONDAY_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Airtable"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"AIRTABLE_CLIENT_ID"}],", ",["$","code",null,{"children":"AIRTABLE_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"HubSpot"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"HUBSPOT_CLIENT_ID"}],", ",["$","code",null,{"children":"HUBSPOT_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Salesforce"}],["$","td",null,{"children":"consumer key, consumer secret"}],["$","td",null,{"children":[["$","code",null,{"children":"SALESFORCE_CLIENT_ID"}],", ",["$","code",null,{"children":"SALESFORCE_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Linear"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"LINEAR_CLIENT_ID"}],", ",["$","code",null,{"children":"LINEAR_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Box"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"BOX_CLIENT_ID"}],", ",["$","code",null,{"children":"BOX_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Dropbox"}],["$","td",null,{"children":"app key, app secret"}],["$","td",null,{"children":[["$","code",null,{"children":"DROPBOX_CLIENT_ID"}],", ",["$","code",null,{"children":"DROPBOX_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Asana"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"ASANA_CLIENT_ID"}],", ",["$","code",null,{"children":"ASANA_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Pipedrive"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"PIPEDRIVE_CLIENT_ID"}],", ",["$","code",null,{"children":"PIPEDRIVE_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Wealthbox"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"WEALTHBOX_CLIENT_ID"}],", ",["$","code",null,{"children":"WEALTHBOX_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"LinkedIn"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"LINKEDIN_CLIENT_ID"}],", ",["$","code",null,{"children":"LINKEDIN_CLIENT_SECRET"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Reddit"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"REDDIT_CLIENT_ID"}],", ","$L94"]}]]}],"$L95","$L96","$L97","$L98","$L99","$L9a","$L9b","$L9c","$L9d","$L9e"]}]]}]}]
+89:["$","$L14",null,{"as":"h2","id":"validation-checklist","children":"Validation Checklist"}]
+8a:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","code",null,{"children":"BETTER_AUTH_URL"}]," and ",["$","code",null,{"children":"NEXT_PUBLIC_APP_URL"}]," match the real public origin"]}],"\n",["$","li",null,{"children":"all required redirect URIs are registered in the provider app"}],"\n",["$","li",null,{"children":"the client ID, client secret, or API key is stored in the correct Aptlystar env var"}],"\n",["$","li",null,{"children":"the provider app has the scopes Aptlystar expects"}],"\n",["$","li",null,{"children":["the integration can be connected from ",["$","strong",null,{"children":"Settings → Integrations"}]]}],"\n",["$","li",null,{"children":"token refresh or reconnect works after the initial connection"}],"\n"]}]
+8b:["$","$L14",null,{"as":"h2","id":"keep-this-page-updated","children":"Keep This Page Updated"}]
+8c:["$","p",null,{"children":"Update this page whenever:"}]
+8d:["$","ul",null,{"children":["\n",["$","li",null,{"children":["a new provider is added in ",["$","code",null,{"children":"apps/aptlystar/lib/auth/auth.ts"}]]}],"\n",["$","li",null,{"children":"a provider ID changes, because the callback path changes"}],"\n",["$","li",null,{"children":["env var names change in ",["$","code",null,{"children":"apps/aptlystar/lib/core/config/env.ts"}]]}],"\n",["$","li",null,{"children":["scopes change in ",["$","code",null,{"children":"apps/aptlystar/lib/oauth/oauth.ts"}]]}],"\n"]}]
+90:null
+94:["$","code",null,{"children":"REDDIT_CLIENT_SECRET"}]
+95:["$","tr",null,{"children":[["$","td",null,{"children":"Webflow"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"WEBFLOW_CLIENT_ID"}],", ",["$","code",null,{"children":"WEBFLOW_CLIENT_SECRET"}]]}]]}]
+96:["$","tr",null,{"children":[["$","td",null,{"children":"X"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"X_CLIENT_ID"}],", ",["$","code",null,{"children":"X_CLIENT_SECRET"}]]}]]}]
+97:["$","tr",null,{"children":[["$","td",null,{"children":"Zoom"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"ZOOM_CLIENT_ID"}],", ",["$","code",null,{"children":"ZOOM_CLIENT_SECRET"}]]}]]}]
+98:["$","tr",null,{"children":[["$","td",null,{"children":"Spotify"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"SPOTIFY_CLIENT_ID"}],", ",["$","code",null,{"children":"SPOTIFY_CLIENT_SECRET"}]]}]]}]
+99:["$","tr",null,{"children":[["$","td",null,{"children":"WordPress.com"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"WORDPRESS_CLIENT_ID"}],", ",["$","code",null,{"children":"WORDPRESS_CLIENT_SECRET"}]]}]]}]
+9a:["$","tr",null,{"children":[["$","td",null,{"children":"DocuSign"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"DOCUSIGN_CLIENT_ID"}],", ",["$","code",null,{"children":"DOCUSIGN_CLIENT_SECRET"}]]}]]}]
+9b:["$","tr",null,{"children":[["$","td",null,{"children":"Attio"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"ATTIO_CLIENT_ID"}],", ",["$","code",null,{"children":"ATTIO_CLIENT_SECRET"}]]}]]}]
+9c:["$","tr",null,{"children":[["$","td",null,{"children":"Cal.com"}],["$","td",null,{"children":"client ID"}],["$","td",null,{"children":["$","code",null,{"children":"CALCOM_CLIENT_ID"}]}]]}]
+9d:["$","tr",null,{"children":[["$","td",null,{"children":"Shopify"}],["$","td",null,{"children":"client ID, client secret"}],["$","td",null,{"children":[["$","code",null,{"children":"SHOPIFY_CLIENT_ID"}],", ",["$","code",null,{"children":"SHOPIFY_CLIENT_SECRET"}]]}]]}]
+9e:["$","tr",null,{"children":[["$","td",null,{"children":"Trello"}],["$","td",null,{"children":"API key"}],["$","td",null,{"children":["$","code",null,{"children":"TRELLO_API_KEY"}]}]]}]

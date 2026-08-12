@@ -1,0 +1,462 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+14:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+19:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+1a:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+1b:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+1c:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+71:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+72:"$Sreact.suspense"
+74:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+75:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+76:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Google Slides\",\"description\":\"Präsentationen lesen, schreiben und erstellen\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/google_slides\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/google_slides\"},\"inLanguage\":\"de\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/google_slides\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Google Slides\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/google_slides\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#nutzungsanleitung","title":"Nutzungsanleitung"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#google_slides_read","title":["$","code",null,{"children":"google_slides_read"}]},{"depth":4,"url":"#eingabe","title":"Eingabe"},{"depth":4,"url":"#ausgabe","title":"Ausgabe"},{"depth":3,"url":"#google_slides_write","title":["$","code",null,{"children":"google_slides_write"}]},{"depth":4,"url":"#eingabe-1","title":"Eingabe"},{"depth":4,"url":"#ausgabe-1","title":"Ausgabe"},{"depth":3,"url":"#google_slides_create","title":["$","code",null,{"children":"google_slides_create"}]},{"depth":4,"url":"#eingabe-2","title":"Eingabe"},{"depth":4,"url":"#ausgabe-2","title":"Ausgabe"},{"depth":3,"url":"#google_slides_replace_all_text","title":["$","code",null,{"children":"google_slides_replace_all_text"}]},{"depth":4,"url":"#eingabe-3","title":"Eingabe"},{"depth":4,"url":"#ausgabe-3","title":"Ausgabe"},{"depth":3,"url":"#google_slides_add_slide","title":["$","code",null,{"children":"google_slides_add_slide"}]},{"depth":4,"url":"#eingabe-4","title":"Eingabe"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#google_slides_add_image","title":["$","code",null,{"children":"google_slides_add_image"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#google_slides_get_thumbnail","title":["$","code",null,{"children":"google_slides_get_thumbnail"}]},{"depth":4,"url":"#eingabe-5","title":"Eingabe"},{"depth":4,"url":"#ausgabe-4","title":"Ausgabe"},{"depth":2,"url":"#hinweise","title":"Hinweise"},{"depth":4,"url":"#eingabe-6","title":"Eingabe"},{"depth":4,"url":"#ausgabe-5","title":"Ausgabe"},{"depth":3,"url":"#google_slides_delete_object","title":["$","code",null,{"children":"google_slides_delete_object"}]},{"depth":4,"url":"#eingabe-7","title":"Eingabe"},{"depth":4,"url":"#ausgabe-6","title":"Ausgabe"},{"depth":3,"url":"#google_slides_duplicate_object","title":["$","code",null,{"children":"google_slides_duplicate_object"}]},{"depth":4,"url":"#eingabe-8","title":"Eingabe"},{"depth":4,"url":"#ausgabe-7","title":"Ausgabe"},{"depth":3,"url":"#google_slides_update_slides_position","title":["$","code",null,{"children":"google_slides_update_slides_position"}]},{"depth":4,"url":"#eingabe-9","title":"Eingabe"},{"depth":4,"url":"#ausgabe-8","title":"Ausgabe"},{"depth":3,"url":"#google_slides_create_table","title":"$L3"},{"depth":4,"url":"#eingabe-10","title":"$L4"},{"depth":4,"url":"#ausgabe-9","title":"$L5"},{"depth":3,"url":"#google_slides_create_shape","title":"$L6"},{"depth":4,"url":"#eingabe-11","title":"$L7"},{"depth":4,"url":"#ausgabe-10","title":"$L8"},{"depth":3,"url":"#google_slides_insert_text","title":"$L9"},{"depth":4,"url":"#eingabe-12","title":"$La"},{"depth":4,"url":"#ausgabe-11","title":"$Lb"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$Lc"},"children":["$Ld","$Le"]}]],["$Lf","$L10","$L11","$L12"],"$L13"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"google_slides_create_table"}]
+4:"Eingabe"
+5:"Ausgabe"
+6:["$","code",null,{"children":"google_slides_create_shape"}]
+7:"Eingabe"
+8:"Ausgabe"
+9:["$","code",null,{"children":"google_slides_insert_text"}]
+a:"Eingabe"
+b:"Ausgabe"
+c:null
+15:T6d8a,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="google_slides" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Google Slides](https://slides.google.com) ist eine dynamische cloudbasierte Präsentationsanwendung, mit der Benutzer in Echtzeit Präsentationen erstellen, bearbeiten, gemeinsam daran arbeiten und präsentieren können. Als Teil der Google-Produktivitätssuite bietet Google Slides eine flexible Plattform zum Gestalten ansprechender Präsentationen, zur Zusammenarbeit mit anderen und zum nahtlosen Teilen von Inhalten über die Cloud.
+
+Erfahren Sie, wie Sie die Google Slides-Tools in Aptlystar integrieren können, um Präsentationen mühelos als Teil Ihrer automatisierten Workflows zu verwalten. Mit Aptlystar können Sie Google Slides-Präsentationen direkt über Ihre Agenten und automatisierten Prozesse lesen, schreiben, erstellen und aktualisieren, wodurch es einfach wird, aktuelle Informationen zu liefern, benutzerdefinierte Berichte zu generieren oder Marken-Präsentationen programmatisch zu erstellen.
+
+Mit Google Slides können Sie:
+
+* **Präsentationen erstellen und bearbeiten**: Gestalten Sie visuell ansprechende Folien mit Designs, Layouts und Multimedia-Inhalten
+* **In Echtzeit zusammenarbeiten**: Arbeiten Sie gleichzeitig mit Teammitgliedern, kommentieren Sie, weisen Sie Aufgaben zu und erhalten Sie Live-Feedback zu Präsentationen
+* **Überall präsentieren**: Zeigen Sie Präsentationen online oder offline an, teilen Sie Links oder veröffentlichen Sie im Web
+* **Bilder und umfangreiche Inhalte hinzufügen**: Fügen Sie Bilder, Grafiken, Diagramme und Videos ein, um Ihre Präsentationen ansprechend zu gestalten
+* **Mit anderen Diensten integrieren**: Verbinden Sie sich nahtlos mit Google Drive, Docs, Sheets und anderen Drittanbieter-Tools
+* **Von jedem Gerät aus zugreifen**: Nutzen Sie Google Slides auf Desktop-Computern, Laptops, Tablets und mobilen Geräten für maximale Flexibilität
+
+In Aptlystar ermöglicht die Google Slides-Integration Ihren Agenten, direkt programmatisch mit Präsentationsdateien zu interagieren. Automatisieren Sie Aufgaben wie das Lesen von Folieninhalten, das Einfügen neuer Folien oder Bilder, das Ersetzen von Text in einer gesamten Präsentation, das Erstellen neuer Präsentationen und das Abrufen von Folien-Miniaturansichten. Dies ermöglicht Ihnen, die Inhaltserstellung zu skalieren, Präsentationen aktuell zu halten und sie in automatisierte Dokumenten-Workflows einzubetten. Durch die Verbindung von Aptlystar mit Google Slides ermöglichen Sie KI-gestütztes Präsentationsmanagement – so wird es einfach, Präsentationen ohne manuellen Aufwand zu generieren, zu aktualisieren oder Informationen daraus zu extrahieren.
+
+{/* MANUAL-CONTENT-END */}
+
+Nutzungsanleitung [#nutzungsanleitung]
+
+Integrieren Sie Google Slides in den Workflow. Kann Präsentationen lesen, schreiben, erstellen, Text ersetzen, Folien hinzufügen, Bilder einfügen und Vorschaubilder abrufen.
+
+Tools [#tools]
+
+google_slides_read [#google_slides_read]
+
+Inhalte aus einer Google Slides-Präsentation lesen
+
+Eingabe [#eingabe]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                        |
+| ---------------- | ------ | ------------ | ----------------------------------- |
+| `presentationId` | string | Ja           | Die ID der zu lesenden Präsentation |
+
+Ausgabe [#ausgabe]
+
+| Parameter  | Typ  | Beschreibung                                            |
+| ---------- | ---- | ------------------------------------------------------- |
+| `slides`   | json | Array von Folien mit ihren Inhalten                     |
+| `metadata` | json | Präsentationsmetadaten einschließlich ID, Titel und URL |
+
+google_slides_write [#google_slides_write]
+
+Inhalte in einer Google Slides-Präsentation schreiben oder aktualisieren
+
+Eingabe [#eingabe-1]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                        |
+| ---------------- | ------ | ------------ | ----------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Präsentation, in die geschrieben werden soll                             |
+| `content`        | string | Ja           | Der Inhalt, der in die Folie geschrieben werden soll                                |
+| `slideIndex`     | number | Nein         | Der Index der Folie, in die geschrieben werden soll (standardmäßig die erste Folie) |
+
+Ausgabe [#ausgabe-1]
+
+| Parameter        | Typ     | Beschreibung                                                          |
+| ---------------- | ------- | --------------------------------------------------------------------- |
+| `updatedContent` | boolean | Gibt an, ob der Präsentationsinhalt erfolgreich aktualisiert wurde    |
+| `metadata`       | json    | Aktualisierte Präsentationsmetadaten einschließlich ID, Titel und URL |
+
+google_slides_create [#google_slides_create]
+
+Eine neue Google Slides-Präsentation erstellen
+
+Eingabe [#eingabe-2]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                          |
+| ---------------- | ------ | ------------ | ------------------------------------------------------------------------------------- |
+| `title`          | string | Ja           | Der Titel der zu erstellenden Präsentation                                            |
+| `content`        | string | Nein         | Der Inhalt, der zur ersten Folie hinzugefügt werden soll                              |
+| `folderSelector` | string | Nein         | Wählen Sie den Ordner aus, in dem die Präsentation erstellt werden soll               |
+| `folderId`       | string | Nein         | Die ID des Ordners, in dem die Präsentation erstellt werden soll (interne Verwendung) |
+
+Ausgabe [#ausgabe-2]
+
+| Parameter  | Typ  | Beschreibung                                                           |
+| ---------- | ---- | ---------------------------------------------------------------------- |
+| `metadata` | json | Metadaten der erstellten Präsentation einschließlich ID, Titel und URL |
+
+google_slides_replace_all_text [#google_slides_replace_all_text]
+
+Suchen und ersetzen aller Textvorkommen in einer Google Slides-Präsentation
+
+Eingabe [#eingabe-3]
+
+| Parameter        | Typ     | Erforderlich | Beschreibung                                                                                                                |
+| ---------------- | ------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| `presentationId` | string  | Ja           | Die ID der Präsentation                                                                                                     |
+| `findText`       | string  | Ja           | Der zu suchende Text (z.B. \{\{placeholder}})                                                                               |
+| `replaceText`    | string  | Ja           | Der Text, durch den ersetzt werden soll                                                                                     |
+| `matchCase`      | boolean | Nein         | Ob die Suche Groß-/Kleinschreibung berücksichtigen soll (Standard: true)                                                    |
+| `pageObjectIds`  | string  | Nein         | Kommagetrennte Liste von Folienobjekt-IDs, um Ersetzungen auf bestimmte Folien zu beschränken (leer lassen für alle Folien) |
+
+Ausgabe [#ausgabe-3]
+
+| Parameter            | Typ    | Beschreibung                                                |
+| -------------------- | ------ | ----------------------------------------------------------- |
+| `occurrencesChanged` | number | Anzahl der Textvorkommen, die ersetzt wurden                |
+| `metadata`           | json   | Operationsmetadaten einschließlich Präsentations-ID und URL |
+
+google_slides_add_slide [#google_slides_add_slide]
+
+Eine neue Folie mit einem bestimmten Layout zu einer Google Slides-Präsentation hinzufügen
+
+Eingabe [#eingabe-4]
+
+| Parameter               | Typ    | Erforderlich | Beschreibung                                                                                                                                                                         |
+| ----------------------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `presentationId`        | string | Ja           | Die ID der Präsentation                                                                                                                                                              |
+| `layout`                | string | Nein         | Das vordefinierte Layout für die Folie (BLANK, TITLE, TITLE\_AND\_BODY, TITLE\_ONLY, SECTION\_HEADER, usw.). Standard ist BLANK.                                                     |
+| `insertionIndex`        | number | Nein         | Der optionale nullbasierte Index, der angibt, wo die Folie eingefügt werden soll. Wenn nicht angegeben, wird die Folie am Ende hinzugefügt.                                          |
+| `placeholderIdMappings` | string | Nein         | JSON-Array von Platzhalter-Zuordnungen, um Platzhaltern benutzerdefinierte Objekt-IDs zuzuweisen. Format: \[\{"layoutPlaceholder":\{"type":"TITLE"},"objectId":"custom\_title\_id"}] |
+
+Output [#output]
+
+| Parameter  | Type   | Beschreibung                                                        |
+| ---------- | ------ | ------------------------------------------------------------------- |
+| `slideId`  | string | Die Objekt-ID der neu erstellten Folie                              |
+| `metadata` | json   | Operationsmetadaten einschließlich Präsentations-ID, Layout und URL |
+
+google_slides_add_image [#google_slides_add_image]
+
+Ein Bild in eine bestimmte Folie einer Google Slides-Präsentation einfügen
+
+Input [#input]
+
+| Parameter        | Type   | Erforderlich | Beschreibung                                                                        |
+| ---------------- | ------ | ------------ | ----------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Präsentation                                                             |
+| `pageObjectId`   | string | Ja           | Die Objekt-ID der Folie/Seite, zu der das Bild hinzugefügt werden soll              |
+| `imageUrl`       | string | Ja           | Die öffentlich zugängliche URL des Bildes (muss PNG, JPEG oder GIF sein, max. 50MB) |
+| `width`          | number | Nein         | Breite des Bildes in Punkten (Standard: 300)                                        |
+| `height`         | number | Nein         | Höhe des Bildes in Punkten (Standard: 200)                                          |
+| `positionX`      | number | Nein         | X-Position vom linken Rand in Punkten (Standard: 100)                               |
+| `positionY`      | number | Nein         | Y-Position vom oberen Rand in Punkten (Standard: 100)                               |
+
+Output [#output-1]
+
+| Parameter  | Type   | Beschreibung                                                     |
+| ---------- | ------ | ---------------------------------------------------------------- |
+| `imageId`  | string | Die Objekt-ID des neu erstellten Bildes                          |
+| `metadata` | json   | Operationsmetadaten einschließlich Präsentations-ID und Bild-URL |
+
+google_slides_get_thumbnail [#google_slides_get_thumbnail]
+
+Ein Vorschaubild einer bestimmten Folie in einer Google Slides-Präsentation generieren
+
+Eingabe [#eingabe-5]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                                       |
+| ---------------- | ------ | ------------ | -------------------------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Präsentation                                                                            |
+| `pageObjectId`   | string | Ja           | Die Objekt-ID der Folie/Seite, für die ein Thumbnail erstellt werden soll                          |
+| `thumbnailSize`  | string | Nein         | Die Größe des Thumbnails: SMALL (200px), MEDIUM (800px) oder LARGE (1600px). Standardmäßig MEDIUM. |
+| `mimeType`       | string | Nein         | Der MIME-Typ des Thumbnail-Bildes: PNG oder GIF. Standardmäßig PNG.                                |
+
+Ausgabe [#ausgabe-4]
+
+| Parameter    | Typ    | Beschreibung                                                            |
+| ------------ | ------ | ----------------------------------------------------------------------- |
+| `contentUrl` | string | URL zum Thumbnail-Bild (gültig für 30 Minuten)                          |
+| `width`      | number | Breite des Thumbnails in Pixeln                                         |
+| `height`     | number | Höhe des Thumbnails in Pixeln                                           |
+| `metadata`   | json   | Operationsmetadaten einschließlich Präsentations-ID und Seitenobjekt-ID |
+
+Hinweise [#hinweise]
+
+* Kategorie: `tools`
+* Typ: `google_slides`
+
+Eingabe [#eingabe-6]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                             |
+| ---------------- | ------ | ------------ | -------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Präsentation                                  |
+| `pageObjectId`   | string | Ja           | Die Objekt-ID der Folie/Seite, die abgerufen werden soll |
+
+Ausgabe [#ausgabe-5]
+
+| Parameter          | Typ    | Beschreibung                                                               |
+| ------------------ | ------ | -------------------------------------------------------------------------- |
+| `objectId`         | string | Die Objekt-ID der Seite                                                    |
+| `pageType`         | string | Der Typ der Seite (SLIDE, MASTER, LAYOUT, NOTES, NOTES\_MASTER)            |
+| `pageElements`     | array  | Array von Seitenelementen (Formen, Bilder, Tabellen usw.) auf dieser Seite |
+| `slideProperties`  | object | Eigenschaften, die spezifisch für Folien sind (Layout, Master, Notizen)    |
+| ↳ `layoutObjectId` | string | Objekt-ID des Layouts, auf dem diese Folie basiert                         |
+| ↳ `masterObjectId` | string | Objekt-ID des Masters, auf dem diese Folie basiert                         |
+| ↳ `notesPage`      | json   | Die Notizenseite, die mit der Folie verknüpft ist                          |
+| `metadata`         | object | Operationsmetadaten einschließlich Präsentations-ID und URL                |
+| ↳ `presentationId` | string | Die Präsentations-ID                                                       |
+| ↳ `url`            | string | URL zur Präsentation                                                       |
+
+google_slides_delete_object [#google_slides_delete_object]
+
+Löschen Sie ein Seitenelement (Form, Bild, Tabelle usw.) oder eine gesamte Folie aus einer Google Slides-Präsentation
+
+Eingabe [#eingabe-7]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                            |
+| ---------------- | ------ | ------------ | ----------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Präsentation                                                 |
+| `objectId`       | string | Ja           | Die Objekt-ID des Elements oder der Folie, das/die gelöscht werden soll |
+
+Ausgabe [#ausgabe-6]
+
+| Parameter          | Typ     | Beschreibung                                                |
+| ------------------ | ------- | ----------------------------------------------------------- |
+| `deleted`          | boolean | Ob das Objekt erfolgreich gelöscht wurde                    |
+| `objectId`         | string  | Die Objekt-ID, die gelöscht wurde                           |
+| `metadata`         | object  | Operationsmetadaten einschließlich Präsentations-ID und URL |
+| ↳ `presentationId` | string  | Die Präsentations-ID                                        |
+| ↳ `url`            | string  | URL zur Präsentation                                        |
+
+google_slides_duplicate_object [#google_slides_duplicate_object]
+
+Dupliziert ein Objekt (Folie, Form, Bild, Tabelle usw.) in einer Google Slides-Präsentation
+
+Eingabe [#eingabe-8]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                                                                                                                          |
+| ---------------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Google Slides-Präsentations-ID                                                                                                                                                        |
+| `objectId`       | string | Ja           | Die Objekt-ID des zu duplizierenden Elements oder der Folie                                                                                                                           |
+| `objectIds`      | string | Nein         | Optionales JSON-Objekt, das Quellobjekt-IDs (innerhalb der zu duplizierenden Folie) neuen Objekt-IDs für die Duplikate zuordnet. Format: \{"sourceId1":"newId1","sourceId2":"newId2"} |
+
+Ausgabe [#ausgabe-7]
+
+| Parameter            | Typ    | Beschreibung                                                           |
+| -------------------- | ------ | ---------------------------------------------------------------------- |
+| `duplicatedObjectId` | string | Die Objekt-ID des neu erstellten Duplikats                             |
+| `metadata`           | object | Operationsmetadaten einschließlich Präsentations-ID und Quellobjekt-ID |
+| ↳ `presentationId`   | string | Die Präsentations-ID                                                   |
+| ↳ `sourceObjectId`   | string | Die ursprüngliche Objekt-ID, die dupliziert wurde                      |
+| ↳ `url`              | string | URL zur Präsentation                                                   |
+
+google_slides_update_slides_position [#google_slides_update_slides_position]
+
+Verschiebt eine oder mehrere Folien an eine neue Position in einer Google Slides-Präsentation
+
+Eingabe [#eingabe-9]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                                                                                         |
+| ---------------- | ------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Google Slides-Präsentation                                                                                                                |
+| `slideObjectIds` | string | Ja           | Kommagetrennte Liste von Folienobjekt-IDs, die verschoben werden sollen. Die Folien behalten ihre relative Reihenfolge bei.                          |
+| `insertionIndex` | number | Ja           | Der nullbasierte Index, an den die Folien verschoben werden sollen. Alle Folien mit Indizes größer oder gleich diesem werden nach rechts verschoben. |
+
+Ausgabe [#ausgabe-8]
+
+| Parameter          | Typ     | Beschreibung                                                |
+| ------------------ | ------- | ----------------------------------------------------------- |
+| `moved`            | boolean | Ob die Folien erfolgreich verschoben wurden                 |
+| `slideObjectIds`   | array   | Die Folienobjekt-IDs, die verschoben wurden                 |
+| `insertionIndex`   | number  | Der Index, an den die Folien verschoben wurden              |
+| `metadata`         | object  | Operationsmetadaten einschließlich Präsentations-ID und URL |
+| ↳ `presentationId` | string  | Die Präsentations-ID                                        |
+| ↳ `url`            | string  | URL zur Präsentation                                        |
+
+google_slides_create_table [#google_slides_create_table]
+
+Erstellt eine neue Tabelle auf einer Folie in einer Google Slides-Präsentation
+
+Eingabe [#eingabe-10]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                              |
+| ---------------- | ------ | ------------ | ------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Google Slides-Präsentation                                     |
+| `pageObjectId`   | string | Ja           | Die Objekt-ID der Folie/Seite, zu der die Tabelle hinzugefügt werden soll |
+| `rows`           | number | Ja           | Anzahl der Zeilen in der Tabelle (mindestens 1)                           |
+| `columns`        | number | Ja           | Anzahl der Spalten in der Tabelle (mindestens 1)                          |
+| `width`          | number | Nein         | Breite der Tabelle in Punkten (Standard: 400)                             |
+| `height`         | number | Nein         | Höhe der Tabelle in Punkten (Standard: 200)                               |
+| `positionX`      | number | Nein         | X-Position vom linken Rand in Punkten (Standard: 100)                     |
+| `positionY`      | number | Nein         | Y-Position vom oberen Rand in Punkten (Standard: 100)                     |
+
+Ausgabe [#ausgabe-9]
+
+| Parameter          | Typ    | Beschreibung                                                            |
+| ------------------ | ------ | ----------------------------------------------------------------------- |
+| `tableId`          | string | Die Objekt-ID der neu erstellten Tabelle                                |
+| `rows`             | number | Anzahl der Zeilen in der Tabelle                                        |
+| `columns`          | number | Anzahl der Spalten in der Tabelle                                       |
+| `metadata`         | object | Operationsmetadaten einschließlich Präsentations-ID und Seitenobjekt-ID |
+| ↳ `presentationId` | string | Die Präsentations-ID                                                    |
+| ↳ `pageObjectId`   | string | Die Seitenobjekt-ID, auf der die Tabelle erstellt wurde                 |
+| ↳ `url`            | string | URL zur Präsentation                                                    |
+
+google_slides_create_shape [#google_slides_create_shape]
+
+Erstellt eine Form (Rechteck, Ellipse, Textfeld, Pfeil usw.) auf einer Folie in einer Google Slides-Präsentation
+
+Eingabe [#eingabe-11]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                                                                                            |
+| ---------------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Die ID der Google Slides-Präsentation                                                                                                                   |
+| `pageObjectId`   | string | Ja           | Die Objekt-ID der Folie/Seite, zu der die Form hinzugefügt werden soll                                                                                  |
+| `shapeType`      | string | Ja           | Der Typ der zu erstellenden Form. Gängige Typen: TEXT\_BOX, RECTANGLE, ROUND\_RECTANGLE, ELLIPSE, TRIANGLE, DIAMOND, STAR\_5, ARROW\_EAST, HEART, CLOUD |
+| `width`          | number | Nein         | Breite der Form in Punkten (Standard: 200)                                                                                                              |
+| `height`         | number | Nein         | Höhe der Form in Punkten (Standard: 100)                                                                                                                |
+| `positionX`      | number | Nein         | X-Position vom linken Rand in Punkten (Standard: 100)                                                                                                   |
+| `positionY`      | number | Nein         | Y-Position vom oberen Rand in Punkten (Standard: 100)                                                                                                   |
+
+Ausgabe [#ausgabe-10]
+
+| Parameter          | Typ    | Beschreibung                                                            |
+| ------------------ | ------ | ----------------------------------------------------------------------- |
+| `shapeId`          | string | Die Objekt-ID der neu erstellten Form                                   |
+| `shapeType`        | string | Der Typ der Form, die erstellt wurde                                    |
+| `metadata`         | object | Operationsmetadaten einschließlich Präsentations-ID und Seitenobjekt-ID |
+| ↳ `presentationId` | string | Die Präsentations-ID                                                    |
+| ↳ `pageObjectId`   | string | Die Seitenobjekt-ID, auf der die Form erstellt wurde                    |
+| ↳ `url`            | string | URL zur Präsentation                                                    |
+
+google_slides_insert_text [#google_slides_insert_text]
+
+Fügt Text in eine Form oder Tabellenzelle in einer Google Slides-Präsentation ein. Verwenden Sie dies, um Text zu Textfeldern, Formen oder Tabellenzellen hinzuzufügen.
+
+Eingabe [#eingabe-12]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                                                                                                      |
+| ---------------- | ------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| `presentationId` | string | Ja           | Google Slides-Präsentations-ID                                                                                                    |
+| `objectId`       | string | Ja           | Die Objekt-ID der Form oder Tabellenzelle, in die Text eingefügt werden soll. Verwenden Sie für Tabellenzellen die Zellobjekt-ID. |
+| `text`           | string | Ja           | Der einzufügende Text                                                                                                             |
+| `insertionIndex` | number | Nein         | Der nullbasierte Index, an dem der Text eingefügt werden soll. Wenn nicht angegeben, wird der Text am Anfang eingefügt (Index 0). |
+
+Ausgabe [#ausgabe-11]
+
+| Parameter          | Typ     | Beschreibung                                                |
+| ------------------ | ------- | ----------------------------------------------------------- |
+| `inserted`         | boolean | Ob der Text erfolgreich eingefügt wurde                     |
+| `objectId`         | string  | Die Objekt-ID, in die der Text eingefügt wurde              |
+| `text`             | string  | Der Text, der eingefügt wurde                               |
+| `metadata`         | object  | Operationsmetadaten einschließlich Präsentations-ID und URL |
+| ↳ `presentationId` | string  | Die Präsentations-ID                                        |
+| ↳ `url`            | string  | URL zur Präsentation                                        |
+d:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L14",null,{"content":"$15"}]}],"$L16"]}],"$L17","$L18"]}]
+e:["$","$L19",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L1a",null,{"type":"google_slides","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L1b",null,{"href":"https://slides.google.com","children":"Google Slides"}]," ist eine dynamische cloudbasierte Präsentationsanwendung, mit der Benutzer in Echtzeit Präsentationen erstellen, bearbeiten, gemeinsam daran arbeiten und präsentieren können. Als Teil der Google-Produktivitätssuite bietet Google Slides eine flexible Plattform zum Gestalten ansprechender Präsentationen, zur Zusammenarbeit mit anderen und zum nahtlosen Teilen von Inhalten über die Cloud."]}],"\n",["$","p",null,{"children":"Erfahren Sie, wie Sie die Google Slides-Tools in Aptlystar integrieren können, um Präsentationen mühelos als Teil Ihrer automatisierten Workflows zu verwalten. Mit Aptlystar können Sie Google Slides-Präsentationen direkt über Ihre Agenten und automatisierten Prozesse lesen, schreiben, erstellen und aktualisieren, wodurch es einfach wird, aktuelle Informationen zu liefern, benutzerdefinierte Berichte zu generieren oder Marken-Präsentationen programmatisch zu erstellen."}],"\n",["$","p",null,{"children":"Mit Google Slides können Sie:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Präsentationen erstellen und bearbeiten"}],": Gestalten Sie visuell ansprechende Folien mit Designs, Layouts und Multimedia-Inhalten"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"In Echtzeit zusammenarbeiten"}],": Arbeiten Sie gleichzeitig mit Teammitgliedern, kommentieren Sie, weisen Sie Aufgaben zu und erhalten Sie Live-Feedback zu Präsentationen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Überall präsentieren"}],": Zeigen Sie Präsentationen online oder offline an, teilen Sie Links oder veröffentlichen Sie im Web"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Bilder und umfangreiche Inhalte hinzufügen"}],": Fügen Sie Bilder, Grafiken, Diagramme und Videos ein, um Ihre Präsentationen ansprechend zu gestalten"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Mit anderen Diensten integrieren"}],": Verbinden Sie sich nahtlos mit Google Drive, Docs, Sheets und anderen Drittanbieter-Tools"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Von jedem Gerät aus zugreifen"}],": Nutzen Sie Google Slides auf Desktop-Computern, Laptops, Tablets und mobilen Geräten für maximale Flexibilität"]}],"\n"]}],"\n",["$","p",null,{"children":"In Aptlystar ermöglicht die Google Slides-Integration Ihren Agenten, direkt programmatisch mit Präsentationsdateien zu interagieren. Automatisieren Sie Aufgaben wie das Lesen von Folieninhalten, das Einfügen neuer Folien oder Bilder, das Ersetzen von Text in einer gesamten Präsentation, das Erstellen neuer Präsentationen und das Abrufen von Folien-Miniaturansichten. Dies ermöglicht Ihnen, die Inhaltserstellung zu skalieren, Präsentationen aktuell zu halten und sie in automatisierte Dokumenten-Workflows einzubetten. Durch die Verbindung von Aptlystar mit Google Slides ermöglichen Sie KI-gestütztes Präsentationsmanagement – so wird es einfach, Präsentationen ohne manuellen Aufwand zu generieren, zu aktualisieren oder Informationen daraus zu extrahieren."}],"\n","\n",["$","$L1c",null,{"as":"h2","id":"nutzungsanleitung","children":"Nutzungsanleitung"}],"\n",["$","p",null,{"children":"Integrieren Sie Google Slides in den Workflow. Kann Präsentationen lesen, schreiben, erstellen, Text ersetzen, Folien hinzufügen, Bilder einfügen und Vorschaubilder abrufen."}],"\n",["$","$L1c",null,{"as":"h2","id":"tools","children":"Tools"}],"\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70"]}]}]
+f:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+10:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+11:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+12:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+13:["$","$L71",null,{"children":["$","$72",null,{"name":"Next.MetadataOutlet","children":"$@73"}]}]
+16:["$","$L74",null,{}]
+17:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 48 48","width":"96px","height":"96px","children":[["$","path",null,{"fill":"#FFC107","d":"M37,45H11c-1.66,0-3-1.34-3-3V6c0-1.66,1.34-3,3-3h19l10,10v29C40,43.66,38.66,45,37,45z"}],["$","path",null,{"fill":"#FFECB3","d":"M40 13L30 13 30 3z"}],["$","path",null,{"fill":"#FFA000","d":"M30 13L40 23 40 13z"}],["$","path",null,{"fill":"#FFF8E1","d":"M14 21H34V35H14z"}],["$","path",null,{"fill":"#FFA000","d":"M16 23H32V26H16zM16 28H28V30H16z"}]]}]}],["$","$L75",null,{"className":"mb-0 min-w-0 flex-1","children":"Google Slides"}]]}]
+18:["$","$L76",null,{"children":"Präsentationen lesen, schreiben und erstellen"}]
+1d:["$","$L1c",null,{"as":"h3","id":"google_slides_read","children":["$","code",null,{"children":"google_slides_read"}]}]
+1e:["$","p",null,{"children":"Inhalte aus einer Google Slides-Präsentation lesen"}]
+1f:["$","$L1c",null,{"as":"h4","id":"eingabe","children":"Eingabe"}]
+20:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der zu lesenden Präsentation"}]]}]}]]}]}]
+21:["$","$L1c",null,{"as":"h4","id":"ausgabe","children":"Ausgabe"}]
+22:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slides"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Folien mit ihren Inhalten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Präsentationsmetadaten einschließlich ID, Titel und URL"}]]}]]}]]}]}]
+23:["$","$L1c",null,{"as":"h3","id":"google_slides_write","children":["$","code",null,{"children":"google_slides_write"}]}]
+24:["$","p",null,{"children":"Inhalte in einer Google Slides-Präsentation schreiben oder aktualisieren"}]
+25:["$","$L1c",null,{"as":"h4","id":"eingabe-1","children":"Eingabe"}]
+26:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation, in die geschrieben werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der Inhalt, der in die Folie geschrieben werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slideIndex"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Index der Folie, in die geschrieben werden soll (standardmäßig die erste Folie)"}]]}]]}]]}]}]
+27:["$","$L1c",null,{"as":"h4","id":"ausgabe-1","children":"Ausgabe"}]
+28:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedContent"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Gibt an, ob der Präsentationsinhalt erfolgreich aktualisiert wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierte Präsentationsmetadaten einschließlich ID, Titel und URL"}]]}]]}]]}]}]
+29:["$","$L1c",null,{"as":"h3","id":"google_slides_create","children":["$","code",null,{"children":"google_slides_create"}]}]
+2a:["$","p",null,{"children":"Eine neue Google Slides-Präsentation erstellen"}]
+2b:["$","$L1c",null,{"as":"h4","id":"eingabe-2","children":"Eingabe"}]
+2c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der Titel der zu erstellenden Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Inhalt, der zur ersten Folie hinzugefügt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderSelector"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Wählen Sie den Ordner aus, in dem die Präsentation erstellt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Die ID des Ordners, in dem die Präsentation erstellt werden soll (interne Verwendung)"}]]}]]}]]}]}]
+2d:["$","$L1c",null,{"as":"h4","id":"ausgabe-2","children":"Ausgabe"}]
+2e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten der erstellten Präsentation einschließlich ID, Titel und URL"}]]}]}]]}]}]
+2f:["$","$L1c",null,{"as":"h3","id":"google_slides_replace_all_text","children":["$","code",null,{"children":"google_slides_replace_all_text"}]}]
+30:["$","p",null,{"children":"Suchen und ersetzen aller Textvorkommen in einer Google Slides-Präsentation"}]
+31:["$","$L1c",null,{"as":"h4","id":"eingabe-3","children":"Eingabe"}]
+32:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"findText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der zu suchende Text (z.B. {{placeholder}})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"replaceText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der Text, durch den ersetzt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"matchCase"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ob die Suche Groß-/Kleinschreibung berücksichtigen soll (Standard: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageObjectIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kommagetrennte Liste von Folienobjekt-IDs, um Ersetzungen auf bestimmte Folien zu beschränken (leer lassen für alle Folien)"}]]}]]}]]}]}]
+33:["$","$L1c",null,{"as":"h4","id":"ausgabe-3","children":"Ausgabe"}]
+34:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"occurrencesChanged"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl der Textvorkommen, die ersetzt wurden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und URL"}]]}]]}]]}]}]
+35:["$","$L1c",null,{"as":"h3","id":"google_slides_add_slide","children":["$","code",null,{"children":"google_slides_add_slide"}]}]
+36:["$","p",null,{"children":"Eine neue Folie mit einem bestimmten Layout zu einer Google Slides-Präsentation hinzufügen"}]
+37:["$","$L1c",null,{"as":"h4","id":"eingabe-4","children":"Eingabe"}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"layout"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Das vordefinierte Layout für die Folie (BLANK, TITLE, TITLE_AND_BODY, TITLE_ONLY, SECTION_HEADER, usw.). Standard ist BLANK."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"insertionIndex"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der optionale nullbasierte Index, der angibt, wo die Folie eingefügt werden soll. Wenn nicht angegeben, wird die Folie am Ende hinzugefügt."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"placeholderIdMappings"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"JSON-Array von Platzhalter-Zuordnungen, um Platzhaltern benutzerdefinierte Objekt-IDs zuzuweisen. Format: [{\"layoutPlaceholder\":{\"type\":\"TITLE\"},\"objectId\":\"custom_title_id\"}]"}]]}]]}]]}]}]
+39:["$","$L1c",null,{"as":"h4","id":"output","children":"Output"}]
+3a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slideId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID der neu erstellten Folie"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID, Layout und URL"}]]}]]}]]}]}]
+3b:["$","$L1c",null,{"as":"h3","id":"google_slides_add_image","children":["$","code",null,{"children":"google_slides_add_image"}]}]
+3c:["$","p",null,{"children":"Ein Bild in eine bestimmte Folie einer Google Slides-Präsentation einfügen"}]
+3d:["$","$L1c",null,{"as":"h4","id":"input","children":"Input"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID der Folie/Seite, zu der das Bild hinzugefügt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"imageUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die öffentlich zugängliche URL des Bildes (muss PNG, JPEG oder GIF sein, max. 50MB)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"width"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Breite des Bildes in Punkten (Standard: 300)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"height"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Höhe des Bildes in Punkten (Standard: 200)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionX"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"X-Position vom linken Rand in Punkten (Standard: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionY"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Y-Position vom oberen Rand in Punkten (Standard: 100)"}]]}]]}]]}]}]
+3f:["$","$L1c",null,{"as":"h4","id":"output-1","children":"Output"}]
+40:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"imageId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID des neu erstellten Bildes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und Bild-URL"}]]}]]}]]}]}]
+41:["$","$L1c",null,{"as":"h3","id":"google_slides_get_thumbnail","children":["$","code",null,{"children":"google_slides_get_thumbnail"}]}]
+42:["$","p",null,{"children":"Ein Vorschaubild einer bestimmten Folie in einer Google Slides-Präsentation generieren"}]
+43:["$","$L1c",null,{"as":"h4","id":"eingabe-5","children":"Eingabe"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID der Folie/Seite, für die ein Thumbnail erstellt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"thumbnailSize"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Die Größe des Thumbnails: SMALL (200px), MEDIUM (800px) oder LARGE (1600px). Standardmäßig MEDIUM."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mimeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der MIME-Typ des Thumbnail-Bildes: PNG oder GIF. Standardmäßig PNG."}]]}]]}]]}]}]
+45:["$","$L1c",null,{"as":"h4","id":"ausgabe-4","children":"Ausgabe"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contentUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zum Thumbnail-Bild (gültig für 30 Minuten)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"width"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Breite des Thumbnails in Pixeln"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"height"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Höhe des Thumbnails in Pixeln"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und Seitenobjekt-ID"}]]}]]}]]}]}]
+47:["$","$L1c",null,{"as":"h2","id":"hinweise","children":"Hinweise"}]
+48:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Kategorie: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Typ: ",["$","code",null,{"children":"google_slides"}]]}],"\n"]}]
+49:["$","$L1c",null,{"as":"h4","id":"eingabe-6","children":"Eingabe"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID der Folie/Seite, die abgerufen werden soll"}]]}]]}]]}]}]
+4b:["$","$L1c",null,{"as":"h4","id":"ausgabe-5","children":"Ausgabe"}]
+4c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID der Seite"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Der Typ der Seite (SLIDE, MASTER, LAYOUT, NOTES, NOTES_MASTER)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageElements"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Seitenelementen (Formen, Bilder, Tabellen usw.) auf dieser Seite"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slideProperties"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Eigenschaften, die spezifisch für Folien sind (Layout, Master, Notizen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"layoutObjectId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Objekt-ID des Layouts, auf dem diese Folie basiert"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"masterObjectId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Objekt-ID des Masters, auf dem diese Folie basiert"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"notesPage"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Die Notizenseite, die mit der Folie verknüpft ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+4d:["$","$L1c",null,{"as":"h3","id":"google_slides_delete_object","children":["$","code",null,{"children":"google_slides_delete_object"}]}]
+4e:["$","p",null,{"children":"Löschen Sie ein Seitenelement (Form, Bild, Tabelle usw.) oder eine gesamte Folie aus einer Google Slides-Präsentation"}]
+4f:["$","$L1c",null,{"as":"h4","id":"eingabe-7","children":"Eingabe"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID des Elements oder der Folie, das/die gelöscht werden soll"}]]}]]}]]}]}]
+51:["$","$L1c",null,{"as":"h4","id":"ausgabe-6","children":"Ausgabe"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob das Objekt erfolgreich gelöscht wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID, die gelöscht wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+53:["$","$L1c",null,{"as":"h3","id":"google_slides_duplicate_object","children":["$","code",null,{"children":"google_slides_duplicate_object"}]}]
+54:["$","p",null,{"children":"Dupliziert ein Objekt (Folie, Form, Bild, Tabelle usw.) in einer Google Slides-Präsentation"}]
+55:["$","$L1c",null,{"as":"h4","id":"eingabe-8","children":"Eingabe"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Google Slides-Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID des zu duplizierenden Elements oder der Folie"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionales JSON-Objekt, das Quellobjekt-IDs (innerhalb der zu duplizierenden Folie) neuen Objekt-IDs für die Duplikate zuordnet. Format: {\"sourceId1\":\"newId1\",\"sourceId2\":\"newId2\"}"}]]}]]}]]}]}]
+57:["$","$L1c",null,{"as":"h4","id":"ausgabe-7","children":"Ausgabe"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"duplicatedObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID des neu erstellten Duplikats"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und Quellobjekt-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sourceObjectId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die ursprüngliche Objekt-ID, die dupliziert wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+59:["$","$L1c",null,{"as":"h3","id":"google_slides_update_slides_position","children":["$","code",null,{"children":"google_slides_update_slides_position"}]}]
+5a:["$","p",null,{"children":"Verschiebt eine oder mehrere Folien an eine neue Position in einer Google Slides-Präsentation"}]
+5b:["$","$L1c",null,{"as":"h4","id":"eingabe-9","children":"Eingabe"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Google Slides-Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slideObjectIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kommagetrennte Liste von Folienobjekt-IDs, die verschoben werden sollen. Die Folien behalten ihre relative Reihenfolge bei."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"insertionIndex"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der nullbasierte Index, an den die Folien verschoben werden sollen. Alle Folien mit Indizes größer oder gleich diesem werden nach rechts verschoben."}]]}]]}]]}]}]
+5d:["$","$L1c",null,{"as":"h4","id":"ausgabe-8","children":"Ausgabe"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"moved"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob die Folien erfolgreich verschoben wurden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slideObjectIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Die Folienobjekt-IDs, die verschoben wurden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"insertionIndex"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Der Index, an den die Folien verschoben wurden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+5f:["$","$L1c",null,{"as":"h3","id":"google_slides_create_table","children":["$","code",null,{"children":"google_slides_create_table"}]}]
+60:["$","p",null,{"children":"Erstellt eine neue Tabelle auf einer Folie in einer Google Slides-Präsentation"}]
+61:["$","$L1c",null,{"as":"h4","id":"eingabe-10","children":"Eingabe"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Google Slides-Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID der Folie/Seite, zu der die Tabelle hinzugefügt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Anzahl der Zeilen in der Tabelle (mindestens 1)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"columns"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Anzahl der Spalten in der Tabelle (mindestens 1)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"width"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Breite der Tabelle in Punkten (Standard: 400)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"height"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Höhe der Tabelle in Punkten (Standard: 200)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionX"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"X-Position vom linken Rand in Punkten (Standard: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionY"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Y-Position vom oberen Rand in Punkten (Standard: 100)"}]]}]]}]]}]}]
+63:["$","$L1c",null,{"as":"h4","id":"ausgabe-9","children":"Ausgabe"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tableId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID der neu erstellten Tabelle"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"rows"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl der Zeilen in der Tabelle"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"columns"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Anzahl der Spalten in der Tabelle"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und Seitenobjekt-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pageObjectId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Seitenobjekt-ID, auf der die Tabelle erstellt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+65:["$","$L1c",null,{"as":"h3","id":"google_slides_create_shape","children":["$","code",null,{"children":"google_slides_create_shape"}]}]
+66:["$","p",null,{"children":"Erstellt eine Form (Rechteck, Ellipse, Textfeld, Pfeil usw.) auf einer Folie in einer Google Slides-Präsentation"}]
+67:["$","$L1c",null,{"as":"h4","id":"eingabe-11","children":"Eingabe"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die ID der Google Slides-Präsentation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID der Folie/Seite, zu der die Form hinzugefügt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shapeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der Typ der zu erstellenden Form. Gängige Typen: TEXT_BOX, RECTANGLE, ROUND_RECTANGLE, ELLIPSE, TRIANGLE, DIAMOND, STAR_5, ARROW_EAST, HEART, CLOUD"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"width"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Breite der Form in Punkten (Standard: 200)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"height"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Höhe der Form in Punkten (Standard: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionX"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"X-Position vom linken Rand in Punkten (Standard: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionY"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Y-Position vom oberen Rand in Punkten (Standard: 100)"}]]}]]}]]}]}]
+69:["$","$L1c",null,{"as":"h4","id":"ausgabe-10","children":"Ausgabe"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shapeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID der neu erstellten Form"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shapeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Der Typ der Form, die erstellt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und Seitenobjekt-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pageObjectId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Seitenobjekt-ID, auf der die Form erstellt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+6b:["$","$L1c",null,{"as":"h3","id":"google_slides_insert_text","children":["$","code",null,{"children":"google_slides_insert_text"}]}]
+6c:["$","p",null,{"children":"Fügt Text in eine Form oder Tabellenzelle in einer Google Slides-Präsentation ein. Verwenden Sie dies, um Text zu Textfeldern, Formen oder Tabellenzellen hinzuzufügen."}]
+6d:["$","$L1c",null,{"as":"h4","id":"eingabe-12","children":"Eingabe"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"presentationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Google Slides-Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Objekt-ID der Form oder Tabellenzelle, in die Text eingefügt werden soll. Verwenden Sie für Tabellenzellen die Zellobjekt-ID."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Der einzufügende Text"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"insertionIndex"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der nullbasierte Index, an dem der Text eingefügt werden soll. Wenn nicht angegeben, wird der Text am Anfang eingefügt (Index 0)."}]]}]]}]]}]}]
+6f:["$","$L1c",null,{"as":"h4","id":"ausgabe-11","children":"Ausgabe"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inserted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob der Text erfolgreich eingefügt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Objekt-ID, in die der Text eingefügt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"text"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Der Text, der eingefügt wurde"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Operationsmetadaten einschließlich Präsentations-ID und URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"presentationId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Die Präsentations-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL zur Präsentation"}]]}]]}]]}]}]
+73:null

@@ -1,0 +1,984 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+3f:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+44:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+45:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+46:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+47:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+100:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+101:"$Sreact.suspense"
+103:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+106:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+107:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Intercom\",\"description\":\"在 Intercom 中管理联系人、公司、对话、工单和消息\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/intercom\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/intercom\"},\"inLanguage\":\"zh\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/intercom\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Intercom\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/intercom\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#使用说明","title":"使用说明"},{"depth":2,"url":"#工具","title":"工具"},{"depth":3,"url":"#intercom_create_contact","title":["$","code",null,{"children":"intercom_create_contact"}]},{"depth":4,"url":"#输入","title":"输入"},{"depth":4,"url":"#输出","title":"输出"},{"depth":3,"url":"#intercom_get_contact","title":["$","code",null,{"children":"intercom_get_contact"}]},{"depth":4,"url":"#输入-1","title":"输入"},{"depth":4,"url":"#输出-1","title":"输出"},{"depth":3,"url":"#intercom_update_contact","title":["$","code",null,{"children":"intercom_update_contact"}]},{"depth":4,"url":"#输入-2","title":"输入"},{"depth":4,"url":"#输出-2","title":"输出"},{"depth":3,"url":"#intercom_list_contacts","title":["$","code",null,{"children":"intercom_list_contacts"}]},{"depth":4,"url":"#输入-3","title":"输入"},{"depth":4,"url":"#输出-3","title":"输出"},{"depth":3,"url":"#intercom_search_contacts","title":["$","code",null,{"children":"intercom_search_contacts"}]},{"depth":4,"url":"#输入-4","title":"输入"},{"depth":4,"url":"#输出-4","title":"输出"},{"depth":3,"url":"#intercom_delete_contact","title":["$","code",null,{"children":"intercom_delete_contact"}]},{"depth":4,"url":"#输入-5","title":"输入"},{"depth":4,"url":"#输出-5","title":"输出"},{"depth":3,"url":"#intercom_create_company","title":["$","code",null,{"children":"intercom_create_company"}]},{"depth":4,"url":"#输入-6","title":"输入"},{"depth":4,"url":"#输出-6","title":"输出"},{"depth":3,"url":"#intercom_get_company","title":["$","code",null,{"children":"intercom_get_company"}]},{"depth":4,"url":"#输入-7","title":"输入"},{"depth":4,"url":"#输出-7","title":"输出"},{"depth":3,"url":"#intercom_list_companies","title":["$","code",null,{"children":"intercom_list_companies"}]},{"depth":4,"url":"#输入-8","title":"输入"},{"depth":4,"url":"#输出-8","title":"输出"},{"depth":3,"url":"#intercom_get_conversation","title":["$","code",null,{"children":"intercom_get_conversation"}]},{"depth":4,"url":"#输入-9","title":"输入"},{"depth":4,"url":"#输出-9","title":"输出"},{"depth":3,"url":"#intercom_list_conversations","title":["$","code",null,{"children":"intercom_list_conversations"}]},{"depth":4,"url":"#输入-10","title":"输入"},{"depth":4,"url":"#输出-10","title":"输出"},{"depth":3,"url":"#intercom_reply_conversation","title":["$","code",null,{"children":"intercom_reply_conversation"}]},{"depth":4,"url":"#输入-11","title":"输入"},{"depth":4,"url":"#输出-11","title":"输出"},{"depth":3,"url":"#intercom_search_conversations","title":["$","code",null,{"children":"intercom_search_conversations"}]},{"depth":4,"url":"#输入-12","title":"输入"},{"depth":4,"url":"#输出-12","title":"输出"},{"depth":3,"url":"#intercom_create_ticket","title":"$L3"},{"depth":4,"url":"#输入-13","title":"$L4"},{"depth":4,"url":"#输出-13","title":"$L5"},{"depth":3,"url":"#intercom_get_ticket","title":"$L6"},{"depth":4,"url":"#输入-14","title":"$L7"},{"depth":4,"url":"#输出-14","title":"$L8"},{"depth":3,"url":"#intercom_create_message","title":"$L9"},{"depth":4,"url":"#输入-15","title":"$La"},{"depth":4,"url":"#输出-15","title":"$Lb"},{"depth":2,"url":"#注意事项","title":"$Lc"},{"depth":4,"url":"#输入-16","title":"$Ld"},{"depth":4,"url":"#输出-16","title":"$Le"},{"depth":4,"url":"#输入-17","title":"$Lf"},{"depth":4,"url":"#输出-17","title":"$L10"},{"depth":4,"url":"#输入-18","title":"$L11"},{"depth":4,"url":"#输出-18","title":"$L12"},{"depth":3,"url":"#intercom_open_conversation","title":"$L13"},{"depth":4,"url":"#输入-19","title":"$L14"},{"depth":4,"url":"#输出-19","title":"$L15"},{"depth":3,"url":"#intercom_snooze_conversation","title":"$L16"},{"depth":4,"url":"#输入-20","title":"$L17"},{"depth":4,"url":"#输出-20","title":"$L18"},{"depth":3,"url":"#intercom_assign_conversation","title":"$L19"},{"depth":4,"url":"#输入-21","title":"$L1a"},{"depth":4,"url":"#输出-21","title":"$L1b"},{"depth":3,"url":"#intercom_list_tags","title":"$L1c"},{"depth":4,"url":"#输入-22","title":"$L1d"},{"depth":4,"url":"#输出-22","title":"$L1e"},{"depth":3,"url":"#intercom_create_tag","title":"$L1f"},{"depth":4,"url":"#输入-23","title":"$L20"},{"depth":4,"url":"#输出-23","title":"$L21"},{"depth":3,"url":"#intercom_tag_contact","title":"$L22"},{"depth":4,"url":"#输入-24","title":"$L23"},{"depth":4,"url":"#输出-24","title":"$L24"},{"depth":3,"url":"#intercom_untag_contact","title":"$L25"},{"depth":4,"url":"#输入-25","title":"$L26"},{"depth":4,"url":"#输出-25","title":"$L27"},{"depth":3,"url":"#intercom_tag_conversation","title":"$L28"},{"depth":4,"url":"#输入-26","title":"$L29"},{"depth":4,"url":"#输出-26","title":"$L2a"},{"depth":3,"url":"#intercom_create_note","title":"$L2b"},{"depth":4,"url":"#输入-27","title":"$L2c"},{"depth":4,"url":"#输出-27","title":"$L2d"},{"depth":3,"url":"#intercom_create_event","title":"$L2e"},{"depth":4,"url":"#输入-28","title":"$L2f"},{"depth":4,"url":"#输出-28","title":"$L30"},{"depth":3,"url":"#intercom_attach_contact_to_company","title":"$L31"},{"depth":4,"url":"#输入-29","title":"$L32"},{"depth":4,"url":"#输出-29","title":"$L33"},{"depth":3,"url":"#intercom_detach_contact_from_company","title":"$L34"},{"depth":4,"url":"#输入-30","title":"$L35"},{"depth":4,"url":"#输出-30","title":"$L36"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L37"},"children":["$L38","$L39"]}]],["$L3a","$L3b","$L3c","$L3d"],"$L3e"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"intercom_create_ticket"}]
+4:"输入"
+5:"输出"
+6:["$","code",null,{"children":"intercom_get_ticket"}]
+7:"输入"
+8:"输出"
+9:["$","code",null,{"children":"intercom_create_message"}]
+a:"输入"
+b:"输出"
+c:"注意事项"
+d:"输入"
+e:"输出"
+f:"输入"
+10:"输出"
+11:"输入"
+12:"输出"
+13:["$","code",null,{"children":"intercom_open_conversation"}]
+14:"输入"
+15:"输出"
+16:["$","code",null,{"children":"intercom_snooze_conversation"}]
+17:"输入"
+18:"输出"
+19:["$","code",null,{"children":"intercom_assign_conversation"}]
+1a:"输入"
+1b:"输出"
+1c:["$","code",null,{"children":"intercom_list_tags"}]
+1d:"输入"
+1e:"输出"
+1f:["$","code",null,{"children":"intercom_create_tag"}]
+20:"输入"
+21:"输出"
+22:["$","code",null,{"children":"intercom_tag_contact"}]
+23:"输入"
+24:"输出"
+25:["$","code",null,{"children":"intercom_untag_contact"}]
+26:"输入"
+27:"输出"
+28:["$","code",null,{"children":"intercom_tag_conversation"}]
+29:"输入"
+2a:"输出"
+2b:["$","code",null,{"children":"intercom_create_note"}]
+2c:"输入"
+2d:"输出"
+2e:["$","code",null,{"children":"intercom_create_event"}]
+2f:"输入"
+30:"输出"
+31:["$","code",null,{"children":"intercom_attach_contact_to_company"}]
+32:"输入"
+33:"输出"
+34:["$","code",null,{"children":"intercom_detach_contact_from_company"}]
+35:"输入"
+36:"输出"
+37:null
+40:T8918,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="intercom" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Intercom](https://www.intercom.com/) 是一个领先的客户沟通平台，能够让您在一个地方管理和自动化与联系人、公司、对话、工单和消息的互动。Aptlystar 中的 Intercom 集成让您的代理可以通过自动化工作流以编程方式管理客户关系、支持请求和对话。
+
+使用 Intercom 工具，您可以：
+
+* **联系人管理：** 创建、获取、更新、列出、搜索和删除联系人——自动化您的 CRM 流程并保持客户记录的最新。
+* **公司管理：** 创建新公司、检索公司详细信息，并列出与您的用户或业务客户相关的所有公司。
+* **对话处理：** 获取、列出、回复和搜索对话——让代理能够跟踪正在进行的支持线程、提供答案并自动执行后续操作。
+* **工单管理：** 以编程方式创建和检索工单，帮助您自动化客户服务、支持问题跟踪和工作流升级。
+* **发送消息：** 向用户或潜在客户触发消息，用于入职、支持或营销，所有这些都可以在您的工作流自动化中完成。
+
+通过将 Intercom 工具集成到 Aptlystar 中，您可以让工作流直接与用户沟通，自动化客户支持流程，管理潜在客户，并大规模简化沟通。无论您是需要创建新联系人、保持客户数据同步、管理支持工单，还是发送个性化的参与消息，Intercom 工具都提供了一种全面的方式，将客户互动管理作为智能自动化的一部分。
+
+{/* MANUAL-CONTENT-END */}
+
+使用说明 [#使用说明]
+
+将 Intercom 集成到工作流中。可以创建、获取、更新、列出、搜索和删除联系人；创建、获取和列出公司；获取、列出、回复和搜索对话；创建和获取工单；以及创建消息。
+
+工具 [#工具]
+
+intercom_create_contact [#intercom_create_contact]
+
+使用 email、external\_id 或 role 在 Intercom 中创建一个新联系人
+
+输入 [#输入]
+
+| 参数                         | 类型      | 必需 | 描述                                                 |
+| -------------------------- | ------- | -- | -------------------------------------------------- |
+| `role`                     | string  | 否  | 联系人角色。可选 'user' 或 'lead'。如未指定，默认为 'lead'。          |
+| `email`                    | string  | 否  | 联系人邮箱地址                                            |
+| `external_id`              | string  | 否  | 客户端为联系人提供的唯一标识符                                    |
+| `phone`                    | string  | 否  | 联系人电话号码                                            |
+| `name`                     | string  | 否  | 联系人姓名                                              |
+| `avatar`                   | string  | 否  | 联系人头像图片 URL                                        |
+| `signed_up_at`             | number  | 否  | 用户注册时间（Unix 时间戳）                                   |
+| `last_seen_at`             | number  | 否  | 用户最后一次在线时间（Unix 时间戳）                               |
+| `owner_id`                 | string  | 否  | 被分配为该联系人账户所有者的管理员 ID                               |
+| `unsubscribed_from_emails` | boolean | 否  | 联系人是否已退订邮件                                         |
+| `custom_attributes`        | string  | 否  | 自定义属性，格式为 JSON 对象（如：\{"attribute\_name": "value"}） |
+| `company_id`               | string  | 否  | 创建联系人时关联的公司 ID                                     |
+
+输出 [#输出]
+
+| 参数        | 类型     | 描述       |
+| --------- | ------ | -------- |
+| `contact` | object | 创建的联系人对象 |
+
+intercom_get_contact [#intercom_get_contact]
+
+通过 ID 从 Intercom 获取单个联系人
+
+输入 [#输入-1]
+
+| 参数          | 类型     | 必需 | 描述         |
+| ----------- | ------ | -- | ---------- |
+| `contactId` | string | 是  | 要检索的联系人 ID |
+
+输出 [#输出-1]
+
+| 参数        | 类型     | 描述    |
+| --------- | ------ | ----- |
+| `contact` | object | 联系人对象 |
+
+intercom_update_contact [#intercom_update_contact]
+
+更新 Intercom 中的现有联系人
+
+输入 [#输入-2]
+
+| 参数                         | 类型      | 必需 | 描述                                                 |
+| -------------------------- | ------- | -- | -------------------------------------------------- |
+| `contactId`                | string  | 是  | 要更新的联系人 ID                                         |
+| `role`                     | string  | 否  | 联系人角色。可选 'user' 或 'lead'。                          |
+| `external_id`              | string  | 否  | 客户端为联系人提供的唯一标识符                                    |
+| `email`                    | string  | 否  | 联系人邮箱地址                                            |
+| `phone`                    | string  | 否  | 联系人电话号码                                            |
+| `name`                     | string  | 否  | 联系人姓名                                              |
+| `avatar`                   | string  | 否  | 联系人头像图片 URL                                        |
+| `signed_up_at`             | number  | 否  | 用户注册时间（Unix 时间戳）                                   |
+| `last_seen_at`             | number  | 否  | 用户最后一次在线时间（Unix 时间戳）                               |
+| `owner_id`                 | string  | 否  | 被分配为该联系人账户所有者的管理员 ID                               |
+| `unsubscribed_from_emails` | boolean | 否  | 联系人是否已退订邮件                                         |
+| `custom_attributes`        | string  | 否  | 自定义属性，格式为 JSON 对象（如：\{"attribute\_name": "value"}） |
+| `company_id`               | string  | 否  | 关联的公司 ID                                           |
+
+输出 [#输出-2]
+
+| 参数        | 类型     | 描述        |
+| --------- | ------ | --------- |
+| `contact` | object | 更新后的联系人对象 |
+
+intercom_list_contacts [#intercom_list_contacts]
+
+列出所有来自 Intercom 的联系人，支持分页
+
+输入 [#输入-3]
+
+| 参数               | 类型     | 必需 | 描述                |
+| ---------------- | ------ | -- | ----------------- |
+| `per_page`       | number | 否  | 每页结果数量 (最大值: 150) |
+| `starting_after` | string | 否  | 分页游标 - 起始 ID      |
+
+输出 [#输出-3]
+
+| 参数         | 类型    | 描述      |
+| ---------- | ----- | ------- |
+| `contacts` | array | 联系人对象数组 |
+
+intercom_search_contacts [#intercom_search_contacts]
+
+使用查询在 Intercom 中搜索联系人
+
+输入 [#输入-4]
+
+| 参数               | 类型     | 必填 | 描述                                                                                                 |
+| ---------------- | ------ | -- | -------------------------------------------------------------------------------------------------- |
+| `query`          | string | 是  | 搜索查询（例如：\{"field":"email", "operator":"=", "value":"[user@example.com](mailto:user@example.com)"}） |
+| `per_page`       | number | 否  | 每页结果数量（最大值：150）                                                                                    |
+| `starting_after` | string | 否  | 用于分页的游标                                                                                            |
+| `sort_field`     | string | 否  | 排序字段（例如："name"，"created\_at"，"last\_seen\_at"）                                                     |
+| `sort_order`     | string | 否  | 排序方式：“ascending” 或 “descending”                                                                    |
+
+输出 [#输出-4]
+
+| 参数         | 类型    | 描述         |
+| ---------- | ----- | ---------- |
+| `contacts` | array | 匹配的联系人对象数组 |
+
+intercom_delete_contact [#intercom_delete_contact]
+
+通过 ID 从 Intercom 中删除联系人
+
+输入 [#输入-5]
+
+| 参数          | 类型     | 必需 | 描述         |
+| ----------- | ------ | -- | ---------- |
+| `contactId` | string | 是  | 要删除的联系人 ID |
+
+输出 [#输出-5]
+
+| 参数         | 类型      | 描述         |
+| ---------- | ------- | ---------- |
+| `id`       | string  | 已删除联系人的 ID |
+| `deleted`  | boolean | 联系人是否已被删除  |
+| `metadata` | object  | 操作元数据      |
+
+intercom_create_company [#intercom_create_company]
+
+在 Intercom 中创建或更新公司
+
+输入 [#输入-6]
+
+| 参数                  | 类型     | 必填 | 描述                                              |
+| ------------------- | ------ | -- | ----------------------------------------------- |
+| `company_id`        | string | 是  | 您为公司设置的唯一标识符                                    |
+| `name`              | string | 否  | 公司名称                                            |
+| `website`           | string | 否  | 公司网站                                            |
+| `plan`              | string | 否  | 公司套餐名称                                          |
+| `size`              | number | 否  | 公司员工数量                                          |
+| `industry`          | string | 否  | 公司所属行业                                          |
+| `monthly_spend`     | number | 否  | 公司为您的业务带来的收入。注意：此字段会将浮点数截断为整数（例如：155.98 变为 155） |
+| `custom_attributes` | string | 否  | 自定义属性，格式为 JSON 对象                               |
+| `remote_created_at` | number | 否  | 您创建公司时的 Unix 时间戳                                |
+
+输出 [#输出-6]
+
+| 参数        | 类型     | 描述         |
+| --------- | ------ | ---------- |
+| `company` | object | 新建或更新的公司对象 |
+
+intercom_get_company [#intercom_get_company]
+
+通过 ID 从 Intercom 检索单个公司
+
+输入 [#输入-7]
+
+| 参数          | 类型     | 必需 | 描述        |
+| ----------- | ------ | -- | --------- |
+| `companyId` | string | 是  | 要检索的公司 ID |
+
+输出 [#输出-7]
+
+| 参数        | 类型     | 描述   |
+| --------- | ------ | ---- |
+| `company` | object | 公司对象 |
+
+intercom_list_companies [#intercom_list_companies]
+
+列出来自 Intercom 的所有公司，支持分页。注意：此端点限制为通过分页返回最多 10,000 家公司。对于超过 10,000 家公司的数据集，请改用 Scroll API。
+
+输入 [#输入-8]
+
+| 参数               | 类型     | 必填 | 描述               |
+| ---------------- | ------ | -- | ---------------- |
+| `per_page`       | number | 否  | 每页结果数量           |
+| `page`           | number | 否  | 页码               |
+| `starting_after` | string | 否  | 分页游标（优先于基于页码的分页） |
+
+输出 [#输出-8]
+
+| 参数          | 类型    | 描述     |
+| ----------- | ----- | ------ |
+| `companies` | array | 公司对象数组 |
+
+intercom_get_conversation [#intercom_get_conversation]
+
+通过 ID 从 Intercom 检索单个会话
+
+输入 [#输入-9]
+
+| 参数                     | 类型      | 必需 | 描述                        |
+| ---------------------- | ------- | -- | ------------------------- |
+| `conversationId`       | string  | 是  | 要检索的会话 ID                 |
+| `display_as`           | string  | 否  | 设为 "plaintext" 可检索纯文本消息   |
+| `include_translations` | boolean | 否  | 若为 true，会话内容将被翻译为检测到的会话语言 |
+
+输出 [#输出-9]
+
+| 参数             | 类型     | 描述   |
+| -------------- | ------ | ---- |
+| `conversation` | object | 会话对象 |
+
+intercom_list_conversations [#intercom_list_conversations]
+
+列出 Intercom 中的所有会话，并支持分页
+
+输入 [#输入-10]
+
+| 参数               | 类型     | 必需 | 描述                                                    |
+| ---------------- | ------ | -- | ----------------------------------------------------- |
+| `per_page`       | number | 否  | 每页结果数量（最大值：150）                                       |
+| `starting_after` | string | 否  | 分页游标                                                  |
+| `sort`           | string | 否  | 排序字段（例如："waiting\_since"、"updated\_at"、"created\_at"） |
+| `order`          | string | 否  | 排序方式："asc"（升序）或 "desc"（降序）                            |
+
+输出 [#输出-10]
+
+| 参数              | 类型    | 描述     |
+| --------------- | ----- | ------ |
+| `conversations` | array | 会话对象数组 |
+
+intercom_reply_conversation [#intercom_reply_conversation]
+
+以管理员身份在 Intercom 中回复对话
+
+输入 [#输入-11]
+
+| 参数                | 类型     | 必需 | 描述                                      |
+| ----------------- | ------ | -- | --------------------------------------- |
+| `conversationId`  | string | 是  | 要回复的会话 ID                               |
+| `message_type`    | string | 是  | 消息类型："comment" 或 "note"                 |
+| `body`            | string | 是  | 回复正文                                    |
+| `admin_id`        | string | 否  | 回复管理员的 ID。如果未提供，将使用默认管理员（Operator/Fin）。 |
+| `attachment_urls` | string | 否  | 以逗号分隔的图片 URL 列表（最多 10 个）                |
+| `created_at`      | number | 否  | 回复创建时的 Unix 时间戳。如果未提供，则使用当前时间。          |
+
+输出 [#输出-11]
+
+| 参数             | 类型     | 描述       |
+| -------------- | ------ | -------- |
+| `conversation` | object | 更新后的会话对象 |
+
+intercom_search_conversations [#intercom_search_conversations]
+
+使用查询在 Intercom 中搜索对话
+
+输入 [#输入-12]
+
+| 参数               | 类型     | 必需 | 描述                                   |
+| ---------------- | ------ | -- | ------------------------------------ |
+| `query`          | string | 是  | 作为 JSON 对象的搜索查询                      |
+| `per_page`       | number | 否  | 每页结果数量（最大值：150）                      |
+| `starting_after` | string | 否  | 分页游标                                 |
+| `sort_field`     | string | 否  | 排序字段（例如："created\_at"，"updated\_at"） |
+| `sort_order`     | string | 否  | 排序顺序：“ascending” 或 “descending”      |
+
+输出 [#输出-12]
+
+| 参数              | 类型    | 描述        |
+| --------------- | ----- | --------- |
+| `conversations` | array | 匹配的会话对象数组 |
+
+intercom_create_ticket [#intercom_create_ticket]
+
+在 Intercom 中创建新工单
+
+输入 [#输入-13]
+
+| 参数                        | 类型      | 必需 | 描述                                                         |
+| ------------------------- | ------- | -- | ---------------------------------------------------------- |
+| `ticket_type_id`          | string  | 是  | 工单类型的 ID                                                   |
+| `contacts`                | string  | 是  | 联系人标识符的 JSON 数组（例如：\[\{"id": "contact\_id"}]）              |
+| `ticket_attributes`       | string  | 是  | 包含 *default\_title* 和 *default\_description* 的工单属性 JSON 对象 |
+| `company_id`              | string  | 否  | 要关联工单的公司 ID                                                |
+| `created_at`              | number  | 否  | 工单创建时的 Unix 时间戳。如果未提供，则使用当前时间。                             |
+| `conversation_to_link_id` | string  | 否  | 要关联到此工单的现有会话 ID                                            |
+| `disable_notifications`   | boolean | 否  | 若为 true，创建工单时将不发送通知                                        |
+
+输出 [#输出-13]
+
+| 参数       | 类型     | 描述      |
+| -------- | ------ | ------- |
+| `ticket` | object | 创建的工单对象 |
+
+intercom_get_ticket [#intercom_get_ticket]
+
+从 Intercom 按 ID 检索单个工单
+
+输入 [#输入-14]
+
+| 参数         | 类型     | 必需 | 描述        |
+| ---------- | ------ | -- | --------- |
+| `ticketId` | string | 是  | 要检索的工单 ID |
+
+输出 [#输出-14]
+
+| 参数       | 类型     | 描述   |
+| -------- | ------ | ---- |
+| `ticket` | object | 工单对象 |
+
+intercom_create_message [#intercom_create_message]
+
+在 Intercom 中创建并发送新的管理员发起的消息
+
+输入 [#输入-15]
+
+| 参数             | 类型     | 必需 | 描述                                      |
+| -------------- | ------ | -- | --------------------------------------- |
+| `message_type` | string | 是  | 消息类型：“inapp” 表示应用内消息，“email” 表示电子邮件消息   |
+| `template`     | string | 是  | 消息模板样式：“plain” 表示纯文本，“personal” 表示个性化样式 |
+| `subject`      | string | 否  | 消息主题（仅适用于 email 类型）                     |
+| `body`         | string | 是  | 消息正文                                    |
+| `from_type`    | string | 是  | 发送方类型：“admin”                           |
+| `from_id`      | string | 是  | 发送消息的管理员 ID                             |
+| `to_type`      | string | 是  | 接收方类型：“contact”                         |
+| `to_id`        | string | 是  | 接收消息的联系人的 ID                            |
+| `created_at`   | number | 否  | 消息创建时的 Unix 时间戳。如果未提供，则使用当前时间。          |
+
+输出 [#输出-15]
+
+| 参数        | 类型     | 描述      |
+| --------- | ------ | ------- |
+| `message` | object | 创建的消息对象 |
+
+注意事项 [#注意事项]
+
+* 类别：`tools`
+* 类型：`intercom`
+
+在 Intercom 中创建并发送一条新的管理员发起消息。仅返回与 API 对齐的字段。
+
+输入 [#输入-16]
+
+| 参数             | 类型     | 必需 | 描述                                      |
+| -------------- | ------ | -- | --------------------------------------- |
+| `message_type` | string | 是  | 消息类型："inapp" 表示应用内消息，"email" 表示邮件消息     |
+| `template`     | string | 是  | 消息模板样式："plain" 表示纯文本，"personal" 表示个性化样式 |
+| `subject`      | string | 否  | 消息主题（仅适用于邮件类型）                          |
+| `body`         | string | 是  | 消息正文                                    |
+| `from_type`    | string | 是  | 发送者类型："admin"                           |
+| `from_id`      | string | 是  | 发送消息的管理员 ID                             |
+| `to_type`      | string | 是  | 接收者类型："contact"                         |
+| `to_id`        | string | 是  | 接收消息的联系人的 ID                            |
+| `created_at`   | number | 否  | 消息创建时间的 Unix 时间戳。如未提供，则使用当前时间。          |
+
+输出 [#输出-16]
+
+| 参数                  | 类型      | 描述                    |
+| ------------------- | ------- | --------------------- |
+| `message`           | object  | 创建的消息对象               |
+| ↳ `id`              | string  | 消息的唯一标识符              |
+| ↳ `type`            | string  | 对象类型（message）         |
+| ↳ `created_at`      | number  | 消息创建时的 Unix 时间戳       |
+| ↳ `body`            | string  | 消息正文                  |
+| ↳ `message_type`    | string  | 消息类型（in\_app 或 email） |
+| ↳ `conversation_id` | string  | 创建的会话 ID              |
+| ↳ `owner`           | object  | 消息所有者                 |
+| `messageId`         | string  | 创建的消息 ID              |
+| `success`           | boolean | 操作成功状态                |
+
+获取工作区所有管理员的列表
+
+获取工作区所有管理员的列表
+
+输入 [#输入-17]
+
+| 参数 | 类型 | 必需 | 描述 |
+| -- | -- | -- | -- |
+
+输出 [#输出-17]
+
+| 参数                     | 类型      | 描述               |
+| ---------------------- | ------- | ---------------- |
+| `admins`               | array   | 管理员对象数组          |
+| ↳ `id`                 | string  | 管理员的唯一标识符        |
+| ↳ `type`               | string  | 对象类型（admin）      |
+| ↳ `name`               | string  | 管理员姓名            |
+| ↳ `email`              | string  | 管理员邮箱            |
+| ↳ `job_title`          | string  | 管理员职位            |
+| ↳ `away_mode_enabled`  | boolean | 管理员是否处于离开模式      |
+| ↳ `away_mode_reassign` | boolean | 离开时是否重新分配会话      |
+| ↳ `has_inbox_seat`     | boolean | 管理员是否拥有付费收件箱席位   |
+| ↳ `team_ids`           | array   | 管理员所属团队 ID 列表    |
+| ↳ `avatar`             | object  | 头像信息             |
+| ↳ `email_verified`     | boolean | 邮箱是否已验证          |
+| `type`                 | string  | 对象类型（admin.list） |
+
+关闭 Intercom 中的会话
+
+关闭 Intercom 中的会话
+
+输入 [#输入-18]
+
+| 参数               | 类型     | 必需 | 描述              |
+| ---------------- | ------ | -- | --------------- |
+| `conversationId` | string | 是  | 要关闭的会话 ID       |
+| `admin_id`       | string | 是  | 执行操作的管理员 ID     |
+| `body`           | string | 否  | 可选的关闭消息，将添加到会话中 |
+
+输出 [#输出-18]
+
+| 参数               | 类型      | 描述                 |
+| ---------------- | ------- | ------------------ |
+| `conversation`   | object  | 已关闭的会话对象           |
+| ↳ `id`           | string  | 会话的唯一标识符           |
+| ↳ `type`         | string  | 对象类型（conversation） |
+| ↳ `state`        | string  | 会话状态（closed）       |
+| ↳ `open`         | boolean | 会话是否为开启状态（false）   |
+| ↳ `read`         | boolean | 会话是否已读             |
+| ↳ `created_at`   | number  | 会话创建时的 Unix 时间戳    |
+| ↳ `updated_at`   | number  | 会话最后更新时间的 Unix 时间戳 |
+| `conversationId` | string  | 已关闭会话的 ID          |
+| `state`          | string  | 会话状态（closed）       |
+
+intercom_open_conversation [#intercom_open_conversation]
+
+在 Intercom 中打开已关闭或已暂停的会话
+
+输入 [#输入-19]
+
+| 参数               | 类型     | 必需 | 描述          |
+| ---------------- | ------ | -- | ----------- |
+| `conversationId` | string | 是  | 要打开的会话 ID   |
+| `admin_id`       | string | 是  | 执行操作的管理员 ID |
+
+输出 [#输出-19]
+
+| 参数               | 类型      | 描述                 |
+| ---------------- | ------- | ------------------ |
+| `conversation`   | object  | 已打开的会话对象           |
+| ↳ `id`           | string  | 会话的唯一标识符           |
+| ↳ `type`         | string  | 对象类型（conversation） |
+| ↳ `state`        | string  | 会话状态（open）         |
+| ↳ `open`         | boolean | 会话是否为开启状态（true）    |
+| ↳ `read`         | boolean | 会话是否已读             |
+| ↳ `created_at`   | number  | 会话创建时的 Unix 时间戳    |
+| ↳ `updated_at`   | number  | 会话最后更新时间的 Unix 时间戳 |
+| `conversationId` | string  | 已打开会话的 ID          |
+| `state`          | string  | 会话状态（open）         |
+
+intercom_snooze_conversation [#intercom_snooze_conversation]
+
+将对话暂时搁置，稍后自动重新开启
+
+输入 [#输入-20]
+
+| 参数               | 类型     | 必需 | 描述                |
+| ---------------- | ------ | -- | ----------------- |
+| `conversationId` | string | 是  | 要搁置的对话 ID         |
+| `admin_id`       | string | 是  | 执行操作的管理员 ID       |
+| `snoozed_until`  | number | 是  | 对话应重新开启的 Unix 时间戳 |
+
+输出 [#输出-20]
+
+| 参数                | 类型      | 描述                 |
+| ----------------- | ------- | ------------------ |
+| `conversation`    | object  | 已搁置的对话对象           |
+| ↳ `id`            | string  | 对话的唯一标识符           |
+| ↳ `type`          | string  | 对象类型（conversation） |
+| ↳ `state`         | string  | 对话状态（已搁置）          |
+| ↳ `open`          | boolean | 对话是否处于开启状态         |
+| ↳ `snoozed_until` | number  | 对话将重新开启的 Unix 时间戳  |
+| ↳ `created_at`    | number  | 对话创建时的 Unix 时间戳    |
+| ↳ `updated_at`    | number  | 对话最后更新时间的 Unix 时间戳 |
+| `conversationId`  | string  | 已搁置对话的 ID          |
+| `state`           | string  | 对话状态（已搁置）          |
+| `snoozed_until`   | number  | 对话将重新开启的 Unix 时间戳  |
+
+intercom_assign_conversation [#intercom_assign_conversation]
+
+将对话分配给 Intercom 中的管理员或团队
+
+输入 [#输入-21]
+
+| 参数               | 类型     | 必需 | 描述                             |
+| ---------------- | ------ | -- | ------------------------------ |
+| `conversationId` | string | 是  | 要分配的对话 ID                      |
+| `admin_id`       | string | 是  | 执行分配操作的管理员 ID                  |
+| `assignee_id`    | string | 是  | 要分配给的管理员或团队 ID。设置为 "0" 表示取消分配。 |
+| `body`           | string | 否  | 分配时可选的附加消息（如："转交给支持团队"）        |
+
+输出 [#输出-21]
+
+| 参数                    | 类型      | 描述                 |
+| --------------------- | ------- | ------------------ |
+| `conversation`        | object  | 已分配的会话对象           |
+| ↳ `id`                | string  | 会话的唯一标识符           |
+| ↳ `type`              | string  | 对象类型（conversation） |
+| ↳ `state`             | string  | 会话状态               |
+| ↳ `open`              | boolean | 会话是否为开启状态          |
+| ↳ `admin_assignee_id` | number  | 分配的管理员 ID          |
+| ↳ `team_assignee_id`  | string  | 分配的团队 ID           |
+| ↳ `created_at`        | number  | 会话创建时的 Unix 时间戳    |
+| ↳ `updated_at`        | number  | 会话最后更新时间的 Unix 时间戳 |
+| `conversationId`      | string  | 分配的会话 ID           |
+| `admin_assignee_id`   | number  | 分配的管理员 ID          |
+| `team_assignee_id`    | string  | 分配的团队 ID           |
+
+intercom_list_tags [#intercom_list_tags]
+
+获取工作区内所有标签的列表
+
+输入 [#输入-22]
+
+\| 参数 | 类型 | 必需 | 描述 |
+
+输出 [#输出-22]
+
+| 参数       | 类型     | 描述         |
+| -------- | ------ | ---------- |
+| `tags`   | array  | 标签对象数组     |
+| ↳ `id`   | string | 标签的唯一标识符   |
+| ↳ `type` | string | 对象类型（tag）  |
+| ↳ `name` | string | 标签名称       |
+| `type`   | string | 对象类型（list） |
+
+intercom_create_tag [#intercom_create_tag]
+
+创建新标签或更新现有标签名称
+
+输入 [#输入-23]
+
+| 参数     | 类型     | 必需 | 描述                               |
+| ------ | ------ | -- | -------------------------------- |
+| `name` | string | 是  | 标签名称。如果未找到则创建新标签，如果提供了 id 则更新名称。 |
+| `id`   | string | 否  | 要更新的现有标签 ID。不填写则创建新标签。           |
+
+输出 [#输出-23]
+
+| 参数     | 类型     | 描述        |
+| ------ | ------ | --------- |
+| `id`   | string | 标签的唯一标识符  |
+| `name` | string | 标签名称      |
+| `type` | string | 对象类型（tag） |
+
+intercom_tag_contact [#intercom_tag_contact]
+
+为指定联系人添加标签
+
+输入 [#输入-24]
+
+| 参数          | 类型     | 必需 | 描述          |
+| ----------- | ------ | -- | ----------- |
+| `contactId` | string | 是  | 要打标签的联系人 ID |
+| `tagId`     | string | 是  | 要应用的标签 ID   |
+
+输出 [#输出-24]
+
+| 参数     | 类型     | 描述        |
+| ------ | ------ | --------- |
+| `id`   | string | 标签的唯一标识符  |
+| `name` | string | 标签名称      |
+| `type` | string | 对象类型（tag） |
+
+intercom_untag_contact [#intercom_untag_contact]
+
+为指定联系人移除标签
+
+输入 [#输入-25]
+
+| 参数          | 类型     | 必需 | 描述           |
+| ----------- | ------ | -- | ------------ |
+| `contactId` | string | 是  | 要移除标签的联系人 ID |
+| `tagId`     | string | 是  | 要移除的标签 ID    |
+
+输出 [#输出-25]
+
+| 参数     | 类型     | 描述          |
+| ------ | ------ | ----------- |
+| `id`   | string | 被移除标签的唯一标识符 |
+| `name` | string | 被移除标签的名称    |
+| `type` | string | 对象类型（tag）   |
+
+intercom_tag_conversation [#intercom_tag_conversation]
+
+为指定会话添加标签
+
+输入 [#输入-26]
+
+| 参数               | 类型     | 必需 | 描述          |
+| ---------------- | ------ | -- | ----------- |
+| `conversationId` | string | 是  | 需要打标签的会话 ID |
+| `tagId`          | string | 是  | 要应用的标签 ID   |
+| `admin_id`       | string | 是  | 应用标签的管理员 ID |
+
+输出 [#输出-26]
+
+| 参数     | 类型     | 描述        |
+| ------ | ------ | --------- |
+| `id`   | string | 标签的唯一标识符  |
+| `name` | string | 标签名称      |
+| `type` | string | 对象类型（tag） |
+
+intercom_create_note [#intercom_create_note]
+
+为指定联系人添加备注
+
+输入 [#输入-27]
+
+| 参数          | 类型     | 必需 | 描述            |
+| ----------- | ------ | -- | ------------- |
+| `contactId` | string | 是  | 需要添加备注的联系人 ID |
+| `body`      | string | 是  | 备注的文本内容       |
+| `admin_id`  | string | 否  | 创建备注的管理员 ID   |
+
+输出 [#输出-27]
+
+| 参数           | 类型     | 描述              |
+| ------------ | ------ | --------------- |
+| `id`         | string | 笔记的唯一标识符        |
+| `body`       | string | 笔记的文本内容         |
+| `created_at` | number | 笔记创建时的 Unix 时间戳 |
+| `type`       | string | 对象类型（note）      |
+| `author`     | object | 创建该笔记的管理员       |
+| ↳ `type`     | string | 作者类型（admin）     |
+| ↳ `id`       | string | 作者 ID           |
+| ↳ `name`     | string | 作者姓名            |
+| ↳ `email`    | string | 作者邮箱            |
+| `contact`    | object | 笔记所关联的联系人       |
+| ↳ `type`     | string | 联系人类型           |
+| ↳ `id`       | string | 联系人 ID          |
+
+intercom_create_event [#intercom_create_event]
+
+为 Intercom 中的联系人跟踪自定义事件
+
+输入 [#输入-28]
+
+| 参数           | 类型     | 必需 | 描述                                                      |
+| ------------ | ------ | -- | ------------------------------------------------------- |
+| `event_name` | string | 是  | 事件名称（例如："order-completed"）。为便于阅读，请使用动词过去式-名词格式。         |
+| `created_at` | number | 否  | 事件发生时的 Unix 时间戳。强烈建议用于保证唯一性。                            |
+| `user_id`    | string | 否  | 用户的标识符（external\_id）                                    |
+| `email`      | string | 否  | 用户的邮箱地址。仅当您的应用使用邮箱唯一标识用户时使用。                            |
+| `id`         | string | 否  | Intercom 联系人 ID                                         |
+| `metadata`   | string | 否  | 包含最多 10 个事件元数据键值对的 JSON 对象（例如：\{"order\_value": 99.99}） |
+
+输出 [#输出-28]
+
+| 参数         | 类型      | 描述                    |
+| ---------- | ------- | --------------------- |
+| `accepted` | boolean | 事件是否被接受（202 Accepted） |
+
+intercom_attach_contact_to_company [#intercom_attach_contact_to_company]
+
+在 Intercom 中将联系人关联到公司
+
+输入 [#输入-29]
+
+| 参数          | 类型     | 必需 | 描述            |
+| ----------- | ------ | -- | ------------- |
+| `contactId` | string | 是  | 要关联到公司的联系人 ID |
+| `companyId` | string | 是  | 要关联联系人的公司 ID  |
+
+输出 [#输出-29]
+
+| 参数                | 类型     | 描述               |
+| ----------------- | ------ | ---------------- |
+| `company`         | object | 联系人已关联的公司对象      |
+| ↳ `id`            | string | 公司的唯一标识符         |
+| ↳ `type`          | string | 对象类型（company）    |
+| ↳ `company_id`    | string | 你定义的 company\_id |
+| ↳ `name`          | string | 公司名称             |
+| ↳ `created_at`    | number | 公司创建时的 Unix 时间戳  |
+| ↳ `updated_at`    | number | 公司更新时间的 Unix 时间戳 |
+| ↳ `user_count`    | number | 公司用户数量           |
+| ↳ `session_count` | number | 会话数量             |
+| ↳ `monthly_spend` | number | 每月支出金额           |
+| ↳ `plan`          | object | 公司套餐详情           |
+| `companyId`       | string | 公司 ID            |
+| `name`            | string | 公司名称             |
+
+intercom_detach_contact_from_company [#intercom_detach_contact_from_company]
+
+在 Intercom 中将联系人从公司中移除
+
+输入 [#输入-30]
+
+| 参数          | 类型     | 必需 | 描述             |
+| ----------- | ------ | -- | -------------- |
+| `contactId` | string | 是  | 要从公司中移除的联系人 ID |
+| `companyId` | string | 是  | 要移除联系人的公司 ID   |
+
+输出 [#输出-30]
+
+| 参数             | 类型     | 描述               |
+| -------------- | ------ | ---------------- |
+| `company`      | object | 联系人被移除的公司对象      |
+| ↳ `id`         | string | 公司的唯一标识符         |
+| ↳ `type`       | string | 对象类型（company）    |
+| ↳ `company_id` | string | 你定义的 company\_id |
+| ↳ `name`       | string | 公司名称             |
+| `companyId`    | string | 公司 ID            |
+| `name`         | string | 公司名称             |
+38:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L3f",null,{"content":"$40"}]}],"$L41"]}],"$L42","$L43"]}]
+39:["$","$L44",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L45",null,{"type":"intercom","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L46",null,{"href":"https://www.intercom.com/","children":"Intercom"}]," 是一个领先的客户沟通平台，能够让您在一个地方管理和自动化与联系人、公司、对话、工单和消息的互动。Aptlystar 中的 Intercom 集成让您的代理可以通过自动化工作流以编程方式管理客户关系、支持请求和对话。"]}],"\n",["$","p",null,{"children":"使用 Intercom 工具，您可以："}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"联系人管理："}]," 创建、获取、更新、列出、搜索和删除联系人——自动化您的 CRM 流程并保持客户记录的最新。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"公司管理："}]," 创建新公司、检索公司详细信息，并列出与您的用户或业务客户相关的所有公司。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"对话处理："}]," 获取、列出、回复和搜索对话——让代理能够跟踪正在进行的支持线程、提供答案并自动执行后续操作。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"工单管理："}]," 以编程方式创建和检索工单，帮助您自动化客户服务、支持问题跟踪和工作流升级。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"发送消息："}]," 向用户或潜在客户触发消息，用于入职、支持或营销，所有这些都可以在您的工作流自动化中完成。"]}],"\n"]}],"\n",["$","p",null,{"children":"通过将 Intercom 工具集成到 Aptlystar 中，您可以让工作流直接与用户沟通，自动化客户支持流程，管理潜在客户，并大规模简化沟通。无论您是需要创建新联系人、保持客户数据同步、管理支持工单，还是发送个性化的参与消息，Intercom 工具都提供了一种全面的方式，将客户互动管理作为智能自动化的一部分。"}],"\n","\n",["$","$L47",null,{"as":"h2","id":"使用说明","children":"使用说明"}],"\n",["$","p",null,{"children":"将 Intercom 集成到工作流中。可以创建、获取、更新、列出、搜索和删除联系人；创建、获取和列出公司；获取、列出、回复和搜索对话；创建和获取工单；以及创建消息。"}],"\n",["$","$L47",null,{"as":"h2","id":"工具","children":"工具"}],"\n",["$","$L47",null,{"as":"h3","id":"intercom_create_contact","children":["$","code",null,{"children":"intercom_create_contact"}]}],"\n",["$","p",null,{"children":"使用 email、external_id 或 role 在 Intercom 中创建一个新联系人"}],"\n",["$","$L47",null,{"as":"h4","id":"输入","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人角色。可选 'user' 或 'lead'。如未指定，默认为 'lead'。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"external_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"客户端为联系人提供的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avatar"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人头像图片 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signed_up_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用户注册时间（Unix 时间戳）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_seen_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用户最后一次在线时间（Unix 时间戳）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"被分配为该联系人账户所有者的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unsubscribed_from_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人是否已退订邮件"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"自定义属性，格式为 JSON 对象（如：{\"attribute_name\": \"value\"}）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"创建联系人时关联的公司 ID"}]]}]]}]]}]}],"\n",["$","$L47",null,{"as":"h4","id":"输出","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":["$L48","$L49","$L4a"]}]}]]}]}],"\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6","\n","$Le7","\n","$Le8","\n","$Le9","\n","$Lea","\n","$Leb","\n","$Lec","\n","$Led","\n","$Lee","\n","$Lef","\n","$Lf0","\n","$Lf1","\n","$Lf2","\n","$Lf3","\n","$Lf4","\n","$Lf5","\n","$Lf6","\n","$Lf7","\n","$Lf8","\n","$Lf9","\n","$Lfa","\n","$Lfb","\n","$Lfc","\n","$Lfd","\n","$Lfe","\n","$Lff"]}]}]
+3a:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+3b:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+3c:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+3d:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+3e:["$","$L100",null,{"children":["$","$101",null,{"name":"Next.MetadataOutlet","children":"$@102"}]}]
+41:["$","$L103",null,{}]
+104:Tbe4,M221.66,144.56 C221.66,146.9 220.76,149.15 219.17,150.8 C217.57,152.46 215.4,153.39 213.15,153.39 C210.89,153.39 208.72,152.46 207.12,150.8 C205.53,149.15 204.63,146.9 204.63,144.56 L204.63,65.68 C204.63,63.34 205.53,61.09 207.12,59.43 C208.72,57.78 210.89,56.85 213.15,56.85 C215.4,56.85 217.57,57.78 219.17,59.43 C220.76,61.09 221.66,63.34 221.66,65.68 L221.66,144.56 Z M218.7,199.22 C217.58,200.39 185.91,227.75 127.86,227.75 C69.81,227.75 38.35,200.53 37.01,199.36 C36.17,198.63 35.48,197.73 34.97,196.71 C34.47,195.69 34.16,194.59 34.07,193.45 C33.98,192.31 34.1,191.16 34.44,190.07 C34.77,188.98 35.32,187.98 36.03,187.1 C37.5,185.34 39.58,184.25 41.82,184.07 C44.06,183.9 46.28,184.64 47.99,186.16 C48.48,186.52 76.77,210.31 127.79,210.31 C178.81,210.31 207.3,186.37 207.59,186.16 C209.32,184.66 211.54,183.92 213.79,184.1 C216.04,184.27 218.13,185.35 219.62,187.1 C221.06,188.84 221.77,191.1 221.61,193.38 C221.46,195.66 220.44,197.78 218.78,199.29 L218.7,199.22 Z M33.99,65.68 C34.12,63.33 35.13,61.13 36.82,59.55 C38.51,57.98 40.73,57.17 43,57.29 C45.1,57.41 47.08,58.33 48.56,59.88 C50.04,61.43 50.92,63.5 51.02,65.68 L51.02,144.42 C51.02,146.76 50.12,149 48.52,150.66 C46.93,152.31 44.76,153.24 42.5,153.24 C40.24,153.24 38.08,152.31 36.48,150.66 C34.88,149 33.99,146.76 33.99,144.42 L33.99,65.68 Z M76.7,48.16 C76.83,45.81 77.85,43.61 79.54,42.04 C81.22,40.47 83.44,39.65 85.71,39.77 C87.81,39.9 89.79,40.82 91.27,42.37 C92.75,43.92 93.63,45.98 93.73,48.16 L93.73,164.92 C93.73,167.26 92.83,169.51 91.24,171.16 C89.64,172.82 87.47,173.75 85.22,173.75 C82.96,173.75 80.79,172.82 79.2,171.16 C77.6,169.51 76.7,167.26 76.7,164.92 L76.7,48.16 Z M119.63,43.79 C119.63,41.44 120.52,39.2 122.12,37.54 C123.72,35.89 125.88,34.96 128.14,34.96 C130.4,34.96 132.56,35.89 134.16,37.54 C135.76,39.2 136.66,41.44 136.66,43.79 L136.66,170.76 C136.66,173.1 135.76,175.35 134.16,177 C132.56,178.66 130.4,179.59 128.14,179.59 C125.88,179.59 123.72,178.66 122.12,177 C120.52,175.35 119.63,173.1 119.63,170.76 L119.63,43.79 Z M161.85,48.16 C161.85,45.82 162.74,43.58 164.34,41.92 C165.94,40.26 168.1,39.33 170.36,39.33 C172.62,39.33 174.79,40.26 176.38,41.92 C177.98,43.58 178.88,45.82 178.88,48.16 L178.88,164.92 C178.88,167.26 177.98,169.51 176.38,171.16 C174.79,172.82 172.62,173.75 170.36,173.75 C168.1,173.75 165.94,172.82 164.34,171.16 C162.74,169.51 161.85,167.26 161.85,164.92 L161.85,48.16 Z M223.98,0 L32.02,0 C27.83,-0.03 23.69,0.8 19.81,2.44 C15.94,4.07 12.41,6.48 9.44,9.53 C6.47,12.58 4.1,16.21 2.48,20.21 C0.86,24.21 0.02,28.5 0,32.84 L0,229.87 C0.02,234.2 0.86,238.5 2.48,242.49 C4.1,246.49 6.47,250.12 9.44,253.17 C12.41,256.22 15.94,258.64 19.81,260.27 C23.69,261.91 27.83,262.73 32.02,262.71 L223.98,262.71 C228.16,262.73 232.3,261.91 236.17,260.28 C240.04,258.65 243.56,256.24 246.53,253.2 C249.51,250.16 251.87,246.54 253.5,242.55 C255.12,238.55 255.97,234.27 256,229.94 L256,32.84 C255.98,28.51 255.14,24.22 253.52,20.23 C251.91,16.23 249.55,12.61 246.58,9.56 C243.62,6.51 240.1,4.1 236.24,2.46 C232.37,0.82 228.23,-0.02 224.05,042:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"800px","height":"800px","viewBox":"-3.5 0 263 263","version":"1.1","xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","preserveAspectRatio":"xMidYMid","children":["$","g",null,{"children":["$","path",null,{"d":"$104","fill":"#000000"}]}]}]}],"$L105"]}]
+43:["$","$L106",null,{"children":"在 Intercom 中管理联系人、公司、对话、工单和消息"}]
+48:["$","td",null,{"children":["$","code",null,{"children":"contact"}]}]
+49:["$","td",null,{"children":"object"}]
+4a:["$","td",null,{"children":"创建的联系人对象"}]
+4b:["$","$L47",null,{"as":"h3","id":"intercom_get_contact","children":["$","code",null,{"children":"intercom_get_contact"}]}]
+4c:["$","p",null,{"children":"通过 ID 从 Intercom 获取单个联系人"}]
+4d:["$","$L47",null,{"as":"h4","id":"输入-1","children":"输入"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检索的联系人 ID"}]]}]}]]}]}]
+4f:["$","$L47",null,{"as":"h4","id":"输出-1","children":"输出"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"联系人对象"}]]}]}]]}]}]
+51:["$","$L47",null,{"as":"h3","id":"intercom_update_contact","children":["$","code",null,{"children":"intercom_update_contact"}]}]
+52:["$","p",null,{"children":"更新 Intercom 中的现有联系人"}]
+53:["$","$L47",null,{"as":"h4","id":"输入-2","children":"输入"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要更新的联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人角色。可选 'user' 或 'lead'。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"external_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"客户端为联系人提供的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avatar"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人头像图片 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signed_up_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用户注册时间（Unix 时间戳）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_seen_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用户最后一次在线时间（Unix 时间戳）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"被分配为该联系人账户所有者的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unsubscribed_from_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"联系人是否已退订邮件"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"自定义属性，格式为 JSON 对象（如：{\"attribute_name\": \"value\"}）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"关联的公司 ID"}]]}]]}]]}]}]
+55:["$","$L47",null,{"as":"h4","id":"输出-2","children":"输出"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"更新后的联系人对象"}]]}]}]]}]}]
+57:["$","$L47",null,{"as":"h3","id":"intercom_list_contacts","children":["$","code",null,{"children":"intercom_list_contacts"}]}]
+58:["$","p",null,{"children":"列出所有来自 Intercom 的联系人，支持分页"}]
+59:["$","$L47",null,{"as":"h4","id":"输入-3","children":"输入"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数量 (最大值: 150)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分页游标 - 起始 ID"}]]}]]}]]}]}]
+5b:["$","$L47",null,{"as":"h4","id":"输出-3","children":"输出"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"联系人对象数组"}]]}]}]]}]}]
+5d:["$","$L47",null,{"as":"h3","id":"intercom_search_contacts","children":["$","code",null,{"children":"intercom_search_contacts"}]}]
+5e:["$","p",null,{"children":"使用查询在 Intercom 中搜索联系人"}]
+5f:["$","$L47",null,{"as":"h4","id":"输入-4","children":"输入"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["搜索查询（例如：{\"field\":\"email\", \"operator\":\"=\", \"value\":\"",["$","$L46",null,{"href":"mailto:user@example.com","children":"user@example.com"}],"\"}）"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数量（最大值：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用于分页的游标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_field"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"排序字段（例如：\"name\"，\"created_at\"，\"last_seen_at\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"排序方式：“ascending” 或 “descending”"}]]}]]}]]}]}]
+61:["$","$L47",null,{"as":"h4","id":"输出-4","children":"输出"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"匹配的联系人对象数组"}]]}]}]]}]}]
+63:["$","$L47",null,{"as":"h3","id":"intercom_delete_contact","children":["$","code",null,{"children":"intercom_delete_contact"}]}]
+64:["$","p",null,{"children":"通过 ID 从 Intercom 中删除联系人"}]
+65:["$","$L47",null,{"as":"h4","id":"输入-5","children":"输入"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要删除的联系人 ID"}]]}]}]]}]}]
+67:["$","$L47",null,{"as":"h4","id":"输出-5","children":"输出"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"已删除联系人的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"联系人是否已被删除"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"操作元数据"}]]}]]}]]}]}]
+69:["$","$L47",null,{"as":"h3","id":"intercom_create_company","children":["$","code",null,{"children":"intercom_create_company"}]}]
+6a:["$","p",null,{"children":"在 Intercom 中创建或更新公司"}]
+6b:["$","$L47",null,{"as":"h4","id":"输入-6","children":"输入"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"您为公司设置的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司网站"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"plan"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司套餐名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司员工数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司所属行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"monthly_spend"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司为您的业务带来的收入。注意：此字段会将浮点数截断为整数（例如：155.98 变为 155）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"自定义属性，格式为 JSON 对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remote_created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"您创建公司时的 Unix 时间戳"}]]}]]}]]}]}]
+6d:["$","$L47",null,{"as":"h4","id":"输出-6","children":"输出"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"新建或更新的公司对象"}]]}]}]]}]}]
+6f:["$","$L47",null,{"as":"h3","id":"intercom_get_company","children":["$","code",null,{"children":"intercom_get_company"}]}]
+70:["$","p",null,{"children":"通过 ID 从 Intercom 检索单个公司"}]
+71:["$","$L47",null,{"as":"h4","id":"输入-7","children":"输入"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检索的公司 ID"}]]}]}]]}]}]
+73:["$","$L47",null,{"as":"h4","id":"输出-7","children":"输出"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"公司对象"}]]}]}]]}]}]
+75:["$","$L47",null,{"as":"h3","id":"intercom_list_companies","children":["$","code",null,{"children":"intercom_list_companies"}]}]
+76:["$","p",null,{"children":"列出来自 Intercom 的所有公司，支持分页。注意：此端点限制为通过分页返回最多 10,000 家公司。对于超过 10,000 家公司的数据集，请改用 Scroll API。"}]
+77:["$","$L47",null,{"as":"h4","id":"输入-8","children":"输入"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分页游标（优先于基于页码的分页）"}]]}]]}]]}]}]
+79:["$","$L47",null,{"as":"h4","id":"输出-8","children":"输出"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companies"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"公司对象数组"}]]}]}]]}]}]
+7b:["$","$L47",null,{"as":"h3","id":"intercom_get_conversation","children":["$","code",null,{"children":"intercom_get_conversation"}]}]
+7c:["$","p",null,{"children":"通过 ID 从 Intercom 检索单个会话"}]
+7d:["$","$L47",null,{"as":"h4","id":"输入-9","children":"输入"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检索的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"display_as"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"设为 \"plaintext\" 可检索纯文本消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"include_translations"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"若为 true，会话内容将被翻译为检测到的会话语言"}]]}]]}]]}]}]
+7f:["$","$L47",null,{"as":"h4","id":"输出-9","children":"输出"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"会话对象"}]]}]}]]}]}]
+81:["$","$L47",null,{"as":"h3","id":"intercom_list_conversations","children":["$","code",null,{"children":"intercom_list_conversations"}]}]
+82:["$","p",null,{"children":"列出 Intercom 中的所有会话，并支持分页"}]
+83:["$","$L47",null,{"as":"h4","id":"输入-10","children":"输入"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数量（最大值：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分页游标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"排序字段（例如：\"waiting_since\"、\"updated_at\"、\"created_at\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"排序方式：\"asc\"（升序）或 \"desc\"（降序）"}]]}]]}]]}]}]
+85:["$","$L47",null,{"as":"h4","id":"输出-10","children":"输出"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"会话对象数组"}]]}]}]]}]}]
+87:["$","$L47",null,{"as":"h3","id":"intercom_reply_conversation","children":["$","code",null,{"children":"intercom_reply_conversation"}]}]
+88:["$","p",null,{"children":"以管理员身份在 Intercom 中回复对话"}]
+89:["$","$L47",null,{"as":"h4","id":"输入-11","children":"输入"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要回复的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息类型：\"comment\" 或 \"note\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"回复正文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"回复管理员的 ID。如果未提供，将使用默认管理员（Operator/Fin）。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachment_urls"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"以逗号分隔的图片 URL 列表（最多 10 个）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"回复创建时的 Unix 时间戳。如果未提供，则使用当前时间。"}]]}]]}]]}]}]
+8b:["$","$L47",null,{"as":"h4","id":"输出-11","children":"输出"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"更新后的会话对象"}]]}]}]]}]}]
+8d:["$","$L47",null,{"as":"h3","id":"intercom_search_conversations","children":["$","code",null,{"children":"intercom_search_conversations"}]}]
+8e:["$","p",null,{"children":"使用查询在 Intercom 中搜索对话"}]
+8f:["$","$L47",null,{"as":"h4","id":"输入-12","children":"输入"}]
+90:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"作为 JSON 对象的搜索查询"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数量（最大值：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分页游标"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_field"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"排序字段（例如：\"created_at\"，\"updated_at\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"排序顺序：“ascending” 或 “descending”"}]]}]]}]]}]}]
+91:["$","$L47",null,{"as":"h4","id":"输出-12","children":"输出"}]
+92:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"匹配的会话对象数组"}]]}]}]]}]}]
+93:["$","$L47",null,{"as":"h3","id":"intercom_create_ticket","children":["$","code",null,{"children":"intercom_create_ticket"}]}]
+94:["$","p",null,{"children":"在 Intercom 中创建新工单"}]
+95:["$","$L47",null,{"as":"h4","id":"输入-13","children":"输入"}]
+96:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket_type_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"工单类型的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"联系人标识符的 JSON 数组（例如：[{\"id\": \"contact_id\"}]）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["包含 ",["$","em",null,{"children":"default_title"}]," 和 ",["$","em",null,{"children":"default_description"}]," 的工单属性 JSON 对象"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"要关联工单的公司 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"工单创建时的 Unix 时间戳。如果未提供，则使用当前时间。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation_to_link_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"要关联到此工单的现有会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disable_notifications"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"若为 true，创建工单时将不发送通知"}]]}]]}]]}]}]
+97:["$","$L47",null,{"as":"h4","id":"输出-13","children":"输出"}]
+98:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"创建的工单对象"}]]}]}]]}]}]
+99:["$","$L47",null,{"as":"h3","id":"intercom_get_ticket","children":["$","code",null,{"children":"intercom_get_ticket"}]}]
+9a:["$","p",null,{"children":"从 Intercom 按 ID 检索单个工单"}]
+9b:["$","$L47",null,{"as":"h4","id":"输入-14","children":"输入"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticketId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检索的工单 ID"}]]}]}]]}]}]
+9d:["$","$L47",null,{"as":"h4","id":"输出-14","children":"输出"}]
+9e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"工单对象"}]]}]}]]}]}]
+9f:["$","$L47",null,{"as":"h3","id":"intercom_create_message","children":["$","code",null,{"children":"intercom_create_message"}]}]
+a0:["$","p",null,{"children":"在 Intercom 中创建并发送新的管理员发起的消息"}]
+a1:["$","$L47",null,{"as":"h4","id":"输入-15","children":"输入"}]
+a2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息类型：“inapp” 表示应用内消息，“email” 表示电子邮件消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"template"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息模板样式：“plain” 表示纯文本，“personal” 表示个性化样式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"消息主题（仅适用于 email 类型）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息正文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"发送方类型：“admin”"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"发送消息的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"接收方类型：“contact”"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"接收消息的联系人的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"消息创建时的 Unix 时间戳。如果未提供，则使用当前时间。"}]]}]]}]]}]}]
+a3:["$","$L47",null,{"as":"h4","id":"输出-15","children":"输出"}]
+a4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"创建的消息对象"}]]}]}]]}]}]
+a5:["$","$L47",null,{"as":"h2","id":"注意事项","children":"注意事项"}]
+a6:["$","ul",null,{"children":["\n",["$","li",null,{"children":["类别：",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["类型：",["$","code",null,{"children":"intercom"}]]}],"\n"]}]
+a7:["$","p",null,{"children":"在 Intercom 中创建并发送一条新的管理员发起消息。仅返回与 API 对齐的字段。"}]
+a8:["$","$L47",null,{"as":"h4","id":"输入-16","children":"输入"}]
+a9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息类型：\"inapp\" 表示应用内消息，\"email\" 表示邮件消息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"template"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息模板样式：\"plain\" 表示纯文本，\"personal\" 表示个性化样式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"消息主题（仅适用于邮件类型）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"消息正文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"发送者类型：\"admin\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"发送消息的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"接收者类型：\"contact\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"接收消息的联系人的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"消息创建时间的 Unix 时间戳。如未提供，则使用当前时间。"}]]}]]}]]}]}]
+aa:["$","$L47",null,{"as":"h4","id":"输出-16","children":"输出"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"创建的消息对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"消息的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（message）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"消息创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"body"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"消息正文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"message_type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"消息类型（in_app 或 email）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"conversation_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"创建的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owner"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"消息所有者"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"创建的消息 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"操作成功状态"}]]}]]}]]}]}]
+ac:["$","p",null,{"children":"获取工作区所有管理员的列表"}]
+ad:["$","p",null,{"children":"获取工作区所有管理员的列表"}]
+ae:["$","$L47",null,{"as":"h4","id":"输入-17","children":"输入"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}]}]}]
+b0:["$","$L47",null,{"as":"h4","id":"输出-17","children":"输出"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admins"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"管理员对象数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理员的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（admin）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理员姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理员邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"job_title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理员职位"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"away_mode_enabled"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"管理员是否处于离开模式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"away_mode_reassign"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"离开时是否重新分配会话"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"has_inbox_seat"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"管理员是否拥有付费收件箱席位"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team_ids"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"管理员所属团队 ID 列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatar"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"头像信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email_verified"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"邮箱是否已验证"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（admin.list）"}]]}]]}]]}]}]
+b2:["$","p",null,{"children":"关闭 Intercom 中的会话"}]
+b3:["$","p",null,{"children":"关闭 Intercom 中的会话"}]
+b4:["$","$L47",null,{"as":"h4","id":"输入-18","children":"输入"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要关闭的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"执行操作的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"可选的关闭消息，将添加到会话中"}]]}]]}]]}]}]
+b6:["$","$L47",null,{"as":"h4","id":"输出-18","children":"输出"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已关闭的会话对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（conversation）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话状态（closed）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会话是否为开启状态（false）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"read"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会话是否已读"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话最后更新时间的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"已关闭会话的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话状态（closed）"}]]}]]}]]}]}]
+b8:["$","$L47",null,{"as":"h3","id":"intercom_open_conversation","children":["$","code",null,{"children":"intercom_open_conversation"}]}]
+b9:["$","p",null,{"children":"在 Intercom 中打开已关闭或已暂停的会话"}]
+ba:["$","$L47",null,{"as":"h4","id":"输入-19","children":"输入"}]
+bb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要打开的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"执行操作的管理员 ID"}]]}]]}]]}]}]
+bc:["$","$L47",null,{"as":"h4","id":"输出-19","children":"输出"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已打开的会话对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（conversation）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话状态（open）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会话是否为开启状态（true）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"read"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会话是否已读"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话最后更新时间的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"已打开会话的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话状态（open）"}]]}]]}]]}]}]
+be:["$","$L47",null,{"as":"h3","id":"intercom_snooze_conversation","children":["$","code",null,{"children":"intercom_snooze_conversation"}]}]
+bf:["$","p",null,{"children":"将对话暂时搁置，稍后自动重新开启"}]
+c0:["$","$L47",null,{"as":"h4","id":"输入-20","children":"输入"}]
+c1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要搁置的对话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"执行操作的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snoozed_until"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"对话应重新开启的 Unix 时间戳"}]]}]]}]]}]}]
+c2:["$","$L47",null,{"as":"h4","id":"输出-20","children":"输出"}]
+c3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已搁置的对话对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对话的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（conversation）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对话状态（已搁置）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"对话是否处于开启状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"snoozed_until"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"对话将重新开启的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"对话创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"对话最后更新时间的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"已搁置对话的 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对话状态（已搁置）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snoozed_until"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"对话将重新开启的 Unix 时间戳"}]]}]]}]]}]}]
+c4:["$","$L47",null,{"as":"h3","id":"intercom_assign_conversation","children":["$","code",null,{"children":"intercom_assign_conversation"}]}]
+c5:["$","p",null,{"children":"将对话分配给 Intercom 中的管理员或团队"}]
+c6:["$","$L47",null,{"as":"h4","id":"输入-21","children":"输入"}]
+c7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要分配的对话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"执行分配操作的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要分配给的管理员或团队 ID。设置为 \"0\" 表示取消分配。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"分配时可选的附加消息（如：\"转交给支持团队\"）"}]]}]]}]]}]}]
+c8:["$","$L47",null,{"as":"h4","id":"输出-21","children":"输出"}]
+c9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已分配的会话对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（conversation）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会话状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会话是否为开启状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"admin_assignee_id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"分配的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team_assignee_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"分配的团队 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话最后更新时间的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"分配的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_assignee_id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"分配的管理员 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"team_assignee_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"分配的团队 ID"}]]}]]}]]}]}]
+ca:["$","$L47",null,{"as":"h3","id":"intercom_list_tags","children":["$","code",null,{"children":"intercom_list_tags"}]}]
+cb:["$","p",null,{"children":"获取工作区内所有标签的列表"}]
+cc:["$","$L47",null,{"as":"h4","id":"输入-22","children":"输入"}]
+cd:["$","p",null,{"children":"| 参数 | 类型 | 必需 | 描述 |"}]
+ce:["$","$L47",null,{"as":"h4","id":"输出-22","children":"输出"}]
+cf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"标签对象数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（tag）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（list）"}]]}]]}]]}]}]
+d0:["$","$L47",null,{"as":"h3","id":"intercom_create_tag","children":["$","code",null,{"children":"intercom_create_tag"}]}]
+d1:["$","p",null,{"children":"创建新标签或更新现有标签名称"}]
+d2:["$","$L47",null,{"as":"h4","id":"输入-23","children":"输入"}]
+d3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"标签名称。如果未找到则创建新标签，如果提供了 id 则更新名称。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"要更新的现有标签 ID。不填写则创建新标签。"}]]}]]}]]}]}]
+d4:["$","$L47",null,{"as":"h4","id":"输出-23","children":"输出"}]
+d5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（tag）"}]]}]]}]]}]}]
+d6:["$","$L47",null,{"as":"h3","id":"intercom_tag_contact","children":["$","code",null,{"children":"intercom_tag_contact"}]}]
+d7:["$","p",null,{"children":"为指定联系人添加标签"}]
+d8:["$","$L47",null,{"as":"h4","id":"输入-24","children":"输入"}]
+d9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要打标签的联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要应用的标签 ID"}]]}]]}]]}]}]
+da:["$","$L47",null,{"as":"h4","id":"输出-24","children":"输出"}]
+db:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（tag）"}]]}]]}]]}]}]
+dc:["$","$L47",null,{"as":"h3","id":"intercom_untag_contact","children":["$","code",null,{"children":"intercom_untag_contact"}]}]
+dd:["$","p",null,{"children":"为指定联系人移除标签"}]
+de:["$","$L47",null,{"as":"h4","id":"输入-25","children":"输入"}]
+df:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要移除标签的联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要移除的标签 ID"}]]}]]}]]}]}]
+e0:["$","$L47",null,{"as":"h4","id":"输出-25","children":"输出"}]
+e1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"被移除标签的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"被移除标签的名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（tag）"}]]}]]}]]}]}]
+e2:["$","$L47",null,{"as":"h3","id":"intercom_tag_conversation","children":["$","code",null,{"children":"intercom_tag_conversation"}]}]
+e3:["$","p",null,{"children":"为指定会话添加标签"}]
+e4:["$","$L47",null,{"as":"h4","id":"输入-26","children":"输入"}]
+e5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"需要打标签的会话 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要应用的标签 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"应用标签的管理员 ID"}]]}]]}]]}]}]
+e6:["$","$L47",null,{"as":"h4","id":"输出-26","children":"输出"}]
+e7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"标签名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（tag）"}]]}]]}]]}]}]
+e8:["$","$L47",null,{"as":"h3","id":"intercom_create_note","children":["$","code",null,{"children":"intercom_create_note"}]}]
+e9:["$","p",null,{"children":"为指定联系人添加备注"}]
+ea:["$","$L47",null,{"as":"h4","id":"输入-27","children":"输入"}]
+eb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"需要添加备注的联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"备注的文本内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"创建备注的管理员 ID"}]]}]]}]]}]}]
+ec:["$","$L47",null,{"as":"h4","id":"输出-27","children":"输出"}]
+ed:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"笔记的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"笔记的文本内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"笔记创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（note）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"创建该笔记的管理员"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者类型（admin）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"笔记所关联的联系人"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"联系人类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"联系人 ID"}]]}]]}]]}]}]
+ee:["$","$L47",null,{"as":"h3","id":"intercom_create_event","children":["$","code",null,{"children":"intercom_create_event"}]}]
+ef:["$","p",null,{"children":"为 Intercom 中的联系人跟踪自定义事件"}]
+f0:["$","$L47",null,{"as":"h4","id":"输入-28","children":"输入"}]
+f1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"event_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"事件名称（例如：\"order-completed\"）。为便于阅读，请使用动词过去式-名词格式。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件发生时的 Unix 时间戳。强烈建议用于保证唯一性。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用户的标识符（external_id）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用户的邮箱地址。仅当您的应用使用邮箱唯一标识用户时使用。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"Intercom 联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"包含最多 10 个事件元数据键值对的 JSON 对象（例如：{\"order_value\": 99.99}）"}]]}]]}]]}]}]
+f2:["$","$L47",null,{"as":"h4","id":"输出-28","children":"输出"}]
+f3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accepted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"事件是否被接受（202 Accepted）"}]]}]}]]}]}]
+f4:["$","$L47",null,{"as":"h3","id":"intercom_attach_contact_to_company","children":["$","code",null,{"children":"intercom_attach_contact_to_company"}]}]
+f5:["$","p",null,{"children":"在 Intercom 中将联系人关联到公司"}]
+f6:["$","$L47",null,{"as":"h4","id":"输入-29","children":"输入"}]
+f7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要关联到公司的联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要关联联系人的公司 ID"}]]}]]}]]}]}]
+f8:["$","$L47",null,{"as":"h4","id":"输出-29","children":"输出"}]
+f9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"联系人已关联的公司对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（company）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"你定义的 company_id"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"公司创建时的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"公司更新时间的 Unix 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"user_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"公司用户数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"session_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会话数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"monthly_spend"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"每月支出金额"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"plan"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"公司套餐详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}]]}]]}]}]
+fa:["$","$L47",null,{"as":"h3","id":"intercom_detach_contact_from_company","children":["$","code",null,{"children":"intercom_detach_contact_from_company"}]}]
+fb:["$","p",null,{"children":"在 Intercom 中将联系人从公司中移除"}]
+fc:["$","$L47",null,{"as":"h4","id":"输入-30","children":"输入"}]
+fd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必需"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要从公司中移除的联系人 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要移除联系人的公司 ID"}]]}]]}]]}]}]
+fe:["$","$L47",null,{"as":"h4","id":"输出-30","children":"输出"}]
+ff:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"联系人被移除的公司对象"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象类型（company）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"你定义的 company_id"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}]]}]]}]}]
+102:null
+105:["$","$L107",null,{"className":"mb-0 min-w-0 flex-1","children":"Intercom"}]

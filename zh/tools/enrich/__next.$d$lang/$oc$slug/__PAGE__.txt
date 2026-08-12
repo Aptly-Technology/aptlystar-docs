@@ -1,0 +1,1187 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+3a:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+3f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+40:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+41:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+42:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+105:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+106:"$Sreact.suspense"
+108:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+109:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+10a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Enrich\",\"description\":\"通过 Enrich.so 实现 B2B 数据丰富与 LinkedIn 智能分析\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/enrich\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/enrich\"},\"inLanguage\":\"zh\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/enrich\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Enrich\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/enrich\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#使用说明","title":"使用说明"},{"depth":2,"url":"#工具","title":"工具"},{"depth":3,"url":"#enrich_check_credits","title":["$","code",null,{"children":"enrich_check_credits"}]},{"depth":4,"url":"#输入","title":"输入"},{"depth":4,"url":"#输出","title":"输出"},{"depth":3,"url":"#enrich_email_to_profile","title":["$","code",null,{"children":"enrich_email_to_profile"}]},{"depth":4,"url":"#输入-1","title":"输入"},{"depth":4,"url":"#输出-1","title":"输出"},{"depth":3,"url":"#enrich_email_to_person_lite","title":["$","code",null,{"children":"enrich_email_to_person_lite"}]},{"depth":4,"url":"#输入-2","title":"输入"},{"depth":4,"url":"#输出-2","title":"输出"},{"depth":3,"url":"#enrich_linkedin_profile","title":["$","code",null,{"children":"enrich_linkedin_profile"}]},{"depth":4,"url":"#输入-3","title":"输入"},{"depth":4,"url":"#输出-3","title":"输出"},{"depth":3,"url":"#enrich_find_email","title":["$","code",null,{"children":"enrich_find_email"}]},{"depth":4,"url":"#输入-4","title":"输入"},{"depth":4,"url":"#输出-4","title":"输出"},{"depth":3,"url":"#enrich_linkedin_to_work_email","title":["$","code",null,{"children":"enrich_linkedin_to_work_email"}]},{"depth":4,"url":"#输入-5","title":"输入"},{"depth":4,"url":"#输出-5","title":"输出"},{"depth":3,"url":"#enrich_linkedin_to_personal_email","title":["$","code",null,{"children":"enrich_linkedin_to_personal_email"}]},{"depth":4,"url":"#输入-6","title":"输入"},{"depth":4,"url":"#输出-6","title":"输出"},{"depth":3,"url":"#enrich_phone_finder","title":["$","code",null,{"children":"enrich_phone_finder"}]},{"depth":4,"url":"#输入-7","title":"输入"},{"depth":4,"url":"#输出-7","title":"输出"},{"depth":3,"url":"#enrich_email_to_phone","title":["$","code",null,{"children":"enrich_email_to_phone"}]},{"depth":4,"url":"#输入-8","title":"输入"},{"depth":4,"url":"#输出-8","title":"输出"},{"depth":3,"url":"#enrich_verify_email","title":["$","code",null,{"children":"enrich_verify_email"}]},{"depth":4,"url":"#输入-9","title":"输入"},{"depth":4,"url":"#输出-9","title":"输出"},{"depth":3,"url":"#enrich_disposable_email_check","title":["$","code",null,{"children":"enrich_disposable_email_check"}]},{"depth":4,"url":"#输入-10","title":"输入"},{"depth":4,"url":"#输出-10","title":"输出"},{"depth":3,"url":"#enrich_email_to_ip","title":["$","code",null,{"children":"enrich_email_to_ip"}]},{"depth":4,"url":"#输入-11","title":"输入"},{"depth":4,"url":"#输出-11","title":"输出"},{"depth":3,"url":"#enrich_ip_to_company","title":["$","code",null,{"children":"enrich_ip_to_company"}]},{"depth":4,"url":"#输入-12","title":"输入"},{"depth":4,"url":"#输出-12","title":"输出"},{"depth":3,"url":"#enrich_company_lookup","title":["$","code",null,{"children":"enrich_company_lookup"}]},{"depth":4,"url":"#输入-13","title":"$L3"},{"depth":4,"url":"#输出-13","title":"$L4"},{"depth":3,"url":"#enrich_company_funding","title":"$L5"},{"depth":4,"url":"#输入-14","title":"$L6"},{"depth":4,"url":"#输出-14","title":"$L7"},{"depth":3,"url":"#enrich_company_revenue","title":"$L8"},{"depth":4,"url":"#输入-15","title":"$L9"},{"depth":4,"url":"#输出-15","title":"$La"},{"depth":3,"url":"#enrich_search_people","title":"$Lb"},{"depth":4,"url":"#输入-16","title":"$Lc"},{"depth":4,"url":"#输出-16","title":"$Ld"},{"depth":3,"url":"#enrich_search_company","title":"$Le"},{"depth":4,"url":"#输入-17","title":"$Lf"},{"depth":4,"url":"#输出-17","title":"$L10"},{"depth":3,"url":"#enrich_search_company_employees","title":"$L11"},{"depth":4,"url":"#输入-18","title":"$L12"},{"depth":4,"url":"#输出-18","title":"$L13"},{"depth":3,"url":"#enrich_search_similar_companies","title":"$L14"},{"depth":4,"url":"#输入-19","title":"$L15"},{"depth":4,"url":"#输出-19","title":"$L16"},{"depth":3,"url":"#enrich_sales_pointer_people","title":"$L17"},{"depth":4,"url":"#输入-20","title":"$L18"},{"depth":4,"url":"#输出-20","title":"$L19"},{"depth":3,"url":"#enrich_search_posts","title":"$L1a"},{"depth":4,"url":"#输入-21","title":"$L1b"},{"depth":4,"url":"#输出-21","title":"$L1c"},{"depth":3,"url":"#enrich_get_post_details","title":"$L1d"},{"depth":4,"url":"#输入-22","title":"$L1e"},{"depth":4,"url":"#输出-22","title":"$L1f"},{"depth":3,"url":"#enrich_search_post_reactions","title":"$L20"},{"depth":4,"url":"#输入-23","title":"$L21"},{"depth":4,"url":"#输出-23","title":"$L22"},{"depth":3,"url":"#enrich_search_post_comments","title":"$L23"},{"depth":4,"url":"#输入-24","title":"$L24"},{"depth":4,"url":"#输出-24","title":"$L25"},{"depth":3,"url":"#enrich_search_people_activities","title":"$L26"},{"depth":4,"url":"#输入-25","title":"$L27"},{"depth":4,"url":"#输出-25","title":"$L28"},{"depth":3,"url":"#enrich_search_company_activities","title":"$L29"},{"depth":4,"url":"#输入-26","title":"$L2a"},{"depth":4,"url":"#输出-26","title":"$L2b"},{"depth":3,"url":"#enrich_reverse_hash_lookup","title":"$L2c"},{"depth":4,"url":"#输入-27","title":"$L2d"},{"depth":4,"url":"#输出-27","title":"$L2e"},{"depth":3,"url":"#enrich_search_logo","title":"$L2f"},{"depth":4,"url":"#输入-28","title":"$L30"},{"depth":4,"url":"#输出-28","title":"$L31"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L32"},"children":["$L33","$L34"]}]],["$L35","$L36","$L37","$L38"],"$L39"]}],"loading":null,"isPartial":false}
+3:"输入"
+4:"输出"
+5:["$","code",null,{"children":"enrich_company_funding"}]
+6:"输入"
+7:"输出"
+8:["$","code",null,{"children":"enrich_company_revenue"}]
+9:"输入"
+a:"输出"
+b:["$","code",null,{"children":"enrich_search_people"}]
+c:"输入"
+d:"输出"
+e:["$","code",null,{"children":"enrich_search_company"}]
+f:"输入"
+10:"输出"
+11:["$","code",null,{"children":"enrich_search_company_employees"}]
+12:"输入"
+13:"输出"
+14:["$","code",null,{"children":"enrich_search_similar_companies"}]
+15:"输入"
+16:"输出"
+17:["$","code",null,{"children":"enrich_sales_pointer_people"}]
+18:"输入"
+19:"输出"
+1a:["$","code",null,{"children":"enrich_search_posts"}]
+1b:"输入"
+1c:"输出"
+1d:["$","code",null,{"children":"enrich_get_post_details"}]
+1e:"输入"
+1f:"输出"
+20:["$","code",null,{"children":"enrich_search_post_reactions"}]
+21:"输入"
+22:"输出"
+23:["$","code",null,{"children":"enrich_search_post_comments"}]
+24:"输入"
+25:"输出"
+26:["$","code",null,{"children":"enrich_search_people_activities"}]
+27:"输入"
+28:"输出"
+29:["$","code",null,{"children":"enrich_search_company_activities"}]
+2a:"输入"
+2b:"输出"
+2c:["$","code",null,{"children":"enrich_reverse_hash_lookup"}]
+2d:"输入"
+2e:"输出"
+2f:["$","code",null,{"children":"enrich_search_logo"}]
+30:"输入"
+31:"输出"
+32:null
+3b:Tb71d,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="enrich" color="#E5E5E6" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Enrich.so](https://enrich.so/) 提供实时、精准的 B2B 数据丰富和 LinkedIn 智能分析。其平台可动态访问公开和结构化的公司、联系人及专业信息，帮助团队构建更完整的客户画像，提升线索质量，并实现更高效的外联。
+
+使用 Enrich.so，您可以：
+
+* **丰富联系人和公司档案**：只需一个邮箱或 LinkedIn 个人资料，即可即时发现潜在客户、目标客户和企业的关键数据。
+* **验证邮箱可达性**：在发送前检查邮箱是否有效、可投递且安全。
+* **查找工作及个人邮箱**：通过 LinkedIn 个人资料补全缺失的商务邮箱或个人邮箱，拓展触达范围。
+* **获取电话号码和社交账号**：通过丰富工具发现更多联系人沟通渠道。
+* **分析 LinkedIn 帖子与互动**：从公开 LinkedIn 内容中提取帖子覆盖、互动和受众洞察。
+* **进行高级人员与公司搜索**：让您的团队基于深度筛选和实时智能，定位企业和专业人士。
+
+Aptlystar 与 Enrich.so 的集成让您的团队和自动化流程能够即时查询、丰富和验证 B2B 数据，提升销售拓客、招聘、市场运营等工作流的效率。将 Aptlystar 的编排能力与 Enrich.so 相结合，释放由顶级 B2B 智能驱动的数据化自动化策略。
+
+{/* MANUAL-CONTENT-END */}
+
+使用说明 [#使用说明]
+
+通过 Enrich.so 获取实时 B2B 数据智能。可根据邮箱丰富档案、从 LinkedIn 查找工作邮箱、验证邮箱可达性、搜索人员与公司，并分析 LinkedIn 帖子互动。
+
+工具 [#工具]
+
+enrich_check_credits [#enrich_check_credits]
+
+查看您的 Enrich API 信用额度使用情况和剩余余额。
+
+输入 [#输入]
+
+| 参数       | 类型     | 必填 | 描述            |
+| -------- | ------ | -- | ------------- |
+| `apiKey` | string | 是  | Enrich API 密钥 |
+
+输出 [#输出]
+
+| 参数                 | 类型     | 描述        |
+| ------------------ | ------ | --------- |
+| `totalCredits`     | number | 分配给账户的总额度 |
+| `creditsUsed`      | number | 已消耗额度     |
+| `creditsRemaining` | number | 剩余可用额度    |
+
+enrich_email_to_profile [#enrich_email_to_profile]
+
+使用电子邮件地址检索详细的 LinkedIn 个人资料信息，包括工作经历、教育背景和技能。
+
+输入 [#输入-1]
+
+| 参数           | 类型      | 必填 | 描述                                                                 |
+| ------------ | ------- | -- | ------------------------------------------------------------------ |
+| `apiKey`     | string  | 是  | Enrich API 密钥                                                      |
+| `email`      | string  | 是  | 要查询的电子邮件地址（例如：[john.doe@company.com](mailto:john.doe@company.com)） |
+| `inRealtime` | boolean | 否  | 设为 true 可获取最新数据，跳过缓存信息                                             |
+
+输出 [#输出-1]
+
+| 参数                            | 类型      | 描述                |
+| ----------------------------- | ------- | ----------------- |
+| `displayName`                 | string  | 完整显示名称            |
+| `firstName`                   | string  | 名字                |
+| `lastName`                    | string  | 姓氏                |
+| `headline`                    | string  | 职业头衔              |
+| `occupation`                  | string  | 当前职位              |
+| `summary`                     | string  | 个人简介              |
+| `location`                    | string  | 地点                |
+| `country`                     | string  | 国家                |
+| `linkedInUrl`                 | string  | LinkedIn 个人资料 URL |
+| `photoUrl`                    | string  | 个人头像 URL          |
+| `connectionCount`             | number  | 连接数               |
+| `isConnectionCountObfuscated` | boolean | 连接数是否被隐藏（500+）    |
+| `positionHistory`             | array   | 工作经历              |
+| ↳ `title`                     | string  | 职位名称              |
+| ↳ `company`                   | string  | 公司名称              |
+| ↳ `startDate`                 | string  | 入职日期              |
+| ↳ `endDate`                   | string  | 离职日期              |
+| ↳ `location`                  | string  | 地点                |
+| `education`                   | array   | 教育经历              |
+| ↳ `school`                    | string  | 学校名称              |
+| ↳ `degree`                    | string  | 学位                |
+| ↳ `fieldOfStudy`              | string  | 专业领域              |
+| ↳ `startDate`                 | string  | 入学日期              |
+| ↳ `endDate`                   | string  | 毕业日期              |
+| `certifications`              | array   | 职业认证              |
+| ↳ `name`                      | string  | 认证名称              |
+| ↳ `authority`                 | string  | 颁发机构              |
+| ↳ `url`                       | string  | 认证 URL            |
+| `skills`                      | array   | 技能列表              |
+| `languages`                   | array   | 语言列表              |
+| `locale`                      | string  | 个人资料语言（如 en\_US）  |
+| `version`                     | number  | 个人资料版本号           |
+
+enrich_email_to_person_lite [#enrich_email_to_person_lite]
+
+通过电子邮件地址获取基本的 LinkedIn 个人资料信息。仅包含核心数据的轻量版。
+
+输入 [#输入-2]
+
+| 参数       | 类型     | 必填 | 说明                                                                 |
+| -------- | ------ | -- | ------------------------------------------------------------------ |
+| `apiKey` | string | 是  | Enrich API 密钥                                                      |
+| `email`  | string | 是  | 要查询的电子邮件地址（例如：[john.doe@company.com](mailto:john.doe@company.com)） |
+
+输出 [#输出-2]
+
+| 参数                    | 类型     | 说明                |
+| --------------------- | ------ | ----------------- |
+| `name`                | string | 全名                |
+| `firstName`           | string | 名字                |
+| `lastName`            | string | 姓氏                |
+| `email`               | string | 电子邮件地址            |
+| `title`               | string | 职位                |
+| `location`            | string | 所在地               |
+| `company`             | string | 当前公司              |
+| `companyLocation`     | string | 公司所在地             |
+| `companyLinkedIn`     | string | 公司 LinkedIn URL   |
+| `profileId`           | string | LinkedIn 个人资料 ID  |
+| `schoolName`          | string | 学校名称              |
+| `schoolUrl`           | string | 学校 URL            |
+| `linkedInUrl`         | string | LinkedIn 个人资料 URL |
+| `photoUrl`            | string | 个人头像 URL          |
+| `followerCount`       | number | 粉丝数               |
+| `connectionCount`     | number | 连接数               |
+| `languages`           | array  | 使用语言              |
+| `projects`            | array  | 项目                |
+| `certifications`      | array  | 认证                |
+| `volunteerExperience` | array  | 志愿者经历             |
+
+enrich_linkedin_profile [#enrich_linkedin_profile]
+
+通过 LinkedIn 个人资料 URL 丰富详细信息，包括职位、教育和社交指标。
+
+输入 [#输入-3]
+
+| 参数       | 类型     | 必填 | 说明                                                  |
+| -------- | ------ | -- | --------------------------------------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥                                       |
+| `url`    | string | 是  | LinkedIn 个人资料 URL（例如，linkedin.com/in/williamhgates） |
+
+输出 [#输出-3]
+
+| 参数                 | 类型      | 说明               |
+| ------------------ | ------- | ---------------- |
+| `profileId`        | string  | LinkedIn 个人资料 ID |
+| `firstName`        | string  | 名                |
+| `lastName`         | string  | 姓                |
+| `subTitle`         | string  | 个人简介/头衔          |
+| `profilePicture`   | string  | 头像 URL           |
+| `backgroundImage`  | string  | 背景图片 URL         |
+| `industry`         | string  | 行业               |
+| `location`         | string  | 地点               |
+| `followersCount`   | number  | 粉丝数              |
+| `connectionsCount` | number  | 连接数              |
+| `premium`          | boolean | 是否为高级账户          |
+| `influencer`       | boolean | 是否为影响者账户         |
+| `positions`        | array   | 工作经历             |
+| ↳ `title`          | string  | 职位名称             |
+| ↳ `company`        | string  | 公司名称             |
+| ↳ `companyLogo`    | string  | 公司 logo URL      |
+| ↳ `startDate`      | string  | 入职日期             |
+| ↳ `endDate`        | string  | 离职日期             |
+| ↳ `location`       | string  | 地点               |
+| `education`        | array   | 教育经历             |
+| ↳ `school`         | string  | 学校名称             |
+| ↳ `degree`         | string  | 学位               |
+| ↳ `fieldOfStudy`   | string  | 专业领域             |
+| ↳ `startDate`      | string  | 入学日期             |
+| ↳ `endDate`        | string  | 毕业日期             |
+| `websites`         | array   | 个人网站             |
+
+enrich_find_email [#enrich_find_email]
+
+查找某个人
+
+输入 [#输入-4]
+
+| 参数              | 类型     | 必填 | 说明                   |
+| --------------- | ------ | -- | -------------------- |
+| `apiKey`        | string | 是  | Enrich API key       |
+| `fullName`      | string | 是  | 该人的全名（例如 John Doe）   |
+| `companyDomain` | string | 是  | 公司域名（例如 example.com） |
+
+输出 [#输出-4]
+
+| 参数          | 类型      | 说明          |
+| ----------- | ------- | ----------- |
+| `email`     | string  | 找到的邮箱地址     |
+| `firstName` | string  | 名字          |
+| `lastName`  | string  | 姓氏          |
+| `domain`    | string  | 公司域名        |
+| `found`     | boolean | 是否找到邮箱      |
+| `acceptAll` | boolean | 该域名是否接受所有邮箱 |
+
+enrich_linkedin_to_work_email [#enrich_linkedin_to_work_email]
+
+通过 LinkedIn 个人资料 URL 查找工作邮箱地址。
+
+输入 [#输入-5]
+
+| 参数                | 类型     | 必填 | 说明                                                                                                            |
+| ----------------- | ------ | -- | ------------------------------------------------------------------------------------------------------------- |
+| `apiKey`          | string | 是  | Enrich API key                                                                                                |
+| `linkedinProfile` | string | 是  | LinkedIn 个人资料 URL（例如 [https://www.linkedin.com/in/williamhgates）](https://www.linkedin.com/in/williamhgates）) |
+
+输出 [#输出-5]
+
+| 参数       | 类型      | 说明                             |
+| -------- | ------- | ------------------------------ |
+| `email`  | string  | 找到的工作邮箱地址                      |
+| `found`  | boolean | 是否找到邮箱                         |
+| `status` | string  | 请求状态（in\_progress 或 completed） |
+
+enrich_linkedin_to_personal_email [#enrich_linkedin_to_personal_email]
+
+通过 LinkedIn 个人资料 URL 查找个人邮箱地址。
+
+输入 [#输入-6]
+
+| 参数                | 类型     | 是否必填 | 描述                                             |
+| ----------------- | ------ | ---- | ---------------------------------------------- |
+| `apiKey`          | string | 是    | Enrich API 密钥                                  |
+| `linkedinProfile` | string | 是    | LinkedIn 个人资料 URL（例如，linkedin.com/in/username） |
+
+输出 [#输出-6]
+
+| 参数       | 类型      | 描述     |
+| -------- | ------- | ------ |
+| `email`  | string  | 个人邮箱地址 |
+| `found`  | boolean | 是否找到邮箱 |
+| `status` | string  | 请求状态   |
+
+enrich_phone_finder [#enrich_phone_finder]
+
+根据 LinkedIn 个人资料 URL 查找电话号码。
+
+输入 [#输入-7]
+
+| 参数                | 类型     | 是否必填 | 描述                                                  |
+| ----------------- | ------ | ---- | --------------------------------------------------- |
+| `apiKey`          | string | 是    | Enrich API 密钥                                       |
+| `linkedinProfile` | string | 是    | LinkedIn 个人资料 URL（例如，linkedin.com/in/williamhgates） |
+
+输出 [#输出-7]
+
+| 参数             | 类型      | 描述                             |
+| -------------- | ------- | ------------------------------ |
+| `profileUrl`   | string  | LinkedIn 个人资料 URL              |
+| `mobileNumber` | string  | 找到的手机号                         |
+| `found`        | boolean | 是否找到手机号                        |
+| `status`       | string  | 请求状态（in\_progress 或 completed） |
+
+enrich_email_to_phone [#enrich_email_to_phone]
+
+根据邮箱地址查找关联的电话号码。
+
+输入 [#输入-8]
+
+| 参数       | 类型     | 是否必填 | 描述                                                               |
+| -------- | ------ | ---- | ---------------------------------------------------------------- |
+| `apiKey` | string | 是    | Enrich API 密钥                                                    |
+| `email`  | string | 是    | 要查询的邮箱地址（例如，[john.doe@example.com](mailto:john.doe@example.com)） |
+
+输出 [#输出-8]
+
+| 参数             | 类型      | 说明                             |
+| -------------- | ------- | ------------------------------ |
+| `email`        | string  | 查询到的邮箱地址                       |
+| `mobileNumber` | string  | 查询到的手机号                        |
+| `found`        | boolean | 是否找到手机号                        |
+| `status`       | string  | 请求状态（in\_progress 或 completed） |
+
+enrich_verify_email [#enrich_verify_email]
+
+验证邮箱地址的可投递性，包括 catch-all 检测和服务商识别。
+
+输入 [#输入-9]
+
+| 参数       | 类型     | 必填 | 说明                                                               |
+| -------- | ------ | -- | ---------------------------------------------------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥                                                    |
+| `email`  | string | 是  | 要验证的邮箱地址（例如 [john.doe@example.com](mailto:john.doe@example.com)） |
+
+输出 [#输出-9]
+
+| 参数                | 类型      | 说明                                  |
+| ----------------- | ------- | ----------------------------------- |
+| `email`           | string  | 已验证的邮箱地址                            |
+| `status`          | string  | 验证状态                                |
+| `result`          | string  | 可投递性结果（deliverable、undeliverable 等） |
+| `confidenceScore` | number  | 置信分数（0-100）                         |
+| `smtpProvider`    | string  | 邮箱服务提供商（如 Google、Microsoft）         |
+| `mailDisposable`  | boolean | 是否为一次性邮箱服务商                         |
+| `mailAcceptAll`   | boolean | 域名是否为 catch-all 域名                  |
+| `free`            | boolean | 是否使用免费邮箱服务                          |
+
+enrich_disposable_email_check [#enrich_disposable_email_check]
+
+检查邮箱地址是否来自一次性或临时邮箱服务商。返回分数和验证详情。
+
+输入 [#输入-10]
+
+| 参数       | 类型     | 必填 | 说明                                                               |
+| -------- | ------ | -- | ---------------------------------------------------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥                                                    |
+| `email`  | string | 是  | 要检查的邮箱地址（例如 [john.doe@example.com](mailto:john.doe@example.com)） |
+
+输出 [#输出-10]
+
+| 参数             | 类型      | 描述                |
+| -------------- | ------- | ----------------- |
+| `email`        | string  | 已检查的邮箱地址          |
+| `score`        | number  | 验证分数（0-100）       |
+| `testsPassed`  | string  | 通过的测试数量（例如，"3/3"） |
+| `passed`       | boolean | 邮箱是否通过所有验证测试      |
+| `reason`       | string  | 如果邮箱未通过，失败原因      |
+| `mailServerIp` | string  | 邮件服务器 IP 地址       |
+| `mxRecords`    | array   | 域名的 MX 记录         |
+| ↳ `host`       | string  | MX 记录主机           |
+| ↳ `pref`       | number  | MX 记录优先级          |
+
+enrich_email_to_ip [#enrich_email_to_ip]
+
+发现与邮箱地址关联的 IP 地址。
+
+输入 [#输入-11]
+
+| 参数       | 类型     | 必填 | 描述                                                               |
+| -------- | ------ | -- | ---------------------------------------------------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥                                                    |
+| `email`  | string | 是  | 要查询的邮箱地址（例如，[john.doe@example.com](mailto:john.doe@example.com)） |
+
+输出 [#输出-11]
+
+| 参数      | 类型      | 描述         |
+| ------- | ------- | ---------- |
+| `email` | string  | 查询的邮箱地址    |
+| `ip`    | string  | 关联的 IP 地址  |
+| `found` | boolean | 是否找到 IP 地址 |
+
+enrich_ip_to_company [#enrich_ip_to_company]
+
+通过 IP 地址识别公司并获取详细的企业信息。
+
+输入 [#输入-12]
+
+| 参数       | 类型     | 必填 | 描述                          |
+| -------- | ------ | -- | --------------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥               |
+| `ip`     | string | 是  | 要查询的 IP 地址（例如，86.92.60.221） |
+
+输出 [#输出-12]
+
+| 参数              | 类型     | 描述            |
+| --------------- | ------ | ------------- |
+| `name`          | string | 公司名称          |
+| `legalName`     | string | 法定公司名称        |
+| `domain`        | string | 主域名           |
+| `domainAliases` | array  | 域名别名          |
+| `sector`        | string | 业务领域          |
+| `industry`      | string | 行业            |
+| `phone`         | string | 电话号码          |
+| `employees`     | number | 员工人数          |
+| `revenue`       | string | 预估收入          |
+| `location`      | json   | 公司地址          |
+| ↳ `city`        | string | 城市            |
+| ↳ `state`       | string | 州             |
+| ↳ `country`     | string | 国家            |
+| ↳ `timezone`    | string | 时区            |
+| `linkedInUrl`   | string | LinkedIn 公司网址 |
+| `twitterUrl`    | string | Twitter 网址    |
+| `facebookUrl`   | string | Facebook 网址   |
+
+enrich_company_lookup [#enrich_company_lookup]
+
+可通过公司名称或域名查询全面的公司信息，包括融资、地址和社交资料。
+
+输入 [#输入-13]
+
+| 参数       | 类型     | 必填 | 描述                  |
+| -------- | ------ | -- | ------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥       |
+| `name`   | string | 否  | 公司名称（例如，Google）     |
+| `domain` | string | 否  | 公司域名（例如，google.com） |
+
+输出 [#输出-13]
+
+| 参数              | 类型     | 描述            |
+| --------------- | ------ | ------------- |
+| `name`          | string | 公司名称          |
+| `universalName` | string | 通用公司名称        |
+| `companyId`     | string | 公司 ID         |
+| `description`   | string | 公司简介          |
+| `phone`         | string | 电话号码          |
+| `linkedInUrl`   | string | LinkedIn 公司网址 |
+| `websiteUrl`    | string | 公司官网          |
+| `followers`     | number | LinkedIn 粉丝数  |
+| `staffCount`    | number | 员工人数          |
+| `foundedDate`   | string | 成立日期          |
+| `type`          | string | 公司类型          |
+| `industries`    | array  | 行业            |
+| `specialties`   | array  | 公司专长          |
+| `headquarters`  | json   | 总部地址          |
+| ↳ `city`        | string | 城市            |
+| ↳ `country`     | string | 国家            |
+| ↳ `postalCode`  | string | 邮政编码          |
+| ↳ `line1`       | string | 地址第一行         |
+| `logo`          | string | 公司 logo 链接    |
+| `coverImage`    | string | 封面图片链接        |
+| `fundingRounds` | array  | 融资历史          |
+| ↳ `roundType`   | string | 融资轮次类型        |
+| ↳ `amount`      | number | 融资金额          |
+| ↳ `currency`    | string | 货币            |
+| ↳ `investors`   | array  | 投资方           |
+
+enrich_company_funding [#enrich_company_funding]
+
+通过域名获取公司融资历史、流量指标和高管信息。
+
+输入 [#输入-14]
+
+| 参数       | 类型     | 必填 | 说明                    |
+| -------- | ------ | -- | --------------------- |
+| `apiKey` | string | 是  | Enrich API 密钥         |
+| `domain` | string | 是  | 公司域名（例如 example.com ） |
+
+输出 [#输出-14]
+
+| 参数                   | 类型     | 说明           |
+| -------------------- | ------ | ------------ |
+| `legalName`          | string | 公司法定名称       |
+| `employeeCount`      | number | 员工人数         |
+| `headquarters`       | string | 总部所在地        |
+| `industry`           | string | 行业           |
+| `totalFundingRaised` | number | 融资总额         |
+| `fundingRounds`      | array  | 融资轮次         |
+| ↳ `roundType`        | string | 轮次类型         |
+| ↳ `amount`           | number | 融资金额         |
+| ↳ `date`             | string | 日期           |
+| ↳ `investors`        | array  | 投资方          |
+| `monthlyVisits`      | number | 月度网站访问量      |
+| `trafficChange`      | number | 流量变化百分比      |
+| `itSpending`         | number | 预估 IT 支出（美元） |
+| `executives`         | array  | 高管团队         |
+| ↳ `name`             | string | 姓名           |
+| ↳ `title`            | string | 职位           |
+
+enrich_company_revenue [#enrich_company_revenue]
+
+通过域名获取公司营收数据、CEO 信息及竞争分析。
+
+输入 [#输入-15]
+
+| 参数       | 类型     | 必填 | 说明                |
+| -------- | ------ | -- | ----------------- |
+| `apiKey` | string | 是  | Enrich API 密钥     |
+| `domain` | string | 是  | 公司域名（例如 clay.io ） |
+
+输出 [#输出-15]
+
+| 参数                 | 类型     | 描述           |
+| ------------------ | ------ | ------------ |
+| `companyName`      | string | 公司名称         |
+| `shortDescription` | string | 公司简介         |
+| `fullSummary`      | string | 公司详细介绍       |
+| `revenue`          | string | 公司收入         |
+| `revenueMin`       | number | 最低收入估算       |
+| `revenueMax`       | number | 最高收入估算       |
+| `employeeCount`    | number | 员工人数         |
+| `founded`          | string | 成立年份         |
+| `ownership`        | string | 所有权类型        |
+| `status`           | string | 公司状态（如：在营）   |
+| `website`          | string | 公司网站 URL     |
+| `ceo`              | json   | CEO 信息       |
+| ↳ `name`           | string | CEO 姓名       |
+| ↳ `designation`    | string | CEO 职位/头衔    |
+| ↳ `rating`         | number | CEO 评分       |
+| `socialLinks`      | json   | 社交媒体链接       |
+| ↳ `linkedIn`       | string | LinkedIn URL |
+| ↳ `twitter`        | string | Twitter URL  |
+| ↳ `facebook`       | string | Facebook URL |
+| `totalFunding`     | string | 融资总额         |
+| `fundingRounds`    | number | 融资轮次         |
+| `competitors`      | array  | 竞争对手         |
+| ↳ `name`           | string | 竞争对手名称       |
+| ↳ `revenue`        | string | 收入           |
+| ↳ `employeeCount`  | number | 员工数量         |
+| ↳ `headquarters`   | string | 总部所在地        |
+
+enrich_search_people [#enrich_search_people]
+
+可按姓名、职位、技能、学历和公司等多种条件搜索专业人士。
+
+输入 [#输入-16]
+
+| 参数                 | 类型      | 必填 | 描述              |
+| ------------------ | ------- | -- | --------------- |
+| `apiKey`           | string  | 是  | Enrich API key  |
+| `firstName`        | string  | 否  | 名字              |
+| `lastName`         | string  | 否  | 姓氏              |
+| `summary`          | string  | 否  | 职业简介关键词         |
+| `subTitle`         | string  | 否  | 职位/副标题          |
+| `locationCountry`  | string  | 否  | 国家              |
+| `locationCity`     | string  | 否  | 城市              |
+| `locationState`    | string  | 否  | 州/省             |
+| `influencer`       | boolean | 否  | 仅筛选影响者          |
+| `premium`          | boolean | 否  | 仅筛选高级账户         |
+| `language`         | string  | 否  | 主要语言            |
+| `industry`         | string  | 否  | 行业              |
+| `currentJobTitles` | json    | 否  | 当前职位（数组）        |
+| `pastJobTitles`    | json    | 否  | 过往职位（数组）        |
+| `skills`           | json    | 否  | 搜索技能（数组）        |
+| `schoolNames`      | json    | 否  | 学校名称（数组）        |
+| `certifications`   | json    | 否  | 筛选证书（数组）        |
+| `degreeNames`      | json    | 否  | 筛选学位名称（数组）      |
+| `studyFields`      | json    | 否  | 筛选专业名称（数组）      |
+| `currentCompanies` | json    | 否  | 筛选当前公司 ID（数字数组） |
+| `pastCompanies`    | json    | 否  | 筛选过往公司 ID（数字数组） |
+| `currentPage`      | number  | 否  | 页码（默认：1）        |
+| `pageSize`         | number  | 否  | 每页结果数（默认：20）    |
+
+输出 [#输出-16]
+
+| 参数                     | 类型     | 描述           |
+| ---------------------- | ------ | ------------ |
+| `currentPage`          | number | 当前页码         |
+| `totalPage`            | number | 总页数          |
+| `pageSize`             | number | 每页结果数        |
+| `profiles`             | array  | 搜索结果         |
+| ↳ `profileIdentifier`  | string | Profile ID   |
+| ↳ `givenName`          | string | 名字           |
+| ↳ `familyName`         | string | 姓氏           |
+| ↳ `currentPosition`    | string | 当前职位名称       |
+| ↳ `profileImage`       | string | 个人头像 URL     |
+| ↳ `externalProfileUrl` | string | LinkedIn URL |
+| ↳ `city`               | string | 城市           |
+| ↳ `country`            | string | 国家           |
+| ↳ `expertSkills`       | array  | 技能           |
+
+enrich_search_company [#enrich_search_company]
+
+可根据名称、行业、地点和规模等多种条件搜索公司。
+
+输入 [#输入-17]
+
+| 参数                    | 类型     | 必填 | 描述                     |
+| --------------------- | ------ | -- | ---------------------- |
+| `apiKey`              | string | 是  | Enrich API key         |
+| `name`                | string | 否  | 公司名称                   |
+| `website`             | string | 否  | 公司网站 URL               |
+| `tagline`             | string | 否  | 公司标语                   |
+| `type`                | string | 否  | 公司类型（如 Private、Public） |
+| `description`         | string | 否  | 公司描述关键词                |
+| `industries`          | json   | 否  | 行业筛选（数组）               |
+| `locationCountry`     | string | 否  | 国家                     |
+| `locationCity`        | string | 否  | 城市                     |
+| `postalCode`          | string | 否  | 邮政编码                   |
+| `locationCountryList` | json   | 否  | 多国家筛选（数组）              |
+| `locationCityList`    | json   | 否  | 多城市筛选（数组）              |
+| `specialities`        | json   | 否  | 公司专长（数组）               |
+| `followers`           | number | 否  | 最小关注者数                 |
+| `staffCount`          | number | 否  | 最大员工数                  |
+| `staffCountMin`       | number | 否  | 最小员工数                  |
+| `staffCountMax`       | number | 否  | 最大员工数                  |
+| `currentPage`         | number | 否  | 页码（默认：1）               |
+| `pageSize`            | number | 否  | 每页结果数（默认：20）           |
+
+输出 [#输出-17]
+
+| 参数                  | 类型     | 说明           |
+| ------------------- | ------ | ------------ |
+| `currentPage`       | number | 当前页码         |
+| `totalPage`         | number | 总页数          |
+| `pageSize`          | number | 每页结果数        |
+| `companies`         | array  | 搜索结果         |
+| ↳ `companyName`     | string | 公司名称         |
+| ↳ `tagline`         | string | 公司标语         |
+| ↳ `webAddress`      | string | 网站 URL       |
+| ↳ `industries`      | array  | 行业           |
+| ↳ `teamSize`        | number | 团队规模         |
+| ↳ `linkedInProfile` | string | LinkedIn URL |
+
+enrich_search_company_employees [#enrich_search_company_employees]
+
+按地点和职位名称在特定公司中搜索员工。
+
+输入 [#输入-18]
+
+| 参数           | 类型     | 是否必填 | 说明                      |
+| ------------ | ------ | ---- | ----------------------- |
+| `apiKey`     | string | 是    | Enrich API 密钥           |
+| `companyIds` | json   | 否    | 要搜索的公司 ID 数组            |
+| `country`    | string | 否    | 国家筛选（例如 United States ） |
+| `city`       | string | 否    | 城市筛选（例如 San Francisco ） |
+| `state`      | string | 否    | 州筛选（例如 California ）     |
+| `jobTitles`  | json   | 否    | 职位筛选（数组）                |
+| `page`       | number | 否    | 页码（默认：1）                |
+| `pageSize`   | number | 否    | 每页结果数（默认：10）            |
+
+输出 [#输出-18]
+
+| 参数                     | 类型     | 说明           |
+| ---------------------- | ------ | ------------ |
+| `currentPage`          | number | 当前页码         |
+| `totalPage`            | number | 总页数          |
+| `pageSize`             | number | 每页结果数        |
+| `profiles`             | array  | 员工档案         |
+| ↳ `profileIdentifier`  | string | 档案 ID        |
+| ↳ `givenName`          | string | 名字           |
+| ↳ `familyName`         | string | 姓氏           |
+| ↳ `currentPosition`    | string | 当前职位名称       |
+| ↳ `profileImage`       | string | 头像 URL       |
+| ↳ `externalProfileUrl` | string | LinkedIn URL |
+| ↳ `city`               | string | 城市           |
+| ↳ `country`            | string | 国家           |
+| ↳ `expertSkills`       | array  | 技能           |
+
+enrich_search_similar_companies [#enrich_search_similar_companies]
+
+通过 LinkedIn URL 查找与指定公司相似的公司，并可按地点和规模进行筛选。
+
+输入 [#输入-19]
+
+| 参数                  | 类型     | 必填 | 说明                                              |
+| ------------------- | ------ | -- | ----------------------------------------------- |
+| `apiKey`            | string | 是  | Enrich API key                                  |
+| `url`               | string | 是  | LinkedIn 公司 URL（例如：linkedin.com/company/google） |
+| `accountLocation`   | json   | 否  | 按地点筛选（国家名称数组）                                   |
+| `employeeSizeType`  | string | 否  | 员工规模筛选类型（例如：RANGE）                              |
+| `employeeSizeRange` | json   | 否  | 员工规模区间（`{start, end}` 对象数组）                     |
+| `page`              | number | 否  | 页码（默认：1）                                        |
+| `num`               | number | 否  | 每页结果数                                           |
+
+输出 [#输出-19]
+
+| 参数                 | 类型     | 说明           |
+| ------------------ | ------ | ------------ |
+| `companies`        | array  | 相似公司         |
+| ↳ `url`            | string | LinkedIn URL |
+| ↳ `name`           | string | 公司名称         |
+| ↳ `universalName`  | string | 通用名称         |
+| ↳ `type`           | string | 公司类型         |
+| ↳ `description`    | string | 公司简介         |
+| ↳ `phone`          | string | 电话号码         |
+| ↳ `website`        | string | 网站 URL       |
+| ↳ `logo`           | string | Logo URL     |
+| ↳ `foundedYear`    | number | 成立年份         |
+| ↳ `staffTotal`     | number | 员工总数         |
+| ↳ `industries`     | array  | 行业           |
+| ↳ `relevancyScore` | number | 相关性分数        |
+| ↳ `relevancyValue` | string | 相关性值         |
+
+enrich_sales_pointer_people [#enrich_sales_pointer_people]
+
+高级人员搜索，支持按地点、公司规模、职位级别、工作经验等多种复杂筛选条件。
+
+输入 [#输入-20]
+
+| 参数        | 类型     | 必填 | 说明                                                                                                                           |
+| --------- | ------ | -- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`  | string | 是  | Enrich API key                                                                                                               |
+| `page`    | number | 是  | 页码（从 1 开始）                                                                                                                   |
+| `filters` | json   | 是  | 筛选对象数组。每个筛选包含类型（如 POSTAL\_CODE、COMPANY\_HEADCOUNT）、值（包含 id、text、selectionType: INCLUDED/EXCLUDED 的数组）以及可选的 selectedSubFilter |
+
+输出 [#输出-20]
+
+| 参数                 | 类型     | 说明           |
+| ------------------ | ------ | ------------ |
+| `data`             | array  | 人员结果         |
+| ↳ `name`           | string | 姓名全称         |
+| ↳ `summary`        | string | 职业简介         |
+| ↳ `location`       | string | 所在地          |
+| ↳ `profilePicture` | string | 头像 URL       |
+| ↳ `linkedInUrn`    | string | LinkedIn URN |
+| ↳ `positions`      | array  | 工作经历         |
+| ↳ `education`      | array  | 教育经历         |
+| `pagination`       | json   | 分页信息         |
+| ↳ `totalCount`     | number | 结果总数         |
+| ↳ `returnedCount`  | number | 返回数量         |
+| ↳ `start`          | number | 起始位置         |
+| ↳ `limit`          | number | 限制数量         |
+
+enrich_search_posts [#enrich_search_posts]
+
+通过关键词搜索 LinkedIn 帖子，并可按日期筛选。
+
+输入 [#输入-21]
+
+| 参数           | 类型     | 必填 | 说明                             |
+| ------------ | ------ | -- | ------------------------------ |
+| `apiKey`     | string | 是  | Enrich API key                 |
+| `keywords`   | string | 是  | 搜索关键词（如 "AI automation"）       |
+| `datePosted` | string | 否  | 时间筛选（如 past\_week、past\_month） |
+| `page`       | number | 否  | 页码（默认：1）                       |
+
+输出 [#输出-21]
+
+| 参数                | 类型     | 描述              |
+| ----------------- | ------ | --------------- |
+| `count`           | number | 结果总数            |
+| `posts`           | array  | 搜索结果            |
+| ↳ `url`           | string | 帖子 URL          |
+| ↳ `postId`        | string | 帖子 ID           |
+| ↳ `author`        | object | 作者信息            |
+| ↳ `name`          | string | 作者姓名            |
+| ↳ `headline`      | string | 作者头衔            |
+| ↳ `linkedInUrl`   | string | 作者 LinkedIn URL |
+| ↳ `profileImage`  | string | 作者头像            |
+| ↳ `timestamp`     | string | 帖子时间戳           |
+| ↳ `textContent`   | string | 帖子正文内容          |
+| ↳ `hashtags`      | array  | 话题标签            |
+| ↳ `mediaUrls`     | array  | 媒体 URL          |
+| ↳ `reactions`     | number | 点赞数             |
+| ↳ `commentsCount` | number | 评论数             |
+
+enrich_get_post_details [#enrich_get_post_details]
+
+通过 URL 获取 LinkedIn 帖子的详细信息。
+
+输入 [#输入-22]
+
+| 参数       | 类型     | 必填 | 描述              |
+| -------- | ------ | -- | --------------- |
+| `apiKey` | string | 是  | Enrich API 密钥   |
+| `url`    | string | 是  | LinkedIn 帖子 URL |
+
+输出 [#输出-22]
+
+| 参数               | 类型     | 描述              |
+| ---------------- | ------ | --------------- |
+| `postId`         | string | 帖子 ID           |
+| `author`         | json   | 作者信息            |
+| ↳ `name`         | string | 作者姓名            |
+| ↳ `headline`     | string | 作者头衔            |
+| ↳ `linkedInUrl`  | string | 作者 LinkedIn URL |
+| ↳ `profileImage` | string | 作者头像            |
+| `timestamp`      | string | 帖子时间戳           |
+| `textContent`    | string | 帖子正文内容          |
+| `hashtags`       | array  | 话题标签            |
+| `mediaUrls`      | array  | 媒体 URL          |
+| `reactions`      | number | 点赞数             |
+| `commentsCount`  | number | 评论数             |
+
+enrich_search_post_reactions [#enrich_search_post_reactions]
+
+获取 LinkedIn 帖子的互动反应，并可按反应类型筛选。
+
+输入 [#输入-23]
+
+| 参数             | 类型     | 必填 | 说明                                                        |
+| -------------- | ------ | -- | --------------------------------------------------------- |
+| `apiKey`       | string | 是  | Enrich API key                                            |
+| `postUrn`      | string | 是  | LinkedIn 活动 URN（例如：urn:li:activity:7231931952839196672）   |
+| `reactionType` | string | 是  | 反应类型筛选：all、like、love、celebrate、insightful 或 funny（默认：all） |
+| `page`         | number | 是  | 页码（从 1 开始）                                                |
+
+输出 [#输出-23]
+
+| 参数                 | 类型     | 说明            |
+| ------------------ | ------ | ------------- |
+| `page`             | number | 当前页码          |
+| `totalPage`        | number | 总页数           |
+| `count`            | number | 返回的反应数        |
+| `reactions`        | array  | 反应列表          |
+| ↳ `reactionType`   | string | 反应类型          |
+| ↳ `reactor`        | object | 互动人信息         |
+| ↳ `name`           | string | 姓名            |
+| ↳ `subTitle`       | string | 职位            |
+| ↳ `profileId`      | string | 个人资料 ID       |
+| ↳ `profilePicture` | string | 头像 URL        |
+| ↳ `linkedInUrl`    | string | LinkedIn 主页链接 |
+
+enrich_search_post_comments [#enrich_search_post_comments]
+
+获取 LinkedIn 帖子的评论。
+
+输入 [#输入-24]
+
+| 参数        | 类型     | 必填 | 说明                                                      |
+| --------- | ------ | -- | ------------------------------------------------------- |
+| `apiKey`  | string | 是  | Enrich API key                                          |
+| `postUrn` | string | 是  | LinkedIn 活动 URN（例如：urn:li:activity:7191163324208705536） |
+| `page`    | number | 否  | 页码（从 1 开始，默认：1）                                         |
+
+输出 [#输出-24]
+
+| 参数                    | 类型     | 说明       |
+| --------------------- | ------ | -------- |
+| `page`                | number | 当前页码     |
+| `totalPage`           | number | 总页数      |
+| `count`               | number | 返回的评论数   |
+| `comments`            | array  | 评论       |
+| ↳ `activityId`        | string | 评论活动 ID  |
+| ↳ `commentary`        | string | 评论内容     |
+| ↳ `linkedInUrl`       | string | 评论链接     |
+| ↳ `commenter`         | object | 评论者信息    |
+| ↳ `profileId`         | string | 个人资料 ID  |
+| ↳ `firstName`         | string | 名字       |
+| ↳ `lastName`          | string | 姓氏       |
+| ↳ `subTitle`          | string | 副标题/头衔   |
+| ↳ `profilePicture`    | string | 头像 URL   |
+| ↳ `backgroundImage`   | string | 背景图片 URL |
+| ↳ `entityUrn`         | string | 实体 URN   |
+| ↳ `objectUrn`         | string | 对象 URN   |
+| ↳ `profileType`       | string | 个人资料类型   |
+| ↳ `reactionBreakdown` | object | 评论的互动    |
+| ↳ `likes`             | number | 点赞数      |
+| ↳ `empathy`           | number | 共鸣反应数    |
+| ↳ `other`             | number | 其他反应数    |
+
+enrich_search_people_activities [#enrich_search_people_activities]
+
+获取个人信息
+
+输入 [#输入-25]
+
+| 参数                | 类型     | 是否必填 | 说明                             |
+| ----------------- | ------ | ---- | ------------------------------ |
+| `apiKey`          | string | 是    | Enrich API key                 |
+| `profileId`       | string | 是    | LinkedIn 个人资料 ID               |
+| `activityType`    | string | 是    | 活动类型：posts、comments 或 articles |
+| `paginationToken` | string | 否    | 下一页结果的分页令牌                     |
+
+输出 [#输出-25]
+
+| 参数                    | 类型     | 说明         |
+| --------------------- | ------ | ---------- |
+| `paginationToken`     | string | 用于获取下一页的令牌 |
+| `activityType`        | string | 返回的活动类型    |
+| `activities`          | array  | 活动列表       |
+| ↳ `activityId`        | string | 活动 ID      |
+| ↳ `commentary`        | string | 活动文本内容     |
+| ↳ `linkedInUrl`       | string | 活动链接       |
+| ↳ `timeElapsed`       | string | 距离活动发生的时间  |
+| ↳ `numReactions`      | number | 总反应数       |
+| ↳ `author`            | object | 活动作者信息     |
+| ↳ `name`              | string | 作者姓名       |
+| ↳ `profileId`         | string | 个人资料 ID    |
+| ↳ `profilePicture`    | string | 头像 URL     |
+| ↳ `reactionBreakdown` | object | 反应         |
+| ↳ `likes`             | number | 点赞数        |
+| ↳ `empathy`           | number | 共鸣数        |
+| ↳ `other`             | number | 其他反应数      |
+| ↳ `attachments`       | array  | 附件 URL     |
+
+enrich_search_company_activities [#enrich_search_company_activities]
+
+获取公司信息
+
+输入 [#输入-26]
+
+| 参数                | 类型     | 是否必填 | 说明                             |
+| ----------------- | ------ | ---- | ------------------------------ |
+| `apiKey`          | string | 是    | Enrich API 密钥                  |
+| `companyId`       | string | 是    | LinkedIn 公司 ID                 |
+| `activityType`    | string | 是    | 活动类型：posts、comments 或 articles |
+| `paginationToken` | string | 否    | 下一页结果的分页令牌                     |
+| `offset`          | number | 否    | 跳过的记录数（默认：0）                   |
+
+输出 [#输出-26]
+
+| 参数                    | 类型     | 描述         |
+| --------------------- | ------ | ---------- |
+| `paginationToken`     | string | 用于获取下一页的令牌 |
+| `activityType`        | string | 返回的活动类型    |
+| `activities`          | array  | 活动列表       |
+| ↳ `activityId`        | string | 活动 ID      |
+| ↳ `commentary`        | string | 活动文本内容     |
+| ↳ `linkedInUrl`       | string | 活动链接       |
+| ↳ `timeElapsed`       | string | 距离活动发生的时间  |
+| ↳ `numReactions`      | number | 总反应数       |
+| ↳ `author`            | object | 活动作者信息     |
+| ↳ `name`              | string | 作者姓名       |
+| ↳ `profileId`         | string | 个人资料 ID    |
+| ↳ `profilePicture`    | string | 个人头像 URL   |
+| ↳ `reactionBreakdown` | object | 反应         |
+| ↳ `likes`             | number | 点赞数        |
+| ↳ `empathy`           | number | 共情反应数      |
+| ↳ `other`             | number | 其他反应数      |
+| ↳ `attachments`       | array  | 附件         |
+
+enrich_reverse_hash_lookup [#enrich_reverse_hash_lookup]
+
+将 MD5 邮箱哈希还原为原始邮箱地址和显示名称。
+
+输入 [#输入-27]
+
+| 参数       | 类型     | 必填 | 描述            |
+| -------- | ------ | -- | ------------- |
+| `apiKey` | string | 是  | Enrich API 密钥 |
+| `hash`   | string | 是  | 要查询的 MD5 哈希值  |
+
+输出 [#输出-27]
+
+| 参数            | 类型      | 描述          |
+| ------------- | ------- | ----------- |
+| `hash`        | string  | 被查询的 MD5 哈希 |
+| `email`       | string  | 原始邮箱地址      |
+| `displayName` | string  | 与邮箱关联的显示名称  |
+| `found`       | boolean | 是否找到对应邮箱地址  |
+
+enrich_search_logo [#enrich_search_logo]
+
+通过域名获取公司 logo 图片的 URL。
+
+输入 [#输入-28]
+
+| 参数       | 类型     | 必填 | 说明                  |
+| -------- | ------ | -- | ------------------- |
+| `apiKey` | string | 是  | Enrich API key      |
+| `url`    | string | 是  | 公司域名（例如，google.com） |
+
+输出 [#输出-28]
+
+| 参数        | 类型     | 说明                |
+| --------- | ------ | ----------------- |
+| `logoUrl` | string | 用于获取公司 logo 的 URL |
+| `domain`  | string | 被查询的域名            |
+33:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L3a",null,{"content":"$3b"}]}],"$L3c"]}],"$L3d","$L3e"]}]
+34:["$","$L3f",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L40",null,{"type":"enrich","color":"#E5E5E6"}],"\n","\n",["$","p",null,{"children":[["$","$L41",null,{"href":"https://enrich.so/","children":"Enrich.so"}]," 提供实时、精准的 B2B 数据丰富和 LinkedIn 智能分析。其平台可动态访问公开和结构化的公司、联系人及专业信息，帮助团队构建更完整的客户画像，提升线索质量，并实现更高效的外联。"]}],"\n",["$","p",null,{"children":"使用 Enrich.so，您可以："}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"丰富联系人和公司档案"}],"：只需一个邮箱或 LinkedIn 个人资料，即可即时发现潜在客户、目标客户和企业的关键数据。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"验证邮箱可达性"}],"：在发送前检查邮箱是否有效、可投递且安全。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"查找工作及个人邮箱"}],"：通过 LinkedIn 个人资料补全缺失的商务邮箱或个人邮箱，拓展触达范围。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"获取电话号码和社交账号"}],"：通过丰富工具发现更多联系人沟通渠道。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"分析 LinkedIn 帖子与互动"}],"：从公开 LinkedIn 内容中提取帖子覆盖、互动和受众洞察。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"进行高级人员与公司搜索"}],"：让您的团队基于深度筛选和实时智能，定位企业和专业人士。"]}],"\n"]}],"\n",["$","p",null,{"children":"Aptlystar 与 Enrich.so 的集成让您的团队和自动化流程能够即时查询、丰富和验证 B2B 数据，提升销售拓客、招聘、市场运营等工作流的效率。将 Aptlystar 的编排能力与 Enrich.so 相结合，释放由顶级 B2B 智能驱动的数据化自动化策略。"}],"\n","\n",["$","$L42",null,{"as":"h2","id":"使用说明","children":"使用说明"}],"\n",["$","p",null,{"children":"通过 Enrich.so 获取实时 B2B 数据智能。可根据邮箱丰富档案、从 LinkedIn 查找工作邮箱、验证邮箱可达性、搜索人员与公司，并分析 LinkedIn 帖子互动。"}],"\n",["$","$L42",null,{"as":"h2","id":"工具","children":"工具"}],"\n",["$","$L42",null,{"as":"h3","id":"enrich_check_credits","children":["$","code",null,{"children":"enrich_check_credits"}]}],"\n",["$","p",null,{"children":"查看您的 Enrich API 信用额度使用情况和剩余余额。"}],"\n",["$","$L42",null,{"as":"h4","id":"输入","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}]}]]}]}],"\n",["$","$L42",null,{"as":"h4","id":"输出","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalCredits"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"分配给账户的总额度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"creditsUsed"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"已消耗额度"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"creditsRemaining"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"剩余可用额度"}]]}]]}]]}]}],"\n",["$","$L42",null,{"as":"h3","id":"enrich_email_to_profile","children":["$","code",null,{"children":"enrich_email_to_profile"}]}],"\n",["$","p",null,{"children":"使用电子邮件地址检索详细的 LinkedIn 个人资料信息，包括工作经历、教育背景和技能。"}],"\n",["$","$L42",null,{"as":"h4","id":"输入-1","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要查询的电子邮件地址（例如：",["$","$L41",null,{"href":"mailto:john.doe@company.com","children":"john.doe@company.com"}],"）"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inRealtime"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"设为 true 可获取最新数据，跳过缓存信息"}]]}]]}]]}]}],"\n",["$","$L42",null,{"as":"h4","id":"输出-1","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"displayName"}]}],["$","td",null,{"children":"string"}],"$L43"]}],"$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62"]}]]}]}],"\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6","\n","$Le7","\n","$Le8","\n","$Le9","\n","$Lea","\n","$Leb","\n","$Lec","\n","$Led","\n","$Lee","\n","$Lef","\n","$Lf0","\n","$Lf1","\n","$Lf2","\n","$Lf3","\n","$Lf4","\n","$Lf5","\n","$Lf6","\n","$Lf7","\n","$Lf8","\n","$Lf9","\n","$Lfa","\n","$Lfb","\n","$Lfc","\n","$Lfd","\n","$Lfe","\n","$Lff","\n","$L100","\n","$L101","\n","$L102","\n","$L103","\n","$L104"]}]}]
+35:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+36:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+37:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+38:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+39:["$","$L105",null,{"children":["$","$106",null,{"name":"Next.MetadataOutlet","children":"$@107"}]}]
+3c:["$","$L108",null,{}]
+3d:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 398 394","fill":"none","children":[["$","path",null,{"fill":"#5A52F4","d":"M129.71,319.71 C127.55,322.68 125.65,325.41 123.66,328.28 C113.75,318.44 105.61,310.4 97.51,302.3 C93.63,298.42 89.99,294.27 85.95,290.56 C82.86,287.72 82.46,285.76 85.77,282.55 C104.07,264.83 122.15,246.88 140.29,228.99 C141.18,228.1 141.96,227.09 143.59,225.22 C140.69,225.07 138.82,224.88 136.95,224.88 C102.8,224.87 68.65,224.77 34.5,224.98 C29.32,225.02 27.99,223.34 28.09,218.4 C28.38,204.08 28.19,189.75 28.2,175.42 C28.2,168.4 28.32,168.28 35.59,168.28 C69.07,168.27 102.56,168.28 136.04,168.27 C137.97,168.27 139.89,168.11 141.82,168.02 C142.14,167.51 142.45,167.01 142.77,166.5 C122.84,146.5 102.91,126.49 83.26,106.77 C96.56,93.47 109.45,80.59 122.66,67.39 C123.52,68.16 124.79,69.19 125.93,70.33 C144.55,88.93 163.1,107.6 181.81,126.12 C186.71,130.98 189.09,136.45 189.06,143.44 C188.9,179.42 188.91,215.4 189.05,251.38 C189.07,258.19 186.74,263.65 181.98,268.32 C164.62,285.35 147.3,302.41 129.71,319.71z"}],["$","path",null,{"fill":"#5A52F4","d":"M276.07,246.91 C288.28,258.99 300.16,270.9 312.24,282.6 C315.16,285.43 315.42,287.25 312.38,290.25 C301.14,301.37 290.17,312.76 279.08,324.04 C278.17,324.96 277.12,325.74 275.9,326.8 C274.63,325.71 273.46,324.82 272.42,323.8 C253.89,305.59 235.42,287.32 216.82,269.18 C211.51,264 208.87,258.14 208.91,250.57 C209.11,214.92 209.08,179.27 208.93,143.62 C208.9,136.65 211.13,131.12 216.05,126.25 C234.87,107.61 253.54,88.82 272.27,70.1 C273.31,69.07 274.47,68.15 275.26,67.44 C288.35,80.58 301.21,93.49 314.6,106.92 C295.16,126.42 275.21,146.44 255.27,166.45 C255.54,166.94 255.81,167.43 256.09,167.92 C257.98,168.04 259.88,168.26 261.78,168.26 C295.43,168.28 329.08,168.27 362.73,168.28 C369.6,168.28 369.78,168.46 369.78,175.25 C369.78,189.91 369.65,204.57 369.86,219.23 C369.93,223.59 368.55,224.98 364.15,224.96 C329.83,224.8 295.52,224.87 261.2,224.87 C259.3,224.87 257.4,224.87 254.87,224.87 C262.35,232.66 269.08,239.66 276.07,246.91z"}]]}]}],["$","$L109",null,{"className":"mb-0 min-w-0 flex-1","children":"Enrich"}]]}]
+3e:["$","$L10a",null,{"children":"通过 Enrich.so 实现 B2B 数据丰富与 LinkedIn 智能分析"}]
+43:["$","td",null,{"children":"完整显示名称"}]
+44:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名字"}]]}]
+45:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓氏"}]]}]
+46:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"headline"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职业头衔"}]]}]
+47:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"occupation"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"当前职位"}]]}]
+48:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人简介"}]]}]
+49:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"location"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点"}]]}]
+4a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"country"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"国家"}]]}]
+4b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedInUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 个人资料 URL"}]]}]
+4c:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"photoUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人头像 URL"}]]}]
+4d:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"connectionCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"连接数"}]]}]
+4e:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isConnectionCountObfuscated"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"连接数是否被隐藏（500+）"}]]}]
+4f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positionHistory"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"工作经历"}]]}]
+50:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职位名称"}]]}]
+51:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}]
+52:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"入职日期"}]]}]
+53:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"离职日期"}]]}]
+54:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点"}]]}]
+55:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"education"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"教育经历"}]]}]
+56:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"school"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"学校名称"}]]}]
+57:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"degree"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"学位"}]]}]
+58:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fieldOfStudy"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"专业领域"}]]}]
+59:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"入学日期"}]]}]
+5a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"毕业日期"}]]}]
+5b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"certifications"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"职业认证"}]]}]
+5c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"认证名称"}]]}]
+5d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"authority"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"颁发机构"}]]}]
+5e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"认证 URL"}]]}]
+5f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"skills"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"技能列表"}]]}]
+60:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"languages"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"语言列表"}]]}]
+61:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locale"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人资料语言（如 en_US）"}]]}]
+62:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"个人资料版本号"}]]}]
+63:["$","$L42",null,{"as":"h3","id":"enrich_email_to_person_lite","children":["$","code",null,{"children":"enrich_email_to_person_lite"}]}]
+64:["$","p",null,{"children":"通过电子邮件地址获取基本的 LinkedIn 个人资料信息。仅包含核心数据的轻量版。"}]
+65:["$","$L42",null,{"as":"h4","id":"输入-2","children":"输入"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要查询的电子邮件地址（例如：",["$","$L41",null,{"href":"mailto:john.doe@company.com","children":"john.doe@company.com"}],"）"]}]]}]]}]]}]}]
+67:["$","$L42",null,{"as":"h4","id":"输出-2","children":"输出"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"全名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名字"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓氏"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"电子邮件地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职位"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"location"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"所在地"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"当前公司"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyLocation"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司所在地"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyLinkedIn"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司 LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schoolName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"学校名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schoolUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"学校 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedInUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 个人资料 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"photoUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"followerCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"粉丝数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"connectionCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"连接数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"languages"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"使用语言"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projects"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"项目"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"certifications"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"认证"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"volunteerExperience"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"志愿者经历"}]]}]]}]]}]}]
+69:["$","$L42",null,{"as":"h3","id":"enrich_linkedin_profile","children":["$","code",null,{"children":"enrich_linkedin_profile"}]}]
+6a:["$","p",null,{"children":"通过 LinkedIn 个人资料 URL 丰富详细信息，包括职位、教育和社交指标。"}]
+6b:["$","$L42",null,{"as":"h4","id":"输入-3","children":"输入"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 个人资料 URL（例如，linkedin.com/in/williamhgates）"}]]}]]}]]}]}]
+6d:["$","$L42",null,{"as":"h4","id":"输出-3","children":"输出"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subTitle"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人简介/头衔"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profilePicture"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"backgroundImage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"背景图片 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"location"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"followersCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"粉丝数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"connectionsCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"连接数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"premium"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为高级账户"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"influencer"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为影响者账户"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positions"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"工作经历"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职位名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"companyLogo"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司 logo URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"入职日期"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"离职日期"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地点"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"education"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"教育经历"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"school"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"学校名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"degree"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"学位"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fieldOfStudy"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"专业领域"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"入学日期"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endDate"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"毕业日期"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"websites"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"个人网站"}]]}]]}]]}]}]
+6f:["$","$L42",null,{"as":"h3","id":"enrich_find_email","children":["$","code",null,{"children":"enrich_find_email"}]}]
+70:["$","p",null,{"children":"查找某个人"}]
+71:["$","$L42",null,{"as":"h4","id":"输入-4","children":"输入"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fullName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"该人的全名（例如 John Doe）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyDomain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"公司域名（例如 example.com）"}]]}]]}]]}]}]
+73:["$","$L42",null,{"as":"h4","id":"输出-4","children":"输出"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"找到的邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名字"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓氏"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司域名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"acceptAll"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"该域名是否接受所有邮箱"}]]}]]}]]}]}]
+75:["$","$L42",null,{"as":"h3","id":"enrich_linkedin_to_work_email","children":["$","code",null,{"children":"enrich_linkedin_to_work_email"}]}]
+76:["$","p",null,{"children":"通过 LinkedIn 个人资料 URL 查找工作邮箱地址。"}]
+77:["$","$L42",null,{"as":"h4","id":"输入-5","children":"输入"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedinProfile"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["LinkedIn 个人资料 URL（例如 ",["$","$L41",null,{"href":"https://www.linkedin.com/in/williamhgates%EF%BC%89","children":"https://www.linkedin.com/in/williamhgates）"}]]}]]}]]}]]}]}]
+79:["$","$L42",null,{"as":"h4","id":"输出-5","children":"输出"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"找到的工作邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"请求状态（in_progress 或 completed）"}]]}]]}]]}]}]
+7b:["$","$L42",null,{"as":"h3","id":"enrich_linkedin_to_personal_email","children":["$","code",null,{"children":"enrich_linkedin_to_personal_email"}]}]
+7c:["$","p",null,{"children":"通过 LinkedIn 个人资料 URL 查找个人邮箱地址。"}]
+7d:["$","$L42",null,{"as":"h4","id":"输入-6","children":"输入"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedinProfile"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 个人资料 URL（例如，linkedin.com/in/username）"}]]}]]}]]}]}]
+7f:["$","$L42",null,{"as":"h4","id":"输出-6","children":"输出"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"请求状态"}]]}]]}]]}]}]
+81:["$","$L42",null,{"as":"h3","id":"enrich_phone_finder","children":["$","code",null,{"children":"enrich_phone_finder"}]}]
+82:["$","p",null,{"children":"根据 LinkedIn 个人资料 URL 查找电话号码。"}]
+83:["$","$L42",null,{"as":"h4","id":"输入-7","children":"输入"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedinProfile"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 个人资料 URL（例如，linkedin.com/in/williamhgates）"}]]}]]}]]}]}]
+85:["$","$L42",null,{"as":"h4","id":"输出-7","children":"输出"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profileUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 个人资料 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mobileNumber"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"找到的手机号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到手机号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"请求状态（in_progress 或 completed）"}]]}]]}]]}]}]
+87:["$","$L42",null,{"as":"h3","id":"enrich_email_to_phone","children":["$","code",null,{"children":"enrich_email_to_phone"}]}]
+88:["$","p",null,{"children":"根据邮箱地址查找关联的电话号码。"}]
+89:["$","$L42",null,{"as":"h4","id":"输入-8","children":"输入"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要查询的邮箱地址（例如，",["$","$L41",null,{"href":"mailto:john.doe@example.com","children":"john.doe@example.com"}],"）"]}]]}]]}]]}]}]
+8b:["$","$L42",null,{"as":"h4","id":"输出-8","children":"输出"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"查询到的邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mobileNumber"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"查询到的手机号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到手机号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"请求状态（in_progress 或 completed）"}]]}]]}]]}]}]
+8d:["$","$L42",null,{"as":"h3","id":"enrich_verify_email","children":["$","code",null,{"children":"enrich_verify_email"}]}]
+8e:["$","p",null,{"children":"验证邮箱地址的可投递性，包括 catch-all 检测和服务商识别。"}]
+8f:["$","$L42",null,{"as":"h4","id":"输入-9","children":"输入"}]
+90:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要验证的邮箱地址（例如 ",["$","$L41",null,{"href":"mailto:john.doe@example.com","children":"john.doe@example.com"}],"）"]}]]}]]}]]}]}]
+91:["$","$L42",null,{"as":"h4","id":"输出-9","children":"输出"}]
+92:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"已验证的邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"验证状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"result"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"可投递性结果（deliverable、undeliverable 等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidenceScore"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"置信分数（0-100）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"smtpProvider"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"邮箱服务提供商（如 Google、Microsoft）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mailDisposable"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为一次性邮箱服务商"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mailAcceptAll"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"域名是否为 catch-all 域名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"free"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否使用免费邮箱服务"}]]}]]}]]}]}]
+93:["$","$L42",null,{"as":"h3","id":"enrich_disposable_email_check","children":["$","code",null,{"children":"enrich_disposable_email_check"}]}]
+94:["$","p",null,{"children":"检查邮箱地址是否来自一次性或临时邮箱服务商。返回分数和验证详情。"}]
+95:["$","$L42",null,{"as":"h4","id":"输入-10","children":"输入"}]
+96:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要检查的邮箱地址（例如 ",["$","$L41",null,{"href":"mailto:john.doe@example.com","children":"john.doe@example.com"}],"）"]}]]}]]}]]}]}]
+97:["$","$L42",null,{"as":"h4","id":"输出-10","children":"输出"}]
+98:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"已检查的邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"score"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"验证分数（0-100）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"testsPassed"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"通过的测试数量（例如，\"3/3\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"passed"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"邮箱是否通过所有验证测试"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reason"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如果邮箱未通过，失败原因"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mailServerIp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"邮件服务器 IP 地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mxRecords"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"域名的 MX 记录"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"host"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MX 记录主机"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pref"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"MX 记录优先级"}]]}]]}]]}]}]
+99:["$","$L42",null,{"as":"h3","id":"enrich_email_to_ip","children":["$","code",null,{"children":"enrich_email_to_ip"}]}]
+9a:["$","p",null,{"children":"发现与邮箱地址关联的 IP 地址。"}]
+9b:["$","$L42",null,{"as":"h4","id":"输入-11","children":"输入"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":["要查询的邮箱地址（例如，",["$","$L41",null,{"href":"mailto:john.doe@example.com","children":"john.doe@example.com"}],"）"]}]]}]]}]]}]}]
+9d:["$","$L42",null,{"as":"h4","id":"输出-11","children":"输出"}]
+9e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"查询的邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ip"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"关联的 IP 地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到 IP 地址"}]]}]]}]]}]}]
+9f:["$","$L42",null,{"as":"h3","id":"enrich_ip_to_company","children":["$","code",null,{"children":"enrich_ip_to_company"}]}]
+a0:["$","p",null,{"children":"通过 IP 地址识别公司并获取详细的企业信息。"}]
+a1:["$","$L42",null,{"as":"h4","id":"输入-12","children":"输入"}]
+a2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ip"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要查询的 IP 地址（例如，86.92.60.221）"}]]}]]}]]}]}]
+a3:["$","$L42",null,{"as":"h4","id":"输出-12","children":"输出"}]
+a4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"legalName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"法定公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主域名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domainAliases"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"域名别名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sector"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"业务领域"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"employees"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"员工人数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"revenue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预估收入"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"location"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"公司地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"city"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"城市"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"州"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"country"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"国家"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timezone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时区"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedInUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 公司网址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"twitterUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Twitter 网址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"facebookUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Facebook 网址"}]]}]]}]]}]}]
+a5:["$","$L42",null,{"as":"h3","id":"enrich_company_lookup","children":["$","code",null,{"children":"enrich_company_lookup"}]}]
+a6:["$","p",null,{"children":"可通过公司名称或域名查询全面的公司信息，包括融资、地址和社交资料。"}]
+a7:["$","$L42",null,{"as":"h4","id":"输入-13","children":"输入"}]
+a8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司名称（例如，Google）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司域名（例如，google.com）"}]]}]]}]]}]}]
+a9:["$","$L42",null,{"as":"h4","id":"输出-13","children":"输出"}]
+aa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"universalName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"通用公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司简介"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedInUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 公司网址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"websiteUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司官网"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"followers"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"LinkedIn 粉丝数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"staffCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"员工人数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"foundedDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"成立日期"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industries"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"specialties"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"公司专长"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"headquarters"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"总部地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"city"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"城市"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"country"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"国家"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"postalCode"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"邮政编码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"line1"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"地址第一行"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"logo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司 logo 链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"coverImage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"封面图片链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fundingRounds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"融资历史"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"roundType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"融资轮次类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"amount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"融资金额"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"currency"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"货币"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"investors"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"投资方"}]]}]]}]]}]}]
+ab:["$","$L42",null,{"as":"h3","id":"enrich_company_funding","children":["$","code",null,{"children":"enrich_company_funding"}]}]
+ac:["$","p",null,{"children":"通过域名获取公司融资历史、流量指标和高管信息。"}]
+ad:["$","$L42",null,{"as":"h4","id":"输入-14","children":"输入"}]
+ae:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"公司域名（例如 example.com ）"}]]}]]}]]}]}]
+af:["$","$L42",null,{"as":"h4","id":"输出-14","children":"输出"}]
+b0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"legalName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司法定名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"employeeCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"员工人数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"headquarters"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"总部所在地"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalFundingRaised"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"融资总额"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fundingRounds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"融资轮次"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"roundType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"轮次类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"amount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"融资金额"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"date"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日期"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"investors"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"投资方"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"monthlyVisits"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"月度网站访问量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trafficChange"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"流量变化百分比"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"itSpending"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预估 IT 支出（美元）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"executives"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"高管团队"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职位"}]]}]]}]]}]}]
+b1:["$","$L42",null,{"as":"h3","id":"enrich_company_revenue","children":["$","code",null,{"children":"enrich_company_revenue"}]}]
+b2:["$","p",null,{"children":"通过域名获取公司营收数据、CEO 信息及竞争分析。"}]
+b3:["$","$L42",null,{"as":"h4","id":"输入-15","children":"输入"}]
+b4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"公司域名（例如 clay.io ）"}]]}]]}]]}]}]
+b5:["$","$L42",null,{"as":"h4","id":"输出-15","children":"输出"}]
+b6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shortDescription"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司简介"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fullSummary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司详细介绍"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"revenue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司收入"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"revenueMin"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"最低收入估算"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"revenueMax"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"最高收入估算"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"employeeCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"员工人数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"founded"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"成立年份"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ownership"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"所有权类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司状态（如：在营）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司网站 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ceo"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"CEO 信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"CEO 姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"designation"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"CEO 职位/头衔"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rating"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"CEO 评分"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"socialLinks"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"社交媒体链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedIn"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"twitter"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Twitter URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"facebook"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Facebook URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalFunding"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"融资总额"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fundingRounds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"融资轮次"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"competitors"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"竞争对手"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"竞争对手名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"revenue"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"收入"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"employeeCount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"员工数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headquarters"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"总部所在地"}]]}]]}]]}]}]
+b7:["$","$L42",null,{"as":"h3","id":"enrich_search_people","children":["$","code",null,{"children":"enrich_search_people"}]}]
+b8:["$","p",null,{"children":"可按姓名、职位、技能、学历和公司等多种条件搜索专业人士。"}]
+b9:["$","$L42",null,{"as":"h4","id":"输入-16","children":"输入"}]
+ba:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"名字"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"姓氏"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"职业简介关键词"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subTitle"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"职位/副标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationCountry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"国家"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationCity"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"城市"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationState"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"州/省"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"influencer"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"仅筛选影响者"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"premium"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"仅筛选高级账户"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"主要语言"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentJobTitles"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"当前职位（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pastJobTitles"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"过往职位（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"skills"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"搜索技能（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schoolNames"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"学校名称（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"certifications"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"筛选证书（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"degreeNames"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"筛选学位名称（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"studyFields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"筛选专业名称（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentCompanies"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"筛选当前公司 ID（数字数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pastCompanies"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"筛选过往公司 ID（数字数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码（默认：1）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数（默认：20）"}]]}]]}]]}]}]
+bb:["$","$L42",null,{"as":"h4","id":"输出-16","children":"输出"}]
+bc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总页数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"每页结果数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profiles"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"搜索结果"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileIdentifier"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Profile ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"givenName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名字"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"familyName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓氏"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"currentPosition"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"当前职位名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"externalProfileUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"city"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"城市"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"country"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"国家"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"expertSkills"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"技能"}]]}]]}]]}]}]
+bd:["$","$L42",null,{"as":"h3","id":"enrich_search_company","children":["$","code",null,{"children":"enrich_search_company"}]}]
+be:["$","p",null,{"children":"可根据名称、行业、地点和规模等多种条件搜索公司。"}]
+bf:["$","$L42",null,{"as":"h4","id":"输入-17","children":"输入"}]
+c0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司网站 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagline"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司标语"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司类型（如 Private、Public）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司描述关键词"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industries"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"行业筛选（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationCountry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"国家"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationCity"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"城市"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postalCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"邮政编码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationCountryList"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"多国家筛选（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"locationCityList"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"多城市筛选（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"specialities"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"公司专长（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"followers"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"最小关注者数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"staffCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"最大员工数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"staffCountMin"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"最小员工数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"staffCountMax"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"最大员工数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码（默认：1）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数（默认：20）"}]]}]]}]]}]}]
+c1:["$","$L42",null,{"as":"h4","id":"输出-17","children":"输出"}]
+c2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总页数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"每页结果数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companies"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"搜索结果"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"companyName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"tagline"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司标语"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"网站 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"industries"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"teamSize"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"团队规模"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInProfile"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn URL"}]]}]]}]]}]}]
+c3:["$","$L42",null,{"as":"h3","id":"enrich_search_company_employees","children":["$","code",null,{"children":"enrich_search_company_employees"}]}]
+c4:["$","p",null,{"children":"按地点和职位名称在特定公司中搜索员工。"}]
+c5:["$","$L42",null,{"as":"h4","id":"输入-18","children":"输入"}]
+c6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyIds"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"要搜索的公司 ID 数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"country"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"国家筛选（例如 United States ）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"city"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"城市筛选（例如 San Francisco ）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"州筛选（例如 California ）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobTitles"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"职位筛选（数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码（默认：1）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数（默认：10）"}]]}]]}]]}]}]
+c7:["$","$L42",null,{"as":"h4","id":"输出-18","children":"输出"}]
+c8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"currentPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总页数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"每页结果数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profiles"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"员工档案"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileIdentifier"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"档案 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"givenName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名字"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"familyName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓氏"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"currentPosition"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"当前职位名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"externalProfileUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"city"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"城市"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"country"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"国家"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"expertSkills"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"技能"}]]}]]}]]}]}]
+c9:["$","$L42",null,{"as":"h3","id":"enrich_search_similar_companies","children":["$","code",null,{"children":"enrich_search_similar_companies"}]}]
+ca:["$","p",null,{"children":"通过 LinkedIn URL 查找与指定公司相似的公司，并可按地点和规模进行筛选。"}]
+cb:["$","$L42",null,{"as":"h4","id":"输入-19","children":"输入"}]
+cc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 公司 URL（例如：linkedin.com/company/google）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountLocation"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"按地点筛选（国家名称数组）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"employeeSizeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"员工规模筛选类型（例如：RANGE）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"employeeSizeRange"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":["员工规模区间（",["$","code",null,{"children":"{start, end}"}]," 对象数组）"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码（默认：1）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"num"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"每页结果数"}]]}]]}]]}]}]
+cd:["$","$L42",null,{"as":"h4","id":"输出-19","children":"输出"}]
+ce:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companies"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"相似公司"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"universalName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"通用名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公司简介"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"website"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"网站 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"logo"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Logo URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"foundedYear"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"成立年份"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"staffTotal"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"员工总数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"industries"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"行业"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"relevancyScore"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"相关性分数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"relevancyValue"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"相关性值"}]]}]]}]]}]}]
+cf:["$","$L42",null,{"as":"h3","id":"enrich_sales_pointer_people","children":["$","code",null,{"children":"enrich_sales_pointer_people"}]}]
+d0:["$","p",null,{"children":"高级人员搜索，支持按地点、公司规模、职位级别、工作经验等多种复杂筛选条件。"}]
+d1:["$","$L42",null,{"as":"h4","id":"输入-20","children":"输入"}]
+d2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"页码（从 1 开始）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filters"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"筛选对象数组。每个筛选包含类型（如 POSTAL_CODE、COMPANY_HEADCOUNT）、值（包含 id、text、selectionType: INCLUDED/EXCLUDED 的数组）以及可选的 selectedSubFilter"}]]}]]}]]}]}]
+d3:["$","$L42",null,{"as":"h4","id":"输出-20","children":"输出"}]
+d4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"人员结果"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓名全称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"summary"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职业简介"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"所在地"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profilePicture"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrn"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn URN"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"positions"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"工作经历"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"education"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"教育经历"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pagination"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"分页信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"totalCount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"结果总数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"returnedCount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"返回数量"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"起始位置"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"limit"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"限制数量"}]]}]]}]]}]}]
+d5:["$","$L42",null,{"as":"h3","id":"enrich_search_posts","children":["$","code",null,{"children":"enrich_search_posts"}]}]
+d6:["$","p",null,{"children":"通过关键词搜索 LinkedIn 帖子，并可按日期筛选。"}]
+d7:["$","$L42",null,{"as":"h4","id":"输入-21","children":"输入"}]
+d8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"keywords"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"搜索关键词（如 \"AI automation\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"datePosted"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"时间筛选（如 past_week、past_month）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码（默认：1）"}]]}]]}]]}]}]
+d9:["$","$L42",null,{"as":"h4","id":"输出-21","children":"输出"}]
+da:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"结果总数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"posts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"搜索结果"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"url"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"postId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"author"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"作者信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headline"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者头衔"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者 LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者头像"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timestamp"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"textContent"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子正文内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hashtags"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"话题标签"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mediaUrls"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"媒体 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactions"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"点赞数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"commentsCount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"评论数"}]]}]]}]]}]}]
+db:["$","$L42",null,{"as":"h3","id":"enrich_get_post_details","children":["$","code",null,{"children":"enrich_get_post_details"}]}]
+dc:["$","p",null,{"children":"通过 URL 获取 LinkedIn 帖子的详细信息。"}]
+dd:["$","$L42",null,{"as":"h4","id":"输入-22","children":"输入"}]
+de:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 帖子 URL"}]]}]]}]]}]}]
+df:["$","$L42",null,{"as":"h4","id":"输出-22","children":"输出"}]
+e0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"作者信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headline"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者头衔"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者 LinkedIn URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者头像"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timestamp"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"textContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"帖子正文内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hashtags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"话题标签"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaUrls"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"媒体 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reactions"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"点赞数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentsCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"评论数"}]]}]]}]]}]}]
+e1:["$","$L42",null,{"as":"h3","id":"enrich_search_post_reactions","children":["$","code",null,{"children":"enrich_search_post_reactions"}]}]
+e2:["$","p",null,{"children":"获取 LinkedIn 帖子的互动反应，并可按反应类型筛选。"}]
+e3:["$","$L42",null,{"as":"h4","id":"输入-23","children":"输入"}]
+e4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postUrn"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 活动 URN（例如：urn:li:activity:7231931952839196672）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reactionType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"反应类型筛选：all、like、love、celebrate、insightful 或 funny（默认：all）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"页码（从 1 开始）"}]]}]]}]]}]}]
+e5:["$","$L42",null,{"as":"h4","id":"输出-23","children":"输出"}]
+e6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总页数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"返回的反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reactions"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"反应列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactionType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"反应类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactor"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"互动人信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"subTitle"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"职位"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profilePicture"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"LinkedIn 主页链接"}]]}]]}]]}]}]
+e7:["$","$L42",null,{"as":"h3","id":"enrich_search_post_comments","children":["$","code",null,{"children":"enrich_search_post_comments"}]}]
+e8:["$","p",null,{"children":"获取 LinkedIn 帖子的评论。"}]
+e9:["$","$L42",null,{"as":"h4","id":"输入-24","children":"输入"}]
+ea:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postUrn"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 活动 URN（例如：urn:li:activity:7191163324208705536）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"页码（从 1 开始，默认：1）"}]]}]]}]]}]}]
+eb:["$","$L42",null,{"as":"h4","id":"输出-24","children":"输出"}]
+ec:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"totalPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总页数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"返回的评论数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"评论"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"activityId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论活动 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"commentary"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"评论链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"commenter"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"评论者信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"firstName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"名字"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"姓氏"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"subTitle"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"副标题/头衔"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profilePicture"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"backgroundImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"背景图片 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"entityUrn"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"实体 URN"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"objectUrn"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"对象 URN"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人资料类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactionBreakdown"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"评论的互动"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"likes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"点赞数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"empathy"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"共鸣反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"other"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"其他反应数"}]]}]]}]]}]}]
+ed:["$","$L42",null,{"as":"h3","id":"enrich_search_people_activities","children":["$","code",null,{"children":"enrich_search_people_activities"}]}]
+ee:["$","p",null,{"children":"获取个人信息"}]
+ef:["$","$L42",null,{"as":"h4","id":"输入-25","children":"输入"}]
+f0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"profileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activityType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"活动类型：posts、comments 或 articles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paginationToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"下一页结果的分页令牌"}]]}]]}]]}]}]
+f1:["$","$L42",null,{"as":"h4","id":"输出-25","children":"输出"}]
+f2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paginationToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于获取下一页的令牌"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activityType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"返回的活动类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activities"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"活动列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"activityId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"commentary"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动文本内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeElapsed"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"距离活动发生的时间"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"numReactions"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"author"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"活动作者信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profilePicture"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactionBreakdown"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"反应"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"likes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"点赞数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"empathy"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"共鸣数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"other"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"其他反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attachments"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"附件 URL"}]]}]]}]]}]}]
+f3:["$","$L42",null,{"as":"h3","id":"enrich_search_company_activities","children":["$","code",null,{"children":"enrich_search_company_activities"}]}]
+f4:["$","p",null,{"children":"获取公司信息"}]
+f5:["$","$L42",null,{"as":"h4","id":"输入-26","children":"输入"}]
+f6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"LinkedIn 公司 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activityType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"活动类型：posts、comments 或 articles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paginationToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"下一页结果的分页令牌"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"跳过的记录数（默认：0）"}]]}]]}]]}]}]
+f7:["$","$L42",null,{"as":"h4","id":"输出-26","children":"输出"}]
+f8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paginationToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于获取下一页的令牌"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activityType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"返回的活动类型"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activities"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"活动列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"activityId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"commentary"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动文本内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkedInUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeElapsed"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"距离活动发生的时间"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"numReactions"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"author"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"活动作者信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人资料 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profilePicture"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"个人头像 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reactionBreakdown"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"反应"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"likes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"点赞数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"empathy"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"共情反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"other"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"其他反应数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attachments"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"附件"}]]}]]}]]}]}]
+f9:["$","$L42",null,{"as":"h3","id":"enrich_reverse_hash_lookup","children":["$","code",null,{"children":"enrich_reverse_hash_lookup"}]}]
+fa:["$","p",null,{"children":"将 MD5 邮箱哈希还原为原始邮箱地址和显示名称。"}]
+fb:["$","$L42",null,{"as":"h4","id":"输入-27","children":"输入"}]
+fc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API 密钥"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hash"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要查询的 MD5 哈希值"}]]}]]}]]}]}]
+fd:["$","$L42",null,{"as":"h4","id":"输出-27","children":"输出"}]
+fe:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hash"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"被查询的 MD5 哈希"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"原始邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"displayName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"与邮箱关联的显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否找到对应邮箱地址"}]]}]]}]]}]}]
+ff:["$","$L42",null,{"as":"h3","id":"enrich_search_logo","children":["$","code",null,{"children":"enrich_search_logo"}]}]
+100:["$","p",null,{"children":"通过域名获取公司 logo 图片的 URL。"}]
+101:["$","$L42",null,{"as":"h4","id":"输入-28","children":"输入"}]
+102:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"Enrich API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"公司域名（例如，google.com）"}]]}]]}]]}]}]
+103:["$","$L42",null,{"as":"h4","id":"输出-28","children":"输出"}]
+104:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"logoUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"用于获取公司 logo 的 URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"被查询的域名"}]]}]]}]]}]}]
+107:null

@@ -1,0 +1,787 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+2c:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+2d:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+32:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+33:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+34:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+35:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+c8:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+c9:"$Sreact.suspense"
+cb:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+cc:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+cd:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Jira\",\"description\":\"Interactúa con Jira\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/jira\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/jira\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/jira\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Jira\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/jira\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#jira_retrieve","title":["$","code",null,{"children":"jira_retrieve"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#jira_update","title":["$","code",null,{"children":"jira_update"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#jira_write","title":["$","code",null,{"children":"jira_write"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#jira_bulk_read","title":["$","code",null,{"children":"jira_bulk_read"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#jira_delete_issue","title":["$","code",null,{"children":"jira_delete_issue"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#jira_assign_issue","title":["$","code",null,{"children":"jira_assign_issue"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#jira_transition_issue","title":["$","code",null,{"children":"jira_transition_issue"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#jira_search_issues","title":["$","code",null,{"children":"jira_search_issues"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#jira_add_comment","title":["$","code",null,{"children":"jira_add_comment"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#jira_get_comments","title":["$","code",null,{"children":"jira_get_comments"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#jira_update_comment","title":["$","code",null,{"children":"jira_update_comment"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#jira_delete_comment","title":["$","code",null,{"children":"jira_delete_comment"}]},{"depth":4,"url":"#entrada-11","title":"Entrada"},{"depth":4,"url":"#salida-11","title":"Salida"},{"depth":3,"url":"#jira_get_attachments","title":["$","code",null,{"children":"jira_get_attachments"}]},{"depth":4,"url":"#entrada-12","title":"Entrada"},{"depth":4,"url":"#salida-12","title":"Salida"},{"depth":3,"url":"#jira_delete_attachment","title":"$L3"},{"depth":4,"url":"#entrada-13","title":"$L4"},{"depth":4,"url":"#salida-13","title":"$L5"},{"depth":3,"url":"#jira_add_worklog","title":"$L6"},{"depth":4,"url":"#entrada-14","title":"$L7"},{"depth":4,"url":"#salida-14","title":"$L8"},{"depth":3,"url":"#jira_get_worklogs","title":"$L9"},{"depth":4,"url":"#entrada-15","title":"$La"},{"depth":4,"url":"#salida-15","title":"$Lb"},{"depth":3,"url":"#jira_update_worklog","title":"$Lc"},{"depth":4,"url":"#entrada-16","title":"$Ld"},{"depth":4,"url":"#salida-16","title":"$Le"},{"depth":3,"url":"#jira_delete_worklog","title":"$Lf"},{"depth":4,"url":"#entrada-17","title":"$L10"},{"depth":4,"url":"#salida-17","title":"$L11"},{"depth":3,"url":"#jira_create_issue_link","title":"$L12"},{"depth":4,"url":"#entrada-18","title":"$L13"},{"depth":4,"url":"#salida-18","title":"$L14"},{"depth":3,"url":"#jira_delete_issue_link","title":"$L15"},{"depth":4,"url":"#entrada-19","title":"$L16"},{"depth":4,"url":"#salida-19","title":"$L17"},{"depth":3,"url":"#jira_add_watcher","title":"$L18"},{"depth":4,"url":"#entrada-20","title":"$L19"},{"depth":4,"url":"#salida-20","title":"$L1a"},{"depth":3,"url":"#jira_remove_watcher","title":"$L1b"},{"depth":4,"url":"#entrada-21","title":"$L1c"},{"depth":4,"url":"#salida-21","title":"$L1d"},{"depth":3,"url":"#jira_get_users","title":"$L1e"},{"depth":4,"url":"#entrada-22","title":"$L1f"},{"depth":4,"url":"#salida-22","title":"$L20"},{"depth":2,"url":"#notas","title":"$L21"},{"depth":4,"url":"#entrada-23","title":"$L22"},{"depth":4,"url":"#salida-23","title":"$L23"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L24"},"children":["$L25","$L26"]}]],["$L27","$L28","$L29","$L2a"],"$L2b"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"jira_delete_attachment"}]
+4:"Entrada"
+5:"Salida"
+6:["$","code",null,{"children":"jira_add_worklog"}]
+7:"Entrada"
+8:"Salida"
+9:["$","code",null,{"children":"jira_get_worklogs"}]
+a:"Entrada"
+b:"Salida"
+c:["$","code",null,{"children":"jira_update_worklog"}]
+d:"Entrada"
+e:"Salida"
+f:["$","code",null,{"children":"jira_delete_worklog"}]
+10:"Entrada"
+11:"Salida"
+12:["$","code",null,{"children":"jira_create_issue_link"}]
+13:"Entrada"
+14:"Salida"
+15:["$","code",null,{"children":"jira_delete_issue_link"}]
+16:"Entrada"
+17:"Salida"
+18:["$","code",null,{"children":"jira_add_watcher"}]
+19:"Entrada"
+1a:"Salida"
+1b:["$","code",null,{"children":"jira_remove_watcher"}]
+1c:"Entrada"
+1d:"Salida"
+1e:["$","code",null,{"children":"jira_get_users"}]
+1f:"Entrada"
+20:"Salida"
+21:"Notas"
+22:"Entrada"
+23:"Salida"
+24:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L2c",null,{"href":"/es/tools/jina","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Jina"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L2c",null,{"href":"/es/tools/knowledge","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Conocimiento",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+2e:Ta5a3,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="jira" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Jira](https://www.atlassian.com/jira) es una plataforma líder de gestión de proyectos y seguimiento de incidencias que ayuda a los equipos a planificar, rastrear y gestionar proyectos de desarrollo de software ágil de manera efectiva. Como parte de la suite de Atlassian, Jira se ha convertido en el estándar de la industria para equipos de desarrollo de software y profesionales de gestión de proyectos en todo el mundo.
+
+Jira proporciona un conjunto completo de herramientas para gestionar proyectos complejos a través de su sistema de flujo de trabajo flexible y personalizable. Con su robusta API y capacidades de integración, Jira permite a los equipos optimizar sus procesos de desarrollo y mantener una clara visibilidad del progreso del proyecto.
+
+Las características principales de Jira incluyen:
+
+* Gestión de proyectos ágiles: Soporte para metodologías Scrum y Kanban con tableros y flujos de trabajo personalizables
+* Seguimiento de incidencias: Sistema sofisticado de seguimiento para errores, historias, épicas y tareas con informes detallados
+* Automatización de flujos de trabajo: Potentes reglas de automatización para optimizar tareas y procesos repetitivos
+* Búsqueda avanzada: JQL (Jira Query Language) para filtrado e informes complejos de incidencias
+
+En Aptlystar, la integración con Jira permite a tus agentes interactuar sin problemas con tu flujo de trabajo de gestión de proyectos. Esto crea oportunidades para la creación, actualización y seguimiento automatizado de incidencias como parte de tus flujos de trabajo de IA. La integración permite a los agentes crear, recuperar y actualizar incidencias de Jira de forma programática, facilitando tareas automatizadas de gestión de proyectos y asegurando que la información importante sea debidamente rastreada y documentada. Al conectar Aptlystar con Jira, puedes construir agentes inteligentes que mantengan la visibilidad del proyecto mientras automatizan tareas rutinarias de gestión de proyectos, mejorando la productividad del equipo y asegurando un seguimiento consistente del proyecto.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Integra Jira en el flujo de trabajo. Puede leer, escribir y actualizar incidencias. También puede activar flujos de trabajo basados en eventos webhook de Jira.
+
+Herramientas [#herramientas]
+
+jira_retrieve [#jira_retrieve]
+
+Recupera información detallada sobre una incidencia específica de Jira
+
+Entrada [#entrada]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `projectId` | string | No          | ID del proyecto de Jira (opcional; no es necesario para recuperar una sola incidencia).  |
+| `issueKey`  | string | Sí          | Clave de la incidencia de Jira a recuperar (p. ej., PROJ-123)                            |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida]
+
+| Parámetro     | Tipo   | Descripción                                              |
+| ------------- | ------ | -------------------------------------------------------- |
+| `ts`          | string | Marca de tiempo de la operación                          |
+| `issueKey`    | string | Clave de la incidencia (p. ej., PROJ-123)                |
+| `summary`     | string | Resumen de la incidencia                                 |
+| `description` | json   | Contenido de la descripción de la incidencia             |
+| `created`     | string | Marca de tiempo de creación de la incidencia             |
+| `updated`     | string | Marca de tiempo de última actualización de la incidencia |
+| `issue`       | json   | Objeto completo de la incidencia con todos los campos    |
+
+jira_update [#jira_update]
+
+Actualizar una incidencia de Jira
+
+Entrada [#entrada-1]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                                                      |
+| ------------- | ------ | ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| `domain`      | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                                             |
+| `projectId`   | string | No          | ID del proyecto de Jira para actualizar incidencias. Si no se proporciona, se recuperarán todas las incidencias. |
+| `issueKey`    | string | Sí          | Clave de la incidencia de Jira a actualizar                                                                      |
+| `summary`     | string | No          | Nuevo resumen para la incidencia                                                                                 |
+| `description` | string | No          | Nueva descripción para la incidencia                                                                             |
+| `status`      | string | No          | Nuevo estado para la incidencia                                                                                  |
+| `priority`    | string | No          | Nueva prioridad para la incidencia                                                                               |
+| `assignee`    | string | No          | Nuevo asignado para la incidencia                                                                                |
+| `cloudId`     | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.                         |
+
+Salida [#salida-1]
+
+| Parámetro  | Tipo   | Descripción                                           |
+| ---------- | ------ | ----------------------------------------------------- |
+| `ts`       | string | Marca de tiempo de la operación                       |
+| `issueKey` | string | Clave de la incidencia actualizada (p. ej., PROJ-123) |
+| `summary`  | string | Resumen de la incidencia después de la actualización  |
+
+jira_write [#jira_write]
+
+Escribir una incidencia de Jira
+
+Entrada [#entrada-2]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                                              |
+| ------------------ | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`           | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `projectId`        | string | Sí          | ID del proyecto para la incidencia                                                       |
+| `summary`          | string | Sí          | Resumen de la incidencia                                                                 |
+| `description`      | string | No          | Descripción de la incidencia                                                             |
+| `priority`         | string | No          | ID o nombre de prioridad para la incidencia (p. ej., "10000" o "Alta")                   |
+| `assignee`         | string | No          | ID de cuenta del asignado para la incidencia                                             |
+| `cloudId`          | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+| `issueType`        | string | Sí          | Tipo de incidencia a crear (p. ej., Tarea, Historia)                                     |
+| `labels`           | array  | No          | Etiquetas para la incidencia (array de nombres de etiquetas)                             |
+| `duedate`          | string | No          | Fecha de vencimiento para la incidencia (formato: AAAA-MM-DD)                            |
+| `reporter`         | string | No          | ID de cuenta del informador para la incidencia                                           |
+| `environment`      | string | No          | Información del entorno para la incidencia                                               |
+| `customFieldId`    | string | No          | ID del campo personalizado (p. ej., customfield\_10001)                                  |
+| `customFieldValue` | string | No          | Valor para el campo personalizado                                                        |
+
+Salida [#salida-2]
+
+| Parámetro    | Tipo   | Descripción                                          |
+| ------------ | ------ | ---------------------------------------------------- |
+| `ts`         | string | Marca de tiempo de la operación                      |
+| `issueKey`   | string | Clave de la incidencia creada (p. ej., PROJ-123)     |
+| `summary`    | string | Resumen de la incidencia                             |
+| `url`        | string | URL de la incidencia creada                          |
+| `assigneeId` | string | ID de cuenta del usuario asignado (si está asignado) |
+
+jira_bulk_read [#jira_bulk_read]
+
+Recuperar múltiples incidencias de Jira en bloque
+
+Entrada [#entrada-3]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                          |
+| ----------- | ------ | ----------- | ---------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net) |
+| `projectId` | string | Sí          | ID del proyecto de Jira                              |
+| `cloudId`   | string | No          | ID de Jira cloud                                     |
+
+Salida [#salida-3]
+
+| Parámetro | Tipo  | Descripción                                                                                                            |
+| --------- | ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| `issues`  | array | Array de incidencias de Jira con marca de tiempo, resumen, descripción, y marcas de tiempo de creación y actualización |
+
+jira_delete_issue [#jira_delete_issue]
+
+Eliminar una incidencia de Jira
+
+Entrada [#entrada-4]
+
+| Parámetro        | Tipo    | Obligatorio | Descripción                                                                                                       |
+| ---------------- | ------- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| `domain`         | string  | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                                              |
+| `issueKey`       | string  | Sí          | Clave de la incidencia de Jira a eliminar (p. ej., PROJ-123)                                                      |
+| `deleteSubtasks` | boolean | No          | Si se deben eliminar las subtareas. Si es falso, las incidencias principales con subtareas no se pueden eliminar. |
+| `cloudId`        | string  | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.                          |
+
+Salida [#salida-4]
+
+| Parámetro  | Tipo   | Descripción                      |
+| ---------- | ------ | -------------------------------- |
+| `ts`       | string | Marca de tiempo de la operación  |
+| `issueKey` | string | Clave de la incidencia eliminada |
+
+jira_assign_issue [#jira_assign_issue]
+
+Asignar una incidencia de Jira a un usuario
+
+Entrada [#entrada-5]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                        |
+| ----------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------ |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                                               |
+| `issueKey`  | string | Sí          | Clave de la incidencia de Jira a asignar (p. ej., PROJ-123)                                                        |
+| `accountId` | string | Sí          | ID de cuenta del usuario al que asignar la incidencia. Usa "-1" para asignación automática o null para desasignar. |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.                           |
+
+Salida [#salida-5]
+
+| Parámetro    | Tipo   | Descripción                             |
+| ------------ | ------ | --------------------------------------- |
+| `ts`         | string | Marca de tiempo de la operación         |
+| `issueKey`   | string | Clave de la incidencia que fue asignada |
+| `assigneeId` | string | ID de cuenta del asignado               |
+
+jira_transition_issue [#jira_transition_issue]
+
+Mover una incidencia de Jira entre estados de flujo de trabajo (p. ej., Pendiente -> En progreso)
+
+Entrada [#entrada-6]
+
+| Parámetro      | Tipo   | Obligatorio | Descripción                                                                              |
+| -------------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`       | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`     | string | Sí          | Clave de la incidencia de Jira a transicionar (p. ej., PROJ-123)                         |
+| `transitionId` | string | Sí          | ID de la transición a ejecutar (p. ej., "11" para "Pendiente", "21" para "En progreso")  |
+| `comment`      | string | No          | Comentario opcional para añadir al transicionar la incidencia                            |
+| `cloudId`      | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-6]
+
+| Parámetro      | Tipo   | Descripción                               |
+| -------------- | ------ | ----------------------------------------- |
+| `ts`           | string | Marca de tiempo de la operación           |
+| `issueKey`     | string | Clave de incidencia que fue transicionada |
+| `transitionId` | string | ID de transición aplicada                 |
+
+jira_search_issues [#jira_search_issues]
+
+Buscar incidencias de Jira usando JQL (Jira Query Language)
+
+Entrada [#entrada-7]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                                                      |
+| ------------ | ------ | ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| `domain`     | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                                             |
+| `jql`        | string | Sí          | Cadena de consulta JQL para buscar incidencias (p. ej., "project = PROJ AND status = Open")                      |
+| `startAt`    | number | No          | El índice del primer resultado a devolver (para paginación)                                                      |
+| `maxResults` | number | No          | Número máximo de resultados a devolver (predeterminado: 50)                                                      |
+| `fields`     | array  | No          | Array de nombres de campos a devolver (predeterminado: \['summary', 'status', 'assignee', 'created', 'updated']) |
+| `cloudId`    | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.                         |
+
+Salida [#salida-7]
+
+| Parámetro    | Tipo   | Descripción                                                                                 |
+| ------------ | ------ | ------------------------------------------------------------------------------------------- |
+| `ts`         | string | Marca de tiempo de la operación                                                             |
+| `total`      | number | Número total de incidencias coincidentes                                                    |
+| `startAt`    | number | Índice de inicio de paginación                                                              |
+| `maxResults` | number | Máximo de resultados por página                                                             |
+| `issues`     | array  | Array de incidencias coincidentes con clave, resumen, estado, asignado, creado, actualizado |
+
+jira_add_comment [#jira_add_comment]
+
+Añadir un comentario a una incidencia de Jira
+
+Entrada [#entrada-8]
+
+| Parámetro  | Tipo   | Obligatorio | Descripción                                                                              |
+| ---------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`   | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey` | string | Sí          | Clave de la incidencia de Jira a la que añadir el comentario (p. ej., PROJ-123)          |
+| `body`     | string | Sí          | Texto del cuerpo del comentario                                                          |
+| `cloudId`  | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-8]
+
+| Parámetro   | Tipo   | Descripción                                          |
+| ----------- | ------ | ---------------------------------------------------- |
+| `ts`        | string | Marca de tiempo de la operación                      |
+| `issueKey`  | string | Clave de incidencia a la que se añadió el comentario |
+| `commentId` | string | ID del comentario creado                             |
+| `body`      | string | Contenido de texto del comentario                    |
+
+jira_get_comments [#jira_get_comments]
+
+Obtener todos los comentarios de una incidencia de Jira
+
+Entrada [#entrada-9]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                              |
+| ------------ | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`     | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`   | string | Sí          | Clave de la incidencia de Jira de la que obtener comentarios (p. ej., PROJ-123)          |
+| `startAt`    | number | No          | Índice del primer comentario a devolver (predeterminado: 0)                              |
+| `maxResults` | number | No          | Número máximo de comentarios a devolver (predeterminado: 50)                             |
+| `cloudId`    | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-9]
+
+| Parámetro  | Tipo   | Descripción                                                     |
+| ---------- | ------ | --------------------------------------------------------------- |
+| `ts`       | string | Marca de tiempo de la operación                                 |
+| `issueKey` | string | Clave de incidencia                                             |
+| `total`    | number | Número total de comentarios                                     |
+| `comments` | array  | Array de comentarios con id, autor, cuerpo, creado, actualizado |
+
+jira_update_comment [#jira_update_comment]
+
+Actualizar un comentario existente en una incidencia de Jira
+
+Entrada [#entrada-10]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`  | string | Sí          | Clave de incidencia de Jira que contiene el comentario (p. ej., PROJ-123)                |
+| `commentId` | string | Sí          | ID del comentario a actualizar                                                           |
+| `body`      | string | Sí          | Texto actualizado del comentario                                                         |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-10]
+
+| Parámetro   | Tipo   | Descripción                      |
+| ----------- | ------ | -------------------------------- |
+| `ts`        | string | Marca de tiempo de la operación  |
+| `issueKey`  | string | Clave de incidencia              |
+| `commentId` | string | ID del comentario actualizado    |
+| `body`      | string | Texto actualizado del comentario |
+
+jira_delete_comment [#jira_delete_comment]
+
+Eliminar un comentario de una incidencia de Jira
+
+Entrada [#entrada-11]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`  | string | Sí          | Clave de incidencia de Jira que contiene el comentario (p. ej., PROJ-123)                |
+| `commentId` | string | Sí          | ID del comentario a eliminar                                                             |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-11]
+
+| Parámetro   | Tipo   | Descripción                     |
+| ----------- | ------ | ------------------------------- |
+| `ts`        | string | Marca de tiempo de la operación |
+| `issueKey`  | string | Clave de incidencia             |
+| `commentId` | string | ID del comentario eliminado     |
+
+jira_get_attachments [#jira_get_attachments]
+
+Obtener todos los adjuntos de una incidencia de Jira
+
+Entrada [#entrada-12]
+
+| Parámetro  | Tipo   | Obligatorio | Descripción                                                                              |
+| ---------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`   | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey` | string | Sí          | Clave de la incidencia de Jira de la que obtener los adjuntos (p. ej., PROJ-123)         |
+| `cloudId`  | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-12]
+
+| Parámetro     | Tipo   | Descripción                                                                               |
+| ------------- | ------ | ----------------------------------------------------------------------------------------- |
+| `ts`          | string | Marca de tiempo de la operación                                                           |
+| `issueKey`    | string | Clave de incidencia                                                                       |
+| `attachments` | array  | Array de adjuntos con id, nombre de archivo, tamaño, tipo MIME, fecha de creación y autor |
+
+jira_delete_attachment [#jira_delete_attachment]
+
+Eliminar un adjunto de una incidencia de Jira
+
+Entrada [#entrada-13]
+
+| Parámetro      | Tipo   | Obligatorio | Descripción                                                                              |
+| -------------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`       | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `attachmentId` | string | Sí          | ID del adjunto a eliminar                                                                |
+| `cloudId`      | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-13]
+
+| Parámetro      | Tipo   | Descripción                     |
+| -------------- | ------ | ------------------------------- |
+| `ts`           | string | Marca de tiempo de la operación |
+| `attachmentId` | string | ID del adjunto eliminado        |
+
+jira_add_worklog [#jira_add_worklog]
+
+Añadir una entrada de registro de trabajo de seguimiento de tiempo a una incidencia de Jira
+
+Entrada [#entrada-14]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                                              |
+| ------------------ | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`           | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`         | string | Sí          | Clave de la incidencia de Jira a la que añadir el registro de trabajo (p. ej., PROJ-123) |
+| `timeSpentSeconds` | number | Sí          | Tiempo dedicado en segundos                                                              |
+| `comment`          | string | No          | Comentario opcional para la entrada del registro de trabajo                              |
+| `started`          | string | No          | Hora de inicio opcional en formato ISO (por defecto es la hora actual)                   |
+| `cloudId`          | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-14]
+
+| Parámetro          | Tipo   | Descripción                                                   |
+| ------------------ | ------ | ------------------------------------------------------------- |
+| `ts`               | string | Marca de tiempo de la operación                               |
+| `issueKey`         | string | Clave de incidencia a la que se añadió el registro de trabajo |
+| `worklogId`        | string | ID del registro de trabajo creado                             |
+| `timeSpentSeconds` | number | Tiempo empleado en segundos                                   |
+
+jira_get_worklogs [#jira_get_worklogs]
+
+Obtener todas las entradas de registro de trabajo de una incidencia de Jira
+
+Entrada [#entrada-15]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                                  |
+| ------------ | ------ | ----------- | -------------------------------------------------------------------------------------------- |
+| `domain`     | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                         |
+| `issueKey`   | string | Sí          | Clave de la incidencia de Jira de la que obtener los registros de trabajo (p. ej., PROJ-123) |
+| `startAt`    | number | No          | Índice del primer registro de trabajo a devolver (predeterminado: 0)                         |
+| `maxResults` | number | No          | Número máximo de registros de trabajo a devolver (predeterminado: 50)                        |
+| `cloudId`    | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.     |
+
+Salida [#salida-15]
+
+| Parámetro  | Tipo   | Descripción                                                                                                                             |
+| ---------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `ts`       | string | Marca de tiempo de la operación                                                                                                         |
+| `issueKey` | string | Clave de incidencia                                                                                                                     |
+| `total`    | number | Número total de registros de trabajo                                                                                                    |
+| `worklogs` | array  | Array de registros de trabajo con id, autor, segundos empleados, tiempo empleado, comentario, fecha de creación, actualización e inicio |
+
+jira_update_worklog [#jira_update_worklog]
+
+Actualizar una entrada existente de registro de trabajo en una incidencia de Jira
+
+Entrada [#entrada-16]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                                              |
+| ------------------ | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`           | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`         | string | Sí          | Clave de incidencia de Jira que contiene el registro de trabajo (p. ej., PROJ-123)       |
+| `worklogId`        | string | Sí          | ID de la entrada de registro de trabajo a actualizar                                     |
+| `timeSpentSeconds` | number | No          | Tiempo empleado en segundos                                                              |
+| `comment`          | string | No          | Comentario opcional para la entrada de registro de trabajo                               |
+| `started`          | string | No          | Hora de inicio opcional en formato ISO                                                   |
+| `cloudId`          | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-16]
+
+| Parámetro   | Tipo   | Descripción                            |
+| ----------- | ------ | -------------------------------------- |
+| `ts`        | string | Marca de tiempo de la operación        |
+| `issueKey`  | string | Clave de incidencia                    |
+| `worklogId` | string | ID del registro de trabajo actualizado |
+
+jira_delete_worklog [#jira_delete_worklog]
+
+Eliminar una entrada de registro de trabajo de una incidencia de Jira
+
+Entrada [#entrada-17]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`  | string | Sí          | Clave de incidencia de Jira que contiene el registro de trabajo (p. ej., PROJ-123)       |
+| `worklogId` | string | Sí          | ID de la entrada de registro de trabajo a eliminar                                       |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-17]
+
+| Parámetro   | Tipo   | Descripción                          |
+| ----------- | ------ | ------------------------------------ |
+| `ts`        | string | Marca de tiempo de la operación      |
+| `issueKey`  | string | Clave de incidencia                  |
+| `worklogId` | string | ID del registro de trabajo eliminado |
+
+jira_create_issue_link [#jira_create_issue_link]
+
+Crear una relación de enlace entre dos incidencias de Jira
+
+Entrada [#entrada-18]
+
+| Parámetro         | Tipo   | Obligatorio | Descripción                                                                                  |
+| ----------------- | ------ | ----------- | -------------------------------------------------------------------------------------------- |
+| `domain`          | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                         |
+| `inwardIssueKey`  | string | Sí          | Clave de incidencia de Jira para la incidencia de entrada (p. ej., PROJ-123)                 |
+| `outwardIssueKey` | string | Sí          | Clave de incidencia de Jira para la incidencia de salida (p. ej., PROJ-456)                  |
+| `linkType`        | string | Sí          | El tipo de relación de enlace (p. ej., "Bloquea", "Se relaciona con", "Duplica")             |
+| `comment`         | string | No          | Comentario opcional para añadir al enlace de la incidencia                                   |
+| `cloudId`         | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá utilizando el dominio. |
+
+Salida [#salida-18]
+
+| Parámetro      | Tipo   | Descripción                     |
+| -------------- | ------ | ------------------------------- |
+| `ts`           | string | Marca de tiempo de la operación |
+| `inwardIssue`  | string | Clave de incidencia de entrada  |
+| `outwardIssue` | string | Clave de incidencia de salida   |
+| `linkType`     | string | Tipo de enlace de incidencia    |
+| `linkId`       | string | ID del enlace creado            |
+
+jira_delete_issue_link [#jira_delete_issue_link]
+
+Eliminar un enlace entre dos incidencias de Jira
+
+Entrada [#entrada-19]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                                  |
+| --------- | ------ | ----------- | -------------------------------------------------------------------------------------------- |
+| `domain`  | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                         |
+| `linkId`  | string | Sí          | ID del enlace de incidencia a eliminar                                                       |
+| `cloudId` | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá utilizando el dominio. |
+
+Salida [#salida-19]
+
+| Parámetro | Tipo   | Descripción                     |
+| --------- | ------ | ------------------------------- |
+| `ts`      | string | Marca de tiempo de la operación |
+| `linkId`  | string | ID del enlace eliminado         |
+
+jira_add_watcher [#jira_add_watcher]
+
+Añadir un observador a una incidencia de Jira para recibir notificaciones sobre actualizaciones
+
+Entrada [#entrada-20]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`  | string | Sí          | Clave de la incidencia de Jira a la que añadir el observador (p. ej., PROJ-123)          |
+| `accountId` | string | Sí          | ID de cuenta del usuario que se añadirá como observador                                  |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-20]
+
+| Parámetro          | Tipo   | Descripción                         |
+| ------------------ | ------ | ----------------------------------- |
+| `ts`               | string | Marca de tiempo de la operación     |
+| `issueKey`         | string | Clave de incidencia                 |
+| `watcherAccountId` | string | ID de cuenta del observador añadido |
+
+jira_remove_watcher [#jira_remove_watcher]
+
+Eliminar un observador de una incidencia de Jira
+
+Entrada [#entrada-21]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------- |
+| `domain`    | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                     |
+| `issueKey`  | string | Sí          | Clave de la incidencia de Jira de la que eliminar el observador (p. ej., PROJ-123)       |
+| `accountId` | string | Sí          | ID de cuenta del usuario que se eliminará como observador                                |
+| `cloudId`   | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio. |
+
+Salida [#salida-21]
+
+| Parámetro          | Tipo   | Descripción                           |
+| ------------------ | ------ | ------------------------------------- |
+| `ts`               | string | Marca de tiempo de la operación       |
+| `issueKey`         | string | Clave de incidencia                   |
+| `watcherAccountId` | string | ID de cuenta del observador eliminado |
+
+jira_get_users [#jira_get_users]
+
+Obtener usuarios de Jira. Si se proporciona un ID de cuenta, devuelve un solo usuario. De lo contrario, devuelve una lista de todos los usuarios.
+
+Entrada [#entrada-22]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                                                  |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------------------------------------ |
+| `domain`     | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                                         |
+| `accountId`  | string | No          | ID de cuenta opcional para obtener un usuario específico. Si no se proporciona, devuelve todos los usuarios. |
+| `startAt`    | number | No          | El índice del primer usuario a devolver (para paginación, predeterminado: 0)                                 |
+| `maxResults` | number | No          | Número máximo de usuarios a devolver (predeterminado: 50)                                                    |
+| `cloudId`    | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.                     |
+
+Salida [#salida-22]
+
+| Parámetro    | Tipo   | Descripción                                                                            |
+| ------------ | ------ | -------------------------------------------------------------------------------------- |
+| `ts`         | string | Marca de tiempo de la operación                                                        |
+| `users`      | json   | Array de usuarios con accountId, displayName, emailAddress, estado activo y avatarUrls |
+| `total`      | number | Número total de usuarios devueltos                                                     |
+| `startAt`    | number | Índice de inicio de paginación                                                         |
+| `maxResults` | number | Máximo de resultados por página                                                        |
+
+Notas [#notas]
+
+* Categoría: `tools`
+* Tipo: `jira`
+
+Entrada [#entrada-23]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                                                  |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------------------------------------ |
+| `domain`     | string | Sí          | Tu dominio de Jira (p. ej., tuempresa.atlassian.net)                                                         |
+| `accountId`  | string | No          | ID de cuenta opcional para obtener un usuario específico. Si no se proporciona, devuelve todos los usuarios. |
+| `startAt`    | number | No          | Índice del primer usuario a devolver (para paginación, predeterminado: 0)                                    |
+| `maxResults` | number | No          | Número máximo de usuarios a devolver (predeterminado: 50)                                                    |
+| `cloudId`    | string | No          | ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio.                     |
+
+Salida [#salida-23]
+
+| Parámetro        | Tipo    | Descripción                                                                   |
+| ---------------- | ------- | ----------------------------------------------------------------------------- |
+| `ts`             | string  | Marca de tiempo ISO 8601 de la operación                                      |
+| `users`          | array   | Array de usuarios de Jira                                                     |
+| ↳ `accountId`    | string  | ID de cuenta de Atlassian del usuario                                         |
+| ↳ `displayName`  | string  | Nombre para mostrar del usuario                                               |
+| ↳ `active`       | boolean | Si la cuenta de usuario está activa                                           |
+| ↳ `emailAddress` | string  | Dirección de correo electrónico del usuario                                   |
+| ↳ `accountType`  | string  | Tipo de cuenta (p. ej., atlassian, app, customer)                             |
+| ↳ `avatarUrl`    | string  | URL del avatar del usuario (48x48)                                            |
+| ↳ `timeZone`     | string  | Zona horaria del usuario                                                      |
+| ↳ `avatarUrls`   | json    | URLs del avatar del usuario en múltiples tamaños (16x16, 24x24, 32x32, 48x48) |
+| ↳ `self`         | string  | URL de la API REST para este usuario                                          |
+| `total`          | number  | Número total de usuarios devueltos                                            |
+| `startAt`        | number  | Índice de inicio de paginación                                                |
+| `maxResults`     | number  | Máximo de resultados por página                                               |
+25:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L2d",null,{"content":"$2e"}]}],"$L2f"]}],"$L30","$L31"]}]
+26:["$","$L32",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L33",null,{"type":"jira","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L34",null,{"href":"https://www.atlassian.com/jira","children":"Jira"}]," es una plataforma líder de gestión de proyectos y seguimiento de incidencias que ayuda a los equipos a planificar, rastrear y gestionar proyectos de desarrollo de software ágil de manera efectiva. Como parte de la suite de Atlassian, Jira se ha convertido en el estándar de la industria para equipos de desarrollo de software y profesionales de gestión de proyectos en todo el mundo."]}],"\n",["$","p",null,{"children":"Jira proporciona un conjunto completo de herramientas para gestionar proyectos complejos a través de su sistema de flujo de trabajo flexible y personalizable. Con su robusta API y capacidades de integración, Jira permite a los equipos optimizar sus procesos de desarrollo y mantener una clara visibilidad del progreso del proyecto."}],"\n",["$","p",null,{"children":"Las características principales de Jira incluyen:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":"Gestión de proyectos ágiles: Soporte para metodologías Scrum y Kanban con tableros y flujos de trabajo personalizables"}],"\n",["$","li",null,{"children":"Seguimiento de incidencias: Sistema sofisticado de seguimiento para errores, historias, épicas y tareas con informes detallados"}],"\n",["$","li",null,{"children":"Automatización de flujos de trabajo: Potentes reglas de automatización para optimizar tareas y procesos repetitivos"}],"\n",["$","li",null,{"children":"Búsqueda avanzada: JQL (Jira Query Language) para filtrado e informes complejos de incidencias"}],"\n"]}],"\n",["$","p",null,{"children":"En Aptlystar, la integración con Jira permite a tus agentes interactuar sin problemas con tu flujo de trabajo de gestión de proyectos. Esto crea oportunidades para la creación, actualización y seguimiento automatizado de incidencias como parte de tus flujos de trabajo de IA. La integración permite a los agentes crear, recuperar y actualizar incidencias de Jira de forma programática, facilitando tareas automatizadas de gestión de proyectos y asegurando que la información importante sea debidamente rastreada y documentada. Al conectar Aptlystar con Jira, puedes construir agentes inteligentes que mantengan la visibilidad del proyecto mientras automatizan tareas rutinarias de gestión de proyectos, mejorando la productividad del equipo y asegurando un seguimiento consistente del proyecto."}],"\n","\n",["$","$L35",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Integra Jira en el flujo de trabajo. Puede leer, escribir y actualizar incidencias. También puede activar flujos de trabajo basados en eventos webhook de Jira."}],"\n",["$","$L35",null,{"as":"h2","id":"herramientas","children":"Herramientas"}],"\n",["$","$L35",null,{"as":"h3","id":"jira_retrieve","children":["$","code",null,{"children":"jira_retrieve"}]}],"\n",["$","p",null,{"children":"Recupera información detallada sobre una incidencia específica de Jira"}],"\n",["$","$L35",null,{"as":"h4","id":"entrada","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"$L36"}],"$L37","$L38","$L39"]}],"$L3a","$L3b"]}]]}]}],"\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7"]}]}]
+27:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+28:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+29:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+2a:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+2b:["$","$Lc8",null,{"children":["$","$c9",null,{"name":"Next.MetadataOutlet","children":"$@ca"}]}]
+2f:["$","$Lcb",null,{"previous":{"$id":"es:tools/jina.mdx","type":"page","name":"Jina","description":"Busca en la web o extrae contenido de URLs","url":"/es/tools/jina","$ref":{"file":"tools/jina.mdx"}},"next":{"$id":"es:tools/knowledge.mdx","type":"page","name":"Conocimiento","description":"Usa búsqueda vectorial","url":"/es/tools/knowledge","$ref":{"file":"tools/knowledge.mdx"}}}]
+30:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 30 30","width":"24","height":"24","focusable":"false","aria-hidden":"true","children":["$","path",null,{"fill":"#1868DB","d":"M11.03 21.99h-2.22c-3.35 0-5.75-2.05-5.75-5.05h11.93c.619 0 1.02.44 1.02 1.06v12.01c-2.98 0-4.98-2.42-4.98-5.78zm5.89-5.97h-2.22c-3.35 0-5.75-2.01-5.75-5.01h11.93c.618 0 1.06.402 1.06 1.02V24.04c-2.98 0-5.02-2.42-5.02-5.78zm5.93-5.93h-2.22c-3.35 0-5.75-2.05-5.75-5.05h11.93c.618 0 1.02.439 1.02 1.02v12.01c-2.98 0-4.98-2.42-4.98-5.78z"}]}]}],["$","$Lcc",null,{"className":"mb-0 min-w-0 flex-1","children":"Jira"}]]}]
+31:["$","$Lcd",null,{"children":"Interactúa con Jira"}]
+36:["$","code",null,{"children":"projectId"}]
+37:["$","td",null,{"children":"string"}]
+38:["$","td",null,{"children":"No"}]
+39:["$","td",null,{"children":"ID del proyecto de Jira (opcional; no es necesario para recuperar una sola incidencia)."}]
+3a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a recuperar (p. ej., PROJ-123)"}]]}]
+3b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]
+3c:["$","$L35",null,{"as":"h4","id":"salida","children":"Salida"}]
+3d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de la incidencia (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resumen de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Contenido de la descripción de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de creación de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de última actualización de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Objeto completo de la incidencia con todos los campos"}]]}]]}]]}]}]
+3e:["$","$L35",null,{"as":"h3","id":"jira_update","children":["$","code",null,{"children":"jira_update"}]}]
+3f:["$","p",null,{"children":"Actualizar una incidencia de Jira"}]
+40:["$","$L35",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del proyecto de Jira para actualizar incidencias. Si no se proporciona, se recuperarán todas las incidencias."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nuevo resumen para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nueva descripción para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nuevo estado para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priority"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nueva prioridad para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nuevo asignado para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+42:["$","$L35",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+43:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de la incidencia actualizada (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resumen de la incidencia después de la actualización"}]]}]]}]]}]}]
+44:["$","$L35",null,{"as":"h3","id":"jira_write","children":["$","code",null,{"children":"jira_write"}]}]
+45:["$","p",null,{"children":"Escribir una incidencia de Jira"}]
+46:["$","$L35",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del proyecto para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Resumen de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Descripción de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priority"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID o nombre de prioridad para la incidencia (p. ej., \"10000\" o \"Alta\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de cuenta del asignado para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de incidencia a crear (p. ej., Tarea, Historia)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Etiquetas para la incidencia (array de nombres de etiquetas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"duedate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Fecha de vencimiento para la incidencia (formato: AAAA-MM-DD)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reporter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de cuenta del informador para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"environment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Información del entorno para la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFieldId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del campo personalizado (p. ej., customfield_10001)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFieldValue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Valor para el campo personalizado"}]]}]]}]]}]}]
+48:["$","$L35",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de la incidencia creada (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"summary"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resumen de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL de la incidencia creada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de cuenta del usuario asignado (si está asignado)"}]]}]]}]]}]}]
+4a:["$","$L35",null,{"as":"h3","id":"jira_bulk_read","children":["$","code",null,{"children":"jira_bulk_read"}]}]
+4b:["$","p",null,{"children":"Recuperar múltiples incidencias de Jira en bloque"}]
+4c:["$","$L35",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del proyecto de Jira"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira cloud"}]]}]]}]]}]}]
+4e:["$","$L35",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de incidencias de Jira con marca de tiempo, resumen, descripción, y marcas de tiempo de creación y actualización"}]]}]}]]}]}]
+50:["$","$L35",null,{"as":"h3","id":"jira_delete_issue","children":["$","code",null,{"children":"jira_delete_issue"}]}]
+51:["$","p",null,{"children":"Eliminar una incidencia de Jira"}]
+52:["$","$L35",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a eliminar (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleteSubtasks"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si se deben eliminar las subtareas. Si es falso, las incidencias principales con subtareas no se pueden eliminar."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+54:["$","$L35",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de la incidencia eliminada"}]]}]]}]]}]}]
+56:["$","$L35",null,{"as":"h3","id":"jira_assign_issue","children":["$","code",null,{"children":"jira_assign_issue"}]}]
+57:["$","p",null,{"children":"Asignar una incidencia de Jira a un usuario"}]
+58:["$","$L35",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a asignar (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de cuenta del usuario al que asignar la incidencia. Usa \"-1\" para asignación automática o null para desasignar."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+5a:["$","$L35",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de la incidencia que fue asignada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de cuenta del asignado"}]]}]]}]]}]}]
+5c:["$","$L35",null,{"as":"h3","id":"jira_transition_issue","children":["$","code",null,{"children":"jira_transition_issue"}]}]
+5d:["$","p",null,{"children":"Mover una incidencia de Jira entre estados de flujo de trabajo (p. ej., Pendiente -> En progreso)"}]
+5e:["$","$L35",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a transicionar (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"transitionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la transición a ejecutar (p. ej., \"11\" para \"Pendiente\", \"21\" para \"En progreso\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comentario opcional para añadir al transicionar la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+60:["$","$L35",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia que fue transicionada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"transitionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de transición aplicada"}]]}]]}]]}]}]
+62:["$","$L35",null,{"as":"h3","id":"jira_search_issues","children":["$","code",null,{"children":"jira_search_issues"}]}]
+63:["$","p",null,{"children":"Buscar incidencias de Jira usando JQL (Jira Query Language)"}]
+64:["$","$L35",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jql"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Cadena de consulta JQL para buscar incidencias (p. ej., \"project = PROJ AND status = Open\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"El índice del primer resultado a devolver (para paginación)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de resultados a devolver (predeterminado: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array de nombres de campos a devolver (predeterminado: ['summary', 'status', 'assignee', 'created', 'updated'])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+66:["$","$L35",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de incidencias coincidentes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Índice de inicio de paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Máximo de resultados por página"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de incidencias coincidentes con clave, resumen, estado, asignado, creado, actualizado"}]]}]]}]]}]}]
+68:["$","$L35",null,{"as":"h3","id":"jira_add_comment","children":["$","code",null,{"children":"jira_add_comment"}]}]
+69:["$","p",null,{"children":"Añadir un comentario a una incidencia de Jira"}]
+6a:["$","$L35",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a la que añadir el comentario (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Texto del cuerpo del comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+6c:["$","$L35",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia a la que se añadió el comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del comentario creado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido de texto del comentario"}]]}]]}]]}]}]
+6e:["$","$L35",null,{"as":"h3","id":"jira_get_comments","children":["$","code",null,{"children":"jira_get_comments"}]}]
+6f:["$","p",null,{"children":"Obtener todos los comentarios de una incidencia de Jira"}]
+70:["$","$L35",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira de la que obtener comentarios (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Índice del primer comentario a devolver (predeterminado: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de comentarios a devolver (predeterminado: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+72:["$","$L35",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de comentarios"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de comentarios con id, autor, cuerpo, creado, actualizado"}]]}]]}]]}]}]
+74:["$","$L35",null,{"as":"h3","id":"jira_update_comment","children":["$","code",null,{"children":"jira_update_comment"}]}]
+75:["$","p",null,{"children":"Actualizar un comentario existente en una incidencia de Jira"}]
+76:["$","$L35",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de incidencia de Jira que contiene el comentario (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del comentario a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Texto actualizado del comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+78:["$","$L35",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del comentario actualizado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Texto actualizado del comentario"}]]}]]}]]}]}]
+7a:["$","$L35",null,{"as":"h3","id":"jira_delete_comment","children":["$","code",null,{"children":"jira_delete_comment"}]}]
+7b:["$","p",null,{"children":"Eliminar un comentario de una incidencia de Jira"}]
+7c:["$","$L35",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de incidencia de Jira que contiene el comentario (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del comentario a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+7e:["$","$L35",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del comentario eliminado"}]]}]]}]]}]}]
+80:["$","$L35",null,{"as":"h3","id":"jira_get_attachments","children":["$","code",null,{"children":"jira_get_attachments"}]}]
+81:["$","p",null,{"children":"Obtener todos los adjuntos de una incidencia de Jira"}]
+82:["$","$L35",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira de la que obtener los adjuntos (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+84:["$","$L35",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de adjuntos con id, nombre de archivo, tamaño, tipo MIME, fecha de creación y autor"}]]}]]}]]}]}]
+86:["$","$L35",null,{"as":"h3","id":"jira_delete_attachment","children":["$","code",null,{"children":"jira_delete_attachment"}]}]
+87:["$","p",null,{"children":"Eliminar un adjunto de una incidencia de Jira"}]
+88:["$","$L35",null,{"as":"h4","id":"entrada-13","children":"Entrada"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachmentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del adjunto a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+8a:["$","$L35",null,{"as":"h4","id":"salida-13","children":"Salida"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachmentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del adjunto eliminado"}]]}]]}]]}]}]
+8c:["$","$L35",null,{"as":"h3","id":"jira_add_worklog","children":["$","code",null,{"children":"jira_add_worklog"}]}]
+8d:["$","p",null,{"children":"Añadir una entrada de registro de trabajo de seguimiento de tiempo a una incidencia de Jira"}]
+8e:["$","$L35",null,{"as":"h4","id":"entrada-14","children":"Entrada"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a la que añadir el registro de trabajo (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeSpentSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tiempo dedicado en segundos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comentario opcional para la entrada del registro de trabajo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"started"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Hora de inicio opcional en formato ISO (por defecto es la hora actual)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+90:["$","$L35",null,{"as":"h4","id":"salida-14","children":"Salida"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia a la que se añadió el registro de trabajo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del registro de trabajo creado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeSpentSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tiempo empleado en segundos"}]]}]]}]]}]}]
+92:["$","$L35",null,{"as":"h3","id":"jira_get_worklogs","children":["$","code",null,{"children":"jira_get_worklogs"}]}]
+93:["$","p",null,{"children":"Obtener todas las entradas de registro de trabajo de una incidencia de Jira"}]
+94:["$","$L35",null,{"as":"h4","id":"entrada-15","children":"Entrada"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira de la que obtener los registros de trabajo (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Índice del primer registro de trabajo a devolver (predeterminado: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de registros de trabajo a devolver (predeterminado: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+96:["$","$L35",null,{"as":"h4","id":"salida-15","children":"Salida"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de registros de trabajo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogs"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros de trabajo con id, autor, segundos empleados, tiempo empleado, comentario, fecha de creación, actualización e inicio"}]]}]]}]]}]}]
+98:["$","$L35",null,{"as":"h3","id":"jira_update_worklog","children":["$","code",null,{"children":"jira_update_worklog"}]}]
+99:["$","p",null,{"children":"Actualizar una entrada existente de registro de trabajo en una incidencia de Jira"}]
+9a:["$","$L35",null,{"as":"h4","id":"entrada-16","children":"Entrada"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de incidencia de Jira que contiene el registro de trabajo (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la entrada de registro de trabajo a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeSpentSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tiempo empleado en segundos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comentario opcional para la entrada de registro de trabajo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"started"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Hora de inicio opcional en formato ISO"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+9c:["$","$L35",null,{"as":"h4","id":"salida-16","children":"Salida"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del registro de trabajo actualizado"}]]}]]}]]}]}]
+9e:["$","$L35",null,{"as":"h3","id":"jira_delete_worklog","children":["$","code",null,{"children":"jira_delete_worklog"}]}]
+9f:["$","p",null,{"children":"Eliminar una entrada de registro de trabajo de una incidencia de Jira"}]
+a0:["$","$L35",null,{"as":"h4","id":"entrada-17","children":"Entrada"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de incidencia de Jira que contiene el registro de trabajo (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la entrada de registro de trabajo a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+a2:["$","$L35",null,{"as":"h4","id":"salida-17","children":"Salida"}]
+a3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"worklogId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del registro de trabajo eliminado"}]]}]]}]]}]}]
+a4:["$","$L35",null,{"as":"h3","id":"jira_create_issue_link","children":["$","code",null,{"children":"jira_create_issue_link"}]}]
+a5:["$","p",null,{"children":"Crear una relación de enlace entre dos incidencias de Jira"}]
+a6:["$","$L35",null,{"as":"h4","id":"entrada-18","children":"Entrada"}]
+a7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inwardIssueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de incidencia de Jira para la incidencia de entrada (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"outwardIssueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de incidencia de Jira para la incidencia de salida (p. ej., PROJ-456)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El tipo de relación de enlace (p. ej., \"Bloquea\", \"Se relaciona con\", \"Duplica\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comentario opcional para añadir al enlace de la incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá utilizando el dominio."}]]}]]}]]}]}]
+a8:["$","$L35",null,{"as":"h4","id":"salida-18","children":"Salida"}]
+a9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inwardIssue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia de entrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"outwardIssue"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia de salida"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Tipo de enlace de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del enlace creado"}]]}]]}]]}]}]
+aa:["$","$L35",null,{"as":"h3","id":"jira_delete_issue_link","children":["$","code",null,{"children":"jira_delete_issue_link"}]}]
+ab:["$","p",null,{"children":"Eliminar un enlace entre dos incidencias de Jira"}]
+ac:["$","$L35",null,{"as":"h4","id":"entrada-19","children":"Entrada"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del enlace de incidencia a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá utilizando el dominio."}]]}]]}]]}]}]
+ae:["$","$L35",null,{"as":"h4","id":"salida-19","children":"Salida"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del enlace eliminado"}]]}]]}]]}]}]
+b0:["$","$L35",null,{"as":"h3","id":"jira_add_watcher","children":["$","code",null,{"children":"jira_add_watcher"}]}]
+b1:["$","p",null,{"children":"Añadir un observador a una incidencia de Jira para recibir notificaciones sobre actualizaciones"}]
+b2:["$","$L35",null,{"as":"h4","id":"entrada-20","children":"Entrada"}]
+b3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira a la que añadir el observador (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de cuenta del usuario que se añadirá como observador"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+b4:["$","$L35",null,{"as":"h4","id":"salida-20","children":"Salida"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"watcherAccountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de cuenta del observador añadido"}]]}]]}]]}]}]
+b6:["$","$L35",null,{"as":"h3","id":"jira_remove_watcher","children":["$","code",null,{"children":"jira_remove_watcher"}]}]
+b7:["$","p",null,{"children":"Eliminar un observador de una incidencia de Jira"}]
+b8:["$","$L35",null,{"as":"h4","id":"entrada-21","children":"Entrada"}]
+b9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave de la incidencia de Jira de la que eliminar el observador (p. ej., PROJ-123)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de cuenta del usuario que se eliminará como observador"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+ba:["$","$L35",null,{"as":"h4","id":"salida-21","children":"Salida"}]
+bb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Clave de incidencia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"watcherAccountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de cuenta del observador eliminado"}]]}]]}]]}]}]
+bc:["$","$L35",null,{"as":"h3","id":"jira_get_users","children":["$","code",null,{"children":"jira_get_users"}]}]
+bd:["$","p",null,{"children":"Obtener usuarios de Jira. Si se proporciona un ID de cuenta, devuelve un solo usuario. De lo contrario, devuelve una lista de todos los usuarios."}]
+be:["$","$L35",null,{"as":"h4","id":"entrada-22","children":"Entrada"}]
+bf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de cuenta opcional para obtener un usuario específico. Si no se proporciona, devuelve todos los usuarios."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"El índice del primer usuario a devolver (para paginación, predeterminado: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de usuarios a devolver (predeterminado: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+c0:["$","$L35",null,{"as":"h4","id":"salida-22","children":"Salida"}]
+c1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de usuarios con accountId, displayName, emailAddress, estado activo y avatarUrls"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de usuarios devueltos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Índice de inicio de paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Máximo de resultados por página"}]]}]]}]]}]}]
+c2:["$","$L35",null,{"as":"h2","id":"notas","children":"Notas"}]
+c3:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Categoría: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Tipo: ",["$","code",null,{"children":"jira"}]]}],"\n"]}]
+c4:["$","$L35",null,{"as":"h4","id":"entrada-23","children":"Entrada"}]
+c5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu dominio de Jira (p. ej., tuempresa.atlassian.net)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de cuenta opcional para obtener un usuario específico. Si no se proporciona, devuelve todos los usuarios."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Índice del primer usuario a devolver (para paginación, predeterminado: 0)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de usuarios a devolver (predeterminado: 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Jira Cloud para la instancia. Si no se proporciona, se obtendrá usando el dominio."}]]}]]}]]}]}]
+c6:["$","$L35",null,{"as":"h4","id":"salida-23","children":"Salida"}]
+c7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo ISO 8601 de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de usuarios de Jira"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"accountId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de cuenta de Atlassian del usuario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre para mostrar del usuario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"active"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la cuenta de usuario está activa"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"emailAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dirección de correo electrónico del usuario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"accountType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Tipo de cuenta (p. ej., atlassian, app, customer)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatarUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL del avatar del usuario (48x48)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Zona horaria del usuario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatarUrls"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"URLs del avatar del usuario en múltiples tamaños (16x16, 24x24, 32x32, 48x48)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"self"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL de la API REST para este usuario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de usuarios devueltos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startAt"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Índice de inicio de paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxResults"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Máximo de resultados por página"}]]}]]}]]}]}]
+ca:null

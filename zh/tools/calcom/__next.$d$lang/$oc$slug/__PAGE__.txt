@@ -1,0 +1,1025 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+1a:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+1f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+20:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+21:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+22:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+ad:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+ae:"$Sreact.suspense"
+b0:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+b1:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+b2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Cal Com\",\"description\":\"管理 Cal.com 预订、事件类型、日程安排和可用性\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/calcom\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/calcom\"},\"inLanguage\":\"zh\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/calcom\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cal Com\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/zh/tools/calcom\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#使用说明","title":"使用说明"},{"depth":2,"url":"#工具","title":"工具"},{"depth":3,"url":"#calcom_create_booking","title":["$","code",null,{"children":"calcom_create_booking"}]},{"depth":4,"url":"#输入","title":"输入"},{"depth":4,"url":"#输出","title":"输出"},{"depth":3,"url":"#calcom_get_booking","title":["$","code",null,{"children":"calcom_get_booking"}]},{"depth":4,"url":"#输入-1","title":"输入"},{"depth":4,"url":"#输出-1","title":"输出"},{"depth":3,"url":"#calcom_list_bookings","title":["$","code",null,{"children":"calcom_list_bookings"}]},{"depth":4,"url":"#输入-2","title":"输入"},{"depth":4,"url":"#输出-2","title":"输出"},{"depth":3,"url":"#calcom_cancel_booking","title":["$","code",null,{"children":"calcom_cancel_booking"}]},{"depth":4,"url":"#输入-3","title":"输入"},{"depth":4,"url":"#输出-3","title":"输出"},{"depth":3,"url":"#calcom_reschedule_booking","title":["$","code",null,{"children":"calcom_reschedule_booking"}]},{"depth":4,"url":"#输入-4","title":"输入"},{"depth":4,"url":"#输出-4","title":"输出"},{"depth":3,"url":"#calcom_confirm_booking","title":["$","code",null,{"children":"calcom_confirm_booking"}]},{"depth":4,"url":"#输入-5","title":"输入"},{"depth":4,"url":"#输出-5","title":"输出"},{"depth":3,"url":"#calcom_decline_booking","title":["$","code",null,{"children":"calcom_decline_booking"}]},{"depth":4,"url":"#输入-6","title":"输入"},{"depth":4,"url":"#输出-6","title":"输出"},{"depth":3,"url":"#calcom_create_event_type","title":["$","code",null,{"children":"calcom_create_event_type"}]},{"depth":4,"url":"#输入-7","title":"输入"},{"depth":4,"url":"#输出-7","title":"输出"},{"depth":3,"url":"#calcom_get_event_type","title":["$","code",null,{"children":"calcom_get_event_type"}]},{"depth":4,"url":"#输入-8","title":"输入"},{"depth":4,"url":"#输出-8","title":"输出"},{"depth":3,"url":"#calcom_list_event_types","title":["$","code",null,{"children":"calcom_list_event_types"}]},{"depth":4,"url":"#输入-9","title":"输入"},{"depth":4,"url":"#输出-9","title":"输出"},{"depth":3,"url":"#calcom_update_event_type","title":["$","code",null,{"children":"calcom_update_event_type"}]},{"depth":4,"url":"#输入-10","title":"输入"},{"depth":4,"url":"#输出-10","title":"输出"},{"depth":3,"url":"#calcom_delete_event_type","title":["$","code",null,{"children":"calcom_delete_event_type"}]},{"depth":4,"url":"#输入-11","title":"输入"},{"depth":4,"url":"#输出-11","title":"输出"},{"depth":3,"url":"#calcom_create_schedule","title":["$","code",null,{"children":"calcom_create_schedule"}]},{"depth":4,"url":"#输入-12","title":"输入"},{"depth":4,"url":"#输出-12","title":"输出"},{"depth":3,"url":"#calcom_get_schedule","title":["$","code",null,{"children":"calcom_get_schedule"}]},{"depth":4,"url":"#输入-13","title":"输入"},{"depth":4,"url":"#输出-13","title":"输出"},{"depth":3,"url":"#calcom_list_schedules","title":"$L3"},{"depth":4,"url":"#输入-14","title":"$L4"},{"depth":4,"url":"#输出-14","title":"$L5"},{"depth":3,"url":"#calcom_update_schedule","title":"$L6"},{"depth":4,"url":"#输入-15","title":"$L7"},{"depth":4,"url":"#输出-15","title":"$L8"},{"depth":3,"url":"#calcom_delete_schedule","title":"$L9"},{"depth":4,"url":"#输入-16","title":"$La"},{"depth":4,"url":"#输出-16","title":"$Lb"},{"depth":3,"url":"#calcom_get_default_schedule","title":"$Lc"},{"depth":4,"url":"#输入-17","title":"$Ld"},{"depth":4,"url":"#输出-17","title":"$Le"},{"depth":3,"url":"#calcom_get_slots","title":"$Lf"},{"depth":4,"url":"#输入-18","title":"$L10"},{"depth":4,"url":"#输出-18","title":"$L11"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L12"},"children":["$L13","$L14"]}]],["$L15","$L16","$L17","$L18"],"$L19"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"calcom_list_schedules"}]
+4:"输入"
+5:"输出"
+6:["$","code",null,{"children":"calcom_update_schedule"}]
+7:"输入"
+8:"输出"
+9:["$","code",null,{"children":"calcom_delete_schedule"}]
+a:"输入"
+b:"输出"
+c:["$","code",null,{"children":"calcom_get_default_schedule"}]
+d:"输入"
+e:"输出"
+f:["$","code",null,{"children":"calcom_get_slots"}]
+10:"输入"
+11:"输出"
+12:null
+1b:Tc329,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="calcom" color="#FFFFFE" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Cal.com](https://cal.com/) 是一个灵活的日程安排平台，可帮助您轻松管理预约、预订、事件类型和团队可用时间。
+
+使用 Cal.com，您可以：
+
+* **自动化日程安排**：让用户查看您的可用时间段并自动预订会议，无需来回邮件沟通。
+* **管理事件**：创建并自定义事件类型、时长和规则，支持一对一或群组会议。
+* **集成日历**：无缝连接 Google、Outlook、Apple 或其他日历服务，避免重复预订。
+* **管理参与者和嘉宾**：收集参与者信息，管理嘉宾，并发送邀请或提醒。
+* **控制可用性**：自定义工作时间、缓冲时间以及取消/重新预订规则。
+* **驱动工作流**：通过 webhook 在预订创建、取消或重新安排时触发自定义操作。
+
+在 Aptlystar 中，Cal.com 集成让您的代理可以预订会议、检查可用时间、管理事件类型，并以编程方式自动化日程安排任务。这有助于代理协调会议、代表用户发送预订、检查日程或响应预订事件——无需人工干预。将 Aptlystar 与 Cal.com 连接后，您可以实现高度自动化和智能化的日程安排工作流，并可无缝集成到更广泛的自动化需求中。
+
+{/* MANUAL-CONTENT-END */}
+
+使用说明 [#使用说明]
+
+将 Cal.com 集成到您的工作流中。创建和管理预订、事件类型、日程安排，并检查可用时间段。支持创建、列出、重新安排和取消预订，以及管理事件类型和日程安排。还可基于 Cal.com webhook 事件（预订创建、取消、重新安排）触发工作流。通过 OAuth 连接您的 Cal.com 账户。
+
+工具 [#工具]
+
+calcom_create_booking [#calcom_create_booking]
+
+在 Cal.com 上创建新的预订
+
+输入 [#输入]
+
+| 参数                | 类型     | 必填 | 说明                                            |
+| ----------------- | ------ | -- | --------------------------------------------- |
+| `eventTypeId`     | number | 是  | 要预订的事件类型 ID                                   |
+| `start`           | string | 是  | UTC ISO 8601 格式的开始时间（例如，2024-01-15T09:00:00Z） |
+| `attendee`        | object | 是  | 参会者信息对象，包含姓名、邮箱、时区和可选的手机号（由单独的参会者字段构建）        |
+| `guests`          | array  | 否  | 嘉宾邮箱地址数组                                      |
+| `items`           | string | 否  | 嘉宾邮箱地址                                        |
+| `lengthInMinutes` | number | 否  | 预订时长（分钟），会覆盖事件类型默认值                           |
+| `metadata`        | object | 否  | 附加到预订的自定义元数据                                  |
+
+输出 [#输出]
+
+| 参数                         | 类型      | 说明                                 |
+| -------------------------- | ------- | ---------------------------------- |
+| `status`                   | string  | 响应状态                               |
+| `data`                     | object  | 已创建的预订详情                           |
+| ↳ `eventType`              | object  | 事件类型详情                             |
+| ↳ `id`                     | number  | 事件类型 ID                            |
+| ↳ `slug`                   | string  | 事件类型 slug                          |
+| ↳ `attendees`              | array   | 参会者列表                              |
+| ↳ `name`                   | string  | 参会者姓名                              |
+| ↳ `email`                  | string  | 参会者实际邮箱地址                          |
+| ↳ `displayEmail`           | string  | 公开显示的邮箱（可能与实际邮箱不同）                 |
+| ↳ `timeZone`               | string  | 参会者时区（IANA 格式）                     |
+| ↳ `phoneNumber`            | string  | 参会者手机号                             |
+| ↳ `language`               | string  | 参会者语言偏好（ISO 代码）                    |
+| ↳ `absent`                 | boolean | 参会者是否缺席                            |
+| ↳ `hosts`                  | array   | 主持人列表                              |
+| ↳ `id`                     | number  | 主持人用户 ID                           |
+| ↳ `name`                   | string  | 主持人显示名称                            |
+| ↳ `email`                  | string  | 主持人实际邮箱地址                          |
+| ↳ `displayEmail`           | string  | 公开显示的邮箱（可能与实际邮箱不同）                 |
+| ↳ `username`               | string  | 主持人 Cal.com 用户名                    |
+| ↳ `timeZone`               | string  | 主持人时区（IANA 格式）                     |
+| ↳ `id`                     | number  | 预订的数字 ID                           |
+| ↳ `uid`                    | string  | 预订唯一标识符                            |
+| ↳ `title`                  | string  | 预订标题                               |
+| ↳ `status`                 | string  | 预订状态（如 accepted、pending、cancelled） |
+| ↳ `start`                  | string  | ISO 8601 格式的开始时间                   |
+| ↳ `end`                    | string  | 结束时间                               |
+| ↳ `duration`               | number  | 时长（分钟）                             |
+| ↳ `eventTypeId`            | number  | 事件类型 ID                            |
+| ↳ `meetingUrl`             | string  | 会议加入链接                             |
+| ↳ `location`               | string  | 预订地点                               |
+| ↳ `absentHost`             | boolean | 主持人是否缺席                            |
+| ↳ `guests`                 | array   | 嘉宾邮箱地址                             |
+| ↳ `bookingFieldsResponses` | json    | 自定义预订字段响应（根据事件类型配置动态生成的键）          |
+| ↳ `metadata`               | json    | 附加到预订的自定义元数据（动态键值对）                |
+| ↳ `icsUid`                 | string  | ICS 日历 UID                         |
+| ↳ `createdAt`              | string  | 预订创建时间                             |
+
+calcom_get_booking [#calcom_get_booking]
+
+通过其 UID 获取特定预订的详细信息
+
+输入 [#输入-1]
+
+| 参数           | 类型     | 必填 | 说明            |
+| ------------ | ------ | -- | ------------- |
+| `bookingUid` | string | 是  | 预订的唯一标识符（UID） |
+
+输出 [#输出-1]
+
+| 参数                         | 类型      | 说明                        |
+| -------------------------- | ------- | ------------------------- |
+| `status`                   | string  | 响应状态                      |
+| `data`                     | object  | 预订详情                      |
+| ↳ `eventType`              | object  | 活动类型详情                    |
+| ↳ `id`                     | number  | 活动类型 ID                   |
+| ↳ `slug`                   | string  | 活动类型 slug                 |
+| ↳ `attendees`              | array   | 参与者列表                     |
+| ↳ `name`                   | string  | 参与者姓名                     |
+| ↳ `email`                  | string  | 参与者实际邮箱地址                 |
+| ↳ `displayEmail`           | string  | 公开显示的邮箱（可能与实际邮箱不同）        |
+| ↳ `timeZone`               | string  | 参与者时区（IANA 格式）            |
+| ↳ `phoneNumber`            | string  | 参与者电话号码                   |
+| ↳ `language`               | string  | 参与者语言偏好（ISO 代码）           |
+| ↳ `absent`                 | boolean | 参与者是否缺席                   |
+| ↳ `hosts`                  | array   | 主持人列表                     |
+| ↳ `id`                     | number  | 主持人用户 ID                  |
+| ↳ `name`                   | string  | 主持人显示名称                   |
+| ↳ `email`                  | string  | 主持人实际邮箱地址                 |
+| ↳ `displayEmail`           | string  | 公开显示的邮箱（可能与实际邮箱不同）        |
+| ↳ `username`               | string  | 主持人 Cal.com 用户名           |
+| ↳ `timeZone`               | string  | 主持人时区（IANA 格式）            |
+| ↳ `id`                     | number  | 预订数字 ID                   |
+| ↳ `uid`                    | string  | 预订唯一标识符                   |
+| ↳ `title`                  | string  | 预订标题                      |
+| ↳ `description`            | string  | 预订描述                      |
+| ↳ `status`                 | string  | 预订状态（如已接受、待定、已取消）         |
+| ↳ `start`                  | string  | 开始时间（ISO 8601 格式）         |
+| ↳ `end`                    | string  | 结束时间（ISO 8601 格式）         |
+| ↳ `duration`               | number  | 持续时间（分钟）                  |
+| ↳ `eventTypeId`            | number  | 活动类型 ID                   |
+| ↳ `meetingUrl`             | string  | 会议加入 URL                  |
+| ↳ `location`               | string  | 预订地点                      |
+| ↳ `absentHost`             | boolean | 主持人是否缺席                   |
+| ↳ `guests`                 | array   | 嘉宾邮箱地址                    |
+| ↳ `bookingFieldsResponses` | json    | 自定义预订字段响应（根据活动类型配置动态生成的键） |
+| ↳ `metadata`               | json    | 预订附加的自定义元数据（动态键值对）        |
+| ↳ `rating`                 | number  | 预订评分                      |
+| ↳ `icsUid`                 | string  | ICS 日历 UID                |
+| ↳ `cancellationReason`     | string  | 取消原因（如已取消）                |
+| ↳ `reschedulingReason`     | string  | 改期原因（如已改期）                |
+| ↳ `rescheduledFromUid`     | string  | 如果本次预订为改期，则为原预订 UID       |
+| ↳ `rescheduledToUid`       | string  | 改期后的新预订 UID               |
+| ↳ `cancelledByEmail`       | string  | 取消预订者邮箱                   |
+| ↳ `rescheduledByEmail`     | string  | 改期预订者邮箱                   |
+| ↳ `createdAt`              | string  | 预订创建时间                    |
+| ↳ `updatedAt`              | string  | 预订最后更新时间                  |
+
+calcom_list_bookings [#calcom_list_bookings]
+
+列出所有预订，可选状态筛选
+
+输入 [#输入-2]
+
+| 参数       | 类型     | 必填 | 说明                                                      |
+| -------- | ------ | -- | ------------------------------------------------------- |
+| `status` | string | 否  | 按状态筛选预订：upcoming、recurring、past、cancelled 或 unconfirmed |
+| `take`   | number | 否  | 返回的预订数量（分页限制）                                           |
+| `skip`   | number | 否  | 跳过的预订数量（分页偏移量）                                          |
+
+输出 [#输出-2]
+
+| 参数                         | 类型      | 说明                                 |
+| -------------------------- | ------- | ---------------------------------- |
+| `status`                   | string  | 响应状态                               |
+| `data`                     | array   | 预订数组                               |
+| ↳ `eventType`              | object  | 活动类型详情                             |
+| ↳ `id`                     | number  | 活动类型 ID                            |
+| ↳ `slug`                   | string  | 活动类型 slug                          |
+| ↳ `attendees`              | array   | 参与者列表                              |
+| ↳ `name`                   | string  | 参与者姓名                              |
+| ↳ `email`                  | string  | 参与者实际邮箱地址                          |
+| ↳ `displayEmail`           | string  | 公开显示的邮箱（可能与实际邮箱不同）                 |
+| ↳ `timeZone`               | string  | 参与者时区（IANA 格式）                     |
+| ↳ `phoneNumber`            | string  | 参与者电话号码                            |
+| ↳ `language`               | string  | 参与者语言偏好（ISO 代码）                    |
+| ↳ `absent`                 | boolean | 参与者是否缺席                            |
+| ↳ `hosts`                  | array   | 主持人列表                              |
+| ↳ `id`                     | number  | 主持人用户 ID                           |
+| ↳ `name`                   | string  | 主持人显示名称                            |
+| ↳ `email`                  | string  | 主持人实际邮箱地址                          |
+| ↳ `displayEmail`           | string  | 公开显示的邮箱（可能与实际邮箱不同）                 |
+| ↳ `username`               | string  | 主持人 Cal.com 用户名                    |
+| ↳ `timeZone`               | string  | 主持人时区（IANA 格式）                     |
+| ↳ `id`                     | number  | 预订的数字 ID                           |
+| ↳ `uid`                    | string  | 预订的唯一标识符                           |
+| ↳ `title`                  | string  | 预订标题                               |
+| ↳ `description`            | string  | 预订描述                               |
+| ↳ `status`                 | string  | 预订状态（如 accepted、pending、cancelled） |
+| ↳ `start`                  | string  | 开始时间（ISO 8601 格式）                  |
+| ↳ `end`                    | string  | 结束时间（ISO 8601 格式）                  |
+| ↳ `duration`               | number  | 持续时间（分钟）                           |
+| ↳ `eventTypeId`            | number  | 活动类型 ID                            |
+| ↳ `meetingUrl`             | string  | 会议加入链接                             |
+| ↳ `location`               | string  | 预订地点                               |
+| ↳ `absentHost`             | boolean | 主持人是否缺席                            |
+| ↳ `guests`                 | array   | 嘉宾邮箱地址                             |
+| ↳ `bookingFieldsResponses` | json    | 预订自定义字段响应（根据活动类型配置动态生成的键）          |
+| ↳ `metadata`               | json    | 预订附加的自定义元数据（动态键值对）                 |
+| ↳ `rating`                 | number  | 预订评分                               |
+| ↳ `icsUid`                 | string  | ICS 日历 UID                         |
+| ↳ `cancellationReason`     | string  | 取消原因（如已取消）                         |
+| ↳ `cancelledByEmail`       | string  | 取消预订者邮箱                            |
+| ↳ `reschedulingReason`     | string  | 改期原因（如已改期）                         |
+| ↳ `rescheduledByEmail`     | string  | 改期者邮箱                              |
+| ↳ `rescheduledFromUid`     | string  | 如果本次预订为改期，原预订 UID                  |
+| ↳ `rescheduledToUid`       | string  | 改期后新预订 UID                         |
+| ↳ `createdAt`              | string  | 预订创建时间                             |
+| ↳ `updatedAt`              | string  | 预订最后更新时间                           |
+| `pagination`               | object  | 分页元数据                              |
+| ↳ `totalItems`             | number  | 条目总数                               |
+| ↳ `remainingItems`         | number  | 当前页后剩余条目数                          |
+| ↳ `returnedItems`          | number  | 本次响应返回的条目数                         |
+| ↳ `itemsPerPage`           | number  | 每页条目数                              |
+| ↳ `currentPage`            | number  | 当前页码                               |
+| ↳ `totalPages`             | number  | 总页数                                |
+| ↳ `hasNextPage`            | boolean | 是否有下一页                             |
+| ↳ `hasPreviousPage`        | boolean | 是否有上一页                             |
+
+calcom_cancel_booking [#calcom_cancel_booking]
+
+取消已有预订
+
+输入 [#输入-3]
+
+| 参数                   | 类型     | 必填 | 说明               |
+| -------------------- | ------ | -- | ---------------- |
+| `bookingUid`         | string | 是  | 要取消的预订唯一标识符（UID） |
+| `cancellationReason` | string | 否  | 取消预订的原因          |
+
+输出 [#输出-3]
+
+| 参数                     | 类型      | 说明                   |
+| ---------------------- | ------- | -------------------- |
+| `status`               | string  | 响应状态                 |
+| `data`                 | object  | 已取消预订的详细信息           |
+| ↳ `eventType`          | object  | 事件类型详情               |
+| ↳ `id`                 | number  | 事件类型 ID              |
+| ↳ `slug`               | string  | 事件类型 slug            |
+| ↳ `attendees`          | array   | 参与者列表                |
+| ↳ `name`               | string  | 参与者姓名                |
+| ↳ `email`              | string  | 参与者实际邮箱地址            |
+| ↳ `displayEmail`       | string  | 公开显示的邮箱（可能与实际邮箱不同）   |
+| ↳ `timeZone`           | string  | 参与者时区（IANA 格式）       |
+| ↳ `phoneNumber`        | string  | 参与者电话号码              |
+| ↳ `language`           | string  | 参与者语言偏好（ISO 代码）      |
+| ↳ `absent`             | boolean | 参与者是否缺席              |
+| ↳ `hosts`              | array   | 主持人列表                |
+| ↳ `id`                 | number  | 主持人用户 ID             |
+| ↳ `name`               | string  | 主持人显示名称              |
+| ↳ `email`              | string  | 主持人实际邮箱地址            |
+| ↳ `displayEmail`       | string  | 公开显示的邮箱（可能与实际邮箱不同）   |
+| ↳ `username`           | string  | 主持人 Cal.com 用户名      |
+| ↳ `timeZone`           | string  | 主持人时区（IANA 格式）       |
+| ↳ `id`                 | number  | 预订数字 ID              |
+| ↳ `uid`                | string  | 预订唯一标识符              |
+| ↳ `title`              | string  | 预订标题                 |
+| ↳ `cancellationReason` | string  | 如果已取消，取消原因           |
+| ↳ `cancelledByEmail`   | string  | 取消预订者的邮箱             |
+| ↳ `start`              | string  | 开始时间（ISO 8601 格式）    |
+| ↳ `end`                | string  | 结束时间（ISO 8601 格式）    |
+| ↳ `duration`           | number  | 持续时间（分钟）             |
+| ↳ `eventTypeId`        | number  | 事件类型 ID              |
+| ↳ `location`           | string  | 预订地点                 |
+| ↳ `metadata`           | json    | 附加在预订上的自定义元数据（动态键值对） |
+| ↳ `createdAt`          | string  | 预订创建时间               |
+| ↳ `status`             | string  | 预订状态（应为已取消）          |
+
+calcom_reschedule_booking [#calcom_reschedule_booking]
+
+将现有预订重新安排到新的时间
+
+输入 [#输入-4]
+
+| 参数                   | 类型     | 必填 | 说明                                                 |
+| -------------------- | ------ | -- | -------------------------------------------------- |
+| `bookingUid`         | string | 是  | 要重新安排的预订唯一标识符（UID）                                 |
+| `start`              | string | 是  | 新的开始时间，采用 UTC ISO 8601 格式（例如，2024-01-15T09:00:00Z） |
+| `reschedulingReason` | string | 否  | 重新安排预订的原因                                          |
+
+输出 [#输出-4]
+
+| 参数                     | 类型      | 说明                    |
+| ---------------------- | ------- | --------------------- |
+| `status`               | string  | 响应状态                  |
+| `data`                 | object  | 已重新安排的预订详情            |
+| ↳ `eventType`          | object  | 事件类型详情                |
+| ↳ `id`                 | number  | 事件类型 ID               |
+| ↳ `slug`               | string  | 事件类型 slug             |
+| ↳ `attendees`          | array   | 参与者列表                 |
+| ↳ `name`               | string  | 参与者姓名                 |
+| ↳ `email`              | string  | 参与者实际邮箱地址             |
+| ↳ `displayEmail`       | string  | 公开显示的邮箱（可能与实际邮箱不同）    |
+| ↳ `timeZone`           | string  | 参与者时区（IANA 格式）        |
+| ↳ `phoneNumber`        | string  | 参与者电话号码               |
+| ↳ `language`           | string  | 参与者语言偏好（ISO 代码）       |
+| ↳ `absent`             | boolean | 参与者是否缺席               |
+| ↳ `hosts`              | array   | 主持人列表                 |
+| ↳ `id`                 | number  | 主持人用户 ID              |
+| ↳ `name`               | string  | 主持人显示名称               |
+| ↳ `email`              | string  | 主持人实际邮箱地址             |
+| ↳ `displayEmail`       | string  | 公开显示的邮箱（可能与实际邮箱不同）    |
+| ↳ `username`           | string  | 主持人 Cal.com 用户名       |
+| ↳ `timeZone`           | string  | 主持人时区（IANA 格式）        |
+| ↳ `id`                 | number  | 预订的数字 ID              |
+| ↳ `title`              | string  | 预订标题                  |
+| ↳ `status`             | string  | 预订状态（如已接受、待定、已取消）     |
+| ↳ `reschedulingReason` | string  | 如果已重新安排，重新安排的原因       |
+| ↳ `rescheduledFromUid` | string  | 如果此预订已重新安排，则为原始预订 UID |
+| ↳ `rescheduledByEmail` | string  | 重新安排预订的人员邮箱           |
+| ↳ `duration`           | number  | 持续时间（分钟）              |
+| ↳ `eventTypeId`        | number  | 事件类型 ID               |
+| ↳ `meetingUrl`         | string  | 会议加入链接                |
+| ↳ `location`           | string  | 预订地点                  |
+| ↳ `guests`             | array   | 嘉宾邮箱地址                |
+| ↳ `metadata`           | json    | 附加在预订上的自定义元数据（动态键值对）  |
+| ↳ `icsUid`             | string  | ICS 日历 UID            |
+| ↳ `createdAt`          | string  | 预订创建时间                |
+| ↳ `uid`                | string  | 新预订的唯一标识符             |
+| ↳ `start`              | string  | 新的开始时间（ISO 8601 格式）   |
+| ↳ `end`                | string  | 新的结束时间（ISO 8601 格式）   |
+
+calcom_confirm_booking [#calcom_confirm_booking]
+
+确认需要确认的待处理预订
+
+输入 [#输入-5]
+
+| 参数           | 类型     | 必填 | 说明               |
+| ------------ | ------ | -- | ---------------- |
+| `bookingUid` | string | 是  | 要确认的预订唯一标识符（UID） |
+
+输出 [#输出-5]
+
+| 参数               | 类型      | 说明                          |
+| ---------------- | ------- | --------------------------- |
+| `status`         | string  | 响应状态                        |
+| `data`           | object  | 已确认预订详情                     |
+| ↳ `eventType`    | object  | 活动类型详情                      |
+| ↳ `id`           | number  | 活动类型 ID                     |
+| ↳ `slug`         | string  | 活动类型 slug                   |
+| ↳ `attendees`    | array   | 参与者列表                       |
+| ↳ `name`         | string  | 参与者姓名                       |
+| ↳ `email`        | string  | 参与者实际邮箱地址                   |
+| ↳ `displayEmail` | string  | 公开显示的邮箱（可能与实际邮箱不同）          |
+| ↳ `timeZone`     | string  | 参与者时区（IANA 格式）              |
+| ↳ `phoneNumber`  | string  | 参与者电话号码                     |
+| ↳ `language`     | string  | 参与者语言偏好（ISO 代码）             |
+| ↳ `absent`       | boolean | 参与者是否缺席                     |
+| ↳ `hosts`        | array   | 主持人列表                       |
+| ↳ `id`           | number  | 主持人用户 ID                    |
+| ↳ `name`         | string  | 主持人显示名称                     |
+| ↳ `email`        | string  | 主持人实际邮箱地址                   |
+| ↳ `displayEmail` | string  | 公开显示的邮箱（可能与实际邮箱不同）          |
+| ↳ `username`     | string  | 主持人 Cal.com 用户名             |
+| ↳ `timeZone`     | string  | 主持人时区（IANA 格式）              |
+| ↳ `id`           | number  | 预订数字 ID                     |
+| ↳ `uid`          | string  | 预订唯一标识符                     |
+| ↳ `title`        | string  | 预订标题                        |
+| ↳ `start`        | string  | 开始时间（ISO 8601 格式）           |
+| ↳ `end`          | string  | 结束时间（ISO 8601 格式）           |
+| ↳ `duration`     | number  | 持续时间（分钟）                    |
+| ↳ `eventTypeId`  | number  | 活动类型 ID                     |
+| ↳ `meetingUrl`   | string  | 会议加入链接                      |
+| ↳ `location`     | string  | 预订地点                        |
+| ↳ `guests`       | array   | 嘉宾邮箱地址                      |
+| ↳ `metadata`     | json    | 附加在预订上的自定义元数据（动态键值对）        |
+| ↳ `icsUid`       | string  | ICS 日历 UID                  |
+| ↳ `createdAt`    | string  | 预订创建时间                      |
+| ↳ `status`       | string  | 预订状态（应为 accepted/confirmed） |
+
+calcom_decline_booking [#calcom_decline_booking]
+
+拒绝待处理的预订请求
+
+输入 [#输入-6]
+
+| 参数           | 类型     | 必填 | 说明               |
+| ------------ | ------ | -- | ---------------- |
+| `bookingUid` | string | 是  | 要拒绝的预订唯一标识符（UID） |
+| `reason`     | string | 否  | 拒绝预订的原因          |
+
+输出 [#输出-6]
+
+| 参数                     | 类型      | 说明                   |
+| ---------------------- | ------- | -------------------- |
+| `status`               | string  | 响应状态                 |
+| `data`                 | object  | 被拒绝的预订详情             |
+| ↳ `eventType`          | object  | 事件类型详情               |
+| ↳ `id`                 | number  | 事件类型 ID              |
+| ↳ `slug`               | string  | 事件类型 slug            |
+| ↳ `attendees`          | array   | 参与者列表                |
+| ↳ `name`               | string  | 参与者姓名                |
+| ↳ `email`              | string  | 参与者实际邮箱地址            |
+| ↳ `displayEmail`       | string  | 公开显示的邮箱（可能与实际邮箱不同）   |
+| ↳ `timeZone`           | string  | 参与者时区（IANA 格式）       |
+| ↳ `phoneNumber`        | string  | 参与者电话号码              |
+| ↳ `language`           | string  | 参与者语言偏好（ISO 代码）      |
+| ↳ `absent`             | boolean | 参与者是否缺席              |
+| ↳ `hosts`              | array   | 主持人列表                |
+| ↳ `id`                 | number  | 主持人用户 ID             |
+| ↳ `name`               | string  | 主持人显示名称              |
+| ↳ `email`              | string  | 主持人实际邮箱地址            |
+| ↳ `displayEmail`       | string  | 公开显示的邮箱（可能与实际邮箱不同）   |
+| ↳ `username`           | string  | 主持人 Cal.com 用户名      |
+| ↳ `timeZone`           | string  | 主持人时区（IANA 格式）       |
+| ↳ `id`                 | number  | 预订的数字 ID             |
+| ↳ `uid`                | string  | 预订的唯一标识符             |
+| ↳ `title`              | string  | 预订标题                 |
+| ↳ `cancellationReason` | string  | 如已取消，取消原因            |
+| ↳ `start`              | string  | 开始时间（ISO 8601 格式）    |
+| ↳ `end`                | string  | 结束时间（ISO 8601 格式）    |
+| ↳ `duration`           | number  | 持续时间（分钟）             |
+| ↳ `eventTypeId`        | number  | 事件类型 ID              |
+| ↳ `location`           | string  | 预订地点                 |
+| ↳ `metadata`           | json    | 附加在预订上的自定义元数据（动态键值对） |
+| ↳ `createdAt`          | string  | 预订创建时间               |
+| ↳ `status`             | string  | 预订状态（应为已取消/已拒绝）      |
+
+calcom_create_event_type [#calcom_create_event_type]
+
+在 Cal.com 中创建一个新的事件类型
+
+输入 [#输入-7]
+
+| 参数                     | 类型      | 必填 | 说明                |
+| ---------------------- | ------- | -- | ----------------- |
+| `title`                | string  | 是  | 事件类型的标题           |
+| `slug`                 | string  | 是  | 事件类型 URL 的唯一 slug |
+| `lengthInMinutes`      | number  | 是  | 事件时长（分钟）          |
+| `description`          | string  | 否  | 事件类型描述            |
+| `slotInterval`         | number  | 否  | 可预订时段之间的间隔（分钟）    |
+| `minimumBookingNotice` | number  | 否  | 预订前所需的最短通知时间（分钟）  |
+| `beforeEventBuffer`    | number  | 否  | 事件开始前的缓冲时间（分钟）    |
+| `afterEventBuffer`     | number  | 否  | 事件结束后的缓冲时间（分钟）    |
+| `scheduleId`           | number  | 否  | 用于可用性的日程 ID       |
+| `disableGuests`        | boolean | 否  | 是否禁止向预订中添加嘉宾      |
+
+输出 [#输出-7]
+
+| 参数                       | 类型      | 说明              |
+| ------------------------ | ------- | --------------- |
+| `status`                 | string  | 响应状态            |
+| `data`                   | object  | 已创建的事件类型详情      |
+| ↳ `id`                   | number  | 事件类型 ID         |
+| ↳ `title`                | string  | 事件类型标题          |
+| ↳ `slug`                 | string  | 事件类型 slug       |
+| ↳ `description`          | string  | 事件类型描述          |
+| ↳ `lengthInMinutes`      | number  | 时长（分钟）          |
+| ↳ `slotInterval`         | number  | 时段间隔（分钟）        |
+| ↳ `minimumBookingNotice` | number  | 最短预订通知时间（分钟）    |
+| ↳ `beforeEventBuffer`    | number  | 事件前缓冲时间（分钟）     |
+| ↳ `afterEventBuffer`     | number  | 事件后缓冲时间（分钟）     |
+| ↳ `scheduleId`           | number  | 日程 ID           |
+| ↳ `disableGuests`        | boolean | 是否禁用嘉宾          |
+| ↳ `createdAt`            | string  | 创建时的 ISO 时间戳    |
+| ↳ `updatedAt`            | string  | 最后更新时间的 ISO 时间戳 |
+
+calcom_get_event_type [#calcom_get_event_type]
+
+获取特定事件类型的详细信息
+
+输入 [#输入-8]
+
+| 参数            | 类型     | 必填 | 说明          |
+| ------------- | ------ | -- | ----------- |
+| `eventTypeId` | number | 是  | 要检索的事件类型 ID |
+
+输出 [#输出-8]
+
+| 参数                       | 类型      | 说明              |
+| ------------------------ | ------- | --------------- |
+| `status`                 | string  | 响应状态            |
+| `data`                   | object  | 事件类型详情          |
+| ↳ `id`                   | number  | 事件类型 ID         |
+| ↳ `title`                | string  | 事件类型标题          |
+| ↳ `slug`                 | string  | 事件类型 slug       |
+| ↳ `description`          | string  | 事件类型描述          |
+| ↳ `lengthInMinutes`      | number  | 持续时间（分钟）        |
+| ↳ `slotInterval`         | number  | 时间间隔（分钟）        |
+| ↳ `minimumBookingNotice` | number  | 最短预约提前通知（分钟）    |
+| ↳ `beforeEventBuffer`    | number  | 事件前缓冲时间（分钟）     |
+| ↳ `afterEventBuffer`     | number  | 事件后缓冲时间（分钟）     |
+| ↳ `scheduleId`           | number  | 日程 ID           |
+| ↳ `disableGuests`        | boolean | 是否禁用嘉宾          |
+| ↳ `createdAt`            | string  | 创建时的 ISO 时间戳    |
+| ↳ `updatedAt`            | string  | 最后更新时间的 ISO 时间戳 |
+
+calcom_list_event_types [#calcom_list_event_types]
+
+获取所有事件类型的列表
+
+输入 [#输入-9]
+
+| 参数              | 类型     | 必填 | 说明                     |
+| --------------- | ------ | -- | ---------------------- |
+| `sortCreatedAt` | string | 否  | 按创建日期排序："asc" 或 "desc" |
+
+输出 [#输出-9]
+
+| 参数                       | 类型      | 描述              |
+| ------------------------ | ------- | --------------- |
+| `status`                 | string  | 响应状态            |
+| `data`                   | array   | 事件类型数组          |
+| ↳ `id`                   | number  | 事件类型 ID         |
+| ↳ `title`                | string  | 事件类型标题          |
+| ↳ `slug`                 | string  | 事件类型 slug       |
+| ↳ `description`          | string  | 事件类型描述          |
+| ↳ `lengthInMinutes`      | number  | 持续时间（分钟）        |
+| ↳ `slotInterval`         | number  | 时间段间隔（分钟）       |
+| ↳ `minimumBookingNotice` | number  | 最短预约提前通知时间（分钟）  |
+| ↳ `beforeEventBuffer`    | number  | 活动前缓冲时间（分钟）     |
+| ↳ `afterEventBuffer`     | number  | 活动后缓冲时间（分钟）     |
+| ↳ `scheduleId`           | number  | 日程 ID           |
+| ↳ `disableGuests`        | boolean | 是否禁用访客          |
+| ↳ `createdAt`            | string  | 创建时的 ISO 时间戳    |
+| ↳ `updatedAt`            | string  | 最后更新时间的 ISO 时间戳 |
+
+calcom_update_event_type [#calcom_update_event_type]
+
+在 Cal.com 中更新现有事件类型
+
+输入 [#输入-10]
+
+| 参数                     | 类型      | 是否必填 | 描述                    |
+| ---------------------- | ------- | ---- | --------------------- |
+| `eventTypeId`          | number  | 是    | 要更新的事件类型 ID（例如 12345） |
+| `title`                | string  | 否    | 事件类型标题                |
+| `slug`                 | string  | 否    | 事件类型 URL 的唯一 slug     |
+| `lengthInMinutes`      | number  | 否    | 事件持续时间（分钟）            |
+| `description`          | string  | 否    | 事件类型描述                |
+| `slotInterval`         | number  | 否    | 可预约时间段间隔（分钟）          |
+| `minimumBookingNotice` | number  | 否    | 预约前最短通知时间（分钟）         |
+| `beforeEventBuffer`    | number  | 否    | 活动前缓冲时间（分钟）           |
+| `afterEventBuffer`     | number  | 否    | 活动后缓冲时间（分钟）           |
+| `scheduleId`           | number  | 否    | 可用日程 ID               |
+| `disableGuests`        | boolean | 否    | 是否禁止添加访客到预约中          |
+
+输出 [#输出-10]
+
+| 参数                       | 类型      | 说明              |
+| ------------------------ | ------- | --------------- |
+| `status`                 | string  | 响应状态            |
+| `data`                   | object  | 已更新的事件类型详情      |
+| ↳ `id`                   | number  | 事件类型 ID         |
+| ↳ `title`                | string  | 事件类型标题          |
+| ↳ `slug`                 | string  | 事件类型 slug       |
+| ↳ `description`          | string  | 事件类型描述          |
+| ↳ `lengthInMinutes`      | number  | 持续时间（分钟）        |
+| ↳ `slotInterval`         | number  | 时间段间隔（分钟）       |
+| ↳ `minimumBookingNotice` | number  | 最短预订通知时间（分钟）    |
+| ↳ `beforeEventBuffer`    | number  | 事件前缓冲时间（分钟）     |
+| ↳ `afterEventBuffer`     | number  | 事件后缓冲时间（分钟）     |
+| ↳ `scheduleId`           | number  | 日程 ID           |
+| ↳ `disableGuests`        | boolean | 是否禁用嘉宾          |
+| ↳ `createdAt`            | string  | 创建时的 ISO 时间戳    |
+| ↳ `updatedAt`            | string  | 最后更新时间的 ISO 时间戳 |
+
+calcom_delete_event_type [#calcom_delete_event_type]
+
+从 Cal.com 删除事件类型
+
+输入 [#输入-11]
+
+| 参数            | 类型     | 必填 | 说明          |
+| ------------- | ------ | -- | ----------- |
+| `eventTypeId` | number | 是  | 要删除的事件类型 ID |
+
+输出 [#输出-11]
+
+| 参数                  | 类型     | 说明         |
+| ------------------- | ------ | ---------- |
+| `status`            | string | 响应状态       |
+| `data`              | object | 已删除的事件类型详情 |
+| ↳ `id`              | number | 事件类型 ID    |
+| ↳ `lengthInMinutes` | number | 持续时间（分钟）   |
+| ↳ `title`           | string | 事件类型标题     |
+| ↳ `slug`            | string | 事件类型 slug  |
+
+calcom_create_schedule [#calcom_create_schedule]
+
+在 Cal.com 中创建一个新的可用性日程表
+
+输入 [#输入-12]
+
+| 参数             | 类型      | 必填 | 描述                                  |
+| -------------- | ------- | -- | ----------------------------------- |
+| `name`         | string  | 是  | 日程表名称                               |
+| `timeZone`     | string  | 是  | 日程表的时区（例如 America/New\_York）        |
+| `isDefault`    | boolean | 是  | 此日程表是否为默认日程表                        |
+| `availability` | array   | 否  | 日程表的可用时间区间                          |
+| `items`        | object  | 否  | 可用时间区间                              |
+| `properties`   | array   | 否  | 一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日） |
+| `days`         | array   | 否  | 一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日） |
+| `startTime`    | string  | 否  | 开始时间，格式为 HH:MM                      |
+| `endTime`      | string  | 否  | 结束时间，格式为 HH:MM                      |
+
+输出 [#输出-12]
+
+| 参数               | 类型      | 描述                       |
+| ---------------- | ------- | ------------------------ |
+| `status`         | string  | 响应状态                     |
+| `data`           | object  | 已创建的日程表数据                |
+| ↳ `id`           | number  | 日程表 ID                   |
+| ↳ `ownerId`      | number  | 所有者用户 ID                 |
+| ↳ `name`         | string  | 日程表名称                    |
+| ↳ `timeZone`     | string  | 时区（例如 America/New\_York） |
+| ↳ `isDefault`    | boolean | 是否为默认日程表                 |
+| ↳ `availability` | array   | 可用时间段                    |
+| ↳ `days`         | array   | 一周中的天数（如星期一等）            |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM           |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM           |
+| ↳ `overrides`    | array   | 特定日期的可用性覆盖               |
+| ↳ `date`         | string  | 日期，格式为 YYYY-MM-DD        |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM           |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM           |
+
+calcom_get_schedule [#calcom_get_schedule]
+
+根据 ID 从 Cal.com 获取指定的日程安排
+
+输入 [#输入-13]
+
+| 参数           | 类型     | 必填 | 说明        |
+| ------------ | ------ | -- | --------- |
+| `scheduleId` | string | 是  | 要检索的日程 ID |
+
+输出 [#输出-13]
+
+| 参数               | 类型      | 说明                        |
+| ---------------- | ------- | ------------------------- |
+| `status`         | string  | 响应状态                      |
+| `data`           | object  | 日程数据                      |
+| ↳ `id`           | number  | 日程 ID                     |
+| ↳ `ownerId`      | number  | 所有者用户 ID                  |
+| ↳ `name`         | string  | 日程名称                      |
+| ↳ `timeZone`     | string  | 时区（例如 America/New\_York ） |
+| ↳ `isDefault`    | boolean | 是否为默认日程                   |
+| ↳ `availability` | array   | 可用时间段                     |
+| ↳ `days`         | array   | 一周中的天数（星期一、星期二等）          |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM            |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM            |
+| ↳ `overrides`    | array   | 特定日期的可用性覆盖                |
+| ↳ `date`         | string  | 日期，格式为 YYYY-MM-DD         |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM            |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM            |
+
+calcom_list_schedules [#calcom_list_schedules]
+
+列出 Cal.com 上的所有可用日程安排
+
+输入 [#输入-14]
+
+| 参数 | 类型 | 必填 | 说明 |
+| -- | -- | -- | -- |
+
+输出 [#输出-14]
+
+| 参数               | 类型      | 说明                        |
+| ---------------- | ------- | ------------------------- |
+| `status`         | string  | 响应状态                      |
+| `data`           | array   | 日程对象数组                    |
+| ↳ `id`           | number  | 日程 ID                     |
+| ↳ `ownerId`      | number  | 所有者用户 ID                  |
+| ↳ `name`         | string  | 日程名称                      |
+| ↳ `timeZone`     | string  | 时区（例如 America/New\_York ） |
+| ↳ `isDefault`    | boolean | 是否为默认日程                   |
+| ↳ `availability` | array   | 可用时间段                     |
+| ↳ `days`         | array   | 一周中的天数（星期一、星期二等）          |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM            |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM            |
+| ↳ `overrides`    | array   | 特定日期的可用性覆盖                |
+| ↳ `date`         | string  | 日期，格式为 YYYY-MM-DD         |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM            |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM            |
+
+calcom_update_schedule [#calcom_update_schedule]
+
+在 Cal.com 中更新现有日程
+
+输入 [#输入-15]
+
+| 参数             | 类型      | 必填 | 说明                                  |
+| -------------- | ------- | -- | ----------------------------------- |
+| `scheduleId`   | string  | 是  | 要更新的日程 ID                           |
+| `name`         | string  | 否  | 日程的新名称                              |
+| `timeZone`     | string  | 否  | 日程的新时区（例如，America/New\_York）        |
+| `isDefault`    | boolean | 否  | 此日程是否为默认日程                          |
+| `availability` | array   | 否  | 日程的新可用时段                            |
+| `items`        | object  | 否  | 可用时段                                |
+| `properties`   | array   | 否  | 一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日） |
+| `days`         | array   | 否  | 一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日） |
+| `startTime`    | string  | 否  | 开始时间，格式为 HH:MM                      |
+| `endTime`      | string  | 否  | 结束时间，格式为 HH:MM                      |
+
+输出 [#输出-15]
+
+| 参数               | 类型      | 说明                       |
+| ---------------- | ------- | ------------------------ |
+| `status`         | string  | 响应状态                     |
+| `data`           | object  | 已更新的日程数据                 |
+| ↳ `id`           | number  | 日程 ID                    |
+| ↳ `ownerId`      | number  | 所有者用户 ID                 |
+| ↳ `name`         | string  | 日程名称                     |
+| ↳ `timeZone`     | string  | 时区（例如，America/New\_York） |
+| ↳ `isDefault`    | boolean | 是否为默认日程                  |
+| ↳ `availability` | array   | 可用时间段                    |
+| ↳ `days`         | array   | 一周中的天数（如星期一、星期二等）        |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM           |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM           |
+| ↳ `overrides`    | array   | 特定日期的可用性覆盖               |
+| ↳ `date`         | string  | 日期，格式为 YYYY-MM-DD        |
+| ↳ `startTime`    | string  | 开始时间，格式为 HH:MM           |
+| ↳ `endTime`      | string  | 结束时间，格式为 HH:MM           |
+
+calcom_delete_schedule [#calcom_delete_schedule]
+
+从 Cal.com 删除一个日程
+
+输入 [#输入-16]
+
+| 参数           | 类型     | 必填 | 说明        |
+| ------------ | ------ | -- | --------- |
+| `scheduleId` | string | 是  | 要删除的日程 ID |
+
+输出 [#输出-16]
+
+| 参数       | 类型     | 说明          |
+| -------- | ------ | ----------- |
+| `status` | string | 响应状态（成功或错误） |
+
+calcom_get_default_schedule [#calcom_get_default_schedule]
+
+从 Cal.com 获取默认可用性日程
+
+输入 [#输入-17]
+
+| 参数 | 类型 | 必填 | 说明 |
+| -- | -- | -- | -- |
+
+输出 [#输出-17]
+
+| 参数               | 类型      | 说明                       |
+| ---------------- | ------- | ------------------------ |
+| `status`         | string  | 响应状态                     |
+| `data`           | object  | 默认日程数据                   |
+| ↳ `id`           | number  | 日程 ID                    |
+| ↳ `ownerId`      | number  | 所有者用户 ID                 |
+| ↳ `name`         | string  | 日程名称                     |
+| ↳ `timeZone`     | string  | 时区（例如，America/New\_York） |
+| ↳ `isDefault`    | boolean | 是否为默认日程                  |
+| ↳ `availability` | array   | 可用时间段                    |
+| ↳ `days`         | array   | 一周中的天数（星期一、星期二等）         |
+| ↳ `startTime`    | string  | 开始时间，HH:MM 格式            |
+| ↳ `endTime`      | string  | 结束时间，HH:MM 格式            |
+| ↳ `overrides`    | array   | 特定日期的可用性覆盖               |
+| ↳ `date`         | string  | 日期，YYYY-MM-DD 格式         |
+| ↳ `startTime`    | string  | 开始时间，HH:MM 格式            |
+| ↳ `endTime`      | string  | 结束时间，HH:MM 格式            |
+
+calcom_get_slots [#calcom_get_slots]
+
+在指定时间范围内获取 Cal.com 活动类型的可用预订时段
+
+输入 [#输入-18]
+
+| 参数              | 类型     | 必填 | 说明                                              |
+| --------------- | ------ | -- | ----------------------------------------------- |
+| `start`         | string | 是  | 时间范围起始，UTC ISO 8601 格式（例如 2024-01-15T00:00:00Z） |
+| `end`           | string | 是  | 时间范围结束，UTC ISO 8601 格式（例如 2024-01-22T00:00:00Z） |
+| `eventTypeId`   | number | 否  | 活动类型 ID，直接查找用                                   |
+| `eventTypeSlug` | string | 否  | 活动类型 slug（需要设置用户名）                              |
+| `username`      | string | 否  | 个人活动类型的用户名（使用 eventTypeSlug 时必填）                |
+| `timeZone`      | string | 否  | 返回时段的时区（默认为 UTC）                                |
+| `duration`      | number | 否  | 时段长度（分钟）                                        |
+
+输出 [#输出-18]
+
+| 参数       | 类型     | 说明                                                              |
+| -------- | ------ | --------------------------------------------------------------- |
+| `status` | string | 响应状态                                                            |
+| `data`   | json   | 按日期分组的可用时段（YYYY-MM-DD 作为键）。每个日期对应一个包含开始时间、可选结束时间和座位活动信息的时段对象数组。 |
+13:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L1a",null,{"content":"$1b"}]}],"$L1c"]}],"$L1d","$L1e"]}]
+14:["$","$L1f",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L20",null,{"type":"calcom","color":"#FFFFFE"}],"\n","\n",["$","p",null,{"children":[["$","$L21",null,{"href":"https://cal.com/","children":"Cal.com"}]," 是一个灵活的日程安排平台，可帮助您轻松管理预约、预订、事件类型和团队可用时间。"]}],"\n",["$","p",null,{"children":"使用 Cal.com，您可以："}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"自动化日程安排"}],"：让用户查看您的可用时间段并自动预订会议，无需来回邮件沟通。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"管理事件"}],"：创建并自定义事件类型、时长和规则，支持一对一或群组会议。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"集成日历"}],"：无缝连接 Google、Outlook、Apple 或其他日历服务，避免重复预订。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"管理参与者和嘉宾"}],"：收集参与者信息，管理嘉宾，并发送邀请或提醒。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"控制可用性"}],"：自定义工作时间、缓冲时间以及取消/重新预订规则。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"驱动工作流"}],"：通过 webhook 在预订创建、取消或重新安排时触发自定义操作。"]}],"\n"]}],"\n",["$","p",null,{"children":"在 Aptlystar 中，Cal.com 集成让您的代理可以预订会议、检查可用时间、管理事件类型，并以编程方式自动化日程安排任务。这有助于代理协调会议、代表用户发送预订、检查日程或响应预订事件——无需人工干预。将 Aptlystar 与 Cal.com 连接后，您可以实现高度自动化和智能化的日程安排工作流，并可无缝集成到更广泛的自动化需求中。"}],"\n","\n",["$","$L22",null,{"as":"h2","id":"使用说明","children":"使用说明"}],"\n",["$","p",null,{"children":"将 Cal.com 集成到您的工作流中。创建和管理预订、事件类型、日程安排，并检查可用时间段。支持创建、列出、重新安排和取消预订，以及管理事件类型和日程安排。还可基于 Cal.com webhook 事件（预订创建、取消、重新安排）触发工作流。通过 OAuth 连接您的 Cal.com 账户。"}],"\n",["$","$L22",null,{"as":"h2","id":"工具","children":"工具"}],"\n",["$","$L22",null,{"as":"h3","id":"calcom_create_booking","children":["$","code",null,{"children":"calcom_create_booking"}]}],"\n",["$","p",null,{"children":"在 Cal.com 上创建新的预订"}],"\n",["$","$L22",null,{"as":"h4","id":"输入","children":"输入"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTypeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要预订的事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"start"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"UTC ISO 8601 格式的开始时间（例如，2024-01-15T09:00:00Z）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attendee"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"参会者信息对象，包含姓名、邮箱、时区和可选的手机号（由单独的参会者字段构建）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"guests"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"嘉宾邮箱地址数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"items"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"嘉宾邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lengthInMinutes"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"预订时长（分钟），会覆盖事件类型默认值"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"附加到预订的自定义元数据"}]]}]]}]]}]}],"\n",["$","$L22",null,{"as":"h4","id":"输出","children":"输出"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已创建的预订详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参会者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],"$L23"]}],"$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40"]}]]}]}],"\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac"]}]}]
+15:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+16:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+17:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+18:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+19:["$","$Lad",null,{"children":["$","$ae",null,{"name":"Next.MetadataOutlet","children":"$@af"}]}]
+1c:["$","$Lb0",null,{}]
+1d:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"101","height":"22","viewBox":"0 0 101 22","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M10.06 20.82C4.32 20.82 0 16.28 0 10.67C0 5.05 4.1 0.47 10.06 0.47C13.22 0.47 15.41 1.44 17.12 3.66L14.36 5.96C13.2 4.73 11.81 4.11 10.06 4.11C6.18 4.11 4.05 7.08 4.05 10.67C4.05 14.26 6.38 17.17 10.06 17.17C11.79 17.17 13.26 16.56 14.42 15.32L17.14 17.72C15.5 19.85 13.26 20.82 10.06 20.82Z","fill":"#292929"}],["$","path",null,{"d":"M29.02 5.89H32.73V20.46H29.02V18.33C28.24 19.84 26.96 20.85 24.49 20.85C20.56 20.85 17.41 17.43 17.41 13.23C17.41 9.03 20.56 5.61 24.49 5.61C26.94 5.61 28.24 6.61 29.02 8.13V5.89ZM29.13 13.23C29.13 10.95 27.56 9.06 25.1 9.06C22.73 9.06 21.18 10.97 21.18 13.23C21.18 15.43 22.73 17.4 25.1 17.4C27.55 17.4 29.13 15.49 29.13 13.23Z","fill":"#292929"}],["$","path",null,{"d":"M35.36 0H39.07V20.44H35.36V0Z","fill":"#292929"}],["$","path",null,{"d":"M40.73 18.52C40.73 17.32 41.69 16.31 42.99 16.31C44.3 16.31 45.22 17.32 45.22 18.52C45.22 19.75 44.28 20.76 42.99 20.76C41.7 20.76 40.73 19.75 40.73 18.52Z","fill":"#292929"}],["$","path",null,{"d":"M59.43 18.11C58.05 19.79 55.95 20.85 53.47 20.85C49.04 20.85 45.79 17.43 45.79 13.23C45.79 9.03 49.04 5.61 53.47 5.61C55.86 5.61 57.94 6.61 59.32 8.2L56.45 10.61C55.73 9.72 54.8 9.04 53.47 9.04C51.1 9.04 49.56 10.95 49.56 13.21C49.56 15.47 51.1 17.38 53.47 17.38C54.91 17.38 55.9 16.63 56.63 15.62L59.43 18.11Z","fill":"#292929"}],["$","path",null,{"d":"M59.74 13.23C59.74 9.03 63 5.61 67.43 5.61C71.86 5.61 75.11 9.03 75.11 13.23C75.11 17.43 71.86 20.85 67.43 20.85C63 20.83 59.74 17.43 59.74 13.23ZM71.34 13.23C71.34 10.95 69.8 9.06 67.43 9.06C65.06 9.04 63.51 10.95 63.51 13.23C63.51 15.49 65.06 17.4 67.43 17.4C69.8 17.4 71.34 15.49 71.34 13.23Z","fill":"#292929"}],["$","path",null,{"d":"M100.23 11.55V20.44H96.52V12.46C96.52 9.94 95.34 8.86 93.58 8.86C91.92 8.86 90.74 9.68 90.74 12.46V20.44H87.03V12.46C87.03 9.94 85.83 8.86 84.09 8.86C82.43 8.86 80.98 9.68 80.98 12.46V20.44H77.27V5.87H80.98V7.89C81.75 6.32 83.15 5.53 85.3 5.53C87.34 5.53 89.05 6.54 89.99 8.24C90.93 6.5 92.31 5.53 94.81 5.53C97.86 5.55 100.23 7.87 100.23 11.55Z","fill":"#292929"}]]}]}],["$","$Lb1",null,{"className":"mb-0 min-w-0 flex-1","children":"Cal Com"}]]}]
+1e:["$","$Lb2",null,{"children":"管理 Cal.com 预订、事件类型、日程安排和可用性"}]
+23:["$","td",null,{"children":"参会者姓名"}]
+24:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参会者实际邮箱地址"}]]}]
+25:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}]
+26:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参会者时区（IANA 格式）"}]]}]
+27:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参会者手机号"}]]}]
+28:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参会者语言偏好（ISO 代码）"}]]}]
+29:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参会者是否缺席"}]]}]
+2a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}]
+2b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}]
+2c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}]
+2d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}]
+2e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}]
+2f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}]
+30:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}]
+31:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订的数字 ID"}]]}]
+32:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订唯一标识符"}]]}]
+33:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}]
+34:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（如 accepted、pending、cancelled）"}]]}]
+35:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ISO 8601 格式的开始时间"}]]}]
+36:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间"}]]}]
+37:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时长（分钟）"}]]}]
+38:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}]
+39:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"meetingUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会议加入链接"}]]}]
+3a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订地点"}]]}]
+3b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absentHost"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"主持人是否缺席"}]]}]
+3c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"guests"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"嘉宾邮箱地址"}]]}]
+3d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"bookingFieldsResponses"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"自定义预订字段响应（根据事件类型配置动态生成的键）"}]]}]
+3e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"附加到预订的自定义元数据（动态键值对）"}]]}]
+3f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"icsUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ICS 日历 UID"}]]}]
+40:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+41:["$","$L22",null,{"as":"h3","id":"calcom_get_booking","children":["$","code",null,{"children":"calcom_get_booking"}]}]
+42:["$","p",null,{"children":"通过其 UID 获取特定预订的详细信息"}]
+43:["$","$L22",null,{"as":"h4","id":"输入-1","children":"输入"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bookingUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"预订的唯一标识符（UID）"}]]}]}]]}]}]
+45:["$","$L22",null,{"as":"h4","id":"输出-1","children":"输出"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"预订详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"活动类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参与者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者语言偏好（ISO 代码）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参与者是否缺席"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订数字 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（如已接受、待定、已取消）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"meetingUrl"}]]}],"$Lb3","$Lb4"]}],"$Lb5","$Lb6","$Lb7","$Lb8","$Lb9","$Lba","$Lbb","$Lbc","$Lbd","$Lbe","$Lbf","$Lc0","$Lc1","$Lc2","$Lc3"]}]]}]}]
+47:["$","$L22",null,{"as":"h3","id":"calcom_list_bookings","children":["$","code",null,{"children":"calcom_list_bookings"}]}]
+48:["$","p",null,{"children":"列出所有预订，可选状态筛选"}]
+49:["$","$L22",null,{"as":"h4","id":"输入-2","children":"输入"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"按状态筛选预订：upcoming、recurring、past、cancelled 或 unconfirmed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"take"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"返回的预订数量（分页限制）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"skip"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"跳过的预订数量（分页偏移量）"}]]}]]}]]}]}]
+4b:["$","$L22",null,{"as":"h4","id":"输出-2","children":"输出"}]
+4c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"预订数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"活动类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参与者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者语言偏好（ISO 代码）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参与者是否缺席"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订的数字 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（如 accepted、pending、cancelled）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ","$Lc4"]}],"$Lc5","$Lc6"]}],"$Lc7","$Lc8","$Lc9","$Lca","$Lcb","$Lcc","$Lcd","$Lce","$Lcf","$Ld0","$Ld1","$Ld2","$Ld3","$Ld4","$Ld5","$Ld6","$Ld7","$Ld8","$Ld9","$Lda","$Ldb","$Ldc","$Ldd","$Lde"]}]]}]}]
+4d:["$","$L22",null,{"as":"h3","id":"calcom_cancel_booking","children":["$","code",null,{"children":"calcom_cancel_booking"}]}]
+4e:["$","p",null,{"children":"取消已有预订"}]
+4f:["$","$L22",null,{"as":"h4","id":"输入-3","children":"输入"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bookingUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要取消的预订唯一标识符（UID）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cancellationReason"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"取消预订的原因"}]]}]]}]]}]}]
+51:["$","$L22",null,{"as":"h4","id":"输出-3","children":"输出"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已取消预订的详细信息"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参与者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者语言偏好（ISO 代码）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参与者是否缺席"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订数字 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancellationReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如果已取消，取消原因"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancelledByEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"取消预订者的邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ","$Ldf"]}],"$Le0","$Le1"]}],"$Le2","$Le3","$Le4"]}]]}]}]
+53:["$","$L22",null,{"as":"h3","id":"calcom_reschedule_booking","children":["$","code",null,{"children":"calcom_reschedule_booking"}]}]
+54:["$","p",null,{"children":"将现有预订重新安排到新的时间"}]
+55:["$","$L22",null,{"as":"h4","id":"输入-4","children":"输入"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bookingUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要重新安排的预订唯一标识符（UID）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"start"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"新的开始时间，采用 UTC ISO 8601 格式（例如，2024-01-15T09:00:00Z）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reschedulingReason"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"重新安排预订的原因"}]]}]]}]]}]}]
+57:["$","$L22",null,{"as":"h4","id":"输出-4","children":"输出"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已重新安排的预订详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参与者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者语言偏好（ISO 代码）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参与者是否缺席"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订的数字 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（如已接受、待定、已取消）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reschedulingReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如果已重新安排，重新安排的原因"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledFromUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如果此预订已重新安排，则为原始预订 UID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledByEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"重新安排预订的人员邮箱"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"meetingUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会议加入链接"}]]}],"$Le5","$Le6","$Le7","$Le8","$Le9","$Lea","$Leb","$Lec"]}]]}]}]
+59:["$","$L22",null,{"as":"h3","id":"calcom_confirm_booking","children":["$","code",null,{"children":"calcom_confirm_booking"}]}]
+5a:["$","p",null,{"children":"确认需要确认的待处理预订"}]
+5b:["$","$L22",null,{"as":"h4","id":"输入-5","children":"输入"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bookingUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要确认的预订唯一标识符（UID）"}]]}]}]]}]}]
+5d:["$","$L22",null,{"as":"h4","id":"输出-5","children":"输出"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已确认预订详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"活动类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"活动类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参与者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者语言偏好（ISO 代码）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参与者是否缺席"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订数字 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"meetingUrl"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会议加入链接"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订地点"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"guests"}]]}],["$","td",null,{"children":"array"}],"$Led"]}],"$Lee","$Lef","$Lf0","$Lf1"]}]]}]}]
+5f:["$","$L22",null,{"as":"h3","id":"calcom_decline_booking","children":["$","code",null,{"children":"calcom_decline_booking"}]}]
+60:["$","p",null,{"children":"拒绝待处理的预订请求"}]
+61:["$","$L22",null,{"as":"h4","id":"输入-6","children":"输入"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bookingUid"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要拒绝的预订唯一标识符（UID）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reason"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"拒绝预订的原因"}]]}]]}]]}]}]
+63:["$","$L22",null,{"as":"h4","id":"输出-6","children":"输出"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"被拒绝的预订详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventType"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"attendees"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"参与者列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者姓名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"phoneNumber"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者电话号码"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"language"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"参与者语言偏好（ISO 代码）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"参与者是否缺席"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hosts"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"主持人列表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"主持人用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人显示名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人实际邮箱地址"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"公开显示的邮箱（可能与实际邮箱不同）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"username"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人 Cal.com 用户名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"主持人时区（IANA 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订的数字 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订的唯一标识符"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancellationReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如已取消，取消原因"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间（ISO 8601 格式）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"duration"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventTypeId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订地点"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],"$Lf2","$Lf3"]}],"$Lf4","$Lf5"]}]]}]}]
+65:["$","$L22",null,{"as":"h3","id":"calcom_create_event_type","children":["$","code",null,{"children":"calcom_create_event_type"}]}]
+66:["$","p",null,{"children":"在 Cal.com 中创建一个新的事件类型"}]
+67:["$","$L22",null,{"as":"h4","id":"输入-7","children":"输入"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"事件类型的标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"事件类型 URL 的唯一 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lengthInMinutes"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"事件时长（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件类型描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slotInterval"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"可预订时段之间的间隔（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"minimumBookingNotice"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"预订前所需的最短通知时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"beforeEventBuffer"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件开始前的缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"afterEventBuffer"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件结束后的缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduleId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"用于可用性的日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disableGuests"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否禁止向预订中添加嘉宾"}]]}]]}]]}]}]
+69:["$","$L22",null,{"as":"h4","id":"输出-7","children":"输出"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已创建的事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lengthInMinutes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时长（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slotInterval"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时段间隔（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"minimumBookingNotice"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"最短预订通知时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"beforeEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件前缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"afterEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件后缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"scheduleId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"disableGuests"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否禁用嘉宾"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"创建时的 ISO 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"最后更新时间的 ISO 时间戳"}]]}]]}]]}]}]
+6b:["$","$L22",null,{"as":"h3","id":"calcom_get_event_type","children":["$","code",null,{"children":"calcom_get_event_type"}]}]
+6c:["$","p",null,{"children":"获取特定事件类型的详细信息"}]
+6d:["$","$L22",null,{"as":"h4","id":"输入-8","children":"输入"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTypeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检索的事件类型 ID"}]]}]}]]}]}]
+6f:["$","$L22",null,{"as":"h4","id":"输出-8","children":"输出"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lengthInMinutes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slotInterval"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时间间隔（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"minimumBookingNotice"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"最短预约提前通知（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"beforeEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件前缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"afterEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件后缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"scheduleId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"disableGuests"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否禁用嘉宾"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"创建时的 ISO 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"最后更新时间的 ISO 时间戳"}]]}]]}]]}]}]
+71:["$","$L22",null,{"as":"h3","id":"calcom_list_event_types","children":["$","code",null,{"children":"calcom_list_event_types"}]}]
+72:["$","p",null,{"children":"获取所有事件类型的列表"}]
+73:["$","$L22",null,{"as":"h4","id":"输入-9","children":"输入"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sortCreatedAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"按创建日期排序：\"asc\" 或 \"desc\""}]]}]}]]}]}]
+75:["$","$L22",null,{"as":"h4","id":"输出-9","children":"输出"}]
+76:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"事件类型数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lengthInMinutes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slotInterval"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时间段间隔（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"minimumBookingNotice"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"最短预约提前通知时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"beforeEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动前缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"afterEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"活动后缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"scheduleId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"disableGuests"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否禁用访客"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"创建时的 ISO 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"最后更新时间的 ISO 时间戳"}]]}]]}]]}]}]
+77:["$","$L22",null,{"as":"h3","id":"calcom_update_event_type","children":["$","code",null,{"children":"calcom_update_event_type"}]}]
+78:["$","p",null,{"children":"在 Cal.com 中更新现有事件类型"}]
+79:["$","$L22",null,{"as":"h4","id":"输入-10","children":"输入"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"是否必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTypeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要更新的事件类型 ID（例如 12345）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件类型标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件类型 URL 的唯一 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lengthInMinutes"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"事件类型描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slotInterval"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"可预约时间段间隔（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"minimumBookingNotice"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"预约前最短通知时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"beforeEventBuffer"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"活动前缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"afterEventBuffer"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"活动后缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduleId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"可用日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disableGuests"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"是否禁止添加访客到预约中"}]]}]]}]]}]}]
+7b:["$","$L22",null,{"as":"h4","id":"输出-10","children":"输出"}]
+7c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已更新的事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型描述"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lengthInMinutes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slotInterval"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"时间段间隔（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"minimumBookingNotice"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"最短预订通知时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"beforeEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件前缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"afterEventBuffer"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件后缓冲时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"scheduleId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"disableGuests"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否禁用嘉宾"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"创建时的 ISO 时间戳"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"最后更新时间的 ISO 时间戳"}]]}]]}]]}]}]
+7d:["$","$L22",null,{"as":"h3","id":"calcom_delete_event_type","children":["$","code",null,{"children":"calcom_delete_event_type"}]}]
+7e:["$","p",null,{"children":"从 Cal.com 删除事件类型"}]
+7f:["$","$L22",null,{"as":"h4","id":"输入-11","children":"输入"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTypeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要删除的事件类型 ID"}]]}]}]]}]}]
+81:["$","$L22",null,{"as":"h4","id":"输出-11","children":"输出"}]
+82:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已删除的事件类型详情"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"事件类型 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lengthInMinutes"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"持续时间（分钟）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型标题"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"事件类型 slug"}]]}]]}]]}]}]
+83:["$","$L22",null,{"as":"h3","id":"calcom_create_schedule","children":["$","code",null,{"children":"calcom_create_schedule"}]}]
+84:["$","p",null,{"children":"在 Cal.com 中创建一个新的可用性日程表"}]
+85:["$","$L22",null,{"as":"h4","id":"输入-12","children":"输入"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"日程表名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeZone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"日程表的时区（例如 America/New_York）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isDefault"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"此日程表是否为默认日程表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"availability"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"日程表的可用时间区间"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"items"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"可用时间区间"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"properties"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"days"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startTime"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endTime"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}]]}]]}]}]
+87:["$","$L22",null,{"as":"h4","id":"输出-12","children":"输出"}]
+88:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"描述"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已创建的日程表数据"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程表 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownerId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"所有者用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日程表名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时区（例如 America/New_York）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isDefault"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为默认日程表"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"availability"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"可用时间段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"days"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一周中的天数（如星期一等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"overrides"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"特定日期的可用性覆盖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"date"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日期，格式为 YYYY-MM-DD"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}]]}]]}]}]
+89:["$","$L22",null,{"as":"h3","id":"calcom_get_schedule","children":["$","code",null,{"children":"calcom_get_schedule"}]}]
+8a:["$","p",null,{"children":"根据 ID 从 Cal.com 获取指定的日程安排"}]
+8b:["$","$L22",null,{"as":"h4","id":"输入-13","children":"输入"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduleId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要检索的日程 ID"}]]}]}]]}]}]
+8d:["$","$L22",null,{"as":"h4","id":"输出-13","children":"输出"}]
+8e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"日程数据"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownerId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"所有者用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日程名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时区（例如 America/New_York ）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isDefault"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为默认日程"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"availability"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"可用时间段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"days"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一周中的天数（星期一、星期二等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"overrides"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"特定日期的可用性覆盖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"date"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日期，格式为 YYYY-MM-DD"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}]]}]]}]}]
+8f:["$","$L22",null,{"as":"h3","id":"calcom_list_schedules","children":["$","code",null,{"children":"calcom_list_schedules"}]}]
+90:["$","p",null,{"children":"列出 Cal.com 上的所有可用日程安排"}]
+91:["$","$L22",null,{"as":"h4","id":"输入-14","children":"输入"}]
+92:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}]}]}]
+93:["$","$L22",null,{"as":"h4","id":"输出-14","children":"输出"}]
+94:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"日程对象数组"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownerId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"所有者用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日程名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时区（例如 America/New_York ）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isDefault"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为默认日程"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"availability"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"可用时间段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"days"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一周中的天数（星期一、星期二等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"overrides"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"特定日期的可用性覆盖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"date"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日期，格式为 YYYY-MM-DD"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}]]}]]}]}]
+95:["$","$L22",null,{"as":"h3","id":"calcom_update_schedule","children":["$","code",null,{"children":"calcom_update_schedule"}]}]
+96:["$","p",null,{"children":"在 Cal.com 中更新现有日程"}]
+97:["$","$L22",null,{"as":"h4","id":"输入-15","children":"输入"}]
+98:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduleId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要更新的日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"日程的新名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeZone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"日程的新时区（例如，America/New_York）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isDefault"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"此日程是否为默认日程"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"availability"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"日程的新可用时段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"items"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"可用时段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"properties"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"days"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"一周中的天数（星期一、星期二、星期三、星期四、星期五、星期六、星期日）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startTime"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endTime"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}]]}]]}]}]
+99:["$","$L22",null,{"as":"h4","id":"输出-15","children":"输出"}]
+9a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"已更新的日程数据"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownerId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"所有者用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日程名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时区（例如，America/New_York）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isDefault"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为默认日程"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"availability"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"可用时间段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"days"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一周中的天数（如星期一、星期二等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"overrides"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"特定日期的可用性覆盖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"date"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日期，格式为 YYYY-MM-DD"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，格式为 HH:MM"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，格式为 HH:MM"}]]}]]}]]}]}]
+9b:["$","$L22",null,{"as":"h3","id":"calcom_delete_schedule","children":["$","code",null,{"children":"calcom_delete_schedule"}]}]
+9c:["$","p",null,{"children":"从 Cal.com 删除一个日程"}]
+9d:["$","$L22",null,{"as":"h4","id":"输入-16","children":"输入"}]
+9e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduleId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"要删除的日程 ID"}]]}]}]]}]}]
+9f:["$","$L22",null,{"as":"h4","id":"输出-16","children":"输出"}]
+a0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态（成功或错误）"}]]}]}]]}]}]
+a1:["$","$L22",null,{"as":"h3","id":"calcom_get_default_schedule","children":["$","code",null,{"children":"calcom_get_default_schedule"}]}]
+a2:["$","p",null,{"children":"从 Cal.com 获取默认可用性日程"}]
+a3:["$","$L22",null,{"as":"h4","id":"输入-17","children":"输入"}]
+a4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}]}]}]
+a5:["$","$L22",null,{"as":"h4","id":"输出-17","children":"输出"}]
+a6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"默认日程数据"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"日程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownerId"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"所有者用户 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日程名称"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timeZone"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"时区（例如，America/New_York）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isDefault"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否为默认日程"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"availability"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"可用时间段"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"days"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一周中的天数（星期一、星期二等）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，HH:MM 格式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，HH:MM 格式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"overrides"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"特定日期的可用性覆盖"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"date"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"日期，YYYY-MM-DD 格式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"startTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"开始时间，HH:MM 格式"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"endTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"结束时间，HH:MM 格式"}]]}]]}]]}]}]
+a7:["$","$L22",null,{"as":"h3","id":"calcom_get_slots","children":["$","code",null,{"children":"calcom_get_slots"}]}]
+a8:["$","p",null,{"children":"在指定时间范围内获取 Cal.com 活动类型的可用预订时段"}]
+a9:["$","$L22",null,{"as":"h4","id":"输入-18","children":"输入"}]
+aa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"必填"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"start"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"时间范围起始，UTC ISO 8601 格式（例如 2024-01-15T00:00:00Z）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"end"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"是"}],["$","td",null,{"children":"时间范围结束，UTC ISO 8601 格式（例如 2024-01-22T00:00:00Z）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTypeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"活动类型 ID，直接查找用"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventTypeSlug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"活动类型 slug（需要设置用户名）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"个人活动类型的用户名（使用 eventTypeSlug 时必填）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeZone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"返回时段的时区（默认为 UTC）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"duration"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"否"}],["$","td",null,{"children":"时段长度（分钟）"}]]}]]}]]}]}]
+ab:["$","$L22",null,{"as":"h4","id":"输出-18","children":"输出"}]
+ac:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数"}],["$","th",null,{"children":"类型"}],["$","th",null,{"children":"说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"响应状态"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"按日期分组的可用时段（YYYY-MM-DD 作为键）。每个日期对应一个包含开始时间、可选结束时间和座位活动信息的时段对象数组。"}]]}]]}]]}]}]
+af:null
+b3:["$","td",null,{"children":"string"}]
+b4:["$","td",null,{"children":"会议加入 URL"}]
+b5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订地点"}]]}]
+b6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absentHost"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"主持人是否缺席"}]]}]
+b7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"guests"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"嘉宾邮箱地址"}]]}]
+b8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"bookingFieldsResponses"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"自定义预订字段响应（根据活动类型配置动态生成的键）"}]]}]
+b9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"预订附加的自定义元数据（动态键值对）"}]]}]
+ba:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rating"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订评分"}]]}]
+bb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"icsUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ICS 日历 UID"}]]}]
+bc:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancellationReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"取消原因（如已取消）"}]]}]
+bd:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reschedulingReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"改期原因（如已改期）"}]]}]
+be:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledFromUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如果本次预订为改期，则为原预订 UID"}]]}]
+bf:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledToUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"改期后的新预订 UID"}]]}]
+c0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancelledByEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"取消预订者邮箱"}]]}]
+c1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledByEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"改期预订者邮箱"}]]}]
+c2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+c3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订最后更新时间"}]]}]
+c4:["$","code",null,{"children":"meetingUrl"}]
+c5:["$","td",null,{"children":"string"}]
+c6:["$","td",null,{"children":"会议加入链接"}]
+c7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订地点"}]]}]
+c8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"absentHost"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"主持人是否缺席"}]]}]
+c9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"guests"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"嘉宾邮箱地址"}]]}]
+ca:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"bookingFieldsResponses"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"预订自定义字段响应（根据活动类型配置动态生成的键）"}]]}]
+cb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"预订附加的自定义元数据（动态键值对）"}]]}]
+cc:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rating"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"预订评分"}]]}]
+cd:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"icsUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ICS 日历 UID"}]]}]
+ce:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancellationReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"取消原因（如已取消）"}]]}]
+cf:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"cancelledByEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"取消预订者邮箱"}]]}]
+d0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"reschedulingReason"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"改期原因（如已改期）"}]]}]
+d1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledByEmail"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"改期者邮箱"}]]}]
+d2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledFromUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"如果本次预订为改期，原预订 UID"}]]}]
+d3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rescheduledToUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"改期后新预订 UID"}]]}]
+d4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+d5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updatedAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订最后更新时间"}]]}]
+d6:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pagination"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"分页元数据"}]]}]
+d7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"totalItems"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"条目总数"}]]}]
+d8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"remainingItems"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页后剩余条目数"}]]}]
+d9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"returnedItems"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"本次响应返回的条目数"}]]}]
+da:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"itemsPerPage"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"每页条目数"}]]}]
+db:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"currentPage"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"当前页码"}]]}]
+dc:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"totalPages"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"总页数"}]]}]
+dd:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasNextPage"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否有下一页"}]]}]
+de:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasPreviousPage"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"是否有上一页"}]]}]
+df:["$","code",null,{"children":"location"}]
+e0:["$","td",null,{"children":"string"}]
+e1:["$","td",null,{"children":"预订地点"}]
+e2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"附加在预订上的自定义元数据（动态键值对）"}]]}]
+e3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+e4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（应为已取消）"}]]}]
+e5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"location"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订地点"}]]}]
+e6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"guests"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"嘉宾邮箱地址"}]]}]
+e7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"附加在预订上的自定义元数据（动态键值对）"}]]}]
+e8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"icsUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ICS 日历 UID"}]]}]
+e9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+ea:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"uid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"新预订的唯一标识符"}]]}]
+eb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"start"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"新的开始时间（ISO 8601 格式）"}]]}]
+ec:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"end"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"新的结束时间（ISO 8601 格式）"}]]}]
+ed:["$","td",null,{"children":"嘉宾邮箱地址"}]
+ee:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"metadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"附加在预订上的自定义元数据（动态键值对）"}]]}]
+ef:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"icsUid"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ICS 日历 UID"}]]}]
+f0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+f1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（应为 accepted/confirmed）"}]]}]
+f2:["$","td",null,{"children":"json"}]
+f3:["$","td",null,{"children":"附加在预订上的自定义元数据（动态键值对）"}]
+f4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdAt"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订创建时间"}]]}]
+f5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"status"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"预订状态（应为已取消/已拒绝）"}]]}]

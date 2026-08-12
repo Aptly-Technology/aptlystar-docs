@@ -1,0 +1,994 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+47:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+4c:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+4d:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+4e:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+4f:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+109:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+10a:"$Sreact.suspense"
+10c:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+10f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+110:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Intercom\",\"description\":\"Gérez les contacts, les entreprises, les conversations, les tickets et les messages dans Intercom\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/intercom\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/intercom\"},\"inLanguage\":\"fr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/intercom\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Intercom\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/intercom\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instructions-dutilisation","title":"Instructions d'utilisation"},{"depth":2,"url":"#outils","title":"Outils"},{"depth":3,"url":"#intercom_create_contact","title":["$","code",null,{"children":"intercom_create_contact"}]},{"depth":4,"url":"#entrée","title":"Entrée"},{"depth":4,"url":"#sortie","title":"Sortie"},{"depth":3,"url":"#intercom_get_contact","title":["$","code",null,{"children":"intercom_get_contact"}]},{"depth":4,"url":"#entrée-1","title":"Entrée"},{"depth":4,"url":"#sortie-1","title":"Sortie"},{"depth":3,"url":"#intercom_update_contact","title":["$","code",null,{"children":"intercom_update_contact"}]},{"depth":4,"url":"#entrée-2","title":"Entrée"},{"depth":4,"url":"#sortie-2","title":"Sortie"},{"depth":3,"url":"#intercom_list_contacts","title":["$","code",null,{"children":"intercom_list_contacts"}]},{"depth":4,"url":"#entrée-3","title":"Entrée"},{"depth":4,"url":"#sortie-3","title":"Sortie"},{"depth":3,"url":"#intercom_search_contacts","title":["$","code",null,{"children":"intercom_search_contacts"}]},{"depth":4,"url":"#entrée-4","title":"Entrée"},{"depth":4,"url":"#sortie-4","title":"Sortie"},{"depth":3,"url":"#intercom_delete_contact","title":["$","code",null,{"children":"intercom_delete_contact"}]},{"depth":4,"url":"#entrée-5","title":"Entrée"},{"depth":4,"url":"#sortie-5","title":"Sortie"},{"depth":3,"url":"#intercom_create_company","title":["$","code",null,{"children":"intercom_create_company"}]},{"depth":4,"url":"#entrée-6","title":"Entrée"},{"depth":4,"url":"#sortie-6","title":"Sortie"},{"depth":3,"url":"#intercom_get_company","title":["$","code",null,{"children":"intercom_get_company"}]},{"depth":4,"url":"#entrée-7","title":"Entrée"},{"depth":4,"url":"#sortie-7","title":"Sortie"},{"depth":3,"url":"#intercom_list_companies","title":["$","code",null,{"children":"intercom_list_companies"}]},{"depth":4,"url":"#entrée-8","title":"Entrée"},{"depth":4,"url":"#sortie-8","title":"Sortie"},{"depth":3,"url":"#intercom_get_conversation","title":["$","code",null,{"children":"intercom_get_conversation"}]},{"depth":4,"url":"#entrée-9","title":"Entrée"},{"depth":4,"url":"#sortie-9","title":"Sortie"},{"depth":3,"url":"#intercom_list_conversations","title":["$","code",null,{"children":"intercom_list_conversations"}]},{"depth":4,"url":"#entrée-10","title":"Entrée"},{"depth":4,"url":"#sortie-10","title":"Sortie"},{"depth":3,"url":"#intercom_reply_conversation","title":"$L3"},{"depth":4,"url":"#entrée-11","title":"$L4"},{"depth":4,"url":"#sortie-11","title":"$L5"},{"depth":3,"url":"#intercom_search_conversations","title":"$L6"},{"depth":4,"url":"#entrée-12","title":"$L7"},{"depth":4,"url":"#sortie-12","title":"$L8"},{"depth":3,"url":"#intercom_create_ticket","title":"$L9"},{"depth":4,"url":"#entrée-13","title":"$La"},{"depth":4,"url":"#sortie-13","title":"$Lb"},{"depth":3,"url":"#intercom_get_ticket","title":"$Lc"},{"depth":4,"url":"#entrée-14","title":"$Ld"},{"depth":4,"url":"#sortie-14","title":"$Le"},{"depth":3,"url":"#intercom_create_message","title":"$Lf"},{"depth":4,"url":"#entrée-15","title":"$L10"},{"depth":4,"url":"#sortie-15","title":"$L11"},{"depth":2,"url":"#notes","title":"$L12"},{"depth":4,"url":"#entrée-16","title":"$L13"},{"depth":4,"url":"#sortie-16","title":"$L14"},{"depth":3,"url":"#intercom_list_admins","title":"$L15"},{"depth":4,"url":"#entrée-17","title":"$L16"},{"depth":4,"url":"#sortie-17","title":"$L17"},{"depth":3,"url":"#intercom_close_conversation","title":"$L18"},{"depth":4,"url":"#entrée-18","title":"$L19"},{"depth":4,"url":"#sortie-18","title":"$L1a"},{"depth":3,"url":"#intercom_open_conversation","title":"$L1b"},{"depth":4,"url":"#entrée-19","title":"$L1c"},{"depth":4,"url":"#sortie-19","title":"$L1d"},{"depth":3,"url":"#intercom_snooze_conversation","title":"$L1e"},{"depth":4,"url":"#entrée-20","title":"$L1f"},{"depth":4,"url":"#sortie-20","title":"$L20"},{"depth":3,"url":"#intercom_assign_conversation","title":"$L21"},{"depth":4,"url":"#entrée-21","title":"$L22"},{"depth":4,"url":"#sortie-21","title":"$L23"},{"depth":3,"url":"#intercom_list_tags","title":"$L24"},{"depth":4,"url":"#entrée-22","title":"$L25"},{"depth":4,"url":"#sortie-22","title":"$L26"},{"depth":3,"url":"#intercom_create_tag","title":"$L27"},{"depth":4,"url":"#entrée-23","title":"$L28"},{"depth":4,"url":"#sortie-23","title":"$L29"},{"depth":3,"url":"#intercom_tag_contact","title":"$L2a"},{"depth":4,"url":"#entrée-24","title":"$L2b"},{"depth":4,"url":"#sortie-24","title":"$L2c"},{"depth":3,"url":"#intercom_untag_contact","title":"$L2d"},{"depth":4,"url":"#entrée-25","title":"$L2e"},{"depth":4,"url":"#sortie-25","title":"$L2f"},{"depth":3,"url":"#intercom_tag_conversation","title":"$L30"},{"depth":4,"url":"#entrée-26","title":"$L31"},{"depth":4,"url":"#sortie-26","title":"$L32"},{"depth":3,"url":"#intercom_create_note","title":"$L33"},{"depth":4,"url":"#entrée-27","title":"$L34"},{"depth":4,"url":"#sortie-27","title":"$L35"},{"depth":3,"url":"#intercom_create_event","title":"$L36"},{"depth":4,"url":"#entrée-28","title":"$L37"},{"depth":4,"url":"#sortie-28","title":"$L38"},{"depth":3,"url":"#intercom_attach_contact_to_company","title":"$L39"},{"depth":4,"url":"#entrée-29","title":"$L3a"},{"depth":4,"url":"#sortie-29","title":"$L3b"},{"depth":3,"url":"#intercom_detach_contact_from_company","title":"$L3c"},{"depth":4,"url":"#entrée-30","title":"$L3d"},{"depth":4,"url":"#sortie-30","title":"$L3e"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L3f"},"children":["$L40","$L41"]}]],["$L42","$L43","$L44","$L45"],"$L46"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"intercom_reply_conversation"}]
+4:"Entrée"
+5:"Sortie"
+6:["$","code",null,{"children":"intercom_search_conversations"}]
+7:"Entrée"
+8:"Sortie"
+9:["$","code",null,{"children":"intercom_create_ticket"}]
+a:"Entrée"
+b:"Sortie"
+c:["$","code",null,{"children":"intercom_get_ticket"}]
+d:"Entrée"
+e:"Sortie"
+f:["$","code",null,{"children":"intercom_create_message"}]
+10:"Entrée"
+11:"Sortie"
+12:"Notes"
+13:"Entrée"
+14:"Sortie"
+15:["$","code",null,{"children":"intercom_list_admins"}]
+16:"Entrée"
+17:"Sortie"
+18:["$","code",null,{"children":"intercom_close_conversation"}]
+19:"Entrée"
+1a:"Sortie"
+1b:["$","code",null,{"children":"intercom_open_conversation"}]
+1c:"Entrée"
+1d:"Sortie"
+1e:["$","code",null,{"children":"intercom_snooze_conversation"}]
+1f:"Entrée"
+20:"Sortie"
+21:["$","code",null,{"children":"intercom_assign_conversation"}]
+22:"Entrée"
+23:"Sortie"
+24:["$","code",null,{"children":"intercom_list_tags"}]
+25:"Entrée"
+26:"Sortie"
+27:["$","code",null,{"children":"intercom_create_tag"}]
+28:"Entrée"
+29:"Sortie"
+2a:["$","code",null,{"children":"intercom_tag_contact"}]
+2b:"Entrée"
+2c:"Sortie"
+2d:["$","code",null,{"children":"intercom_untag_contact"}]
+2e:"Entrée"
+2f:"Sortie"
+30:["$","code",null,{"children":"intercom_tag_conversation"}]
+31:"Entrée"
+32:"Sortie"
+33:["$","code",null,{"children":"intercom_create_note"}]
+34:"Entrée"
+35:"Sortie"
+36:["$","code",null,{"children":"intercom_create_event"}]
+37:"Entrée"
+38:"Sortie"
+39:["$","code",null,{"children":"intercom_attach_contact_to_company"}]
+3a:"Entrée"
+3b:"Sortie"
+3c:["$","code",null,{"children":"intercom_detach_contact_from_company"}]
+3d:"Entrée"
+3e:"Sortie"
+3f:null
+48:Tba44,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="intercom" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Intercom](https://www.intercom.com/) est une plateforme de communication client de premier plan qui vous permet de gérer et d'automatiser vos interactions avec les contacts, les entreprises, les conversations, les tickets et les messages, le tout en un seul endroit. L'intégration d'Intercom dans Aptlystar permet à vos agents de gérer par programmation les relations clients, les demandes d'assistance et les conversations directement à partir de vos flux de travail automatisés.
+
+Avec les outils Intercom, vous pouvez :
+
+* **Gestion des contacts :** créer, obtenir, mettre à jour, lister, rechercher et supprimer des contacts — automatisez vos processus de CRM et gardez vos dossiers clients à jour.
+* **Gestion des entreprises :** créer de nouvelles entreprises, récupérer les détails d'une entreprise et lister toutes les entreprises liées à vos utilisateurs ou clients professionnels.
+* **Gestion des conversations :** obtenir, lister, répondre et rechercher dans les conversations — permettant aux agents de suivre les fils de support en cours, de fournir des réponses et d'automatiser les actions de suivi.
+* **Gestion des tickets :** créer et récupérer des tickets par programmation, vous aidant à automatiser le service client, le suivi des problèmes d'assistance et les escalades de flux de travail.
+* **Envoi de messages :** déclencher des messages aux utilisateurs ou prospects pour l'intégration, le support ou le marketing, le tout depuis votre automatisation de flux de travail.
+
+En intégrant les outils Intercom dans Aptlystar, vous permettez à vos flux de travail de communiquer directement avec vos utilisateurs, d'automatiser les processus d'assistance client, de gérer les prospects et de rationaliser les communications à grande échelle. Que vous ayez besoin de créer de nouveaux contacts, de synchroniser les données clients, de gérer les tickets d'assistance ou d'envoyer des messages d'engagement personnalisés, les outils Intercom offrent un moyen complet de gérer les interactions client dans le cadre de vos automatisations intelligentes.
+
+{/* MANUAL-CONTENT-END */}
+
+Instructions d'utilisation [#instructions-dutilisation]
+
+Intégrez Intercom dans le flux de travail. Peut créer, obtenir, mettre à jour, lister, rechercher et supprimer des contacts ; créer, obtenir et lister des entreprises ; obtenir, lister, répondre et rechercher des conversations ; créer et obtenir des tickets ; et créer des messages.
+
+Outils [#outils]
+
+intercom_create_contact [#intercom_create_contact]
+
+Créer un nouveau contact dans Intercom avec email, external\_id ou role
+
+Entrée [#entrée]
+
+| Paramètre                  | Type    | Obligatoire | Description                                                                                |
+| -------------------------- | ------- | ----------- | ------------------------------------------------------------------------------------------ |
+| `role`                     | string  | Non         | Le rôle du contact. Accepte « user » ou « lead ». Par défaut « lead » si non spécifié.     |
+| `email`                    | string  | Non         | L'adresse e-mail du contact                                                                |
+| `external_id`              | string  | Non         | Un identifiant unique pour le contact fourni par le client                                 |
+| `phone`                    | string  | Non         | Le numéro de téléphone du contact                                                          |
+| `name`                     | string  | Non         | Le nom du contact                                                                          |
+| `avatar`                   | string  | Non         | Une URL d'image d'avatar pour le contact                                                   |
+| `signed_up_at`             | number  | Non         | L'heure d'inscription de l'utilisateur sous forme d'horodatage Unix                        |
+| `last_seen_at`             | number  | Non         | L'heure de dernière activité de l'utilisateur sous forme d'horodatage Unix                 |
+| `owner_id`                 | string  | Non         | L'identifiant d'un administrateur auquel la propriété du compte du contact a été attribuée |
+| `unsubscribed_from_emails` | boolean | Non         | Indique si le contact s'est désabonné des e-mails                                          |
+| `custom_attributes`        | string  | Non         | Attributs personnalisés sous forme d'objet JSON (par ex., \{"nom\_attribut": "valeur"})    |
+| `company_id`               | string  | Non         | Identifiant de l'entreprise à associer au contact lors de la création                      |
+
+Sortie [#sortie]
+
+| Paramètre | Type   | Description        |
+| --------- | ------ | ------------------ |
+| `contact` | object | Objet contact créé |
+
+intercom_get_contact [#intercom_get_contact]
+
+Obtenir un seul contact par ID depuis Intercom
+
+Entrée [#entrée-1]
+
+| Paramètre   | Type   | Obligatoire | Description               |
+| ----------- | ------ | ----------- | ------------------------- |
+| `contactId` | string | Oui         | ID du contact à récupérer |
+
+Sortie [#sortie-1]
+
+| Paramètre | Type   | Description   |
+| --------- | ------ | ------------- |
+| `contact` | object | Objet contact |
+
+intercom_update_contact [#intercom_update_contact]
+
+Mettre à jour un contact existant dans Intercom
+
+Entrée [#entrée-2]
+
+| Paramètre                  | Type    | Obligatoire | Description                                                                                |
+| -------------------------- | ------- | ----------- | ------------------------------------------------------------------------------------------ |
+| `contactId`                | string  | Oui         | Identifiant du contact à mettre à jour                                                     |
+| `role`                     | string  | Non         | Le rôle du contact. Accepte « user » ou « lead ».                                          |
+| `external_id`              | string  | Non         | Un identifiant unique pour le contact fourni par le client                                 |
+| `email`                    | string  | Non         | L'adresse e-mail du contact                                                                |
+| `phone`                    | string  | Non         | Le numéro de téléphone du contact                                                          |
+| `name`                     | string  | Non         | Le nom du contact                                                                          |
+| `avatar`                   | string  | Non         | Une URL d'image d'avatar pour le contact                                                   |
+| `signed_up_at`             | number  | Non         | L'heure d'inscription de l'utilisateur sous forme d'horodatage Unix                        |
+| `last_seen_at`             | number  | Non         | L'heure de dernière activité de l'utilisateur sous forme d'horodatage Unix                 |
+| `owner_id`                 | string  | Non         | L'identifiant d'un administrateur auquel la propriété du compte du contact a été attribuée |
+| `unsubscribed_from_emails` | boolean | Non         | Indique si le contact s'est désabonné des e-mails                                          |
+| `custom_attributes`        | string  | Non         | Attributs personnalisés sous forme d'objet JSON (par ex., \{"nom\_attribut": "valeur"})    |
+| `company_id`               | string  | Non         | Identifiant de l'entreprise à associer au contact                                          |
+
+Sortie [#sortie-2]
+
+| Paramètre | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `contact` | object | Objet contact mis à jour |
+
+intercom_list_contacts [#intercom_list_contacts]
+
+Lister tous les contacts d'Intercom avec prise en charge de la pagination
+
+Entrée [#entrée-3]
+
+| Paramètre        | Type   | Obligatoire | Description                                          |
+| ---------------- | ------ | ----------- | ---------------------------------------------------- |
+| `per_page`       | nombre | Non         | Nombre de résultats par page (max : 150)             |
+| `starting_after` | chaîne | Non         | Curseur pour la pagination - ID pour commencer après |
+
+Sortie [#sortie-3]
+
+| Paramètre  | Type  | Description              |
+| ---------- | ----- | ------------------------ |
+| `contacts` | array | Tableau d'objets contact |
+
+intercom_search_contacts [#intercom_search_contacts]
+
+Rechercher des contacts dans Intercom à l'aide d'une requête
+
+Entrée [#entrée-4]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                                                             |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| `query`          | string | Oui         | Requête de recherche (par ex., \{"field":"email","operator":"=","value":"[user@example.com](mailto:user@example.com)"}) |
+| `per_page`       | number | Non         | Nombre de résultats par page (max : 150)                                                                                |
+| `starting_after` | string | Non         | Curseur pour la pagination                                                                                              |
+| `sort_field`     | string | Non         | Champ de tri (par ex., "name", "created\_at", "last\_seen\_at")                                                         |
+| `sort_order`     | string | Non         | Ordre de tri : "ascending" ou "descending"                                                                              |
+
+Sortie [#sortie-4]
+
+| Paramètre  | Type  | Description                             |
+| ---------- | ----- | --------------------------------------- |
+| `contacts` | array | Tableau d'objets contact correspondants |
+
+intercom_delete_contact [#intercom_delete_contact]
+
+Supprimer un contact d'Intercom par ID
+
+Entrée [#entrée-5]
+
+| Paramètre   | Type   | Obligatoire | Description               |
+| ----------- | ------ | ----------- | ------------------------- |
+| `contactId` | chaîne | Oui         | ID du contact à supprimer |
+
+Sortie [#sortie-5]
+
+| Paramètre  | Type    | Description                          |
+| ---------- | ------- | ------------------------------------ |
+| `id`       | string  | ID du contact supprimé               |
+| `deleted`  | boolean | Indique si le contact a été supprimé |
+| `metadata` | object  | Métadonnées de l'opération           |
+
+intercom_create_company [#intercom_create_company]
+
+Créer ou mettre à jour une entreprise dans Intercom
+
+Entrée [#entrée-6]
+
+| Paramètre           | Type   | Obligatoire | Description                                                                                                                                                  |
+| ------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `company_id`        | string | Oui         | Votre identifiant unique pour l'entreprise                                                                                                                   |
+| `name`              | string | Non         | Le nom de l'entreprise                                                                                                                                       |
+| `website`           | string | Non         | Le site web de l'entreprise                                                                                                                                  |
+| `plan`              | string | Non         | Le nom du plan de l'entreprise                                                                                                                               |
+| `size`              | number | Non         | Le nombre d'employés dans l'entreprise                                                                                                                       |
+| `industry`          | string | Non         | Le secteur d'activité de l'entreprise                                                                                                                        |
+| `monthly_spend`     | number | Non         | Le chiffre d'affaires que l'entreprise génère pour votre activité. Remarque : ce champ tronque les nombres décimaux en entiers (par ex., 155,98 devient 155) |
+| `custom_attributes` | string | Non         | Attributs personnalisés sous forme d'objet JSON                                                                                                              |
+| `remote_created_at` | number | Non         | La date de création de l'entreprise par vous sous forme d'horodatage Unix                                                                                    |
+
+Sortie [#sortie-6]
+
+| Paramètre | Type   | Description                         |
+| --------- | ------ | ----------------------------------- |
+| `company` | object | Objet entreprise créé ou mis à jour |
+
+intercom_get_company [#intercom_get_company]
+
+Récupérer une seule entreprise par ID depuis Intercom
+
+Entrée [#entrée-7]
+
+| Paramètre   | Type   | Obligatoire | Description                    |
+| ----------- | ------ | ----------- | ------------------------------ |
+| `companyId` | chaîne | Oui         | ID de l'entreprise à récupérer |
+
+Sortie [#sortie-7]
+
+| Paramètre | Type   | Description      |
+| --------- | ------ | ---------------- |
+| `company` | object | Objet entreprise |
+
+intercom_list_companies [#intercom_list_companies]
+
+Liste toutes les entreprises d'Intercom avec prise en charge de la pagination. Remarque : cet endpoint a une limite de 10 000 entreprises qui peuvent être renvoyées en utilisant la pagination. Pour les ensembles de données de plus de 10 000 entreprises, utilisez plutôt l'API Scroll.
+
+Entrée [#entrée-8]
+
+| Paramètre        | Type   | Obligatoire | Description                                                   |
+| ---------------- | ------ | ----------- | ------------------------------------------------------------- |
+| `per_page`       | number | Non         | Nombre de résultats par page                                  |
+| `page`           | number | Non         | Numéro de page                                                |
+| `starting_after` | string | Non         | Curseur pour la pagination (préféré à la pagination par page) |
+
+Sortie [#sortie-8]
+
+| Paramètre   | Type  | Description                 |
+| ----------- | ----- | --------------------------- |
+| `companies` | array | Tableau d'objets entreprise |
+
+intercom_get_conversation [#intercom_get_conversation]
+
+Récupérer une seule conversation par ID depuis Intercom
+
+Entrée [#entrée-9]
+
+| Paramètre              | Type    | Obligatoire | Description                                                                                              |
+| ---------------------- | ------- | ----------- | -------------------------------------------------------------------------------------------------------- |
+| `conversationId`       | string  | Oui         | ID de la conversation à récupérer                                                                        |
+| `display_as`           | string  | Non         | Définir sur "plaintext" pour récupérer les messages en texte brut                                        |
+| `include_translations` | boolean | Non         | Lorsque true, les parties de la conversation seront traduites dans la langue détectée de la conversation |
+
+Sortie [#sortie-9]
+
+| Paramètre      | Type   | Description        |
+| -------------- | ------ | ------------------ |
+| `conversation` | object | Objet conversation |
+
+intercom_list_conversations [#intercom_list_conversations]
+
+Lister toutes les conversations depuis Intercom avec prise en charge de la pagination
+
+Entrée [#entrée-10]
+
+| Paramètre        | Type   | Obligatoire | Description                                                        |
+| ---------------- | ------ | ----------- | ------------------------------------------------------------------ |
+| `per_page`       | number | Non         | Nombre de résultats par page (max : 150)                           |
+| `starting_after` | string | Non         | Curseur pour la pagination                                         |
+| `sort`           | string | Non         | Champ de tri (ex., "waiting\_since", "updated\_at", "created\_at") |
+| `order`          | string | Non         | Ordre de tri : "asc" (croissant) ou "desc" (décroissant)           |
+
+Sortie [#sortie-10]
+
+| Paramètre       | Type  | Description                   |
+| --------------- | ----- | ----------------------------- |
+| `conversations` | array | Tableau d'objets conversation |
+
+intercom_reply_conversation [#intercom_reply_conversation]
+
+Répondre à une conversation en tant qu'administrateur dans Intercom
+
+Entrée [#entrée-11]
+
+| Paramètre         | Type   | Obligatoire | Description                                                                                                            |
+| ----------------- | ------ | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `conversationId`  | string | Oui         | ID de la conversation à laquelle répondre                                                                              |
+| `message_type`    | string | Oui         | Type de message : "comment" ou "note"                                                                                  |
+| `body`            | string | Oui         | Corps du texte de la réponse                                                                                           |
+| `admin_id`        | string | Non         | ID de l'administrateur qui rédige la réponse. Si non fourni, un administrateur par défaut (Operator/Fin) sera utilisé. |
+| `attachment_urls` | string | Non         | Liste d'URL d'images séparées par des virgules (max 10)                                                                |
+| `created_at`      | number | Non         | Horodatage Unix du moment où la réponse a été créée. Si non fourni, l'heure actuelle est utilisée.                     |
+
+Sortie [#sortie-11]
+
+| Paramètre      | Type   | Description                   |
+| -------------- | ------ | ----------------------------- |
+| `conversation` | object | Objet conversation mis à jour |
+
+intercom_search_conversations [#intercom_search_conversations]
+
+Rechercher des conversations dans Intercom à l'aide d'une requête
+
+Entrée [#entrée-12]
+
+| Paramètre        | Type   | Obligatoire | Description                                              |
+| ---------------- | ------ | ----------- | -------------------------------------------------------- |
+| `query`          | string | Oui         | Requête de recherche sous forme d'objet JSON             |
+| `per_page`       | number | Non         | Nombre de résultats par page (max : 150)                 |
+| `starting_after` | string | Non         | Curseur pour la pagination                               |
+| `sort_field`     | string | Non         | Champ de tri (par exemple, "created\_at", "updated\_at") |
+| `sort_order`     | string | Non         | Ordre de tri : "ascending" ou "descending"               |
+
+Sortie [#sortie-12]
+
+| Paramètre       | Type  | Description                                  |
+| --------------- | ----- | -------------------------------------------- |
+| `conversations` | array | Tableau d'objets conversation correspondants |
+
+intercom_create_ticket [#intercom_create_ticket]
+
+Créer un nouveau ticket dans Intercom
+
+Entrée [#entrée-13]
+
+| Paramètre                 | Type    | Obligatoire | Description                                                                                      |
+| ------------------------- | ------- | ----------- | ------------------------------------------------------------------------------------------------ |
+| `ticket_type_id`          | string  | Oui         | L'ID du type de ticket                                                                           |
+| `contacts`                | string  | Oui         | Tableau JSON d'identifiants de contacts (par exemple, \[\{"id": "contact\_id"}])                 |
+| `ticket_attributes`       | string  | Oui         | Objet JSON avec les attributs du ticket incluant *default\_title* et *default\_description*      |
+| `company_id`              | string  | Non         | ID de l'entreprise à associer au ticket                                                          |
+| `created_at`              | number  | Non         | Horodatage Unix du moment où le ticket a été créé. Si non fourni, l'heure actuelle est utilisée. |
+| `conversation_to_link_id` | string  | Non         | ID d'une conversation existante à lier à ce ticket                                               |
+| `disable_notifications`   | boolean | Non         | Lorsque défini sur true, supprime les notifications lors de la création du ticket                |
+
+Sortie [#sortie-13]
+
+| Paramètre | Type   | Description       |
+| --------- | ------ | ----------------- |
+| `ticket`  | object | Objet ticket créé |
+
+intercom_get_ticket [#intercom_get_ticket]
+
+Récupérer un ticket unique par ID depuis Intercom
+
+Entrée [#entrée-14]
+
+| Paramètre  | Type   | Obligatoire | Description              |
+| ---------- | ------ | ----------- | ------------------------ |
+| `ticketId` | string | Oui         | ID du ticket à récupérer |
+
+Sortie [#sortie-14]
+
+| Paramètre | Type   | Description  |
+| --------- | ------ | ------------ |
+| `ticket`  | object | Objet ticket |
+
+intercom_create_message [#intercom_create_message]
+
+Créer et envoyer un nouveau message initié par l'administrateur dans Intercom
+
+Entrée [#entrée-15]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                       |
+| -------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------- |
+| `message_type` | string | Oui         | Type de message : "inapp" pour les messages in-app ou "email" pour les messages e-mail            |
+| `template`     | string | Oui         | Style du modèle de message : "plain" pour texte brut ou "personal" pour style personnalisé        |
+| `subject`      | string | Non         | Le sujet du message (pour le type e-mail)                                                         |
+| `body`         | string | Oui         | Le corps du message                                                                               |
+| `from_type`    | string | Oui         | Type d'expéditeur : "admin"                                                                       |
+| `from_id`      | string | Oui         | L'ID de l'administrateur qui envoie le message                                                    |
+| `to_type`      | string | Oui         | Type de destinataire : "contact"                                                                  |
+| `to_id`        | string | Oui         | L'ID du contact qui reçoit le message                                                             |
+| `created_at`   | number | Non         | Horodatage Unix du moment où le message a été créé. Si non fourni, l'heure actuelle est utilisée. |
+
+Sortie [#sortie-15]
+
+| Paramètre | Type   | Description        |
+| --------- | ------ | ------------------ |
+| `message` | object | Objet message créé |
+
+Notes [#notes]
+
+* Catégorie : `tools`
+* Type : `intercom`
+
+Créer et envoyer un nouveau message initié par un administrateur dans Intercom. Renvoie uniquement les champs alignés sur l'API.
+
+Entrée [#entrée-16]
+
+| Paramètre      | Type   | Obligatoire | Description                                                                                          |
+| -------------- | ------ | ----------- | ---------------------------------------------------------------------------------------------------- |
+| `message_type` | string | Oui         | Type de message : « inapp » pour les messages in-app ou « email » pour les messages e-mail           |
+| `template`     | string | Oui         | Style du modèle de message : « plain » pour texte brut ou « personal » pour style personnalisé       |
+| `subject`      | string | Non         | L'objet du message (pour le type e-mail)                                                             |
+| `body`         | string | Oui         | Le corps du message                                                                                  |
+| `from_type`    | string | Oui         | Type d'expéditeur : « admin »                                                                        |
+| `from_id`      | string | Oui         | L'identifiant de l'administrateur envoyant le message                                                |
+| `to_type`      | string | Oui         | Type de destinataire : « contact »                                                                   |
+| `to_id`        | string | Oui         | L'identifiant du contact recevant le message                                                         |
+| `created_at`   | number | Non         | Horodatage Unix indiquant quand le message a été créé. Si non fourni, l'heure actuelle est utilisée. |
+
+Sortie [#sortie-16]
+
+| Paramètre           | Type    | Description                            |
+| ------------------- | ------- | -------------------------------------- |
+| `message`           | object  | Objet message créé                     |
+| ↳ `id`              | string  | Identifiant unique du message          |
+| ↳ `type`            | string  | Type d'objet (message)                 |
+| ↳ `created_at`      | number  | Horodatage Unix de création du message |
+| ↳ `body`            | string  | Corps du message                       |
+| ↳ `message_type`    | string  | Type du message (in\_app ou email)     |
+| ↳ `conversation_id` | string  | Identifiant de la conversation créée   |
+| ↳ `owner`           | object  | Propriétaire du message                |
+| `messageId`         | string  | Identifiant du message créé            |
+| `success`           | boolean | Statut de réussite de l'opération      |
+
+intercom_list_admins [#intercom_list_admins]
+
+Récupérer une liste de tous les administrateurs de l'espace de travail
+
+Entrée [#entrée-17]
+
+| Paramètre | Type | Obligatoire | Description |
+| --------- | ---- | ----------- | ----------- |
+
+Sortie [#sortie-17]
+
+| Paramètre              | Type    | Description                                                                 |
+| ---------------------- | ------- | --------------------------------------------------------------------------- |
+| `admins`               | array   | Tableau d'objets administrateur                                             |
+| ↳ `id`                 | string  | Identifiant unique de l'administrateur                                      |
+| ↳ `type`               | string  | Type d'objet (admin)                                                        |
+| ↳ `name`               | string  | Nom de l'administrateur                                                     |
+| ↳ `email`              | string  | E-mail de l'administrateur                                                  |
+| ↳ `job_title`          | string  | Titre du poste de l'administrateur                                          |
+| ↳ `away_mode_enabled`  | boolean | Indique si l'administrateur est en mode absent                              |
+| ↳ `away_mode_reassign` | boolean | Indique s'il faut réattribuer les conversations en cas d'absence            |
+| ↳ `has_inbox_seat`     | boolean | Indique si l'administrateur dispose d'un siège de boîte de réception payant |
+| ↳ `team_ids`           | array   | Liste des ID d'équipe auxquelles appartient l'administrateur                |
+| ↳ `avatar`             | object  | Informations sur l'avatar                                                   |
+| ↳ `email_verified`     | boolean | Indique si l'e-mail est vérifié                                             |
+| `type`                 | string  | Type d'objet (admin.list)                                                   |
+
+intercom_close_conversation [#intercom_close_conversation]
+
+Fermer une conversation dans Intercom
+
+Entrée [#entrée-18]
+
+| Paramètre        | Type   | Obligatoire | Description                                              |
+| ---------------- | ------ | ----------- | -------------------------------------------------------- |
+| `conversationId` | string | Oui         | L'ID de la conversation à fermer                         |
+| `admin_id`       | string | Oui         | L'ID de l'administrateur effectuant l'action             |
+| `body`           | string | Non         | Message de clôture optionnel à ajouter à la conversation |
+
+Sortie [#sortie-18]
+
+| Paramètre        | Type    | Description                                                |
+| ---------------- | ------- | ---------------------------------------------------------- |
+| `conversation`   | object  | L'objet conversation fermée                                |
+| ↳ `id`           | string  | Identifiant unique de la conversation                      |
+| ↳ `type`         | string  | Type d'objet (conversation)                                |
+| ↳ `state`        | string  | État de la conversation (fermée)                           |
+| ↳ `open`         | boolean | Indique si la conversation est ouverte (false)             |
+| ↳ `read`         | boolean | Indique si la conversation a été lue                       |
+| ↳ `created_at`   | number  | Horodatage Unix de création de la conversation             |
+| ↳ `updated_at`   | number  | Horodatage Unix de dernière mise à jour de la conversation |
+| `conversationId` | string  | ID de la conversation fermée                               |
+| `state`          | string  | État de la conversation (fermée)                           |
+
+intercom_open_conversation [#intercom_open_conversation]
+
+Ouvrir une conversation fermée ou en veille dans Intercom
+
+Entrée [#entrée-19]
+
+| Paramètre        | Type   | Obligatoire | Description                                  |
+| ---------------- | ------ | ----------- | -------------------------------------------- |
+| `conversationId` | string | Oui         | L'ID de la conversation à ouvrir             |
+| `admin_id`       | string | Oui         | L'ID de l'administrateur effectuant l'action |
+
+Sortie [#sortie-19]
+
+| Paramètre        | Type    | Description                                                |
+| ---------------- | ------- | ---------------------------------------------------------- |
+| `conversation`   | object  | L'objet conversation ouverte                               |
+| ↳ `id`           | string  | Identifiant unique de la conversation                      |
+| ↳ `type`         | string  | Type d'objet (conversation)                                |
+| ↳ `state`        | string  | État de la conversation (ouverte)                          |
+| ↳ `open`         | boolean | Indique si la conversation est ouverte (true)              |
+| ↳ `read`         | boolean | Indique si la conversation a été lue                       |
+| ↳ `created_at`   | number  | Horodatage Unix de création de la conversation             |
+| ↳ `updated_at`   | number  | Horodatage Unix de dernière mise à jour de la conversation |
+| `conversationId` | string  | ID de la conversation ouverte                              |
+| `state`          | string  | État de la conversation (ouverte)                          |
+
+intercom_snooze_conversation [#intercom_snooze_conversation]
+
+Mettre en veille une conversation pour la rouvrir ultérieurement
+
+Entrée [#entrée-20]
+
+| Paramètre        | Type   | Obligatoire | Description                                                     |
+| ---------------- | ------ | ----------- | --------------------------------------------------------------- |
+| `conversationId` | string | Oui         | L'ID de la conversation à mettre en veille                      |
+| `admin_id`       | string | Oui         | L'ID de l'administrateur effectuant l'action                    |
+| `snoozed_until`  | number | Oui         | Horodatage Unix indiquant quand la conversation doit se rouvrir |
+
+Sortie [#sortie-20]
+
+| Paramètre         | Type    | Description                                                 |
+| ----------------- | ------- | ----------------------------------------------------------- |
+| `conversation`    | object  | L'objet conversation mise en veille                         |
+| ↳ `id`            | string  | Identifiant unique de la conversation                       |
+| ↳ `type`          | string  | Type d'objet (conversation)                                 |
+| ↳ `state`         | string  | État de la conversation (snoozed)                           |
+| ↳ `open`          | boolean | Indique si la conversation est ouverte                      |
+| ↳ `snoozed_until` | number  | Horodatage Unix indiquant quand la conversation se rouvrira |
+| ↳ `created_at`    | number  | Horodatage Unix de création de la conversation              |
+| ↳ `updated_at`    | number  | Horodatage Unix de dernière mise à jour de la conversation  |
+| `conversationId`  | string  | ID de la conversation mise en veille                        |
+| `state`           | string  | État de la conversation (snoozed)                           |
+| `snoozed_until`   | number  | Horodatage Unix indiquant quand la conversation se rouvrira |
+
+intercom_assign_conversation [#intercom_assign_conversation]
+
+Attribuer une conversation à un administrateur ou une équipe dans Intercom
+
+Entrée [#entrée-21]
+
+| Paramètre        | Type   | Obligatoire | Description                                                                                                   |
+| ---------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------- |
+| `conversationId` | string | Oui         | L'ID de la conversation à attribuer                                                                           |
+| `admin_id`       | string | Oui         | L'ID de l'administrateur effectuant l'attribution                                                             |
+| `assignee_id`    | string | Oui         | L'ID de l'administrateur ou de l'équipe à qui attribuer la conversation. Définir sur « 0 » pour désattribuer. |
+| `body`           | string | Non         | Message optionnel à ajouter lors de l'attribution (par ex., « Transmission à l'équipe support »)              |
+
+Sortie [#sortie-21]
+
+| Paramètre             | Type    | Description                                                |
+| --------------------- | ------- | ---------------------------------------------------------- |
+| `conversation`        | object  | L'objet conversation assigné                               |
+| ↳ `id`                | string  | Identifiant unique de la conversation                      |
+| ↳ `type`              | string  | Type d'objet (conversation)                                |
+| ↳ `state`             | string  | État de la conversation                                    |
+| ↳ `open`              | boolean | Indique si la conversation est ouverte                     |
+| ↳ `admin_assignee_id` | number  | ID de l'administrateur assigné                             |
+| ↳ `team_assignee_id`  | string  | ID de l'équipe assignée                                    |
+| ↳ `created_at`        | number  | Horodatage Unix de création de la conversation             |
+| ↳ `updated_at`        | number  | Horodatage Unix de dernière mise à jour de la conversation |
+| `conversationId`      | string  | ID de la conversation assignée                             |
+| `admin_assignee_id`   | number  | ID de l'administrateur assigné                             |
+| `team_assignee_id`    | string  | ID de l'équipe assignée                                    |
+
+intercom_list_tags [#intercom_list_tags]
+
+Récupérer une liste de tous les tags dans l'espace de travail
+
+Entrée [#entrée-22]
+
+| Paramètre | Type | Obligatoire | Description |
+| --------- | ---- | ----------- | ----------- |
+
+Sortie [#sortie-22]
+
+| Paramètre | Type   | Description               |
+| --------- | ------ | ------------------------- |
+| `tags`    | array  | Tableau d'objets tag      |
+| ↳ `id`    | string | Identifiant unique du tag |
+| ↳ `type`  | string | Type d'objet (tag)        |
+| ↳ `name`  | string | Nom du tag                |
+| `type`    | string | Type d'objet (list)       |
+
+intercom_create_tag [#intercom_create_tag]
+
+Créer une nouvelle étiquette ou mettre à jour le nom d'une étiquette existante
+
+Entrée [#entrée-23]
+
+| Paramètre | Type   | Obligatoire | Description                                                                                                                 |
+| --------- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `name`    | string | Oui         | Le nom de l'étiquette. Créera une nouvelle étiquette si elle n'est pas trouvée, ou mettra à jour le nom si l'id est fourni. |
+| `id`      | string | Non         | L'ID d'une étiquette existante à mettre à jour. Omettre pour créer une nouvelle étiquette.                                  |
+
+Sortie [#sortie-23]
+
+| Paramètre | Type   | Description                       |
+| --------- | ------ | --------------------------------- |
+| `id`      | string | Identifiant unique de l'étiquette |
+| `name`    | string | Nom de l'étiquette                |
+| `type`    | string | Type d'objet (tag)                |
+
+intercom_tag_contact [#intercom_tag_contact]
+
+Ajouter une étiquette à un contact spécifique
+
+Entrée [#entrée-24]
+
+| Paramètre   | Type   | Obligatoire | Description                     |
+| ----------- | ------ | ----------- | ------------------------------- |
+| `contactId` | string | Oui         | L'ID du contact à étiqueter     |
+| `tagId`     | string | Oui         | L'ID de l'étiquette à appliquer |
+
+Sortie [#sortie-24]
+
+| Paramètre | Type   | Description                       |
+| --------- | ------ | --------------------------------- |
+| `id`      | string | Identifiant unique de l'étiquette |
+| `name`    | string | Nom de l'étiquette                |
+| `type`    | string | Type d'objet (tag)                |
+
+intercom_untag_contact [#intercom_untag_contact]
+
+Retirer une étiquette d'un contact spécifique
+
+Entrée [#entrée-25]
+
+| Paramètre   | Type   | Obligatoire | Description                              |
+| ----------- | ------ | ----------- | ---------------------------------------- |
+| `contactId` | string | Oui         | L'ID du contact dont retirer l'étiquette |
+| `tagId`     | string | Oui         | L'ID de l'étiquette à retirer            |
+
+Sortie [#sortie-25]
+
+| Paramètre | Type   | Description                                  |
+| --------- | ------ | -------------------------------------------- |
+| `id`      | string | Identifiant unique du tag qui a été supprimé |
+| `name`    | string | Nom du tag qui a été supprimé                |
+| `type`    | string | Type d'objet (tag)                           |
+
+intercom_tag_conversation [#intercom_tag_conversation]
+
+Ajouter un tag à une conversation spécifique
+
+Entrée [#entrée-26]
+
+| Paramètre        | Type   | Obligatoire | Description                                |
+| ---------------- | ------ | ----------- | ------------------------------------------ |
+| `conversationId` | string | Oui         | L'ID de la conversation à taguer           |
+| `tagId`          | string | Oui         | L'ID du tag à appliquer                    |
+| `admin_id`       | string | Oui         | L'ID de l'administrateur appliquant le tag |
+
+Sortie [#sortie-26]
+
+| Paramètre | Type   | Description               |
+| --------- | ------ | ------------------------- |
+| `id`      | string | Identifiant unique du tag |
+| `name`    | string | Nom du tag                |
+| `type`    | string | Type d'objet (tag)        |
+
+intercom_create_note [#intercom_create_note]
+
+Ajouter une note à un contact spécifique
+
+Entrée [#entrée-27]
+
+| Paramètre   | Type   | Obligatoire | Description                             |
+| ----------- | ------ | ----------- | --------------------------------------- |
+| `contactId` | string | Oui         | L'ID du contact auquel ajouter la note  |
+| `body`      | string | Oui         | Le contenu textuel de la note           |
+| `admin_id`  | string | Non         | L'ID de l'administrateur créant la note |
+
+Sortie [#sortie-27]
+
+| Paramètre    | Type   | Description                                |
+| ------------ | ------ | ------------------------------------------ |
+| `id`         | string | Identifiant unique de la note              |
+| `body`       | string | Le contenu texte de la note                |
+| `created_at` | number | Horodatage Unix de création de la note     |
+| `type`       | string | Type d'objet (note)                        |
+| `author`     | object | L'administrateur qui a créé la note        |
+| ↳ `type`     | string | Type d'auteur (admin)                      |
+| ↳ `id`       | string | ID de l'auteur                             |
+| ↳ `name`     | string | Nom de l'auteur                            |
+| ↳ `email`    | string | E-mail de l'auteur                         |
+| `contact`    | object | Le contact pour lequel la note a été créée |
+| ↳ `type`     | string | Type de contact                            |
+| ↳ `id`       | string | ID du contact                              |
+
+intercom_create_event [#intercom_create_event]
+
+Suivre un événement personnalisé pour un contact dans Intercom
+
+Entrée [#entrée-28]
+
+| Paramètre    | Type   | Obligatoire | Description                                                                                                                                      |
+| ------------ | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `event_name` | string | Oui         | Le nom de l'événement (par ex., « commande-terminée »). Utilisez le format verbe-nom au passé pour une meilleure lisibilité.                     |
+| `created_at` | number | Non         | Horodatage Unix du moment où l'événement s'est produit. Fortement recommandé pour l'unicité.                                                     |
+| `user_id`    | string | Non         | Votre identifiant pour l'utilisateur (external\_id)                                                                                              |
+| `email`      | string | Non         | Adresse e-mail de l'utilisateur. À utiliser uniquement si votre application utilise l'e-mail pour identifier de manière unique les utilisateurs. |
+| `id`         | string | Non         | L'ID de contact Intercom                                                                                                                         |
+| `metadata`   | string | Non         | Objet JSON avec jusqu'à 10 paires clé-valeur de métadonnées sur l'événement (par ex., \{"valeur\_commande": 99.99})                              |
+
+Sortie [#sortie-28]
+
+| Paramètre  | Type    | Description                                         |
+| ---------- | ------- | --------------------------------------------------- |
+| `accepted` | boolean | Indique si l'événement a été accepté (202 Accepted) |
+
+intercom_attach_contact_to_company [#intercom_attach_contact_to_company]
+
+Associer un contact à une entreprise dans Intercom
+
+Entrée [#entrée-29]
+
+| Paramètre   | Type   | Obligatoire | Description                                                  |
+| ----------- | ------ | ----------- | ------------------------------------------------------------ |
+| `contactId` | string | Oui         | L'identifiant du contact à associer à l'entreprise           |
+| `companyId` | string | Oui         | L'identifiant de l'entreprise à laquelle associer le contact |
+
+Sortie [#sortie-29]
+
+| Paramètre         | Type   | Description                                        |
+| ----------------- | ------ | -------------------------------------------------- |
+| `company`         | object | L'objet entreprise auquel le contact a été associé |
+| ↳ `id`            | string | Identifiant unique de l'entreprise                 |
+| ↳ `type`          | string | Type d'objet (company)                             |
+| ↳ `company_id`    | string | Le company\_id que vous avez défini                |
+| ↳ `name`          | string | Nom de l'entreprise                                |
+| ↳ `created_at`    | number | Horodatage Unix de création de l'entreprise        |
+| ↳ `updated_at`    | number | Horodatage Unix de mise à jour de l'entreprise     |
+| ↳ `user_count`    | number | Nombre d'utilisateurs dans l'entreprise            |
+| ↳ `session_count` | number | Nombre de sessions                                 |
+| ↳ `monthly_spend` | number | Montant des dépenses mensuelles                    |
+| ↳ `plan`          | object | Détails du plan de l'entreprise                    |
+| `companyId`       | string | Identifiant de l'entreprise                        |
+| `name`            | string | Nom de l'entreprise                                |
+
+intercom_detach_contact_from_company [#intercom_detach_contact_from_company]
+
+Retirer un contact d'une entreprise dans Intercom
+
+Entrée [#entrée-30]
+
+| Paramètre   | Type   | Obligatoire | Description                                   |
+| ----------- | ------ | ----------- | --------------------------------------------- |
+| `contactId` | string | Oui         | L'ID du contact à détacher de l'entreprise    |
+| `companyId` | string | Oui         | L'ID de l'entreprise dont détacher le contact |
+
+Sortie [#sortie-30]
+
+| Paramètre      | Type   | Description                                      |
+| -------------- | ------ | ------------------------------------------------ |
+| `company`      | object | L'objet entreprise dont le contact a été détaché |
+| ↳ `id`         | string | Identifiant unique de l'entreprise               |
+| ↳ `type`       | string | Type d'objet (company)                           |
+| ↳ `company_id` | string | Le company\_id que vous avez défini              |
+| ↳ `name`       | string | Nom de l'entreprise                              |
+| `companyId`    | string | ID de l'entreprise                               |
+| `name`         | string | Nom de l'entreprise                              |
+40:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L47",null,{"content":"$48"}]}],"$L49"]}],"$L4a","$L4b"]}]
+41:["$","$L4c",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L4d",null,{"type":"intercom","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L4e",null,{"href":"https://www.intercom.com/","children":"Intercom"}]," est une plateforme de communication client de premier plan qui vous permet de gérer et d'automatiser vos interactions avec les contacts, les entreprises, les conversations, les tickets et les messages, le tout en un seul endroit. L'intégration d'Intercom dans Aptlystar permet à vos agents de gérer par programmation les relations clients, les demandes d'assistance et les conversations directement à partir de vos flux de travail automatisés."]}],"\n",["$","p",null,{"children":"Avec les outils Intercom, vous pouvez :"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestion des contacts :"}]," créer, obtenir, mettre à jour, lister, rechercher et supprimer des contacts — automatisez vos processus de CRM et gardez vos dossiers clients à jour."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestion des entreprises :"}]," créer de nouvelles entreprises, récupérer les détails d'une entreprise et lister toutes les entreprises liées à vos utilisateurs ou clients professionnels."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestion des conversations :"}]," obtenir, lister, répondre et rechercher dans les conversations — permettant aux agents de suivre les fils de support en cours, de fournir des réponses et d'automatiser les actions de suivi."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestion des tickets :"}]," créer et récupérer des tickets par programmation, vous aidant à automatiser le service client, le suivi des problèmes d'assistance et les escalades de flux de travail."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Envoi de messages :"}]," déclencher des messages aux utilisateurs ou prospects pour l'intégration, le support ou le marketing, le tout depuis votre automatisation de flux de travail."]}],"\n"]}],"\n",["$","p",null,{"children":"En intégrant les outils Intercom dans Aptlystar, vous permettez à vos flux de travail de communiquer directement avec vos utilisateurs, d'automatiser les processus d'assistance client, de gérer les prospects et de rationaliser les communications à grande échelle. Que vous ayez besoin de créer de nouveaux contacts, de synchroniser les données clients, de gérer les tickets d'assistance ou d'envoyer des messages d'engagement personnalisés, les outils Intercom offrent un moyen complet de gérer les interactions client dans le cadre de vos automatisations intelligentes."}],"\n","\n",["$","$L4f",null,{"as":"h2","id":"instructions-dutilisation","children":"Instructions d'utilisation"}],"\n",["$","p",null,{"children":"Intégrez Intercom dans le flux de travail. Peut créer, obtenir, mettre à jour, lister, rechercher et supprimer des contacts ; créer, obtenir et lister des entreprises ; obtenir, lister, répondre et rechercher des conversations ; créer et obtenir des tickets ; et créer des messages."}],"\n",["$","$L4f",null,{"as":"h2","id":"outils","children":"Outils"}],"\n",["$","$L4f",null,{"as":"h3","id":"intercom_create_contact","children":["$","code",null,{"children":"intercom_create_contact"}]}],"\n",["$","p",null,{"children":"Créer un nouveau contact dans Intercom avec email, external_id ou role"}],"\n",["$","$L4f",null,{"as":"h4","id":"entrée","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],"$L50"]}]}],"$L51"]}]}],"\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6","\n","$Le7","\n","$Le8","\n","$Le9","\n","$Lea","\n","$Leb","\n","$Lec","\n","$Led","\n","$Lee","\n","$Lef","\n","$Lf0","\n","$Lf1","\n","$Lf2","\n","$Lf3","\n","$Lf4","\n","$Lf5","\n","$Lf6","\n","$Lf7","\n","$Lf8","\n","$Lf9","\n","$Lfa","\n","$Lfb","\n","$Lfc","\n","$Lfd","\n","$Lfe","\n","$Lff","\n","$L100","\n","$L101","\n","$L102","\n","$L103","\n","$L104","\n","$L105","\n","$L106","\n","$L107","\n","$L108"]}]}]
+42:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+43:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+44:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+45:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+46:["$","$L109",null,{"children":["$","$10a",null,{"name":"Next.MetadataOutlet","children":"$@10b"}]}]
+49:["$","$L10c",null,{}]
+10d:Tbe4,M221.66,144.56 C221.66,146.9 220.76,149.15 219.17,150.8 C217.57,152.46 215.4,153.39 213.15,153.39 C210.89,153.39 208.72,152.46 207.12,150.8 C205.53,149.15 204.63,146.9 204.63,144.56 L204.63,65.68 C204.63,63.34 205.53,61.09 207.12,59.43 C208.72,57.78 210.89,56.85 213.15,56.85 C215.4,56.85 217.57,57.78 219.17,59.43 C220.76,61.09 221.66,63.34 221.66,65.68 L221.66,144.56 Z M218.7,199.22 C217.58,200.39 185.91,227.75 127.86,227.75 C69.81,227.75 38.35,200.53 37.01,199.36 C36.17,198.63 35.48,197.73 34.97,196.71 C34.47,195.69 34.16,194.59 34.07,193.45 C33.98,192.31 34.1,191.16 34.44,190.07 C34.77,188.98 35.32,187.98 36.03,187.1 C37.5,185.34 39.58,184.25 41.82,184.07 C44.06,183.9 46.28,184.64 47.99,186.16 C48.48,186.52 76.77,210.31 127.79,210.31 C178.81,210.31 207.3,186.37 207.59,186.16 C209.32,184.66 211.54,183.92 213.79,184.1 C216.04,184.27 218.13,185.35 219.62,187.1 C221.06,188.84 221.77,191.1 221.61,193.38 C221.46,195.66 220.44,197.78 218.78,199.29 L218.7,199.22 Z M33.99,65.68 C34.12,63.33 35.13,61.13 36.82,59.55 C38.51,57.98 40.73,57.17 43,57.29 C45.1,57.41 47.08,58.33 48.56,59.88 C50.04,61.43 50.92,63.5 51.02,65.68 L51.02,144.42 C51.02,146.76 50.12,149 48.52,150.66 C46.93,152.31 44.76,153.24 42.5,153.24 C40.24,153.24 38.08,152.31 36.48,150.66 C34.88,149 33.99,146.76 33.99,144.42 L33.99,65.68 Z M76.7,48.16 C76.83,45.81 77.85,43.61 79.54,42.04 C81.22,40.47 83.44,39.65 85.71,39.77 C87.81,39.9 89.79,40.82 91.27,42.37 C92.75,43.92 93.63,45.98 93.73,48.16 L93.73,164.92 C93.73,167.26 92.83,169.51 91.24,171.16 C89.64,172.82 87.47,173.75 85.22,173.75 C82.96,173.75 80.79,172.82 79.2,171.16 C77.6,169.51 76.7,167.26 76.7,164.92 L76.7,48.16 Z M119.63,43.79 C119.63,41.44 120.52,39.2 122.12,37.54 C123.72,35.89 125.88,34.96 128.14,34.96 C130.4,34.96 132.56,35.89 134.16,37.54 C135.76,39.2 136.66,41.44 136.66,43.79 L136.66,170.76 C136.66,173.1 135.76,175.35 134.16,177 C132.56,178.66 130.4,179.59 128.14,179.59 C125.88,179.59 123.72,178.66 122.12,177 C120.52,175.35 119.63,173.1 119.63,170.76 L119.63,43.79 Z M161.85,48.16 C161.85,45.82 162.74,43.58 164.34,41.92 C165.94,40.26 168.1,39.33 170.36,39.33 C172.62,39.33 174.79,40.26 176.38,41.92 C177.98,43.58 178.88,45.82 178.88,48.16 L178.88,164.92 C178.88,167.26 177.98,169.51 176.38,171.16 C174.79,172.82 172.62,173.75 170.36,173.75 C168.1,173.75 165.94,172.82 164.34,171.16 C162.74,169.51 161.85,167.26 161.85,164.92 L161.85,48.16 Z M223.98,0 L32.02,0 C27.83,-0.03 23.69,0.8 19.81,2.44 C15.94,4.07 12.41,6.48 9.44,9.53 C6.47,12.58 4.1,16.21 2.48,20.21 C0.86,24.21 0.02,28.5 0,32.84 L0,229.87 C0.02,234.2 0.86,238.5 2.48,242.49 C4.1,246.49 6.47,250.12 9.44,253.17 C12.41,256.22 15.94,258.64 19.81,260.27 C23.69,261.91 27.83,262.73 32.02,262.71 L223.98,262.71 C228.16,262.73 232.3,261.91 236.17,260.28 C240.04,258.65 243.56,256.24 246.53,253.2 C249.51,250.16 251.87,246.54 253.5,242.55 C255.12,238.55 255.97,234.27 256,229.94 L256,32.84 C255.98,28.51 255.14,24.22 253.52,20.23 C251.91,16.23 249.55,12.61 246.58,9.56 C243.62,6.51 240.1,4.1 236.24,2.46 C232.37,0.82 228.23,-0.02 224.05,04a:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"800px","height":"800px","viewBox":"-3.5 0 263 263","version":"1.1","xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","preserveAspectRatio":"xMidYMid","children":["$","g",null,{"children":["$","path",null,{"d":"$10d","fill":"#000000"}]}]}]}],"$L10e"]}]
+4b:["$","$L10f",null,{"children":"Gérez les contacts, les entreprises, les conversations, les tickets et les messages dans Intercom"}]
+50:["$","th",null,{"children":"Description"}]
+51:["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le rôle du contact. Accepte « user » ou « lead ». Par défaut « lead » si non spécifié."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'adresse e-mail du contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"external_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Un identifiant unique pour le contact fourni par le client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le numéro de téléphone du contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le nom du contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avatar"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Une URL d'image d'avatar pour le contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signed_up_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'heure d'inscription de l'utilisateur sous forme d'horodatage Unix"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_seen_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'heure de dernière activité de l'utilisateur sous forme d'horodatage Unix"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'identifiant d'un administrateur auquel la propriété du compte du contact a été attribuée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unsubscribed_from_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique si le contact s'est désabonné des e-mails"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Attributs personnalisés sous forme d'objet JSON (par ex., {\"nom_attribut\": \"valeur\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Identifiant de l'entreprise à associer au contact lors de la création"}]]}]]}]
+52:["$","$L4f",null,{"as":"h4","id":"sortie","children":"Sortie"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet contact créé"}]]}]}]]}]}]
+54:["$","$L4f",null,{"as":"h3","id":"intercom_get_contact","children":["$","code",null,{"children":"intercom_get_contact"}]}]
+55:["$","p",null,{"children":"Obtenir un seul contact par ID depuis Intercom"}]
+56:["$","$L4f",null,{"as":"h4","id":"entrée-1","children":"Entrée"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du contact à récupérer"}]]}]}]]}]}]
+58:["$","$L4f",null,{"as":"h4","id":"sortie-1","children":"Sortie"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet contact"}]]}]}]]}]}]
+5a:["$","$L4f",null,{"as":"h3","id":"intercom_update_contact","children":["$","code",null,{"children":"intercom_update_contact"}]}]
+5b:["$","p",null,{"children":"Mettre à jour un contact existant dans Intercom"}]
+5c:["$","$L4f",null,{"as":"h4","id":"entrée-2","children":"Entrée"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Identifiant du contact à mettre à jour"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le rôle du contact. Accepte « user » ou « lead »."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"external_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Un identifiant unique pour le contact fourni par le client"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'adresse e-mail du contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le numéro de téléphone du contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le nom du contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avatar"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Une URL d'image d'avatar pour le contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signed_up_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'heure d'inscription de l'utilisateur sous forme d'horodatage Unix"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_seen_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'heure de dernière activité de l'utilisateur sous forme d'horodatage Unix"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'identifiant d'un administrateur auquel la propriété du compte du contact a été attribuée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unsubscribed_from_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique si le contact s'est désabonné des e-mails"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Attributs personnalisés sous forme d'objet JSON (par ex., {\"nom_attribut\": \"valeur\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Identifiant de l'entreprise à associer au contact"}]]}]]}]]}]}]
+5e:["$","$L4f",null,{"as":"h4","id":"sortie-2","children":"Sortie"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet contact mis à jour"}]]}]}]]}]}]
+60:["$","$L4f",null,{"as":"h3","id":"intercom_list_contacts","children":["$","code",null,{"children":"intercom_list_contacts"}]}]
+61:["$","p",null,{"children":"Lister tous les contacts d'Intercom avec prise en charge de la pagination"}]
+62:["$","$L4f",null,{"as":"h4","id":"entrée-3","children":"Entrée"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (max : 150)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Curseur pour la pagination - ID pour commencer après"}]]}]]}]]}]}]
+64:["$","$L4f",null,{"as":"h4","id":"sortie-3","children":"Sortie"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets contact"}]]}]}]]}]}]
+66:["$","$L4f",null,{"as":"h3","id":"intercom_search_contacts","children":["$","code",null,{"children":"intercom_search_contacts"}]}]
+67:["$","p",null,{"children":"Rechercher des contacts dans Intercom à l'aide d'une requête"}]
+68:["$","$L4f",null,{"as":"h4","id":"entrée-4","children":"Entrée"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["Requête de recherche (par ex., {\"field\":\"email\",\"operator\":\"=\",\"value\":\"",["$","$L4e",null,{"href":"mailto:user@example.com","children":"user@example.com"}],"\"})"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (max : 150)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Curseur pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_field"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Champ de tri (par ex., \"name\", \"created_at\", \"last_seen_at\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Ordre de tri : \"ascending\" ou \"descending\""}]]}]]}]]}]}]
+6a:["$","$L4f",null,{"as":"h4","id":"sortie-4","children":"Sortie"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets contact correspondants"}]]}]}]]}]}]
+6c:["$","$L4f",null,{"as":"h3","id":"intercom_delete_contact","children":["$","code",null,{"children":"intercom_delete_contact"}]}]
+6d:["$","p",null,{"children":"Supprimer un contact d'Intercom par ID"}]
+6e:["$","$L4f",null,{"as":"h4","id":"entrée-5","children":"Entrée"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du contact à supprimer"}]]}]}]]}]}]
+70:["$","$L4f",null,{"as":"h4","id":"sortie-5","children":"Sortie"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID du contact supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si le contact a été supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Métadonnées de l'opération"}]]}]]}]]}]}]
+72:["$","$L4f",null,{"as":"h3","id":"intercom_create_company","children":["$","code",null,{"children":"intercom_create_company"}]}]
+73:["$","p",null,{"children":"Créer ou mettre à jour une entreprise dans Intercom"}]
+74:["$","$L4f",null,{"as":"h4","id":"entrée-6","children":"Entrée"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Votre identifiant unique pour l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le nom de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le site web de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"plan"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le nom du plan de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le nombre d'employés dans l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le secteur d'activité de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"monthly_spend"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le chiffre d'affaires que l'entreprise génère pour votre activité. Remarque : ce champ tronque les nombres décimaux en entiers (par ex., 155,98 devient 155)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Attributs personnalisés sous forme d'objet JSON"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remote_created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"La date de création de l'entreprise par vous sous forme d'horodatage Unix"}]]}]]}]]}]}]
+76:["$","$L4f",null,{"as":"h4","id":"sortie-6","children":"Sortie"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet entreprise créé ou mis à jour"}]]}]}]]}]}]
+78:["$","$L4f",null,{"as":"h3","id":"intercom_get_company","children":["$","code",null,{"children":"intercom_get_company"}]}]
+79:["$","p",null,{"children":"Récupérer une seule entreprise par ID depuis Intercom"}]
+7a:["$","$L4f",null,{"as":"h4","id":"entrée-7","children":"Entrée"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de l'entreprise à récupérer"}]]}]}]]}]}]
+7c:["$","$L4f",null,{"as":"h4","id":"sortie-7","children":"Sortie"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet entreprise"}]]}]}]]}]}]
+7e:["$","$L4f",null,{"as":"h3","id":"intercom_list_companies","children":["$","code",null,{"children":"intercom_list_companies"}]}]
+7f:["$","p",null,{"children":"Liste toutes les entreprises d'Intercom avec prise en charge de la pagination. Remarque : cet endpoint a une limite de 10 000 entreprises qui peuvent être renvoyées en utilisant la pagination. Pour les ensembles de données de plus de 10 000 entreprises, utilisez plutôt l'API Scroll."}]
+80:["$","$L4f",null,{"as":"h4","id":"entrée-8","children":"Entrée"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Curseur pour la pagination (préféré à la pagination par page)"}]]}]]}]]}]}]
+82:["$","$L4f",null,{"as":"h4","id":"sortie-8","children":"Sortie"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companies"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets entreprise"}]]}]}]]}]}]
+84:["$","$L4f",null,{"as":"h3","id":"intercom_get_conversation","children":["$","code",null,{"children":"intercom_get_conversation"}]}]
+85:["$","p",null,{"children":"Récupérer une seule conversation par ID depuis Intercom"}]
+86:["$","$L4f",null,{"as":"h4","id":"entrée-9","children":"Entrée"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de la conversation à récupérer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"display_as"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Définir sur \"plaintext\" pour récupérer les messages en texte brut"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"include_translations"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Lorsque true, les parties de la conversation seront traduites dans la langue détectée de la conversation"}]]}]]}]]}]}]
+88:["$","$L4f",null,{"as":"h4","id":"sortie-9","children":"Sortie"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet conversation"}]]}]}]]}]}]
+8a:["$","$L4f",null,{"as":"h3","id":"intercom_list_conversations","children":["$","code",null,{"children":"intercom_list_conversations"}]}]
+8b:["$","p",null,{"children":"Lister toutes les conversations depuis Intercom avec prise en charge de la pagination"}]
+8c:["$","$L4f",null,{"as":"h4","id":"entrée-10","children":"Entrée"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (max : 150)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Curseur pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Champ de tri (ex., \"waiting_since\", \"updated_at\", \"created_at\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Ordre de tri : \"asc\" (croissant) ou \"desc\" (décroissant)"}]]}]]}]]}]}]
+8e:["$","$L4f",null,{"as":"h4","id":"sortie-10","children":"Sortie"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets conversation"}]]}]}]]}]}]
+90:["$","$L4f",null,{"as":"h3","id":"intercom_reply_conversation","children":["$","code",null,{"children":"intercom_reply_conversation"}]}]
+91:["$","p",null,{"children":"Répondre à une conversation en tant qu'administrateur dans Intercom"}]
+92:["$","$L4f",null,{"as":"h4","id":"entrée-11","children":"Entrée"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID de la conversation à laquelle répondre"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type de message : \"comment\" ou \"note\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Corps du texte de la réponse"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'administrateur qui rédige la réponse. Si non fourni, un administrateur par défaut (Operator/Fin) sera utilisé."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachment_urls"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste d'URL d'images séparées par des virgules (max 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Horodatage Unix du moment où la réponse a été créée. Si non fourni, l'heure actuelle est utilisée."}]]}]]}]]}]}]
+94:["$","$L4f",null,{"as":"h4","id":"sortie-11","children":"Sortie"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet conversation mis à jour"}]]}]}]]}]}]
+96:["$","$L4f",null,{"as":"h3","id":"intercom_search_conversations","children":["$","code",null,{"children":"intercom_search_conversations"}]}]
+97:["$","p",null,{"children":"Rechercher des conversations dans Intercom à l'aide d'une requête"}]
+98:["$","$L4f",null,{"as":"h4","id":"entrée-12","children":"Entrée"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Requête de recherche sous forme d'objet JSON"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (max : 150)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Curseur pour la pagination"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_field"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Champ de tri (par exemple, \"created_at\", \"updated_at\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Ordre de tri : \"ascending\" ou \"descending\""}]]}]]}]]}]}]
+9a:["$","$L4f",null,{"as":"h4","id":"sortie-12","children":"Sortie"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets conversation correspondants"}]]}]}]]}]}]
+9c:["$","$L4f",null,{"as":"h3","id":"intercom_create_ticket","children":["$","code",null,{"children":"intercom_create_ticket"}]}]
+9d:["$","p",null,{"children":"Créer un nouveau ticket dans Intercom"}]
+9e:["$","$L4f",null,{"as":"h4","id":"entrée-13","children":"Entrée"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket_type_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du type de ticket"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Tableau JSON d'identifiants de contacts (par exemple, [{\"id\": \"contact_id\"}])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":["Objet JSON avec les attributs du ticket incluant ",["$","em",null,{"children":"default_title"}]," et ",["$","em",null,{"children":"default_description"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID de l'entreprise à associer au ticket"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Horodatage Unix du moment où le ticket a été créé. Si non fourni, l'heure actuelle est utilisée."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation_to_link_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID d'une conversation existante à lier à ce ticket"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disable_notifications"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Lorsque défini sur true, supprime les notifications lors de la création du ticket"}]]}]]}]]}]}]
+a0:["$","$L4f",null,{"as":"h4","id":"sortie-13","children":"Sortie"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet ticket créé"}]]}]}]]}]}]
+a2:["$","$L4f",null,{"as":"h3","id":"intercom_get_ticket","children":["$","code",null,{"children":"intercom_get_ticket"}]}]
+a3:["$","p",null,{"children":"Récupérer un ticket unique par ID depuis Intercom"}]
+a4:["$","$L4f",null,{"as":"h4","id":"entrée-14","children":"Entrée"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticketId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du ticket à récupérer"}]]}]}]]}]}]
+a6:["$","$L4f",null,{"as":"h4","id":"sortie-14","children":"Sortie"}]
+a7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet ticket"}]]}]}]]}]}]
+a8:["$","$L4f",null,{"as":"h3","id":"intercom_create_message","children":["$","code",null,{"children":"intercom_create_message"}]}]
+a9:["$","p",null,{"children":"Créer et envoyer un nouveau message initié par l'administrateur dans Intercom"}]
+aa:["$","$L4f",null,{"as":"h4","id":"entrée-15","children":"Entrée"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type de message : \"inapp\" pour les messages in-app ou \"email\" pour les messages e-mail"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"template"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Style du modèle de message : \"plain\" pour texte brut ou \"personal\" pour style personnalisé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Le sujet du message (pour le type e-mail)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le corps du message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type d'expéditeur : \"admin\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur qui envoie le message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type de destinataire : \"contact\""}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du contact qui reçoit le message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Horodatage Unix du moment où le message a été créé. Si non fourni, l'heure actuelle est utilisée."}]]}]]}]]}]}]
+ac:["$","$L4f",null,{"as":"h4","id":"sortie-15","children":"Sortie"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet message créé"}]]}]}]]}]}]
+ae:["$","$L4f",null,{"as":"h2","id":"notes","children":"Notes"}]
+af:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Catégorie : ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Type : ",["$","code",null,{"children":"intercom"}]]}],"\n"]}]
+b0:["$","p",null,{"children":"Créer et envoyer un nouveau message initié par un administrateur dans Intercom. Renvoie uniquement les champs alignés sur l'API."}]
+b1:["$","$L4f",null,{"as":"h4","id":"entrée-16","children":"Entrée"}]
+b2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type de message : « inapp » pour les messages in-app ou « email » pour les messages e-mail"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"template"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Style du modèle de message : « plain » pour texte brut ou « personal » pour style personnalisé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'objet du message (pour le type e-mail)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le corps du message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type d'expéditeur : « admin »"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'identifiant de l'administrateur envoyant le message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Type de destinataire : « contact »"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'identifiant du contact recevant le message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Horodatage Unix indiquant quand le message a été créé. Si non fourni, l'heure actuelle est utilisée."}]]}]]}]]}]}]
+b3:["$","$L4f",null,{"as":"h4","id":"sortie-16","children":"Sortie"}]
+b4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Objet message créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique du message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (message)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création du message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"body"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Corps du message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"message_type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type du message (in_app ou email)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"conversation_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant de la conversation créée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owner"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Propriétaire du message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant du message créé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Statut de réussite de l'opération"}]]}]]}]]}]}]
+b5:["$","$L4f",null,{"as":"h3","id":"intercom_list_admins","children":["$","code",null,{"children":"intercom_list_admins"}]}]
+b6:["$","p",null,{"children":"Récupérer une liste de tous les administrateurs de l'espace de travail"}]
+b7:["$","$L4f",null,{"as":"h4","id":"entrée-17","children":"Entrée"}]
+b8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}]}]}]
+b9:["$","$L4f",null,{"as":"h4","id":"sortie-17","children":"Sortie"}]
+ba:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admins"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets administrateur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de l'administrateur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (admin)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'administrateur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"E-mail de l'administrateur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"job_title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Titre du poste de l'administrateur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"away_mode_enabled"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si l'administrateur est en mode absent"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"away_mode_reassign"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique s'il faut réattribuer les conversations en cas d'absence"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"has_inbox_seat"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si l'administrateur dispose d'un siège de boîte de réception payant"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team_ids"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des ID d'équipe auxquelles appartient l'administrateur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatar"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Informations sur l'avatar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email_verified"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si l'e-mail est vérifié"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (admin.list)"}]]}]]}]]}]}]
+bb:["$","$L4f",null,{"as":"h3","id":"intercom_close_conversation","children":["$","code",null,{"children":"intercom_close_conversation"}]}]
+bc:["$","p",null,{"children":"Fermer une conversation dans Intercom"}]
+bd:["$","$L4f",null,{"as":"h4","id":"entrée-18","children":"Entrée"}]
+be:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la conversation à fermer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur effectuant l'action"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Message de clôture optionnel à ajouter à la conversation"}]]}]]}]]}]}]
+bf:["$","$L4f",null,{"as":"h4","id":"sortie-18","children":"Sortie"}]
+c0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'objet conversation fermée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation (fermée)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si la conversation est ouverte (false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"read"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si la conversation a été lue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de dernière mise à jour de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la conversation fermée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation (fermée)"}]]}]]}]]}]}]
+c1:["$","$L4f",null,{"as":"h3","id":"intercom_open_conversation","children":["$","code",null,{"children":"intercom_open_conversation"}]}]
+c2:["$","p",null,{"children":"Ouvrir une conversation fermée ou en veille dans Intercom"}]
+c3:["$","$L4f",null,{"as":"h4","id":"entrée-19","children":"Entrée"}]
+c4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la conversation à ouvrir"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur effectuant l'action"}]]}]]}]]}]}]
+c5:["$","$L4f",null,{"as":"h4","id":"sortie-19","children":"Sortie"}]
+c6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'objet conversation ouverte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation (ouverte)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si la conversation est ouverte (true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"read"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si la conversation a été lue"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de dernière mise à jour de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la conversation ouverte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation (ouverte)"}]]}]]}]]}]}]
+c7:["$","$L4f",null,{"as":"h3","id":"intercom_snooze_conversation","children":["$","code",null,{"children":"intercom_snooze_conversation"}]}]
+c8:["$","p",null,{"children":"Mettre en veille une conversation pour la rouvrir ultérieurement"}]
+c9:["$","$L4f",null,{"as":"h4","id":"entrée-20","children":"Entrée"}]
+ca:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la conversation à mettre en veille"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur effectuant l'action"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snoozed_until"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Horodatage Unix indiquant quand la conversation doit se rouvrir"}]]}]]}]]}]}]
+cb:["$","$L4f",null,{"as":"h4","id":"sortie-20","children":"Sortie"}]
+cc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'objet conversation mise en veille"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation (snoozed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si la conversation est ouverte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"snoozed_until"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix indiquant quand la conversation se rouvrira"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de dernière mise à jour de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la conversation mise en veille"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation (snoozed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snoozed_until"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix indiquant quand la conversation se rouvrira"}]]}]]}]]}]}]
+cd:["$","$L4f",null,{"as":"h3","id":"intercom_assign_conversation","children":["$","code",null,{"children":"intercom_assign_conversation"}]}]
+ce:["$","p",null,{"children":"Attribuer une conversation à un administrateur ou une équipe dans Intercom"}]
+cf:["$","$L4f",null,{"as":"h4","id":"entrée-21","children":"Entrée"}]
+d0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la conversation à attribuer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur effectuant l'attribution"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur ou de l'équipe à qui attribuer la conversation. Définir sur « 0 » pour désattribuer."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Message optionnel à ajouter lors de l'attribution (par ex., « Transmission à l'équipe support »)"}]]}]]}]]}]}]
+d1:["$","$L4f",null,{"as":"h4","id":"sortie-21","children":"Sortie"}]
+d2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'objet conversation assigné"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"État de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si la conversation est ouverte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"admin_assignee_id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"ID de l'administrateur assigné"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team_assignee_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de l'équipe assignée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de dernière mise à jour de la conversation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la conversation assignée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_assignee_id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"ID de l'administrateur assigné"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"team_assignee_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de l'équipe assignée"}]]}]]}]]}]}]
+d3:["$","$L4f",null,{"as":"h3","id":"intercom_list_tags","children":["$","code",null,{"children":"intercom_list_tags"}]}]
+d4:["$","p",null,{"children":"Récupérer une liste de tous les tags dans l'espace de travail"}]
+d5:["$","$L4f",null,{"as":"h4","id":"entrée-22","children":"Entrée"}]
+d6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}]}]}]
+d7:["$","$L4f",null,{"as":"h4","id":"sortie-22","children":"Sortie"}]
+d8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Tableau d'objets tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique du tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (tag)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom du tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (list)"}]]}]]}]]}]}]
+d9:["$","$L4f",null,{"as":"h3","id":"intercom_create_tag","children":["$","code",null,{"children":"intercom_create_tag"}]}]
+da:["$","p",null,{"children":"Créer une nouvelle étiquette ou mettre à jour le nom d'une étiquette existante"}]
+db:["$","$L4f",null,{"as":"h4","id":"entrée-23","children":"Entrée"}]
+dc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le nom de l'étiquette. Créera une nouvelle étiquette si elle n'est pas trouvée, ou mettra à jour le nom si l'id est fourni."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'ID d'une étiquette existante à mettre à jour. Omettre pour créer une nouvelle étiquette."}]]}]]}]]}]}]
+dd:["$","$L4f",null,{"as":"h4","id":"sortie-23","children":"Sortie"}]
+de:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de l'étiquette"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'étiquette"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (tag)"}]]}]]}]]}]}]
+df:["$","$L4f",null,{"as":"h3","id":"intercom_tag_contact","children":["$","code",null,{"children":"intercom_tag_contact"}]}]
+e0:["$","p",null,{"children":"Ajouter une étiquette à un contact spécifique"}]
+e1:["$","$L4f",null,{"as":"h4","id":"entrée-24","children":"Entrée"}]
+e2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du contact à étiqueter"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'étiquette à appliquer"}]]}]]}]]}]}]
+e3:["$","$L4f",null,{"as":"h4","id":"sortie-24","children":"Sortie"}]
+e4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de l'étiquette"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'étiquette"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (tag)"}]]}]]}]]}]}]
+e5:["$","$L4f",null,{"as":"h3","id":"intercom_untag_contact","children":["$","code",null,{"children":"intercom_untag_contact"}]}]
+e6:["$","p",null,{"children":"Retirer une étiquette d'un contact spécifique"}]
+e7:["$","$L4f",null,{"as":"h4","id":"entrée-25","children":"Entrée"}]
+e8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du contact dont retirer l'étiquette"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'étiquette à retirer"}]]}]]}]]}]}]
+e9:["$","$L4f",null,{"as":"h4","id":"sortie-25","children":"Sortie"}]
+ea:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique du tag qui a été supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom du tag qui a été supprimé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (tag)"}]]}]]}]]}]}]
+eb:["$","$L4f",null,{"as":"h3","id":"intercom_tag_conversation","children":["$","code",null,{"children":"intercom_tag_conversation"}]}]
+ec:["$","p",null,{"children":"Ajouter un tag à une conversation spécifique"}]
+ed:["$","$L4f",null,{"as":"h4","id":"entrée-26","children":"Entrée"}]
+ee:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de la conversation à taguer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du tag à appliquer"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'administrateur appliquant le tag"}]]}]]}]]}]}]
+ef:["$","$L4f",null,{"as":"h4","id":"sortie-26","children":"Sortie"}]
+f0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique du tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom du tag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (tag)"}]]}]]}]]}]}]
+f1:["$","$L4f",null,{"as":"h3","id":"intercom_create_note","children":["$","code",null,{"children":"intercom_create_note"}]}]
+f2:["$","p",null,{"children":"Ajouter une note à un contact spécifique"}]
+f3:["$","$L4f",null,{"as":"h4","id":"entrée-27","children":"Entrée"}]
+f4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du contact auquel ajouter la note"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le contenu textuel de la note"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'ID de l'administrateur créant la note"}]]}]]}]]}]}]
+f5:["$","$L4f",null,{"as":"h4","id":"sortie-27","children":"Sortie"}]
+f6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de la note"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le contenu texte de la note"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création de la note"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (note)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'administrateur qui a créé la note"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'auteur (admin)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de l'auteur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'auteur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"E-mail de l'auteur"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le contact pour lequel la note a été créée"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type de contact"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID du contact"}]]}]]}]]}]}]
+f7:["$","$L4f",null,{"as":"h3","id":"intercom_create_event","children":["$","code",null,{"children":"intercom_create_event"}]}]
+f8:["$","p",null,{"children":"Suivre un événement personnalisé pour un contact dans Intercom"}]
+f9:["$","$L4f",null,{"as":"h4","id":"entrée-28","children":"Entrée"}]
+fa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"event_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Le nom de l'événement (par ex., « commande-terminée »). Utilisez le format verbe-nom au passé pour une meilleure lisibilité."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Horodatage Unix du moment où l'événement s'est produit. Fortement recommandé pour l'unicité."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Votre identifiant pour l'utilisateur (external_id)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Adresse e-mail de l'utilisateur. À utiliser uniquement si votre application utilise l'e-mail pour identifier de manière unique les utilisateurs."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"L'ID de contact Intercom"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Objet JSON avec jusqu'à 10 paires clé-valeur de métadonnées sur l'événement (par ex., {\"valeur_commande\": 99.99})"}]]}]]}]]}]}]
+fb:["$","$L4f",null,{"as":"h4","id":"sortie-28","children":"Sortie"}]
+fc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accepted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si l'événement a été accepté (202 Accepted)"}]]}]}]]}]}]
+fd:["$","$L4f",null,{"as":"h3","id":"intercom_attach_contact_to_company","children":["$","code",null,{"children":"intercom_attach_contact_to_company"}]}]
+fe:["$","p",null,{"children":"Associer un contact à une entreprise dans Intercom"}]
+ff:["$","$L4f",null,{"as":"h4","id":"entrée-29","children":"Entrée"}]
+100:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'identifiant du contact à associer à l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'identifiant de l'entreprise à laquelle associer le contact"}]]}]]}]]}]}]
+101:["$","$L4f",null,{"as":"h4","id":"sortie-29","children":"Sortie"}]
+102:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'objet entreprise auquel le contact a été associé"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (company)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le company_id que vous avez défini"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de création de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Horodatage Unix de mise à jour de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"user_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nombre d'utilisateurs dans l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"session_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nombre de sessions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"monthly_spend"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Montant des dépenses mensuelles"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"plan"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Détails du plan de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'entreprise"}]]}]]}]]}]}]
+103:["$","$L4f",null,{"as":"h3","id":"intercom_detach_contact_from_company","children":["$","code",null,{"children":"intercom_detach_contact_from_company"}]}]
+104:["$","p",null,{"children":"Retirer un contact d'une entreprise dans Intercom"}]
+105:["$","$L4f",null,{"as":"h4","id":"entrée-30","children":"Entrée"}]
+106:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID du contact à détacher de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"L'ID de l'entreprise dont détacher le contact"}]]}]]}]]}]}]
+107:["$","$L4f",null,{"as":"h4","id":"sortie-30","children":"Sortie"}]
+108:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"L'objet entreprise dont le contact a été détaché"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Identifiant unique de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Type d'objet (company)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Le company_id que vous avez défini"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de l'entreprise"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nom de l'entreprise"}]]}]]}]]}]}]
+10b:null
+10e:["$","$L110",null,{"className":"mb-0 min-w-0 flex-1","children":"Intercom"}]

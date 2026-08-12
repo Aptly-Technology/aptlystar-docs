@@ -1,0 +1,989 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+41:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+46:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+47:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+48:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+49:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+104:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+105:"$Sreact.suspense"
+107:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+10a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+10b:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Intercom\",\"description\":\"Intercomで連絡先、企業、会話、チケット、メッセージを管理する\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/ja/tools/intercom\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/ja/tools/intercom\"},\"inLanguage\":\"ja\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/ja/tools/intercom\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/ja/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Intercom\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/ja/tools/intercom\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#使用手順","title":"使用手順"},{"depth":2,"url":"#ツール","title":"ツール"},{"depth":3,"url":"#intercom_create_contact","title":["$","code",null,{"children":"intercom_create_contact"}]},{"depth":4,"url":"#入力","title":"入力"},{"depth":4,"url":"#出力","title":"出力"},{"depth":3,"url":"#intercom_get_contact","title":["$","code",null,{"children":"intercom_get_contact"}]},{"depth":4,"url":"#入力-1","title":"入力"},{"depth":4,"url":"#出力-1","title":"出力"},{"depth":3,"url":"#intercom_update_contact","title":["$","code",null,{"children":"intercom_update_contact"}]},{"depth":4,"url":"#入力-2","title":"入力"},{"depth":4,"url":"#出力-2","title":"出力"},{"depth":3,"url":"#intercom_list_contacts","title":["$","code",null,{"children":"intercom_list_contacts"}]},{"depth":4,"url":"#入力-3","title":"入力"},{"depth":4,"url":"#出力-3","title":"出力"},{"depth":3,"url":"#intercom_search_contacts","title":["$","code",null,{"children":"intercom_search_contacts"}]},{"depth":4,"url":"#入力-4","title":"入力"},{"depth":4,"url":"#出力-4","title":"出力"},{"depth":3,"url":"#intercom_delete_contact","title":["$","code",null,{"children":"intercom_delete_contact"}]},{"depth":4,"url":"#入力-5","title":"入力"},{"depth":4,"url":"#出力-5","title":"出力"},{"depth":3,"url":"#intercom_create_company","title":["$","code",null,{"children":"intercom_create_company"}]},{"depth":4,"url":"#入力-6","title":"入力"},{"depth":4,"url":"#出力-6","title":"出力"},{"depth":3,"url":"#intercom_get_company","title":["$","code",null,{"children":"intercom_get_company"}]},{"depth":4,"url":"#入力-7","title":"入力"},{"depth":4,"url":"#出力-7","title":"出力"},{"depth":3,"url":"#intercom_list_companies","title":["$","code",null,{"children":"intercom_list_companies"}]},{"depth":4,"url":"#入力-8","title":"入力"},{"depth":4,"url":"#出力-8","title":"出力"},{"depth":3,"url":"#intercom_get_conversation","title":["$","code",null,{"children":"intercom_get_conversation"}]},{"depth":4,"url":"#入力-9","title":"入力"},{"depth":4,"url":"#出力-9","title":"出力"},{"depth":3,"url":"#intercom_list_conversations","title":["$","code",null,{"children":"intercom_list_conversations"}]},{"depth":4,"url":"#入力-10","title":"入力"},{"depth":4,"url":"#出力-10","title":"出力"},{"depth":3,"url":"#intercom_reply_conversation","title":["$","code",null,{"children":"intercom_reply_conversation"}]},{"depth":4,"url":"#入力-11","title":"入力"},{"depth":4,"url":"#出力-11","title":"出力"},{"depth":3,"url":"#intercom_search_conversations","title":["$","code",null,{"children":"intercom_search_conversations"}]},{"depth":4,"url":"#入力-12","title":"入力"},{"depth":4,"url":"#出力-12","title":"出力"},{"depth":3,"url":"#intercom_create_ticket","title":"$L3"},{"depth":4,"url":"#入力-13","title":"$L4"},{"depth":4,"url":"#出力-13","title":"$L5"},{"depth":3,"url":"#intercom_get_ticket","title":"$L6"},{"depth":4,"url":"#入力-14","title":"$L7"},{"depth":4,"url":"#出力-14","title":"$L8"},{"depth":3,"url":"#intercom_create_message","title":"$L9"},{"depth":4,"url":"#入力-15","title":"$La"},{"depth":4,"url":"#出力-15","title":"$Lb"},{"depth":2,"url":"#メモ","title":"$Lc"},{"depth":4,"url":"#入力-16","title":"$Ld"},{"depth":4,"url":"#出力-16","title":"$Le"},{"depth":3,"url":"#intercom_list_admins","title":"$Lf"},{"depth":4,"url":"#入力-17","title":"$L10"},{"depth":4,"url":"#出力-17","title":"$L11"},{"depth":3,"url":"#intercom_close_conversation","title":"$L12"},{"depth":4,"url":"#入力-18","title":"$L13"},{"depth":4,"url":"#出力-18","title":"$L14"},{"depth":3,"url":"#intercom_open_conversation","title":"$L15"},{"depth":4,"url":"#入力-19","title":"$L16"},{"depth":4,"url":"#出力-19","title":"$L17"},{"depth":3,"url":"#intercom_snooze_conversation","title":"$L18"},{"depth":4,"url":"#入力-20","title":"$L19"},{"depth":4,"url":"#出力-20","title":"$L1a"},{"depth":3,"url":"#intercom_assign_conversation","title":"$L1b"},{"depth":4,"url":"#入力-21","title":"$L1c"},{"depth":4,"url":"#出力-21","title":"$L1d"},{"depth":3,"url":"#intercom_list_tags","title":"$L1e"},{"depth":4,"url":"#入力-22","title":"$L1f"},{"depth":4,"url":"#出力-22","title":"$L20"},{"depth":3,"url":"#intercom_create_tag","title":"$L21"},{"depth":4,"url":"#入力-23","title":"$L22"},{"depth":4,"url":"#出力-23","title":"$L23"},{"depth":3,"url":"#intercom_tag_contact","title":"$L24"},{"depth":4,"url":"#入力-24","title":"$L25"},{"depth":4,"url":"#出力-24","title":"$L26"},{"depth":3,"url":"#intercom_untag_contact","title":"$L27"},{"depth":4,"url":"#入力-25","title":"$L28"},{"depth":4,"url":"#出力-25","title":"$L29"},{"depth":3,"url":"#intercom_tag_conversation","title":"$L2a"},{"depth":4,"url":"#入力-26","title":"$L2b"},{"depth":4,"url":"#出力-26","title":"$L2c"},{"depth":3,"url":"#intercom_create_note","title":"$L2d"},{"depth":4,"url":"#入力-27","title":"$L2e"},{"depth":4,"url":"#出力-27","title":"$L2f"},{"depth":3,"url":"#intercom_create_event","title":"$L30"},{"depth":4,"url":"#入力-28","title":"$L31"},{"depth":4,"url":"#出力-28","title":"$L32"},{"depth":3,"url":"#intercom_attach_contact_to_company","title":"$L33"},{"depth":4,"url":"#入力-29","title":"$L34"},{"depth":4,"url":"#出力-29","title":"$L35"},{"depth":3,"url":"#intercom_detach_contact_from_company","title":"$L36"},{"depth":4,"url":"#入力-30","title":"$L37"},{"depth":4,"url":"#出力-30","title":"$L38"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L39"},"children":["$L3a","$L3b"]}]],["$L3c","$L3d","$L3e","$L3f"],"$L40"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"intercom_create_ticket"}]
+4:"入力"
+5:"出力"
+6:["$","code",null,{"children":"intercom_get_ticket"}]
+7:"入力"
+8:"出力"
+9:["$","code",null,{"children":"intercom_create_message"}]
+a:"入力"
+b:"出力"
+c:"メモ"
+d:"入力"
+e:"出力"
+f:["$","code",null,{"children":"intercom_list_admins"}]
+10:"入力"
+11:"出力"
+12:["$","code",null,{"children":"intercom_close_conversation"}]
+13:"入力"
+14:"出力"
+15:["$","code",null,{"children":"intercom_open_conversation"}]
+16:"入力"
+17:"出力"
+18:["$","code",null,{"children":"intercom_snooze_conversation"}]
+19:"入力"
+1a:"出力"
+1b:["$","code",null,{"children":"intercom_assign_conversation"}]
+1c:"入力"
+1d:"出力"
+1e:["$","code",null,{"children":"intercom_list_tags"}]
+1f:"入力"
+20:"出力"
+21:["$","code",null,{"children":"intercom_create_tag"}]
+22:"入力"
+23:"出力"
+24:["$","code",null,{"children":"intercom_tag_contact"}]
+25:"入力"
+26:"出力"
+27:["$","code",null,{"children":"intercom_untag_contact"}]
+28:"入力"
+29:"出力"
+2a:["$","code",null,{"children":"intercom_tag_conversation"}]
+2b:"入力"
+2c:"出力"
+2d:["$","code",null,{"children":"intercom_create_note"}]
+2e:"入力"
+2f:"出力"
+30:["$","code",null,{"children":"intercom_create_event"}]
+31:"入力"
+32:"出力"
+33:["$","code",null,{"children":"intercom_attach_contact_to_company"}]
+34:"入力"
+35:"出力"
+36:["$","code",null,{"children":"intercom_detach_contact_from_company"}]
+37:"入力"
+38:"出力"
+39:null
+42:Ta590,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="intercom" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Intercom](https://www.intercom.com/)は、連絡先、企業、会話、チケット、メッセージとのやり取りを一か所で管理・自動化できる主要な顧客コミュニケーションプラットフォームです。AptlystarのIntercom統合により、エージェントは自動化されたワークフローから顧客関係、サポートリクエスト、会話をプログラムで直接管理できます。
+
+Intercomツールでは、以下のことができます：
+
+* **連絡先管理：** 連絡先の作成、取得、更新、一覧表示、検索、削除—CRMプロセスを自動化し、顧客記録を最新の状態に保ちます。
+* **企業管理：** 新しい企業の作成、企業詳細の取得、ユーザーやビジネスクライアントに関連するすべての企業の一覧表示。
+* **会話処理：** 会話の取得、一覧表示、返信、検索—エージェントが進行中のサポートスレッドを追跡し、回答を提供し、フォローアップアクションを自動化できます。
+* **チケット管理：** プログラムでチケットを作成および取得し、カスタマーサービス、サポート問題の追跡、ワークフローのエスカレーションを自動化します。
+* **メッセージ送信：** ワークフロー自動化内からオンボーディング、サポート、マーケティングのためにユーザーやリードにメッセージをトリガーします。
+
+IntercomツールをAptlystarに統合することで、ワークフローがユーザーと直接通信し、カスタマーサポートプロセスを自動化し、リードを管理し、大規模なコミュニケーションを効率化する能力を与えます。新しい連絡先の作成、顧客データの同期、サポートチケットの管理、パーソナライズされたエンゲージメントメッセージの送信など、Intercomツールはインテリジェントな自動化の一部として顧客とのやり取りを管理するための包括的な方法を提供します。
+
+{/* MANUAL-CONTENT-END */}
+
+使用手順 [#使用手順]
+
+Intercomをワークフローに統合します。連絡先の作成、取得、更新、一覧表示、検索、削除；企業の作成、取得、一覧表示；会話の取得、一覧表示、返信、検索；チケットの作成と取得；およびメッセージの作成が可能です。
+
+ツール [#ツール]
+
+intercom_create_contact [#intercom_create_contact]
+
+メール、external\_id、または役割を使用してIntercomに新しい連絡先を作成する
+
+入力 [#入力]
+
+| パラメータ                      | 型       | 必須  | 説明                                                   |
+| -------------------------- | ------- | --- | ---------------------------------------------------- |
+| `role`                     | string  | いいえ | 連絡先の役割。「user」または「lead」を指定可能。未指定の場合は「lead」がデフォルト      |
+| `email`                    | string  | いいえ | 連絡先のメールアドレス                                          |
+| `external_id`              | string  | いいえ | クライアントが提供する連絡先の一意の識別子                                |
+| `phone`                    | string  | いいえ | 連絡先の電話番号                                             |
+| `name`                     | string  | いいえ | 連絡先の名前                                               |
+| `avatar`                   | string  | いいえ | 連絡先のアバター画像URL                                        |
+| `signed_up_at`             | number  | いいえ | ユーザーが登録した時刻(Unixタイムスタンプ)                             |
+| `last_seen_at`             | number  | いいえ | ユーザーが最後に確認された時刻(Unixタイムスタンプ)                         |
+| `owner_id`                 | string  | いいえ | 連絡先のアカウント所有権が割り当てられた管理者のID                           |
+| `unsubscribed_from_emails` | boolean | いいえ | 連絡先がメールの配信停止をしているかどうか                                |
+| `custom_attributes`        | string  | いいえ | カスタム属性(JSONオブジェクト形式、例：\{"attribute\_name": "value"}) |
+| `company_id`               | string  | いいえ | 作成時に連絡先を関連付ける会社ID                                    |
+
+出力 [#出力]
+
+| パラメータ     | 型      | 説明             |
+| --------- | ------ | -------------- |
+| `contact` | object | 作成された連絡先オブジェクト |
+
+intercom_get_contact [#intercom_get_contact]
+
+IDからIntercomの単一の連絡先を取得する
+
+入力 [#入力-1]
+
+| パラメータ       | 型      | 必須 | 説明        |
+| ----------- | ------ | -- | --------- |
+| `contactId` | string | はい | 取得する連絡先ID |
+
+出力 [#出力-1]
+
+| パラメータ     | 型      | 説明        |
+| --------- | ------ | --------- |
+| `contact` | object | 連絡先オブジェクト |
+
+intercom_update_contact [#intercom_update_contact]
+
+Intercomの既存の連絡先を更新する
+
+入力 [#入力-2]
+
+| パラメータ                      | 型       | 必須  | 説明                                                   |
+| -------------------------- | ------- | --- | ---------------------------------------------------- |
+| `contactId`                | string  | はい  | 更新する連絡先ID                                            |
+| `role`                     | string  | いいえ | 連絡先の役割。「user」または「lead」を指定可能                          |
+| `external_id`              | string  | いいえ | クライアントが提供する連絡先の一意の識別子                                |
+| `email`                    | string  | いいえ | 連絡先のメールアドレス                                          |
+| `phone`                    | string  | いいえ | 連絡先の電話番号                                             |
+| `name`                     | string  | いいえ | 連絡先の名前                                               |
+| `avatar`                   | string  | いいえ | 連絡先のアバター画像URL                                        |
+| `signed_up_at`             | number  | いいえ | ユーザーが登録した時刻(Unixタイムスタンプ)                             |
+| `last_seen_at`             | number  | いいえ | ユーザーが最後に確認された時刻(Unixタイムスタンプ)                         |
+| `owner_id`                 | string  | いいえ | 連絡先のアカウント所有権が割り当てられた管理者のID                           |
+| `unsubscribed_from_emails` | boolean | いいえ | 連絡先がメールの配信停止をしているかどうか                                |
+| `custom_attributes`        | string  | いいえ | カスタム属性(JSONオブジェクト形式、例：\{"attribute\_name": "value"}) |
+| `company_id`               | string  | いいえ | 連絡先を関連付ける会社ID                                        |
+
+出力 [#出力-2]
+
+| パラメータ     | 型      | 説明             |
+| --------- | ------ | -------------- |
+| `contact` | object | 更新された連絡先オブジェクト |
+
+intercom_list_contacts [#intercom_list_contacts]
+
+ページネーションをサポートしてIntercomからすべての連絡先をリストする
+
+入力 [#入力-3]
+
+| パラメータ            | 型      | 必須  | 説明                       |
+| ---------------- | ------ | --- | ------------------------ |
+| `per_page`       | number | いいえ | ページあたりの結果数（最大：150）       |
+| `starting_after` | string | いいえ | ページネーション用カーソル - 開始するIDの後 |
+
+出力 [#出力-3]
+
+| パラメータ      | 型     | 説明           |
+| ---------- | ----- | ------------ |
+| `contacts` | array | 連絡先オブジェクトの配列 |
+
+intercom_search_contacts [#intercom_search_contacts]
+
+クエリを使用してIntercomで連絡先を検索する
+
+入力 [#入力-4]
+
+| パラメータ            | 型      | 必須  | 説明                                                                                               |
+| ---------------- | ------ | --- | ------------------------------------------------------------------------------------------------ |
+| `query`          | string | はい  | 検索クエリ（例：\{"field":"email","operator":"=","value":"[user@example.com](mailto:user@example.com)"}） |
+| `per_page`       | number | いいえ | ページあたりの結果数（最大：150）                                                                               |
+| `starting_after` | string | いいえ | ページネーション用カーソル                                                                                    |
+| `sort_field`     | string | いいえ | ソート対象のフィールド（例："name"、"created\_at"、"last\_seen\_at"）                                             |
+| `sort_order`     | string | いいえ | ソート順："ascending"（昇順）または"descending"（降順）                                                          |
+
+出力 [#出力-4]
+
+| パラメータ      | 型     | 説明               |
+| ---------- | ----- | ---------------- |
+| `contacts` | array | 一致する連絡先オブジェクトの配列 |
+
+intercom_delete_contact [#intercom_delete_contact]
+
+IDでIntercomから連絡先を削除する
+
+入力 [#入力-5]
+
+| パラメータ       | 型      | 必須 | 説明        |
+| ----------- | ------ | -- | --------- |
+| `contactId` | string | はい | 削除する連絡先ID |
+
+出力 [#出力-5]
+
+| パラメータ      | 型       | 説明            |
+| ---------- | ------- | ------------- |
+| `id`       | string  | 削除された連絡先のID   |
+| `deleted`  | boolean | 連絡先が削除されたかどうか |
+| `metadata` | object  | 操作メタデータ       |
+
+intercom_create_company [#intercom_create_company]
+
+Intercomで企業を作成または更新する
+
+入力 [#入力-6]
+
+| パラメータ               | 型      | 必須  | 説明                                                                 |
+| ------------------- | ------ | --- | ------------------------------------------------------------------ |
+| `company_id`        | string | はい  | 企業の一意の識別子                                                          |
+| `name`              | string | いいえ | 企業名                                                                |
+| `website`           | string | いいえ | 企業のウェブサイト                                                          |
+| `plan`              | string | いいえ | 企業のプラン名                                                            |
+| `size`              | number | いいえ | 企業の従業員数                                                            |
+| `industry`          | string | いいえ | 企業が事業を展開する業界                                                       |
+| `monthly_spend`     | number | いいえ | 企業があなたのビジネスに生み出す収益額。注：このフィールドは小数点以下を切り捨てて整数にします（例：155.98は155になります） |
+| `custom_attributes` | string | いいえ | JSONオブジェクトとしてのカスタム属性                                               |
+| `remote_created_at` | number | いいえ | あなたが企業を作成した時刻（Unixタイムスタンプ）                                         |
+
+出力 [#出力-6]
+
+| パラメータ     | 型      | 説明                 |
+| --------- | ------ | ------------------ |
+| `company` | object | 作成または更新された企業オブジェクト |
+
+intercom_get_company [#intercom_get_company]
+
+IDによってIntercomから単一の企業を取得する
+
+入力 [#入力-7]
+
+| パラメータ       | 型      | 必須 | 説明       |
+| ----------- | ------ | -- | -------- |
+| `companyId` | string | はい | 取得する企業ID |
+
+出力 [#出力-7]
+
+| パラメータ     | 型      | 説明       |
+| --------- | ------ | -------- |
+| `company` | object | 企業オブジェクト |
+
+intercom_list_companies [#intercom_list_companies]
+
+ページネーションをサポートしてIntercomからすべての企業を一覧表示します。注：このエンドポイントはページネーションを使用して返すことができる企業数が10,000社に制限されています。10,000社を超えるデータセットの場合は、代わりにスクロールAPIを使用してください。
+
+入力 [#入力-8]
+
+| パラメータ            | 型      | 必須  | 説明                                 |
+| ---------------- | ------ | --- | ---------------------------------- |
+| `per_page`       | number | いいえ | ページあたりの結果数                         |
+| `page`           | number | いいえ | ページ番号                              |
+| `starting_after` | string | いいえ | ページネーション用カーソル（ページベースのページネーションより推奨） |
+
+出力 [#出力-8]
+
+| パラメータ       | 型     | 説明          |
+| ----------- | ----- | ----------- |
+| `companies` | array | 企業オブジェクトの配列 |
+
+intercom_get_conversation [#intercom_get_conversation]
+
+IDによりIntercomから単一の会話を取得
+
+入力 [#入力-9]
+
+| パラメータ                  | 型       | 必須  | 説明                                   |
+| ---------------------- | ------- | --- | ------------------------------------ |
+| `conversationId`       | string  | はい  | 取得する会話ID                             |
+| `display_as`           | string  | いいえ | プレーンテキストでメッセージを取得する場合は「plaintext」に設定 |
+| `include_translations` | boolean | いいえ | trueの場合、会話パーツは会話の検出言語に翻訳されます         |
+
+出力 [#出力-9]
+
+| パラメータ          | 型      | 説明       |
+| -------------- | ------ | -------- |
+| `conversation` | object | 会話オブジェクト |
+
+intercom_list_conversations [#intercom_list_conversations]
+
+ページネーションサポート付きでIntercomからすべての会話を一覧表示
+
+入力 [#入力-10]
+
+| パラメータ            | 型      | 必須  | 説明                                                         |
+| ---------------- | ------ | --- | ---------------------------------------------------------- |
+| `per_page`       | number | いいえ | ページあたりの結果数（最大：150）                                         |
+| `starting_after` | string | いいえ | ページネーション用カーソル                                              |
+| `sort`           | string | いいえ | ソートするフィールド（例：「waiting\_since」、「updated\_at」、「created\_at」） |
+| `order`          | string | いいえ | ソート順：「asc」（昇順）または「desc」（降順）                                |
+
+出力 [#出力-10]
+
+| パラメータ           | 型     | 説明          |
+| --------------- | ----- | ----------- |
+| `conversations` | array | 会話オブジェクトの配列 |
+
+intercom_reply_conversation [#intercom_reply_conversation]
+
+管理者としてIntercomで会話に返信する
+
+入力 [#入力-11]
+
+| パラメータ             | 型      | 必須  | 説明                                                    |
+| ----------------- | ------ | --- | ----------------------------------------------------- |
+| `conversationId`  | string | はい  | 返信する会話ID                                              |
+| `message_type`    | string | はい  | メッセージタイプ：「comment」または「note」                           |
+| `body`            | string | はい  | 返信のテキスト本文                                             |
+| `admin_id`        | string | いいえ | 返信を作成する管理者のID。指定しない場合、デフォルトの管理者（Operator/Fin）が使用されます。 |
+| `attachment_urls` | string | いいえ | カンマ区切りの画像URL一覧（最大10個）                                 |
+| `created_at`      | number | いいえ | 返信が作成されたときのUnixタイムスタンプ。指定しない場合、現在時刻が使用されます。           |
+
+出力 [#出力-11]
+
+| パラメータ          | 型      | 説明            |
+| -------------- | ------ | ------------- |
+| `conversation` | object | 更新された会話オブジェクト |
+
+intercom_search_conversations [#intercom_search_conversations]
+
+クエリを使用してIntercomで会話を検索する
+
+入力 [#入力-12]
+
+| パラメータ            | 型      | 必須  | 説明                                        |
+| ---------------- | ------ | --- | ----------------------------------------- |
+| `query`          | string | はい  | JSONオブジェクトとしての検索クエリ                       |
+| `per_page`       | number | いいえ | ページあたりの結果数（最大：150）                        |
+| `starting_after` | string | いいえ | ページネーション用カーソル                             |
+| `sort_field`     | string | いいえ | ソートするフィールド（例:「created\_at」、「updated\_at」） |
+| `sort_order`     | string | いいえ | ソート順:「ascending」または「descending」           |
+
+出力 [#出力-12]
+
+| パラメータ           | 型     | 説明              |
+| --------------- | ----- | --------------- |
+| `conversations` | array | 一致する会話オブジェクトの配列 |
+
+intercom_create_ticket [#intercom_create_ticket]
+
+Intercomで新しいチケットを作成する
+
+入力 [#入力-13]
+
+| パラメータ                     | 型       | 必須  | 説明                                                              |
+| ------------------------- | ------- | --- | --------------------------------------------------------------- |
+| `ticket_type_id`          | string  | はい  | チケットタイプのID                                                      |
+| `contacts`                | string  | はい  | 連絡先識別子のJSON配列（例：\[\{"id": "contact\_id"}]）                      |
+| `ticket_attributes`       | string  | はい  | \_default\_title\_と\_default\_description\_を含むチケット属性のJSONオブジェクト |
+| `company_id`              | string  | いいえ | チケットに関連付ける会社ID                                                  |
+| `created_at`              | number  | いいえ | チケットが作成された時間（Unixタイムスタンプ）。提供されない場合、現在時刻が使用されます。                 |
+| `conversation_to_link_id` | string  | いいえ | このチケットにリンクする既存の会話のID                                            |
+| `disable_notifications`   | boolean | いいえ | trueの場合、チケット作成時の通知を抑制します                                        |
+
+出力 [#出力-13]
+
+| パラメータ    | 型      | 説明              |
+| -------- | ------ | --------------- |
+| `ticket` | object | 作成されたチケットオブジェクト |
+
+intercom_get_ticket [#intercom_get_ticket]
+
+IDによりIntercomから単一のチケットを取得する
+
+入力 [#入力-14]
+
+| パラメータ      | 型      | 必須 | 説明         |
+| ---------- | ------ | -- | ---------- |
+| `ticketId` | string | はい | 取得するチケットID |
+
+出力 [#出力-14]
+
+| パラメータ    | 型      | 説明         |
+| -------- | ------ | ---------- |
+| `ticket` | object | チケットオブジェクト |
+
+intercom_create_message [#intercom_create_message]
+
+Intercomで管理者が開始した新しいメッセージを作成して送信する
+
+入力 [#入力-15]
+
+| パラメータ          | 型      | 必須  | 説明                                                            |
+| -------------- | ------ | --- | ------------------------------------------------------------- |
+| `message_type` | string | はい  | メッセージタイプ:アプリ内メッセージの場合は「inapp」、メールメッセージの場合は「email」             |
+| `template`     | string | はい  | メッセージテンプレートスタイル:プレーンテキストの場合は「plain」、パーソナライズスタイルの場合は「personal」 |
+| `subject`      | string | いいえ | メッセージの件名（emailタイプの場合）                                         |
+| `body`         | string | はい  | メッセージの本文                                                      |
+| `from_type`    | string | はい  | 送信者タイプ:「admin」                                                |
+| `from_id`      | string | はい  | メッセージを送信する管理者のID                                              |
+| `to_type`      | string | はい  | 受信者タイプ:「contact」                                              |
+| `to_id`        | string | はい  | メッセージを受信する連絡先のID                                              |
+| `created_at`   | number | いいえ | メッセージが作成された時間（Unixタイムスタンプ）。提供されない場合、現在時刻が使用されます。              |
+
+出力 [#出力-15]
+
+| パラメータ     | 型      | 説明               |
+| --------- | ------ | ---------------- |
+| `message` | object | 作成されたメッセージオブジェクト |
+
+メモ [#メモ]
+
+* カテゴリー: `tools`
+* タイプ: `intercom`
+
+Intercomで新しい管理者主導のメッセージを作成して送信します。API準拠のフィールドのみを返します。
+
+入力 [#入力-16]
+
+| パラメータ          | 型      | 必須  | 説明                                                            |
+| -------------- | ------ | --- | ------------------------------------------------------------- |
+| `message_type` | string | はい  | メッセージタイプ:アプリ内メッセージの場合は「inapp」、メールメッセージの場合は「email」             |
+| `template`     | string | はい  | メッセージテンプレートスタイル:プレーンテキストの場合は「plain」、パーソナライズスタイルの場合は「personal」 |
+| `subject`      | string | いいえ | メッセージの件名(メールタイプの場合)                                           |
+| `body`         | string | はい  | メッセージの本文                                                      |
+| `from_type`    | string | はい  | 送信者タイプ:「admin」                                                |
+| `from_id`      | string | はい  | メッセージを送信する管理者のID                                              |
+| `to_type`      | string | はい  | 受信者タイプ:「contact」                                              |
+| `to_id`        | string | はい  | メッセージを受信する連絡先のID                                              |
+| `created_at`   | number | いいえ | メッセージが作成された時刻(Unixタイムスタンプ)。未指定の場合は現在時刻が使用されます                 |
+
+出力 [#出力-16]
+
+| パラメータ               | 型       | 説明                         |
+| ------------------- | ------- | -------------------------- |
+| `message`           | object  | 作成されたメッセージオブジェクト           |
+| ↳ `id`              | string  | メッセージの一意の識別子               |
+| ↳ `type`            | string  | オブジェクトタイプ(message)         |
+| ↳ `created_at`      | number  | メッセージが作成された時刻(Unixタイムスタンプ) |
+| ↳ `body`            | string  | メッセージの本文                   |
+| ↳ `message_type`    | string  | メッセージのタイプ(in\_appまたはemail) |
+| ↳ `conversation_id` | string  | 作成された会話のID                 |
+| ↳ `owner`           | object  | メッセージの所有者                  |
+| `messageId`         | string  | 作成されたメッセージのID              |
+| `success`           | boolean | 操作の成功ステータス                 |
+
+intercom_list_admins [#intercom_list_admins]
+
+ワークスペースのすべての管理者のリストを取得
+
+入力 [#入力-17]
+
+| パラメータ | 型 | 必須 | 説明 |
+| ----- | - | -- | -- |
+
+出力 [#出力-17]
+
+| パラメータ                  | 型       | 説明                        |
+| ---------------------- | ------- | ------------------------- |
+| `admins`               | array   | 管理者オブジェクトの配列              |
+| ↳ `id`                 | string  | 管理者の一意の識別子                |
+| ↳ `type`               | string  | オブジェクトタイプ(admin)          |
+| ↳ `name`               | string  | 管理者の名前                    |
+| ↳ `email`              | string  | 管理者のメールアドレス               |
+| ↳ `job_title`          | string  | 管理者の役職                    |
+| ↳ `away_mode_enabled`  | boolean | 管理者が離席モードかどうか             |
+| ↳ `away_mode_reassign` | boolean | 離席時に会話を再割り当てするかどうか        |
+| ↳ `has_inbox_seat`     | boolean | 管理者が有料の受信トレイシートを持っているかどうか |
+| ↳ `team_ids`           | array   | 管理者が所属するチームIDのリスト         |
+| ↳ `avatar`             | object  | アバター情報                    |
+| ↳ `email_verified`     | boolean | メールアドレスが確認済みかどうか          |
+| `type`                 | string  | オブジェクトタイプ(admin.list)     |
+
+intercom_close_conversation [#intercom_close_conversation]
+
+Intercomで会話をクローズする
+
+入力 [#入力-18]
+
+| パラメータ            | 型      | 必須  | 説明                     |
+| ---------------- | ------ | --- | ---------------------- |
+| `conversationId` | string | はい  | クローズする会話のID            |
+| `admin_id`       | string | はい  | アクションを実行する管理者のID       |
+| `body`           | string | いいえ | 会話に追加するオプションのクローズメッセージ |
+
+出力 [#出力-18]
+
+| パラメータ            | 型       | 説明                      |
+| ---------------- | ------- | ----------------------- |
+| `conversation`   | object  | クローズされた会話オブジェクト         |
+| ↳ `id`           | string  | 会話の一意の識別子               |
+| ↳ `type`         | string  | オブジェクトタイプ(conversation) |
+| ↳ `state`        | string  | 会話の状態(closed)           |
+| ↳ `open`         | boolean | 会話がオープンかどうか(false)      |
+| ↳ `read`         | boolean | 会話が既読かどうか               |
+| ↳ `created_at`   | number  | 会話が作成されたUnixタイムスタンプ     |
+| ↳ `updated_at`   | number  | 会話が最後に更新されたUnixタイムスタンプ  |
+| `conversationId` | string  | クローズされた会話のID            |
+| `state`          | string  | 会話の状態(closed)           |
+
+intercom_open_conversation [#intercom_open_conversation]
+
+Intercomでクローズまたはスヌーズされた会話をオープンする
+
+入力 [#入力-19]
+
+| パラメータ            | 型      | 必須 | 説明               |
+| ---------------- | ------ | -- | ---------------- |
+| `conversationId` | string | はい | オープンする会話のID      |
+| `admin_id`       | string | はい | アクションを実行する管理者のID |
+
+出力 [#出力-19]
+
+| パラメータ            | 型       | 説明                      |
+| ---------------- | ------- | ----------------------- |
+| `conversation`   | object  | オープンされた会話オブジェクト         |
+| ↳ `id`           | string  | 会話の一意の識別子               |
+| ↳ `type`         | string  | オブジェクトタイプ(conversation) |
+| ↳ `state`        | string  | 会話の状態(open)             |
+| ↳ `open`         | boolean | 会話がオープンかどうか(true)       |
+| ↳ `read`         | boolean | 会話が既読かどうか               |
+| ↳ `created_at`   | number  | 会話が作成されたUnixタイムスタンプ     |
+| ↳ `updated_at`   | number  | 会話が最後に更新されたUnixタイムスタンプ  |
+| `conversationId` | string  | オープンされた会話のID            |
+| `state`          | string  | 会話の状態(open)             |
+
+intercom_snooze_conversation [#intercom_snooze_conversation]
+
+会話をスヌーズして将来の時刻に再開する
+
+入力 [#入力-20]
+
+| パラメータ            | 型      | 必須 | 説明                     |
+| ---------------- | ------ | -- | ---------------------- |
+| `conversationId` | string | はい | スヌーズする会話のID            |
+| `admin_id`       | string | はい | アクションを実行する管理者のID       |
+| `snoozed_until`  | number | はい | 会話が再開される時刻のUnixタイムスタンプ |
+
+出力 [#出力-20]
+
+| パラメータ             | 型       | 説明                        |
+| ----------------- | ------- | ------------------------- |
+| `conversation`    | object  | スヌーズされた会話オブジェクト           |
+| ↳ `id`            | string  | 会話の一意の識別子                 |
+| ↳ `type`          | string  | オブジェクトタイプ(conversation)   |
+| ↳ `state`         | string  | 会話の状態(snoozed)            |
+| ↳ `open`          | boolean | 会話が開いているかどうか              |
+| ↳ `snoozed_until` | number  | 会話が再開されるUnixタイムスタンプ       |
+| ↳ `created_at`    | number  | 会話が作成された時刻のUnixタイムスタンプ    |
+| ↳ `updated_at`    | number  | 会話が最後に更新された時刻のUnixタイムスタンプ |
+| `conversationId`  | string  | スヌーズされた会話のID              |
+| `state`           | string  | 会話の状態(snoozed)            |
+| `snoozed_until`   | number  | 会話が再開されるUnixタイムスタンプ       |
+
+intercom_assign_conversation [#intercom_assign_conversation]
+
+Intercomで会話を管理者またはチームに割り当てる
+
+入力 [#入力-21]
+
+| パラメータ            | 型      | 必須  | 説明                                        |
+| ---------------- | ------ | --- | ----------------------------------------- |
+| `conversationId` | string | はい  | 割り当てる会話のID                                |
+| `admin_id`       | string | はい  | 割り当てを実行する管理者のID                           |
+| `assignee_id`    | string | はい  | 会話を割り当てる管理者またはチームのID。割り当てを解除するには「0」を設定    |
+| `body`           | string | いいえ | 割り当て時に追加するオプションのメッセージ(例:「サポートチームに引き継ぎます」) |
+
+出力 [#出力-21]
+
+| パラメータ                 | 型       | 説明                         |
+| --------------------- | ------- | -------------------------- |
+| `conversation`        | object  | 割り当てられた会話オブジェクト            |
+| ↳ `id`                | string  | 会話の一意の識別子                  |
+| ↳ `type`              | string  | オブジェクトタイプ(conversation)    |
+| ↳ `state`             | string  | 会話の状態                      |
+| ↳ `open`              | boolean | 会話がオープンかどうか                |
+| ↳ `admin_assignee_id` | number  | 割り当てられた管理者のID              |
+| ↳ `team_assignee_id`  | string  | 割り当てられたチームのID              |
+| ↳ `created_at`        | number  | 会話が作成された時刻(Unixタイムスタンプ)    |
+| ↳ `updated_at`        | number  | 会話が最後に更新された時刻(Unixタイムスタンプ) |
+| `conversationId`      | string  | 割り当てられた会話のID               |
+| `admin_assignee_id`   | number  | 割り当てられた管理者のID              |
+| `team_assignee_id`    | string  | 割り当てられたチームのID              |
+
+intercom_list_tags [#intercom_list_tags]
+
+ワークスペース内のすべてのタグのリストを取得する
+
+入力 [#入力-22]
+
+| パラメータ | 型 | 必須 | 説明 |
+| ----- | - | -- | -- |
+
+出力 [#出力-22]
+
+| パラメータ    | 型      | 説明              |
+| -------- | ------ | --------------- |
+| `tags`   | array  | タグオブジェクトの配列     |
+| ↳ `id`   | string | タグの一意の識別子       |
+| ↳ `type` | string | オブジェクトタイプ(tag)  |
+| ↳ `name` | string | タグの名前           |
+| `type`   | string | オブジェクトタイプ(list) |
+
+intercom_create_tag [#intercom_create_tag]
+
+新しいタグを作成するか、既存のタグ名を更新する
+
+入力 [#入力-23]
+
+| パラメータ  | 型      | 必須  | 説明                                              |
+| ------ | ------ | --- | ----------------------------------------------- |
+| `name` | string | はい  | タグの名前。見つからない場合は新しいタグを作成し、IDが指定されている場合は名前を更新します。 |
+| `id`   | string | いいえ | 更新する既存のタグのID。新しいタグを作成する場合は省略します。                |
+
+出力 [#出力-23]
+
+| パラメータ  | 型      | 説明              |
+| ------ | ------ | --------------- |
+| `id`   | string | タグの一意の識別子       |
+| `name` | string | タグの名前           |
+| `type` | string | オブジェクトタイプ (tag) |
+
+intercom_tag_contact [#intercom_tag_contact]
+
+特定の連絡先にタグを追加する
+
+入力 [#入力-24]
+
+| パラメータ       | 型      | 必須 | 説明           |
+| ----------- | ------ | -- | ------------ |
+| `contactId` | string | はい | タグを付ける連絡先のID |
+| `tagId`     | string | はい | 適用するタグのID    |
+
+出力 [#出力-24]
+
+| パラメータ  | 型      | 説明              |
+| ------ | ------ | --------------- |
+| `id`   | string | タグの一意の識別子       |
+| `name` | string | タグの名前           |
+| `type` | string | オブジェクトタイプ (tag) |
+
+intercom_untag_contact [#intercom_untag_contact]
+
+特定の連絡先からタグを削除する
+
+入力 [#入力-25]
+
+| パラメータ       | 型      | 必須 | 説明            |
+| ----------- | ------ | -- | ------------- |
+| `contactId` | string | はい | タグを削除する連絡先のID |
+| `tagId`     | string | はい | 削除するタグのID     |
+
+出力 [#出力-25]
+
+| パラメータ  | 型      | 説明             |
+| ------ | ------ | -------------- |
+| `id`   | string | 削除されたタグの一意の識別子 |
+| `name` | string | 削除されたタグの名前     |
+| `type` | string | オブジェクトタイプ（tag） |
+
+intercom_tag_conversation [#intercom_tag_conversation]
+
+特定の会話にタグを追加する
+
+入力 [#入力-26]
+
+| パラメータ            | 型      | 必須 | 説明            |
+| ---------------- | ------ | -- | ------------- |
+| `conversationId` | string | はい | タグを付ける会話のID   |
+| `tagId`          | string | はい | 適用するタグのID     |
+| `admin_id`       | string | はい | タグを適用する管理者のID |
+
+出力 [#出力-26]
+
+| パラメータ  | 型      | 説明             |
+| ------ | ------ | -------------- |
+| `id`   | string | タグの一意の識別子      |
+| `name` | string | タグの名前          |
+| `type` | string | オブジェクトタイプ（tag） |
+
+intercom_create_note [#intercom_create_note]
+
+特定の連絡先にメモを追加する
+
+入力 [#入力-27]
+
+| パラメータ       | 型      | 必須  | 説明            |
+| ----------- | ------ | --- | ------------- |
+| `contactId` | string | はい  | メモを追加する連絡先のID |
+| `body`      | string | はい  | メモのテキスト内容     |
+| `admin_id`  | string | いいえ | メモを作成する管理者のID |
+
+出力 [#出力-27]
+
+| パラメータ        | 型      | 説明                       |
+| ------------ | ------ | ------------------------ |
+| `id`         | string | ノートの一意の識別子               |
+| `body`       | string | ノートのテキストコンテンツ            |
+| `created_at` | number | ノートが作成された時刻(Unixタイムスタンプ) |
+| `type`       | string | オブジェクトタイプ(note)          |
+| `author`     | object | ノートを作成した管理者              |
+| ↳ `type`     | string | 作成者タイプ(admin)            |
+| ↳ `id`       | string | 作成者ID                    |
+| ↳ `name`     | string | 作成者名                     |
+| ↳ `email`    | string | 作成者のメールアドレス              |
+| `contact`    | object | ノートが作成された連絡先             |
+| ↳ `type`     | string | 連絡先タイプ                   |
+| ↳ `id`       | string | 連絡先ID                    |
+
+intercom_create_event [#intercom_create_event]
+
+Intercomで連絡先のカスタムイベントを追跡する
+
+入力 [#入力-28]
+
+| パラメータ        | 型      | 必須  | 説明                                                                  |
+| ------------ | ------ | --- | ------------------------------------------------------------------- |
+| `event_name` | string | はい  | イベントの名前(例:「order-completed」)。可読性のため過去形の動詞-名詞形式を使用してください。            |
+| `created_at` | number | いいえ | イベントが発生した時刻のUnixタイムスタンプ。一意性のため強く推奨されます。                             |
+| `user_id`    | string | いいえ | ユーザーの識別子(external\_id)                                              |
+| `email`      | string | いいえ | ユーザーのメールアドレス。アプリがメールを使用してユーザーを一意に識別する場合のみ使用してください。                  |
+| `id`         | string | いいえ | Intercomの連絡先ID                                                      |
+| `metadata`   | string | いいえ | イベントに関する最大10個のメタデータキーと値のペアを含むJSONオブジェクト(例:\{"order\_value": 99.99}) |
+
+出力 [#出力-28]
+
+| パラメータ      | 型       | 説明                             |
+| ---------- | ------- | ------------------------------ |
+| `accepted` | boolean | イベントが受け入れられたかどうか(202 Accepted) |
+
+intercom_attach_contact_to_company [#intercom_attach_contact_to_company]
+
+Intercomで連絡先を会社に関連付ける
+
+入力 [#入力-29]
+
+| パラメータ       | 型      | 必須 | 説明             |
+| ----------- | ------ | -- | -------------- |
+| `contactId` | string | はい | 会社に関連付ける連絡先のID |
+| `companyId` | string | はい | 連絡先を関連付ける会社のID |
+
+出力 [#出力-29]
+
+| パラメータ             | 型      | 説明                  |
+| ----------------- | ------ | ------------------- |
+| `company`         | object | 連絡先が関連付けられた会社オブジェクト |
+| ↳ `id`            | string | 会社の一意の識別子           |
+| ↳ `type`          | string | オブジェクトタイプ(company)  |
+| ↳ `company_id`    | string | 定義した会社ID            |
+| ↳ `name`          | string | 会社名                 |
+| ↳ `created_at`    | number | 会社が作成されたUnixタイムスタンプ |
+| ↳ `updated_at`    | number | 会社が更新されたUnixタイムスタンプ |
+| ↳ `user_count`    | number | 会社内のユーザー数           |
+| ↳ `session_count` | number | セッション数              |
+| ↳ `monthly_spend` | number | 月間支出額               |
+| ↳ `plan`          | object | 会社のプラン詳細            |
+| `companyId`       | string | 会社のID               |
+| `name`            | string | 会社名                 |
+
+intercom_detach_contact_from_company [#intercom_detach_contact_from_company]
+
+Intercomで連絡先を企業から削除する
+
+入力 [#入力-30]
+
+| パラメータ       | 型      | 必須 | 説明             |
+| ----------- | ------ | -- | -------------- |
+| `contactId` | string | はい | 企業から切り離す連絡先のID |
+| `companyId` | string | はい | 連絡先を切り離す企業のID  |
+
+出力 [#出力-30]
+
+| パラメータ          | 型      | 説明                 |
+| -------------- | ------ | ------------------ |
+| `company`      | object | 連絡先が切り離された企業オブジェクト |
+| ↳ `id`         | string | 企業の一意の識別子          |
+| ↳ `type`       | string | オブジェクトタイプ(company) |
+| ↳ `company_id` | string | 定義した企業ID           |
+| ↳ `name`       | string | 企業名                |
+| `companyId`    | string | 企業のID              |
+| `name`         | string | 企業名                |
+3a:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L41",null,{"content":"$42"}]}],"$L43"]}],"$L44","$L45"]}]
+3b:["$","$L46",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L47",null,{"type":"intercom","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L48",null,{"href":"https://www.intercom.com/","children":"Intercom"}],"は、連絡先、企業、会話、チケット、メッセージとのやり取りを一か所で管理・自動化できる主要な顧客コミュニケーションプラットフォームです。AptlystarのIntercom統合により、エージェントは自動化されたワークフローから顧客関係、サポートリクエスト、会話をプログラムで直接管理できます。"]}],"\n",["$","p",null,{"children":"Intercomツールでは、以下のことができます："}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"連絡先管理："}]," 連絡先の作成、取得、更新、一覧表示、検索、削除—CRMプロセスを自動化し、顧客記録を最新の状態に保ちます。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"企業管理："}]," 新しい企業の作成、企業詳細の取得、ユーザーやビジネスクライアントに関連するすべての企業の一覧表示。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"会話処理："}]," 会話の取得、一覧表示、返信、検索—エージェントが進行中のサポートスレッドを追跡し、回答を提供し、フォローアップアクションを自動化できます。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"チケット管理："}]," プログラムでチケットを作成および取得し、カスタマーサービス、サポート問題の追跡、ワークフローのエスカレーションを自動化します。"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"メッセージ送信："}]," ワークフロー自動化内からオンボーディング、サポート、マーケティングのためにユーザーやリードにメッセージをトリガーします。"]}],"\n"]}],"\n",["$","p",null,{"children":"IntercomツールをAptlystarに統合することで、ワークフローがユーザーと直接通信し、カスタマーサポートプロセスを自動化し、リードを管理し、大規模なコミュニケーションを効率化する能力を与えます。新しい連絡先の作成、顧客データの同期、サポートチケットの管理、パーソナライズされたエンゲージメントメッセージの送信など、Intercomツールはインテリジェントな自動化の一部として顧客とのやり取りを管理するための包括的な方法を提供します。"}],"\n","\n",["$","$L49",null,{"as":"h2","id":"使用手順","children":"使用手順"}],"\n",["$","p",null,{"children":"Intercomをワークフローに統合します。連絡先の作成、取得、更新、一覧表示、検索、削除；企業の作成、取得、一覧表示；会話の取得、一覧表示、返信、検索；チケットの作成と取得；およびメッセージの作成が可能です。"}],"\n",["$","$L49",null,{"as":"h2","id":"ツール","children":"ツール"}],"\n",["$","$L49",null,{"as":"h3","id":"intercom_create_contact","children":["$","code",null,{"children":"intercom_create_contact"}]}],"\n",["$","p",null,{"children":"メール、external_id、または役割を使用してIntercomに新しい連絡先を作成する"}],"\n",["$","$L49",null,{"as":"h4","id":"入力","children":"入力"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先の役割。「user」または「lead」を指定可能。未指定の場合は「lead」がデフォルト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先のメールアドレス"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"external_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"クライアントが提供する連絡先の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先の電話番号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先の名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avatar"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先のアバター画像URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signed_up_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ユーザーが登録した時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_seen_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ユーザーが最後に確認された時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先のアカウント所有権が割り当てられた管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unsubscribed_from_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先がメールの配信停止をしているかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"カスタム属性(JSONオブジェクト形式、例：{\"attribute_name\": \"value\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],"$L4a","$L4b","$L4c"]}]]}]]}]}],"\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6","\n","$Le7","\n","$Le8","\n","$Le9","\n","$Lea","\n","$Leb","\n","$Lec","\n","$Led","\n","$Lee","\n","$Lef","\n","$Lf0","\n","$Lf1","\n","$Lf2","\n","$Lf3","\n","$Lf4","\n","$Lf5","\n","$Lf6","\n","$Lf7","\n","$Lf8","\n","$Lf9","\n","$Lfa","\n","$Lfb","\n","$Lfc","\n","$Lfd","\n","$Lfe","\n","$Lff","\n","$L100","\n","$L101","\n","$L102","\n","$L103"]}]}]
+3c:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+3d:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+3e:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+3f:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+40:["$","$L104",null,{"children":["$","$105",null,{"name":"Next.MetadataOutlet","children":"$@106"}]}]
+43:["$","$L107",null,{}]
+108:Tbe4,M221.66,144.56 C221.66,146.9 220.76,149.15 219.17,150.8 C217.57,152.46 215.4,153.39 213.15,153.39 C210.89,153.39 208.72,152.46 207.12,150.8 C205.53,149.15 204.63,146.9 204.63,144.56 L204.63,65.68 C204.63,63.34 205.53,61.09 207.12,59.43 C208.72,57.78 210.89,56.85 213.15,56.85 C215.4,56.85 217.57,57.78 219.17,59.43 C220.76,61.09 221.66,63.34 221.66,65.68 L221.66,144.56 Z M218.7,199.22 C217.58,200.39 185.91,227.75 127.86,227.75 C69.81,227.75 38.35,200.53 37.01,199.36 C36.17,198.63 35.48,197.73 34.97,196.71 C34.47,195.69 34.16,194.59 34.07,193.45 C33.98,192.31 34.1,191.16 34.44,190.07 C34.77,188.98 35.32,187.98 36.03,187.1 C37.5,185.34 39.58,184.25 41.82,184.07 C44.06,183.9 46.28,184.64 47.99,186.16 C48.48,186.52 76.77,210.31 127.79,210.31 C178.81,210.31 207.3,186.37 207.59,186.16 C209.32,184.66 211.54,183.92 213.79,184.1 C216.04,184.27 218.13,185.35 219.62,187.1 C221.06,188.84 221.77,191.1 221.61,193.38 C221.46,195.66 220.44,197.78 218.78,199.29 L218.7,199.22 Z M33.99,65.68 C34.12,63.33 35.13,61.13 36.82,59.55 C38.51,57.98 40.73,57.17 43,57.29 C45.1,57.41 47.08,58.33 48.56,59.88 C50.04,61.43 50.92,63.5 51.02,65.68 L51.02,144.42 C51.02,146.76 50.12,149 48.52,150.66 C46.93,152.31 44.76,153.24 42.5,153.24 C40.24,153.24 38.08,152.31 36.48,150.66 C34.88,149 33.99,146.76 33.99,144.42 L33.99,65.68 Z M76.7,48.16 C76.83,45.81 77.85,43.61 79.54,42.04 C81.22,40.47 83.44,39.65 85.71,39.77 C87.81,39.9 89.79,40.82 91.27,42.37 C92.75,43.92 93.63,45.98 93.73,48.16 L93.73,164.92 C93.73,167.26 92.83,169.51 91.24,171.16 C89.64,172.82 87.47,173.75 85.22,173.75 C82.96,173.75 80.79,172.82 79.2,171.16 C77.6,169.51 76.7,167.26 76.7,164.92 L76.7,48.16 Z M119.63,43.79 C119.63,41.44 120.52,39.2 122.12,37.54 C123.72,35.89 125.88,34.96 128.14,34.96 C130.4,34.96 132.56,35.89 134.16,37.54 C135.76,39.2 136.66,41.44 136.66,43.79 L136.66,170.76 C136.66,173.1 135.76,175.35 134.16,177 C132.56,178.66 130.4,179.59 128.14,179.59 C125.88,179.59 123.72,178.66 122.12,177 C120.52,175.35 119.63,173.1 119.63,170.76 L119.63,43.79 Z M161.85,48.16 C161.85,45.82 162.74,43.58 164.34,41.92 C165.94,40.26 168.1,39.33 170.36,39.33 C172.62,39.33 174.79,40.26 176.38,41.92 C177.98,43.58 178.88,45.82 178.88,48.16 L178.88,164.92 C178.88,167.26 177.98,169.51 176.38,171.16 C174.79,172.82 172.62,173.75 170.36,173.75 C168.1,173.75 165.94,172.82 164.34,171.16 C162.74,169.51 161.85,167.26 161.85,164.92 L161.85,48.16 Z M223.98,0 L32.02,0 C27.83,-0.03 23.69,0.8 19.81,2.44 C15.94,4.07 12.41,6.48 9.44,9.53 C6.47,12.58 4.1,16.21 2.48,20.21 C0.86,24.21 0.02,28.5 0,32.84 L0,229.87 C0.02,234.2 0.86,238.5 2.48,242.49 C4.1,246.49 6.47,250.12 9.44,253.17 C12.41,256.22 15.94,258.64 19.81,260.27 C23.69,261.91 27.83,262.73 32.02,262.71 L223.98,262.71 C228.16,262.73 232.3,261.91 236.17,260.28 C240.04,258.65 243.56,256.24 246.53,253.2 C249.51,250.16 251.87,246.54 253.5,242.55 C255.12,238.55 255.97,234.27 256,229.94 L256,32.84 C255.98,28.51 255.14,24.22 253.52,20.23 C251.91,16.23 249.55,12.61 246.58,9.56 C243.62,6.51 240.1,4.1 236.24,2.46 C232.37,0.82 228.23,-0.02 224.05,044:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"800px","height":"800px","viewBox":"-3.5 0 263 263","version":"1.1","xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","preserveAspectRatio":"xMidYMid","children":["$","g",null,{"children":["$","path",null,{"d":"$108","fill":"#000000"}]}]}]}],"$L109"]}]
+45:["$","$L10a",null,{"children":"Intercomで連絡先、企業、会話、チケット、メッセージを管理する"}]
+4a:["$","td",null,{"children":"string"}]
+4b:["$","td",null,{"children":"いいえ"}]
+4c:["$","td",null,{"children":"作成時に連絡先を関連付ける会社ID"}]
+4d:["$","$L49",null,{"as":"h4","id":"出力","children":"出力"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"作成された連絡先オブジェクト"}]]}]}]]}]}]
+4f:["$","$L49",null,{"as":"h3","id":"intercom_get_contact","children":["$","code",null,{"children":"intercom_get_contact"}]}]
+50:["$","p",null,{"children":"IDからIntercomの単一の連絡先を取得する"}]
+51:["$","$L49",null,{"as":"h4","id":"入力-1","children":"入力"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"取得する連絡先ID"}]]}]}]]}]}]
+53:["$","$L49",null,{"as":"h4","id":"出力-1","children":"出力"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"連絡先オブジェクト"}]]}]}]]}]}]
+55:["$","$L49",null,{"as":"h3","id":"intercom_update_contact","children":["$","code",null,{"children":"intercom_update_contact"}]}]
+56:["$","p",null,{"children":"Intercomの既存の連絡先を更新する"}]
+57:["$","$L49",null,{"as":"h4","id":"入力-2","children":"入力"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"更新する連絡先ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先の役割。「user」または「lead」を指定可能"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"external_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"クライアントが提供する連絡先の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先のメールアドレス"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先の電話番号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先の名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"avatar"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先のアバター画像URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signed_up_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ユーザーが登録した時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_seen_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ユーザーが最後に確認された時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先のアカウント所有権が割り当てられた管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unsubscribed_from_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先がメールの配信停止をしているかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"カスタム属性(JSONオブジェクト形式、例：{\"attribute_name\": \"value\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"連絡先を関連付ける会社ID"}]]}]]}]]}]}]
+59:["$","$L49",null,{"as":"h4","id":"出力-2","children":"出力"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"更新された連絡先オブジェクト"}]]}]}]]}]}]
+5b:["$","$L49",null,{"as":"h3","id":"intercom_list_contacts","children":["$","code",null,{"children":"intercom_list_contacts"}]}]
+5c:["$","p",null,{"children":"ページネーションをサポートしてIntercomからすべての連絡先をリストする"}]
+5d:["$","$L49",null,{"as":"h4","id":"入力-3","children":"入力"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページあたりの結果数（最大：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページネーション用カーソル - 開始するIDの後"}]]}]]}]]}]}]
+5f:["$","$L49",null,{"as":"h4","id":"出力-3","children":"出力"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"連絡先オブジェクトの配列"}]]}]}]]}]}]
+61:["$","$L49",null,{"as":"h3","id":"intercom_search_contacts","children":["$","code",null,{"children":"intercom_search_contacts"}]}]
+62:["$","p",null,{"children":"クエリを使用してIntercomで連絡先を検索する"}]
+63:["$","$L49",null,{"as":"h4","id":"入力-4","children":"入力"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":["検索クエリ（例：{\"field\":\"email\",\"operator\":\"=\",\"value\":\"",["$","$L48",null,{"href":"mailto:user@example.com","children":"user@example.com"}],"\"}）"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページあたりの結果数（最大：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページネーション用カーソル"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_field"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ソート対象のフィールド（例：\"name\"、\"created_at\"、\"last_seen_at\"）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ソート順：\"ascending\"（昇順）または\"descending\"（降順）"}]]}]]}]]}]}]
+65:["$","$L49",null,{"as":"h4","id":"出力-4","children":"出力"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一致する連絡先オブジェクトの配列"}]]}]}]]}]}]
+67:["$","$L49",null,{"as":"h3","id":"intercom_delete_contact","children":["$","code",null,{"children":"intercom_delete_contact"}]}]
+68:["$","p",null,{"children":"IDでIntercomから連絡先を削除する"}]
+69:["$","$L49",null,{"as":"h4","id":"入力-5","children":"入力"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"削除する連絡先ID"}]]}]}]]}]}]
+6b:["$","$L49",null,{"as":"h4","id":"出力-5","children":"出力"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"削除された連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"連絡先が削除されたかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"操作メタデータ"}]]}]]}]]}]}]
+6d:["$","$L49",null,{"as":"h3","id":"intercom_create_company","children":["$","code",null,{"children":"intercom_create_company"}]}]
+6e:["$","p",null,{"children":"Intercomで企業を作成または更新する"}]
+6f:["$","$L49",null,{"as":"h4","id":"入力-6","children":"入力"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"企業の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"企業名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"企業のウェブサイト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"plan"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"企業のプラン名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"企業の従業員数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"industry"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"企業が事業を展開する業界"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"monthly_spend"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"企業があなたのビジネスに生み出す収益額。注：このフィールドは小数点以下を切り捨てて整数にします（例：155.98は155になります）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"custom_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"JSONオブジェクトとしてのカスタム属性"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"remote_created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"あなたが企業を作成した時刻（Unixタイムスタンプ）"}]]}]]}]]}]}]
+71:["$","$L49",null,{"as":"h4","id":"出力-6","children":"出力"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"作成または更新された企業オブジェクト"}]]}]}]]}]}]
+73:["$","$L49",null,{"as":"h3","id":"intercom_get_company","children":["$","code",null,{"children":"intercom_get_company"}]}]
+74:["$","p",null,{"children":"IDによってIntercomから単一の企業を取得する"}]
+75:["$","$L49",null,{"as":"h4","id":"入力-7","children":"入力"}]
+76:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"取得する企業ID"}]]}]}]]}]}]
+77:["$","$L49",null,{"as":"h4","id":"出力-7","children":"出力"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"企業オブジェクト"}]]}]}]]}]}]
+79:["$","$L49",null,{"as":"h3","id":"intercom_list_companies","children":["$","code",null,{"children":"intercom_list_companies"}]}]
+7a:["$","p",null,{"children":"ページネーションをサポートしてIntercomからすべての企業を一覧表示します。注：このエンドポイントはページネーションを使用して返すことができる企業数が10,000社に制限されています。10,000社を超えるデータセットの場合は、代わりにスクロールAPIを使用してください。"}]
+7b:["$","$L49",null,{"as":"h4","id":"入力-8","children":"入力"}]
+7c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページあたりの結果数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページ番号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページネーション用カーソル（ページベースのページネーションより推奨）"}]]}]]}]]}]}]
+7d:["$","$L49",null,{"as":"h4","id":"出力-8","children":"出力"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companies"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"企業オブジェクトの配列"}]]}]}]]}]}]
+7f:["$","$L49",null,{"as":"h3","id":"intercom_get_conversation","children":["$","code",null,{"children":"intercom_get_conversation"}]}]
+80:["$","p",null,{"children":"IDによりIntercomから単一の会話を取得"}]
+81:["$","$L49",null,{"as":"h4","id":"入力-9","children":"入力"}]
+82:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"取得する会話ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"display_as"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"プレーンテキストでメッセージを取得する場合は「plaintext」に設定"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"include_translations"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"trueの場合、会話パーツは会話の検出言語に翻訳されます"}]]}]]}]]}]}]
+83:["$","$L49",null,{"as":"h4","id":"出力-9","children":"出力"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"会話オブジェクト"}]]}]}]]}]}]
+85:["$","$L49",null,{"as":"h3","id":"intercom_list_conversations","children":["$","code",null,{"children":"intercom_list_conversations"}]}]
+86:["$","p",null,{"children":"ページネーションサポート付きでIntercomからすべての会話を一覧表示"}]
+87:["$","$L49",null,{"as":"h4","id":"入力-10","children":"入力"}]
+88:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページあたりの結果数（最大：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページネーション用カーソル"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ソートするフィールド（例：「waiting_since」、「updated_at」、「created_at」）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ソート順：「asc」（昇順）または「desc」（降順）"}]]}]]}]]}]}]
+89:["$","$L49",null,{"as":"h4","id":"出力-10","children":"出力"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"会話オブジェクトの配列"}]]}]}]]}]}]
+8b:["$","$L49",null,{"as":"h3","id":"intercom_reply_conversation","children":["$","code",null,{"children":"intercom_reply_conversation"}]}]
+8c:["$","p",null,{"children":"管理者としてIntercomで会話に返信する"}]
+8d:["$","$L49",null,{"as":"h4","id":"入力-11","children":"入力"}]
+8e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"返信する会話ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージタイプ：「comment」または「note」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"返信のテキスト本文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"返信を作成する管理者のID。指定しない場合、デフォルトの管理者（Operator/Fin）が使用されます。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachment_urls"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"カンマ区切りの画像URL一覧（最大10個）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"返信が作成されたときのUnixタイムスタンプ。指定しない場合、現在時刻が使用されます。"}]]}]]}]]}]}]
+8f:["$","$L49",null,{"as":"h4","id":"出力-11","children":"出力"}]
+90:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"更新された会話オブジェクト"}]]}]}]]}]}]
+91:["$","$L49",null,{"as":"h3","id":"intercom_search_conversations","children":["$","code",null,{"children":"intercom_search_conversations"}]}]
+92:["$","p",null,{"children":"クエリを使用してIntercomで会話を検索する"}]
+93:["$","$L49",null,{"as":"h4","id":"入力-12","children":"入力"}]
+94:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"JSONオブジェクトとしての検索クエリ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページあたりの結果数（最大：150）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starting_after"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ページネーション用カーソル"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_field"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ソートするフィールド（例:「created_at」、「updated_at」）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort_order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ソート順:「ascending」または「descending」"}]]}]]}]]}]}]
+95:["$","$L49",null,{"as":"h4","id":"出力-12","children":"出力"}]
+96:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"一致する会話オブジェクトの配列"}]]}]}]]}]}]
+97:["$","$L49",null,{"as":"h3","id":"intercom_create_ticket","children":["$","code",null,{"children":"intercom_create_ticket"}]}]
+98:["$","p",null,{"children":"Intercomで新しいチケットを作成する"}]
+99:["$","$L49",null,{"as":"h4","id":"入力-13","children":"入力"}]
+9a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket_type_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"チケットタイプのID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"連絡先識別子のJSON配列（例：[{\"id\": \"contact_id\"}]）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket_attributes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"_default_title_と_default_description_を含むチケット属性のJSONオブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"チケットに関連付ける会社ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"チケットが作成された時間（Unixタイムスタンプ）。提供されない場合、現在時刻が使用されます。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation_to_link_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"このチケットにリンクする既存の会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"disable_notifications"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"trueの場合、チケット作成時の通知を抑制します"}]]}]]}]]}]}]
+9b:["$","$L49",null,{"as":"h4","id":"出力-13","children":"出力"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"作成されたチケットオブジェクト"}]]}]}]]}]}]
+9d:["$","$L49",null,{"as":"h3","id":"intercom_get_ticket","children":["$","code",null,{"children":"intercom_get_ticket"}]}]
+9e:["$","p",null,{"children":"IDによりIntercomから単一のチケットを取得する"}]
+9f:["$","$L49",null,{"as":"h4","id":"入力-14","children":"入力"}]
+a0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticketId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"取得するチケットID"}]]}]}]]}]}]
+a1:["$","$L49",null,{"as":"h4","id":"出力-14","children":"出力"}]
+a2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ticket"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"チケットオブジェクト"}]]}]}]]}]}]
+a3:["$","$L49",null,{"as":"h3","id":"intercom_create_message","children":["$","code",null,{"children":"intercom_create_message"}]}]
+a4:["$","p",null,{"children":"Intercomで管理者が開始した新しいメッセージを作成して送信する"}]
+a5:["$","$L49",null,{"as":"h4","id":"入力-15","children":"入力"}]
+a6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージタイプ:アプリ内メッセージの場合は「inapp」、メールメッセージの場合は「email」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"template"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージテンプレートスタイル:プレーンテキストの場合は「plain」、パーソナライズスタイルの場合は「personal」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"メッセージの件名（emailタイプの場合）"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージの本文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"送信者タイプ:「admin」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージを送信する管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"受信者タイプ:「contact」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージを受信する連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"メッセージが作成された時間（Unixタイムスタンプ）。提供されない場合、現在時刻が使用されます。"}]]}]]}]]}]}]
+a7:["$","$L49",null,{"as":"h4","id":"出力-15","children":"出力"}]
+a8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"作成されたメッセージオブジェクト"}]]}]}]]}]}]
+a9:["$","$L49",null,{"as":"h2","id":"メモ","children":"メモ"}]
+aa:["$","ul",null,{"children":["\n",["$","li",null,{"children":["カテゴリー: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["タイプ: ",["$","code",null,{"children":"intercom"}]]}],"\n"]}]
+ab:["$","p",null,{"children":"Intercomで新しい管理者主導のメッセージを作成して送信します。API準拠のフィールドのみを返します。"}]
+ac:["$","$L49",null,{"as":"h4","id":"入力-16","children":"入力"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージタイプ:アプリ内メッセージの場合は「inapp」、メールメッセージの場合は「email」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"template"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージテンプレートスタイル:プレーンテキストの場合は「plain」、パーソナライズスタイルの場合は「personal」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"メッセージの件名(メールタイプの場合)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージの本文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"送信者タイプ:「admin」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージを送信する管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"受信者タイプ:「contact」"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メッセージを受信する連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"メッセージが作成された時刻(Unixタイムスタンプ)。未指定の場合は現在時刻が使用されます"}]]}]]}]]}]}]
+ae:["$","$L49",null,{"as":"h4","id":"出力-16","children":"出力"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"作成されたメッセージオブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"メッセージの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(message)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"メッセージが作成された時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"body"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"メッセージの本文"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"message_type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"メッセージのタイプ(in_appまたはemail)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"conversation_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作成された会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owner"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"メッセージの所有者"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作成されたメッセージのID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"操作の成功ステータス"}]]}]]}]]}]}]
+b0:["$","$L49",null,{"as":"h3","id":"intercom_list_admins","children":["$","code",null,{"children":"intercom_list_admins"}]}]
+b1:["$","p",null,{"children":"ワークスペースのすべての管理者のリストを取得"}]
+b2:["$","$L49",null,{"as":"h4","id":"入力-17","children":"入力"}]
+b3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}]}]}]
+b4:["$","$L49",null,{"as":"h4","id":"出力-17","children":"出力"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admins"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"管理者オブジェクトの配列"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理者の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(admin)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理者の名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理者のメールアドレス"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"job_title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"管理者の役職"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"away_mode_enabled"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"管理者が離席モードかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"away_mode_reassign"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"離席時に会話を再割り当てするかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"has_inbox_seat"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"管理者が有料の受信トレイシートを持っているかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team_ids"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"管理者が所属するチームIDのリスト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"avatar"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"アバター情報"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email_verified"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"メールアドレスが確認済みかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(admin.list)"}]]}]]}]]}]}]
+b6:["$","$L49",null,{"as":"h3","id":"intercom_close_conversation","children":["$","code",null,{"children":"intercom_close_conversation"}]}]
+b7:["$","p",null,{"children":"Intercomで会話をクローズする"}]
+b8:["$","$L49",null,{"as":"h4","id":"入力-18","children":"入力"}]
+b9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"クローズする会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"アクションを実行する管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"会話に追加するオプションのクローズメッセージ"}]]}]]}]]}]}]
+ba:["$","$L49",null,{"as":"h4","id":"出力-18","children":"出力"}]
+bb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"クローズされた会話オブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態(closed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会話がオープンかどうか(false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"read"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会話が既読かどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が作成されたUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が最後に更新されたUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"クローズされた会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態(closed)"}]]}]]}]]}]}]
+bc:["$","$L49",null,{"as":"h3","id":"intercom_open_conversation","children":["$","code",null,{"children":"intercom_open_conversation"}]}]
+bd:["$","p",null,{"children":"Intercomでクローズまたはスヌーズされた会話をオープンする"}]
+be:["$","$L49",null,{"as":"h4","id":"入力-19","children":"入力"}]
+bf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"オープンする会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"アクションを実行する管理者のID"}]]}]]}]]}]}]
+c0:["$","$L49",null,{"as":"h4","id":"出力-19","children":"出力"}]
+c1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"オープンされた会話オブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態(open)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会話がオープンかどうか(true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"read"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会話が既読かどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が作成されたUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が最後に更新されたUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オープンされた会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態(open)"}]]}]]}]]}]}]
+c2:["$","$L49",null,{"as":"h3","id":"intercom_snooze_conversation","children":["$","code",null,{"children":"intercom_snooze_conversation"}]}]
+c3:["$","p",null,{"children":"会話をスヌーズして将来の時刻に再開する"}]
+c4:["$","$L49",null,{"as":"h4","id":"入力-20","children":"入力"}]
+c5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"スヌーズする会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"アクションを実行する管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snoozed_until"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"会話が再開される時刻のUnixタイムスタンプ"}]]}]]}]]}]}]
+c6:["$","$L49",null,{"as":"h4","id":"出力-20","children":"出力"}]
+c7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"スヌーズされた会話オブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態(snoozed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会話が開いているかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"snoozed_until"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が再開されるUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が作成された時刻のUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が最後に更新された時刻のUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"スヌーズされた会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態(snoozed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"snoozed_until"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が再開されるUnixタイムスタンプ"}]]}]]}]]}]}]
+c8:["$","$L49",null,{"as":"h3","id":"intercom_assign_conversation","children":["$","code",null,{"children":"intercom_assign_conversation"}]}]
+c9:["$","p",null,{"children":"Intercomで会話を管理者またはチームに割り当てる"}]
+ca:["$","$L49",null,{"as":"h4","id":"入力-21","children":"入力"}]
+cb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"割り当てる会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"割り当てを実行する管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assignee_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"会話を割り当てる管理者またはチームのID。割り当てを解除するには「0」を設定"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"割り当て時に追加するオプションのメッセージ(例:「サポートチームに引き継ぎます」)"}]]}]]}]]}]}]
+cc:["$","$L49",null,{"as":"h4","id":"出力-21","children":"出力"}]
+cd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversation"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"割り当てられた会話オブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(conversation)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"state"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会話の状態"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"open"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"会話がオープンかどうか"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"admin_assignee_id"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"割り当てられた管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"team_assignee_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"割り当てられたチームのID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が作成された時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会話が最後に更新された時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"割り当てられた会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_assignee_id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"割り当てられた管理者のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"team_assignee_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"割り当てられたチームのID"}]]}]]}]]}]}]
+ce:["$","$L49",null,{"as":"h3","id":"intercom_list_tags","children":["$","code",null,{"children":"intercom_list_tags"}]}]
+cf:["$","p",null,{"children":"ワークスペース内のすべてのタグのリストを取得する"}]
+d0:["$","$L49",null,{"as":"h4","id":"入力-22","children":"入力"}]
+d1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}]}]}]
+d2:["$","$L49",null,{"as":"h4","id":"出力-22","children":"出力"}]
+d3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"タグオブジェクトの配列"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(tag)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(list)"}]]}]]}]]}]}]
+d4:["$","$L49",null,{"as":"h3","id":"intercom_create_tag","children":["$","code",null,{"children":"intercom_create_tag"}]}]
+d5:["$","p",null,{"children":"新しいタグを作成するか、既存のタグ名を更新する"}]
+d6:["$","$L49",null,{"as":"h4","id":"入力-23","children":"入力"}]
+d7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"タグの名前。見つからない場合は新しいタグを作成し、IDが指定されている場合は名前を更新します。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"更新する既存のタグのID。新しいタグを作成する場合は省略します。"}]]}]]}]]}]}]
+d8:["$","$L49",null,{"as":"h4","id":"出力-23","children":"出力"}]
+d9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ (tag)"}]]}]]}]]}]}]
+da:["$","$L49",null,{"as":"h3","id":"intercom_tag_contact","children":["$","code",null,{"children":"intercom_tag_contact"}]}]
+db:["$","p",null,{"children":"特定の連絡先にタグを追加する"}]
+dc:["$","$L49",null,{"as":"h4","id":"入力-24","children":"入力"}]
+dd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"タグを付ける連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"適用するタグのID"}]]}]]}]]}]}]
+de:["$","$L49",null,{"as":"h4","id":"出力-24","children":"出力"}]
+df:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ (tag)"}]]}]]}]]}]}]
+e0:["$","$L49",null,{"as":"h3","id":"intercom_untag_contact","children":["$","code",null,{"children":"intercom_untag_contact"}]}]
+e1:["$","p",null,{"children":"特定の連絡先からタグを削除する"}]
+e2:["$","$L49",null,{"as":"h4","id":"入力-25","children":"入力"}]
+e3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"タグを削除する連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"削除するタグのID"}]]}]]}]]}]}]
+e4:["$","$L49",null,{"as":"h4","id":"出力-25","children":"出力"}]
+e5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"削除されたタグの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"削除されたタグの名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ（tag）"}]]}]]}]]}]}]
+e6:["$","$L49",null,{"as":"h3","id":"intercom_tag_conversation","children":["$","code",null,{"children":"intercom_tag_conversation"}]}]
+e7:["$","p",null,{"children":"特定の会話にタグを追加する"}]
+e8:["$","$L49",null,{"as":"h4","id":"入力-26","children":"入力"}]
+e9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"conversationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"タグを付ける会話のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"適用するタグのID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"タグを適用する管理者のID"}]]}]]}]]}]}]
+ea:["$","$L49",null,{"as":"h4","id":"出力-26","children":"出力"}]
+eb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"タグの名前"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ（tag）"}]]}]]}]]}]}]
+ec:["$","$L49",null,{"as":"h3","id":"intercom_create_note","children":["$","code",null,{"children":"intercom_create_note"}]}]
+ed:["$","p",null,{"children":"特定の連絡先にメモを追加する"}]
+ee:["$","$L49",null,{"as":"h4","id":"入力-27","children":"入力"}]
+ef:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メモを追加する連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"メモのテキスト内容"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"admin_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"メモを作成する管理者のID"}]]}]]}]]}]}]
+f0:["$","$L49",null,{"as":"h4","id":"出力-27","children":"出力"}]
+f1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ノートの一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ノートのテキストコンテンツ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"ノートが作成された時刻(Unixタイムスタンプ)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(note)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"ノートを作成した管理者"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作成者タイプ(admin)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作成者ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作成者名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"email"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"作成者のメールアドレス"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"ノートが作成された連絡先"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"連絡先タイプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"連絡先ID"}]]}]]}]]}]}]
+f2:["$","$L49",null,{"as":"h3","id":"intercom_create_event","children":["$","code",null,{"children":"intercom_create_event"}]}]
+f3:["$","p",null,{"children":"Intercomで連絡先のカスタムイベントを追跡する"}]
+f4:["$","$L49",null,{"as":"h4","id":"入力-28","children":"入力"}]
+f5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"event_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"イベントの名前(例:「order-completed」)。可読性のため過去形の動詞-名詞形式を使用してください。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_at"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"イベントが発生した時刻のUnixタイムスタンプ。一意性のため強く推奨されます。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ユーザーの識別子(external_id)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"ユーザーのメールアドレス。アプリがメールを使用してユーザーを一意に識別する場合のみ使用してください。"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"Intercomの連絡先ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"いいえ"}],["$","td",null,{"children":"イベントに関する最大10個のメタデータキーと値のペアを含むJSONオブジェクト(例:{\"order_value\": 99.99})"}]]}]]}]]}]}]
+f6:["$","$L49",null,{"as":"h4","id":"出力-28","children":"出力"}]
+f7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accepted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"イベントが受け入れられたかどうか(202 Accepted)"}]]}]}]]}]}]
+f8:["$","$L49",null,{"as":"h3","id":"intercom_attach_contact_to_company","children":["$","code",null,{"children":"intercom_attach_contact_to_company"}]}]
+f9:["$","p",null,{"children":"Intercomで連絡先を会社に関連付ける"}]
+fa:["$","$L49",null,{"as":"h4","id":"入力-29","children":"入力"}]
+fb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"会社に関連付ける連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"連絡先を関連付ける会社のID"}]]}]]}]]}]}]
+fc:["$","$L49",null,{"as":"h4","id":"出力-29","children":"出力"}]
+fd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"連絡先が関連付けられた会社オブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会社の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(company)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"定義した会社ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会社名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"created_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会社が作成されたUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"updated_at"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会社が更新されたUnixタイムスタンプ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"user_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"会社内のユーザー数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"session_count"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"セッション数"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"monthly_spend"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"月間支出額"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"plan"}]]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"会社のプラン詳細"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会社のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"会社名"}]]}]]}]]}]}]
+fe:["$","$L49",null,{"as":"h3","id":"intercom_detach_contact_from_company","children":["$","code",null,{"children":"intercom_detach_contact_from_company"}]}]
+ff:["$","p",null,{"children":"Intercomで連絡先を企業から削除する"}]
+100:["$","$L49",null,{"as":"h4","id":"入力-30","children":"入力"}]
+101:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"必須"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"企業から切り離す連絡先のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"はい"}],["$","td",null,{"children":"連絡先を切り離す企業のID"}]]}]]}]]}]}]
+102:["$","$L49",null,{"as":"h4","id":"出力-30","children":"出力"}]
+103:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"パラメータ"}],["$","th",null,{"children":"型"}],["$","th",null,{"children":"説明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"company"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"連絡先が切り離された企業オブジェクト"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"企業の一意の識別子"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"オブジェクトタイプ(company)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"company_id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"定義した企業ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"企業名"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"companyId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"企業のID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"企業名"}]]}]]}]]}]}]
+106:null
+109:["$","$L10b",null,{"className":"mb-0 min-w-0 flex-1","children":"Intercom"}]

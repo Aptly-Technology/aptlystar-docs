@@ -1,0 +1,585 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+22:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+27:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+28:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+29:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+2a:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+a0:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+a1:"$Sreact.suspense"
+a3:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+a4:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+a5:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"GitLab\",\"description\":\"Interagissez avec les projets, les problèmes, les demandes de fusion et les pipelines GitLab\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/gitlab\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/gitlab\"},\"inLanguage\":\"fr\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/gitlab\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"GitLab\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/fr/tools/gitlab\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instructions-dutilisation","title":"Instructions d'utilisation"},{"depth":2,"url":"#outils","title":"Outils"},{"depth":3,"url":"#gitlab_list_projects","title":["$","code",null,{"children":"gitlab_list_projects"}]},{"depth":4,"url":"#entrée","title":"Entrée"},{"depth":4,"url":"#sortie","title":"Sortie"},{"depth":3,"url":"#gitlab_get_project","title":["$","code",null,{"children":"gitlab_get_project"}]},{"depth":4,"url":"#entrée-1","title":"Entrée"},{"depth":4,"url":"#sortie-1","title":"Sortie"},{"depth":3,"url":"#gitlab_list_issues","title":["$","code",null,{"children":"gitlab_list_issues"}]},{"depth":4,"url":"#entrée-2","title":"Entrée"},{"depth":4,"url":"#sortie-2","title":"Sortie"},{"depth":3,"url":"#gitlab_get_issue","title":["$","code",null,{"children":"gitlab_get_issue"}]},{"depth":4,"url":"#entrée-3","title":"Entrée"},{"depth":4,"url":"#sortie-3","title":"Sortie"},{"depth":3,"url":"#gitlab_create_issue","title":["$","code",null,{"children":"gitlab_create_issue"}]},{"depth":4,"url":"#entrée-4","title":"Entrée"},{"depth":4,"url":"#sortie-4","title":"Sortie"},{"depth":3,"url":"#gitlab_update_issue","title":["$","code",null,{"children":"gitlab_update_issue"}]},{"depth":4,"url":"#entrée-5","title":"Entrée"},{"depth":4,"url":"#sortie-5","title":"Sortie"},{"depth":3,"url":"#gitlab_delete_issue","title":["$","code",null,{"children":"gitlab_delete_issue"}]},{"depth":4,"url":"#entrée-6","title":"Entrée"},{"depth":4,"url":"#sortie-6","title":"Sortie"},{"depth":3,"url":"#gitlab_create_issue_note","title":["$","code",null,{"children":"gitlab_create_issue_note"}]},{"depth":4,"url":"#entrée-7","title":"Entrée"},{"depth":4,"url":"#sortie-7","title":"Sortie"},{"depth":3,"url":"#gitlab_list_merge_requests","title":["$","code",null,{"children":"gitlab_list_merge_requests"}]},{"depth":4,"url":"#entrée-8","title":"Entrée"},{"depth":4,"url":"#sortie-8","title":"Sortie"},{"depth":3,"url":"#gitlab_get_merge_request","title":["$","code",null,{"children":"gitlab_get_merge_request"}]},{"depth":4,"url":"#entrée-9","title":"Entrée"},{"depth":4,"url":"#sortie-9","title":"Sortie"},{"depth":3,"url":"#gitlab_create_merge_request","title":["$","code",null,{"children":"gitlab_create_merge_request"}]},{"depth":4,"url":"#entrée-10","title":"Entrée"},{"depth":4,"url":"#sortie-10","title":"Sortie"},{"depth":3,"url":"#gitlab_update_merge_request","title":["$","code",null,{"children":"gitlab_update_merge_request"}]},{"depth":4,"url":"#entrée-11","title":"$L3"},{"depth":4,"url":"#sortie-11","title":"$L4"},{"depth":3,"url":"#gitlab_merge_merge_request","title":"$L5"},{"depth":4,"url":"#entrée-12","title":"$L6"},{"depth":4,"url":"#sortie-12","title":"$L7"},{"depth":3,"url":"#gitlab_create_merge_request_note","title":"$L8"},{"depth":4,"url":"#entrée-13","title":"$L9"},{"depth":4,"url":"#sortie-13","title":"$La"},{"depth":3,"url":"#gitlab_list_pipelines","title":"$Lb"},{"depth":4,"url":"#entrée-14","title":"$Lc"},{"depth":4,"url":"#sortie-14","title":"$Ld"},{"depth":3,"url":"#gitlab_get_pipeline","title":"$Le"},{"depth":4,"url":"#entrée-15","title":"$Lf"},{"depth":4,"url":"#sortie-15","title":"$L10"},{"depth":3,"url":"#gitlab_create_pipeline","title":"$L11"},{"depth":4,"url":"#entrée-16","title":"$L12"},{"depth":4,"url":"#sortie-16","title":"$L13"},{"depth":3,"url":"#gitlab_retry_pipeline","title":"$L14"},{"depth":4,"url":"#entrée-17","title":"$L15"},{"depth":4,"url":"#sortie-17","title":"$L16"},{"depth":3,"url":"#gitlab_cancel_pipeline","title":"$L17"},{"depth":4,"url":"#entrée-18","title":"$L18"},{"depth":4,"url":"#sortie-18","title":"$L19"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L1a"},"children":["$L1b","$L1c"]}]],["$L1d","$L1e","$L1f","$L20"],"$L21"]}],"loading":null,"isPartial":false}
+3:"Entrée"
+4:"Sortie"
+5:["$","code",null,{"children":"gitlab_merge_merge_request"}]
+6:"Entrée"
+7:"Sortie"
+8:["$","code",null,{"children":"gitlab_create_merge_request_note"}]
+9:"Entrée"
+a:"Sortie"
+b:["$","code",null,{"children":"gitlab_list_pipelines"}]
+c:"Entrée"
+d:"Sortie"
+e:["$","code",null,{"children":"gitlab_get_pipeline"}]
+f:"Entrée"
+10:"Sortie"
+11:["$","code",null,{"children":"gitlab_create_pipeline"}]
+12:"Entrée"
+13:"Sortie"
+14:["$","code",null,{"children":"gitlab_retry_pipeline"}]
+15:"Entrée"
+16:"Sortie"
+17:["$","code",null,{"children":"gitlab_cancel_pipeline"}]
+18:"Entrée"
+19:"Sortie"
+1a:null
+23:T5be7,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="gitlab" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[GitLab](https://gitlab.com/) est une plateforme DevOps complète qui permet aux équipes de gérer, collaborer et automatiser leur cycle de développement logiciel. Avec GitLab, vous pouvez facilement gérer le code source, l'intégration continue/déploiement continu (CI/CD), les révisions et la collaboration dans une seule application.
+
+Avec GitLab dans Aptlystar, vous pouvez :
+
+* **Gérer des projets et des dépôts** : lister et récupérer vos projets GitLab, accéder aux détails et organiser vos dépôts
+* **Travailler avec des problèmes** : lister, créer et commenter des problèmes pour suivre le travail et collaborer efficacement
+* **Gérer les demandes de fusion** : examiner, créer et gérer les demandes de fusion pour les modifications de code et les révisions par les pairs
+* **Automatiser les pipelines CI/CD** : déclencher, surveiller et interagir avec les pipelines GitLab dans le cadre de vos flux d'automatisation
+* **Collaborer avec des commentaires** : ajouter des commentaires aux problèmes ou aux demandes de fusion pour une communication efficace au sein de votre équipe
+
+En utilisant l'intégration GitLab de Aptlystar, vos agents peuvent interagir par programmation avec vos projets GitLab. Automatisez la gestion de projet, le suivi des problèmes, les révisions de code et les opérations de pipeline de manière transparente dans vos flux de travail, optimisant ainsi votre processus de développement logiciel et améliorant la collaboration au sein de votre équipe.
+
+{/* MANUAL-CONTENT-END */}
+
+Instructions d'utilisation [#instructions-dutilisation]
+
+Intégrez GitLab dans le flux de travail. Peut gérer les projets, les problèmes, les demandes de fusion, les pipelines et ajouter des commentaires. Prend en charge toutes les opérations DevOps de base de GitLab.
+
+Outils [#outils]
+
+gitlab_list_projects [#gitlab_list_projects]
+
+Lister les projets GitLab accessibles à l'utilisateur authentifié
+
+Entrée [#entrée]
+
+| Paramètre    | Type    | Obligatoire | Description                                                                    |
+| ------------ | ------- | ----------- | ------------------------------------------------------------------------------ |
+| `owned`      | boolean | Non         | Limiter aux projets appartenant à l'utilisateur actuel                         |
+| `membership` | boolean | Non         | Limiter aux projets dont l'utilisateur actuel est membre                       |
+| `search`     | string  | Non         | Rechercher des projets par nom                                                 |
+| `visibility` | string  | Non         | Filtrer par visibilité (public, internal, private)                             |
+| `orderBy`    | string  | Non         | Trier par champ (id, name, path, created\_at, updated\_at, last\_activity\_at) |
+| `sort`       | string  | Non         | Direction de tri (asc, desc)                                                   |
+| `perPage`    | number  | Non         | Nombre de résultats par page (20 par défaut, 100 max)                          |
+| `page`       | number  | Non         | Numéro de page pour la pagination                                              |
+
+Sortie [#sortie]
+
+| Paramètre  | Type   | Description              |
+| ---------- | ------ | ------------------------ |
+| `projects` | array  | Liste des projets GitLab |
+| `total`    | number | Nombre total de projets  |
+
+gitlab_get_project [#gitlab_get_project]
+
+Obtenir les détails d'un projet GitLab spécifique
+
+Entrée [#entrée-1]
+
+| Paramètre   | Type   | Obligatoire | Description                                                      |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------- |
+| `projectId` | string | Oui         | ID du projet ou chemin encodé en URL (ex. : "namespace/project") |
+
+Sortie [#sortie-1]
+
+| Paramètre | Type   | Description                  |
+| --------- | ------ | ---------------------------- |
+| `project` | object | Les détails du projet GitLab |
+
+gitlab_list_issues [#gitlab_list_issues]
+
+Lister les problèmes dans un projet GitLab
+
+Entrée [#entrée-2]
+
+| Paramètre        | Type   | Obligatoire | Description                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `projectId`      | string | Oui         | ID du projet ou chemin encodé en URL                  |
+| `state`          | string | Non         | Filtrer par état (opened, closed, all)                |
+| `labels`         | string | Non         | Liste de noms d'étiquettes séparés par des virgules   |
+| `assigneeId`     | number | Non         | Filtrer par ID d'utilisateur assigné                  |
+| `milestoneTitle` | string | Non         | Filtrer par titre de jalon                            |
+| `search`         | string | Non         | Rechercher des problèmes par titre et description     |
+| `orderBy`        | string | Non         | Trier par champ (created\_at, updated\_at)            |
+| `sort`           | string | Non         | Direction de tri (asc, desc)                          |
+| `perPage`        | number | Non         | Nombre de résultats par page (20 par défaut, max 100) |
+| `page`           | number | Non         | Numéro de page pour la pagination                     |
+
+Sortie [#sortie-2]
+
+| Paramètre | Type   | Description                |
+| --------- | ------ | -------------------------- |
+| `issues`  | array  | Liste des problèmes GitLab |
+| `total`   | number | Nombre total de problèmes  |
+
+gitlab_get_issue [#gitlab_get_issue]
+
+Obtenir les détails d'un problème GitLab spécifique
+
+Entrée [#entrée-3]
+
+| Paramètre   | Type   | Obligatoire | Description                                                              |
+| ----------- | ------ | ----------- | ------------------------------------------------------------------------ |
+| `projectId` | string | Oui         | ID du projet ou chemin encodé URL                                        |
+| `issueIid`  | number | Oui         | Numéro du problème dans le projet (le # affiché dans l'interface GitLab) |
+
+Sortie [#sortie-3]
+
+| Paramètre | Type   | Description                    |
+| --------- | ------ | ------------------------------ |
+| `issue`   | object | Les détails du problème GitLab |
+
+gitlab_create_issue [#gitlab_create_issue]
+
+Créer un nouveau problème dans un projet GitLab
+
+Entrée [#entrée-4]
+
+| Paramètre      | Type    | Obligatoire | Description                                       |
+| -------------- | ------- | ----------- | ------------------------------------------------- |
+| `projectId`    | string  | Oui         | ID du projet ou chemin encodé URL                 |
+| `title`        | string  | Oui         | Titre du problème                                 |
+| `description`  | string  | Non         | Description du problème (Markdown pris en charge) |
+| `labels`       | string  | Non         | Liste d'étiquettes séparées par des virgules      |
+| `assigneeIds`  | array   | Non         | Tableau d'ID utilisateurs à assigner              |
+| `milestoneId`  | number  | Non         | ID du jalon à assigner                            |
+| `dueDate`      | string  | Non         | Date d'échéance au format AAAA-MM-JJ              |
+| `confidential` | boolean | Non         | Si le problème est confidentiel                   |
+
+Sortie [#sortie-4]
+
+| Paramètre | Type  | Description           |
+| --------- | ----- | --------------------- |
+| `issue`   | objet | Le ticket GitLab créé |
+
+gitlab_update_issue [#gitlab_update_issue]
+
+Mettre à jour un ticket existant dans un projet GitLab
+
+Entrée [#entrée-5]
+
+| Paramètre      | Type    | Obligatoire | Description                                              |
+| -------------- | ------- | ----------- | -------------------------------------------------------- |
+| `projectId`    | chaîne  | Oui         | ID du projet ou chemin encodé URL                        |
+| `issueIid`     | nombre  | Oui         | ID interne du ticket (IID)                               |
+| `title`        | chaîne  | Non         | Nouveau titre du ticket                                  |
+| `description`  | chaîne  | Non         | Nouvelle description du ticket (Markdown pris en charge) |
+| `stateEvent`   | chaîne  | Non         | Événement d'état (close ou reopen)                       |
+| `labels`       | chaîne  | Non         | Liste de noms d'étiquettes séparés par des virgules      |
+| `assigneeIds`  | tableau | Non         | Tableau d'ID utilisateurs à assigner                     |
+| `milestoneId`  | nombre  | Non         | ID du jalon à assigner                                   |
+| `dueDate`      | chaîne  | Non         | Date d'échéance au format AAAA-MM-JJ                     |
+| `confidential` | booléen | Non         | Indique si le ticket est confidentiel                    |
+
+Sortie [#sortie-5]
+
+| Paramètre | Type  | Description                 |
+| --------- | ----- | --------------------------- |
+| `issue`   | objet | Le ticket GitLab mis à jour |
+
+gitlab_delete_issue [#gitlab_delete_issue]
+
+Supprimer un ticket d'un projet GitLab
+
+Entrée [#entrée-6]
+
+| Paramètre   | Type   | Obligatoire | Description                       |
+| ----------- | ------ | ----------- | --------------------------------- |
+| `projectId` | chaîne | Oui         | ID du projet ou chemin encodé URL |
+| `issueIid`  | nombre | Oui         | ID interne du ticket (IID)        |
+
+Sortie [#sortie-6]
+
+| Paramètre | Type    | Description                                       |
+| --------- | ------- | ------------------------------------------------- |
+| `success` | boolean | Indique si le problème a été supprimé avec succès |
+
+gitlab_create_issue_note [#gitlab_create_issue_note]
+
+Ajouter un commentaire à un problème GitLab
+
+Entrée [#entrée-7]
+
+| Paramètre   | Type   | Obligatoire | Description                                    |
+| ----------- | ------ | ----------- | ---------------------------------------------- |
+| `projectId` | string | Oui         | ID du projet ou chemin encodé en URL           |
+| `issueIid`  | number | Oui         | ID interne du problème (IID)                   |
+| `body`      | string | Oui         | Corps du commentaire (Markdown pris en charge) |
+
+Sortie [#sortie-7]
+
+| Paramètre | Type   | Description         |
+| --------- | ------ | ------------------- |
+| `note`    | object | Le commentaire créé |
+
+gitlab_list_merge_requests [#gitlab_list_merge_requests]
+
+Lister les demandes de fusion dans un projet GitLab
+
+Entrée [#entrée-8]
+
+| Paramètre      | Type   | Obligatoire | Description                                           |
+| -------------- | ------ | ----------- | ----------------------------------------------------- |
+| `projectId`    | string | Oui         | ID du projet ou chemin encodé en URL                  |
+| `state`        | string | Non         | Filtrer par état (opened, closed, merged, all)        |
+| `labels`       | string | Non         | Liste de noms d'étiquettes séparés par des virgules   |
+| `sourceBranch` | string | Non         | Filtrer par branche source                            |
+| `targetBranch` | string | Non         | Filtrer par branche cible                             |
+| `orderBy`      | string | Non         | Trier par champ (created\_at, updated\_at)            |
+| `sort`         | string | Non         | Direction de tri (asc, desc)                          |
+| `perPage`      | number | Non         | Nombre de résultats par page (20 par défaut, 100 max) |
+| `page`         | number | Non         | Numéro de page pour la pagination                     |
+
+Sortie [#sortie-8]
+
+| Paramètre       | Type   | Description                         |
+| --------------- | ------ | ----------------------------------- |
+| `mergeRequests` | array  | Liste des demandes de fusion GitLab |
+| `total`         | number | Nombre total de demandes de fusion  |
+
+gitlab_get_merge_request [#gitlab_get_merge_request]
+
+Obtenir les détails d'une demande de fusion GitLab spécifique
+
+Entrée [#entrée-9]
+
+| Paramètre         | Type   | Obligatoire | Description                              |
+| ----------------- | ------ | ----------- | ---------------------------------------- |
+| `projectId`       | string | Oui         | ID du projet ou chemin encodé en URL     |
+| `mergeRequestIid` | number | Oui         | ID interne de la demande de fusion (IID) |
+
+Sortie [#sortie-9]
+
+| Paramètre      | Type   | Description                                |
+| -------------- | ------ | ------------------------------------------ |
+| `mergeRequest` | object | Les détails de la demande de fusion GitLab |
+
+gitlab_create_merge_request [#gitlab_create_merge_request]
+
+Créer une nouvelle demande de fusion dans un projet GitLab
+
+Entrée [#entrée-10]
+
+| Paramètre            | Type    | Obligatoire | Description                                                   |
+| -------------------- | ------- | ----------- | ------------------------------------------------------------- |
+| `projectId`          | string  | Oui         | ID du projet ou chemin encodé en URL                          |
+| `sourceBranch`       | string  | Oui         | Nom de la branche source                                      |
+| `targetBranch`       | string  | Oui         | Nom de la branche cible                                       |
+| `title`              | string  | Oui         | Titre de la demande de fusion                                 |
+| `description`        | string  | Non         | Description de la demande de fusion (Markdown pris en charge) |
+| `labels`             | string  | Non         | Liste de noms d'étiquettes séparés par des virgules           |
+| `assigneeIds`        | array   | Non         | Tableau d'ID utilisateurs à assigner                          |
+| `milestoneId`        | number  | Non         | ID du jalon à assigner                                        |
+| `removeSourceBranch` | boolean | Non         | Supprimer la branche source après la fusion                   |
+| `squash`             | boolean | Non         | Regrouper les commits lors de la fusion                       |
+| `draft`              | boolean | Non         | Marquer comme brouillon (travail en cours)                    |
+
+Sortie [#sortie-10]
+
+| Paramètre      | Type  | Description                       |
+| -------------- | ----- | --------------------------------- |
+| `mergeRequest` | objet | La demande de fusion GitLab créée |
+
+gitlab_update_merge_request [#gitlab_update_merge_request]
+
+Mettre à jour une demande de fusion existante dans un projet GitLab
+
+Entrée [#entrée-11]
+
+| Paramètre            | Type    | Obligatoire | Description                                         |
+| -------------------- | ------- | ----------- | --------------------------------------------------- |
+| `projectId`          | chaîne  | Oui         | ID du projet ou chemin encodé URL                   |
+| `mergeRequestIid`    | nombre  | Oui         | ID interne de la demande de fusion (IID)            |
+| `title`              | chaîne  | Non         | Nouveau titre de la demande de fusion               |
+| `description`        | chaîne  | Non         | Nouvelle description de la demande de fusion        |
+| `stateEvent`         | chaîne  | Non         | Événement d'état (close ou reopen)                  |
+| `labels`             | chaîne  | Non         | Liste de noms d'étiquettes séparés par des virgules |
+| `assigneeIds`        | tableau | Non         | Tableau d'ID utilisateurs à assigner                |
+| `milestoneId`        | nombre  | Non         | ID du jalon à assigner                              |
+| `targetBranch`       | chaîne  | Non         | Nouvelle branche cible                              |
+| `removeSourceBranch` | booléen | Non         | Supprimer la branche source après la fusion         |
+| `squash`             | booléen | Non         | Regrouper les commits lors de la fusion             |
+| `draft`              | booléen | Non         | Marquer comme brouillon (travail en cours)          |
+
+Sortie [#sortie-11]
+
+| Paramètre      | Type  | Description                             |
+| -------------- | ----- | --------------------------------------- |
+| `mergeRequest` | objet | La demande de fusion GitLab mise à jour |
+
+gitlab_merge_merge_request [#gitlab_merge_merge_request]
+
+Fusionner une demande de fusion dans un projet GitLab
+
+Entrée [#entrée-12]
+
+| Paramètre                   | Type    | Obligatoire | Description                                    |
+| --------------------------- | ------- | ----------- | ---------------------------------------------- |
+| `projectId`                 | chaîne  | Oui         | ID du projet ou chemin encodé URL              |
+| `mergeRequestIid`           | nombre  | Oui         | ID interne de la demande de fusion (IID)       |
+| `mergeCommitMessage`        | chaîne  | Non         | Message personnalisé du commit de fusion       |
+| `squashCommitMessage`       | chaîne  | Non         | Message personnalisé du commit de regroupement |
+| `squash`                    | booléen | Non         | Regrouper les commits avant la fusion          |
+| `shouldRemoveSourceBranch`  | booléen | Non         | Supprimer la branche source après la fusion    |
+| `mergeWhenPipelineSucceeds` | booléen | Non         | Fusionner lorsque le pipeline réussit          |
+
+Sortie [#sortie-12]
+
+| Paramètre      | Type  | Description                           |
+| -------------- | ----- | ------------------------------------- |
+| `mergeRequest` | objet | La demande de fusion GitLab fusionnée |
+
+gitlab_create_merge_request_note [#gitlab_create_merge_request_note]
+
+Ajouter un commentaire à une demande de fusion GitLab
+
+Entrée [#entrée-13]
+
+| Paramètre         | Type   | Obligatoire | Description                                    |
+| ----------------- | ------ | ----------- | ---------------------------------------------- |
+| `projectId`       | chaîne | Oui         | ID du projet ou chemin encodé en URL           |
+| `mergeRequestIid` | nombre | Oui         | ID interne de la demande de fusion (IID)       |
+| `body`            | chaîne | Oui         | Corps du commentaire (Markdown pris en charge) |
+
+Sortie [#sortie-13]
+
+| Paramètre | Type  | Description         |
+| --------- | ----- | ------------------- |
+| `note`    | objet | Le commentaire créé |
+
+gitlab_list_pipelines [#gitlab_list_pipelines]
+
+Lister les pipelines dans un projet GitLab
+
+Entrée [#entrée-14]
+
+| Paramètre   | Type   | Obligatoire | Description                                                                                                                              |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | chaîne | Oui         | ID du projet ou chemin encodé en URL                                                                                                     |
+| `ref`       | chaîne | Non         | Filtrer par ref (branche ou tag)                                                                                                         |
+| `status`    | chaîne | Non         | Filtrer par statut (created, waiting\_for\_resource, preparing, pending, running, success, failed, canceled, skipped, manual, scheduled) |
+| `orderBy`   | chaîne | Non         | Trier par champ (id, status, ref, updated\_at, user\_id)                                                                                 |
+| `sort`      | chaîne | Non         | Direction de tri (asc, desc)                                                                                                             |
+| `perPage`   | nombre | Non         | Nombre de résultats par page (20 par défaut, 100 max)                                                                                    |
+| `page`      | nombre | Non         | Numéro de page pour la pagination                                                                                                        |
+
+Sortie [#sortie-14]
+
+| Paramètre   | Type   | Description                |
+| ----------- | ------ | -------------------------- |
+| `pipelines` | array  | Liste des pipelines GitLab |
+| `total`     | number | Nombre total de pipelines  |
+
+gitlab_get_pipeline [#gitlab_get_pipeline]
+
+Obtenir les détails d'un pipeline GitLab spécifique
+
+Entrée [#entrée-15]
+
+| Paramètre    | Type   | Obligatoire | Description                       |
+| ------------ | ------ | ----------- | --------------------------------- |
+| `projectId`  | string | Oui         | ID du projet ou chemin encodé URL |
+| `pipelineId` | number | Oui         | ID du pipeline                    |
+
+Sortie [#sortie-15]
+
+| Paramètre  | Type   | Description                    |
+| ---------- | ------ | ------------------------------ |
+| `pipeline` | object | Les détails du pipeline GitLab |
+
+gitlab_create_pipeline [#gitlab_create_pipeline]
+
+Déclencher un nouveau pipeline dans un projet GitLab
+
+Entrée [#entrée-16]
+
+| Paramètre   | Type   | Obligatoire | Description                                                                                    |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------------------- |
+| `projectId` | string | Oui         | ID du projet ou chemin encodé URL                                                              |
+| `ref`       | string | Oui         | Branche ou tag sur lequel exécuter le pipeline                                                 |
+| `variables` | array  | Non         | Tableau de variables pour le pipeline (chacune avec clé, valeur et type de variable optionnel) |
+
+Sortie [#sortie-16]
+
+| Paramètre  | Type   | Description             |
+| ---------- | ------ | ----------------------- |
+| `pipeline` | object | Le pipeline GitLab créé |
+
+gitlab_retry_pipeline [#gitlab_retry_pipeline]
+
+Réessayer un pipeline GitLab échoué
+
+Entrée [#entrée-17]
+
+| Paramètre    | Type   | Obligatoire | Description                       |
+| ------------ | ------ | ----------- | --------------------------------- |
+| `projectId`  | string | Oui         | ID du projet ou chemin encodé URL |
+| `pipelineId` | number | Oui         | ID du pipeline                    |
+
+Sortie [#sortie-17]
+
+| Paramètre  | Type  | Description                |
+| ---------- | ----- | -------------------------- |
+| `pipeline` | objet | Le pipeline GitLab relancé |
+
+gitlab_cancel_pipeline [#gitlab_cancel_pipeline]
+
+Annuler un pipeline GitLab en cours d'exécution
+
+Entrée [#entrée-18]
+
+| Paramètre    | Type   | Obligatoire | Description                          |
+| ------------ | ------ | ----------- | ------------------------------------ |
+| `projectId`  | chaîne | Oui         | ID du projet ou chemin encodé en URL |
+| `pipelineId` | nombre | Oui         | ID du pipeline                       |
+
+Sortie [#sortie-18]
+
+| Paramètre  | Type  | Description               |
+| ---------- | ----- | ------------------------- |
+| `pipeline` | objet | Le pipeline GitLab annulé |
+1b:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L22",null,{"content":"$23"}]}],"$L24"]}],"$L25","$L26"]}]
+1c:["$","$L27",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L28",null,{"type":"gitlab","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L29",null,{"href":"https://gitlab.com/","children":"GitLab"}]," est une plateforme DevOps complète qui permet aux équipes de gérer, collaborer et automatiser leur cycle de développement logiciel. Avec GitLab, vous pouvez facilement gérer le code source, l'intégration continue/déploiement continu (CI/CD), les révisions et la collaboration dans une seule application."]}],"\n",["$","p",null,{"children":"Avec GitLab dans Aptlystar, vous pouvez :"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gérer des projets et des dépôts"}]," : lister et récupérer vos projets GitLab, accéder aux détails et organiser vos dépôts"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Travailler avec des problèmes"}]," : lister, créer et commenter des problèmes pour suivre le travail et collaborer efficacement"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gérer les demandes de fusion"}]," : examiner, créer et gérer les demandes de fusion pour les modifications de code et les révisions par les pairs"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Automatiser les pipelines CI/CD"}]," : déclencher, surveiller et interagir avec les pipelines GitLab dans le cadre de vos flux d'automatisation"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collaborer avec des commentaires"}]," : ajouter des commentaires aux problèmes ou aux demandes de fusion pour une communication efficace au sein de votre équipe"]}],"\n"]}],"\n",["$","p",null,{"children":"En utilisant l'intégration GitLab de Aptlystar, vos agents peuvent interagir par programmation avec vos projets GitLab. Automatisez la gestion de projet, le suivi des problèmes, les révisions de code et les opérations de pipeline de manière transparente dans vos flux de travail, optimisant ainsi votre processus de développement logiciel et améliorant la collaboration au sein de votre équipe."}],"\n","\n",["$","$L2a",null,{"as":"h2","id":"instructions-dutilisation","children":"Instructions d'utilisation"}],"\n",["$","p",null,{"children":"Intégrez GitLab dans le flux de travail. Peut gérer les projets, les problèmes, les demandes de fusion, les pipelines et ajouter des commentaires. Prend en charge toutes les opérations DevOps de base de GitLab."}],"\n",["$","$L2a",null,{"as":"h2","id":"outils","children":"Outils"}],"\n",["$","$L2a",null,{"as":"h3","id":"gitlab_list_projects","children":["$","code",null,{"children":"gitlab_list_projects"}]}],"\n",["$","p",null,{"children":"Lister les projets GitLab accessibles à l'utilisateur authentifié"}],"\n",["$","$L2a",null,{"as":"h4","id":"entrée","children":"Entrée"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owned"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Limiter aux projets appartenant à l'utilisateur actuel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"membership"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Limiter aux projets dont l'utilisateur actuel est membre"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Rechercher des projets par nom"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"visibility"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par visibilité (public, internal, private)"}]]}],["$","tr",null,{"children":["$L2b","$L2c","$L2d","$L2e"]}],"$L2f","$L30","$L31"]}]]}]}],"\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f"]}]}]
+1d:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+1e:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+1f:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+20:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+21:["$","$La0",null,{"children":["$","$a1",null,{"name":"Next.MetadataOutlet","children":"$@a2"}]}]
+24:["$","$La3",null,{}]
+25:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"24","height":"24","viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z","fill":"#FC6D26"}],["$","path",null,{"d":"M12 22.13L16.05 9.67H7.95L12 22.13z","fill":"#E24329"}],["$","path",null,{"d":"M12 22.13L7.95 9.67H1.69L12 22.13z","fill":"#FC6D26"}],["$","path",null,{"d":"M1.69 9.67L.47 13.45a.84.84 0 0 0 .3.94L12 22.13 1.69 9.67z","fill":"#FCA326"}],["$","path",null,{"d":"M1.69 9.67H7.95L5.51 2.16A.42.42 0 0 0 4.93 2a.42.42 0 0 0-.11.18L1.69 9.67z","fill":"#E24329"}],["$","path",null,{"d":"M12 22.13L16.05 9.67H22.31L12 22.13z","fill":"#FC6D26"}],["$","path",null,{"d":"M22.31 9.67L23.53 13.45a.84.84 0 0 1-.3.94L12 22.13 22.31 9.67z","fill":"#FCA326"}],["$","path",null,{"d":"M22.31 9.67H16.05l2.44-7.51A.42.42 0 0 1 19.07 2a.42.42 0 0 1 .11.18l3.13 7.49z","fill":"#E24329"}]]}]}],["$","$La4",null,{"className":"mb-0 min-w-0 flex-1","children":"GitLab"}]]}]
+26:["$","$La5",null,{"children":"Interagissez avec les projets, les problèmes, les demandes de fusion et les pipelines GitLab"}]
+2b:["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}]
+2c:["$","td",null,{"children":"string"}]
+2d:["$","td",null,{"children":"Non"}]
+2e:["$","td",null,{"children":"Trier par champ (id, name, path, created_at, updated_at, last_activity_at)"}]
+2f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri (asc, desc)"}]]}]
+30:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (20 par défaut, 100 max)"}]]}]
+31:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}]
+32:["$","$L2a",null,{"as":"h4","id":"sortie","children":"Sortie"}]
+33:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projects"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des projets GitLab"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nombre total de projets"}]]}]]}]]}]}]
+34:["$","$L2a",null,{"as":"h3","id":"gitlab_get_project","children":["$","code",null,{"children":"gitlab_get_project"}]}]
+35:["$","p",null,{"children":"Obtenir les détails d'un projet GitLab spécifique"}]
+36:["$","$L2a",null,{"as":"h4","id":"entrée-1","children":"Entrée"}]
+37:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL (ex. : \"namespace/project\")"}]]}]}]]}]}]
+38:["$","$L2a",null,{"as":"h4","id":"sortie-1","children":"Sortie"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"project"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Les détails du projet GitLab"}]]}]}]]}]}]
+3a:["$","$L2a",null,{"as":"h3","id":"gitlab_list_issues","children":["$","code",null,{"children":"gitlab_list_issues"}]}]
+3b:["$","p",null,{"children":"Lister les problèmes dans un projet GitLab"}]
+3c:["$","$L2a",null,{"as":"h4","id":"entrée-2","children":"Entrée"}]
+3d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par état (opened, closed, all)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de noms d'étiquettes séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ID d'utilisateur assigné"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneTitle"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par titre de jalon"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Rechercher des problèmes par titre et description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ (created_at, updated_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (20 par défaut, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}]]}]]}]}]
+3e:["$","$L2a",null,{"as":"h4","id":"sortie-2","children":"Sortie"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des problèmes GitLab"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nombre total de problèmes"}]]}]]}]]}]}]
+40:["$","$L2a",null,{"as":"h3","id":"gitlab_get_issue","children":["$","code",null,{"children":"gitlab_get_issue"}]}]
+41:["$","p",null,{"children":"Obtenir les détails d'un problème GitLab spécifique"}]
+42:["$","$L2a",null,{"as":"h4","id":"entrée-3","children":"Entrée"}]
+43:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Numéro du problème dans le projet (le # affiché dans l'interface GitLab)"}]]}]]}]]}]}]
+44:["$","$L2a",null,{"as":"h4","id":"sortie-3","children":"Sortie"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Les détails du problème GitLab"}]]}]}]]}]}]
+46:["$","$L2a",null,{"as":"h3","id":"gitlab_create_issue","children":["$","code",null,{"children":"gitlab_create_issue"}]}]
+47:["$","p",null,{"children":"Créer un nouveau problème dans un projet GitLab"}]
+48:["$","$L2a",null,{"as":"h4","id":"entrée-4","children":"Entrée"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Titre du problème"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Description du problème (Markdown pris en charge)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste d'étiquettes séparées par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau d'ID utilisateurs à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du jalon à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dueDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date d'échéance au format AAAA-MM-JJ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidential"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Si le problème est confidentiel"}]]}]]}]]}]}]
+4a:["$","$L2a",null,{"as":"h4","id":"sortie-4","children":"Sortie"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le ticket GitLab créé"}]]}]}]]}]}]
+4c:["$","$L2a",null,{"as":"h3","id":"gitlab_update_issue","children":["$","code",null,{"children":"gitlab_update_issue"}]}]
+4d:["$","p",null,{"children":"Mettre à jour un ticket existant dans un projet GitLab"}]
+4e:["$","$L2a",null,{"as":"h4","id":"entrée-5","children":"Entrée"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne du ticket (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau titre du ticket"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle description du ticket (Markdown pris en charge)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stateEvent"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Événement d'état (close ou reopen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de noms d'étiquettes séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau d'ID utilisateurs à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du jalon à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dueDate"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Date d'échéance au format AAAA-MM-JJ"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidential"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Indique si le ticket est confidentiel"}]]}]]}]]}]}]
+50:["$","$L2a",null,{"as":"h4","id":"sortie-5","children":"Sortie"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le ticket GitLab mis à jour"}]]}]}]]}]}]
+52:["$","$L2a",null,{"as":"h3","id":"gitlab_delete_issue","children":["$","code",null,{"children":"gitlab_delete_issue"}]}]
+53:["$","p",null,{"children":"Supprimer un ticket d'un projet GitLab"}]
+54:["$","$L2a",null,{"as":"h4","id":"entrée-6","children":"Entrée"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne du ticket (IID)"}]]}]]}]]}]}]
+56:["$","$L2a",null,{"as":"h4","id":"sortie-6","children":"Sortie"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indique si le problème a été supprimé avec succès"}]]}]}]]}]}]
+58:["$","$L2a",null,{"as":"h3","id":"gitlab_create_issue_note","children":["$","code",null,{"children":"gitlab_create_issue_note"}]}]
+59:["$","p",null,{"children":"Ajouter un commentaire à un problème GitLab"}]
+5a:["$","$L2a",null,{"as":"h4","id":"entrée-7","children":"Entrée"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne du problème (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Corps du commentaire (Markdown pris en charge)"}]]}]]}]]}]}]
+5c:["$","$L2a",null,{"as":"h4","id":"sortie-7","children":"Sortie"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le commentaire créé"}]]}]}]]}]}]
+5e:["$","$L2a",null,{"as":"h3","id":"gitlab_list_merge_requests","children":["$","code",null,{"children":"gitlab_list_merge_requests"}]}]
+5f:["$","p",null,{"children":"Lister les demandes de fusion dans un projet GitLab"}]
+60:["$","$L2a",null,{"as":"h4","id":"entrée-8","children":"Entrée"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par état (opened, closed, merged, all)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de noms d'étiquettes séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par branche source"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par branche cible"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ (created_at, updated_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (20 par défaut, 100 max)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}]]}]]}]}]
+62:["$","$L2a",null,{"as":"h4","id":"sortie-8","children":"Sortie"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequests"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des demandes de fusion GitLab"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nombre total de demandes de fusion"}]]}]]}]]}]}]
+64:["$","$L2a",null,{"as":"h3","id":"gitlab_get_merge_request","children":["$","code",null,{"children":"gitlab_get_merge_request"}]}]
+65:["$","p",null,{"children":"Obtenir les détails d'une demande de fusion GitLab spécifique"}]
+66:["$","$L2a",null,{"as":"h4","id":"entrée-9","children":"Entrée"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne de la demande de fusion (IID)"}]]}]]}]]}]}]
+68:["$","$L2a",null,{"as":"h4","id":"sortie-9","children":"Sortie"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Les détails de la demande de fusion GitLab"}]]}]}]]}]}]
+6a:["$","$L2a",null,{"as":"h3","id":"gitlab_create_merge_request","children":["$","code",null,{"children":"gitlab_create_merge_request"}]}]
+6b:["$","p",null,{"children":"Créer une nouvelle demande de fusion dans un projet GitLab"}]
+6c:["$","$L2a",null,{"as":"h4","id":"entrée-10","children":"Entrée"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Nom de la branche source"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Nom de la branche cible"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Titre de la demande de fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Description de la demande de fusion (Markdown pris en charge)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de noms d'étiquettes séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau d'ID utilisateurs à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du jalon à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Supprimer la branche source après la fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Regrouper les commits lors de la fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Marquer comme brouillon (travail en cours)"}]]}]]}]]}]}]
+6e:["$","$L2a",null,{"as":"h4","id":"sortie-10","children":"Sortie"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"La demande de fusion GitLab créée"}]]}]}]]}]}]
+70:["$","$L2a",null,{"as":"h3","id":"gitlab_update_merge_request","children":["$","code",null,{"children":"gitlab_update_merge_request"}]}]
+71:["$","p",null,{"children":"Mettre à jour une demande de fusion existante dans un projet GitLab"}]
+72:["$","$L2a",null,{"as":"h4","id":"entrée-11","children":"Entrée"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne de la demande de fusion (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouveau titre de la demande de fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle description de la demande de fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stateEvent"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Événement d'état (close ou reopen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Liste de noms d'étiquettes séparés par des virgules"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"tableau"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau d'ID utilisateurs à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"ID du jalon à assigner"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nouvelle branche cible"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeSourceBranch"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Supprimer la branche source après la fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Regrouper les commits lors de la fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Marquer comme brouillon (travail en cours)"}]]}]]}]]}]}]
+74:["$","$L2a",null,{"as":"h4","id":"sortie-11","children":"Sortie"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"La demande de fusion GitLab mise à jour"}]]}]}]]}]}]
+76:["$","$L2a",null,{"as":"h3","id":"gitlab_merge_merge_request","children":["$","code",null,{"children":"gitlab_merge_merge_request"}]}]
+77:["$","p",null,{"children":"Fusionner une demande de fusion dans un projet GitLab"}]
+78:["$","$L2a",null,{"as":"h4","id":"entrée-12","children":"Entrée"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne de la demande de fusion (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeCommitMessage"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Message personnalisé du commit de fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squashCommitMessage"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Message personnalisé du commit de regroupement"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Regrouper les commits avant la fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shouldRemoveSourceBranch"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Supprimer la branche source après la fusion"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeWhenPipelineSucceeds"}]}],["$","td",null,{"children":"booléen"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Fusionner lorsque le pipeline réussit"}]]}]]}]]}]}]
+7a:["$","$L2a",null,{"as":"h4","id":"sortie-12","children":"Sortie"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"La demande de fusion GitLab fusionnée"}]]}]}]]}]}]
+7c:["$","$L2a",null,{"as":"h3","id":"gitlab_create_merge_request_note","children":["$","code",null,{"children":"gitlab_create_merge_request_note"}]}]
+7d:["$","p",null,{"children":"Ajouter un commentaire à une demande de fusion GitLab"}]
+7e:["$","$L2a",null,{"as":"h4","id":"entrée-13","children":"Entrée"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID interne de la demande de fusion (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Corps du commentaire (Markdown pris en charge)"}]]}]]}]]}]}]
+80:["$","$L2a",null,{"as":"h4","id":"sortie-13","children":"Sortie"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le commentaire créé"}]]}]}]]}]}]
+82:["$","$L2a",null,{"as":"h3","id":"gitlab_list_pipelines","children":["$","code",null,{"children":"gitlab_list_pipelines"}]}]
+83:["$","p",null,{"children":"Lister les pipelines dans un projet GitLab"}]
+84:["$","$L2a",null,{"as":"h4","id":"entrée-14","children":"Entrée"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par ref (branche ou tag)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Filtrer par statut (created, waiting_for_resource, preparing, pending, running, success, failed, canceled, skipped, manual, scheduled)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Trier par champ (id, status, ref, updated_at, user_id)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Direction de tri (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Nombre de résultats par page (20 par défaut, 100 max)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Numéro de page pour la pagination"}]]}]]}]]}]}]
+86:["$","$L2a",null,{"as":"h4","id":"sortie-14","children":"Sortie"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelines"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste des pipelines GitLab"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nombre total de pipelines"}]]}]]}]]}]}]
+88:["$","$L2a",null,{"as":"h3","id":"gitlab_get_pipeline","children":["$","code",null,{"children":"gitlab_get_pipeline"}]}]
+89:["$","p",null,{"children":"Obtenir les détails d'un pipeline GitLab spécifique"}]
+8a:["$","$L2a",null,{"as":"h4","id":"entrée-15","children":"Entrée"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du pipeline"}]]}]]}]]}]}]
+8c:["$","$L2a",null,{"as":"h4","id":"sortie-15","children":"Sortie"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Les détails du pipeline GitLab"}]]}]}]]}]}]
+8e:["$","$L2a",null,{"as":"h3","id":"gitlab_create_pipeline","children":["$","code",null,{"children":"gitlab_create_pipeline"}]}]
+8f:["$","p",null,{"children":"Déclencher un nouveau pipeline dans un projet GitLab"}]
+90:["$","$L2a",null,{"as":"h4","id":"entrée-16","children":"Entrée"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"Branche ou tag sur lequel exécuter le pipeline"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"variables"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Non"}],["$","td",null,{"children":"Tableau de variables pour le pipeline (chacune avec clé, valeur et type de variable optionnel)"}]]}]]}]]}]}]
+92:["$","$L2a",null,{"as":"h4","id":"sortie-16","children":"Sortie"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Le pipeline GitLab créé"}]]}]}]]}]}]
+94:["$","$L2a",null,{"as":"h3","id":"gitlab_retry_pipeline","children":["$","code",null,{"children":"gitlab_retry_pipeline"}]}]
+95:["$","p",null,{"children":"Réessayer un pipeline GitLab échoué"}]
+96:["$","$L2a",null,{"as":"h4","id":"entrée-17","children":"Entrée"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du pipeline"}]]}]]}]]}]}]
+98:["$","$L2a",null,{"as":"h4","id":"sortie-17","children":"Sortie"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le pipeline GitLab relancé"}]]}]}]]}]}]
+9a:["$","$L2a",null,{"as":"h3","id":"gitlab_cancel_pipeline","children":["$","code",null,{"children":"gitlab_cancel_pipeline"}]}]
+9b:["$","p",null,{"children":"Annuler un pipeline GitLab en cours d'exécution"}]
+9c:["$","$L2a",null,{"as":"h4","id":"entrée-18","children":"Entrée"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Obligatoire"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"chaîne"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du projet ou chemin encodé en URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"nombre"}],["$","td",null,{"children":"Oui"}],["$","td",null,{"children":"ID du pipeline"}]]}]]}]]}]}]
+9e:["$","$L2a",null,{"as":"h4","id":"sortie-18","children":"Sortie"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Paramètre"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"objet"}],["$","td",null,{"children":"Le pipeline GitLab annulé"}]]}]}]]}]}]
+a2:null

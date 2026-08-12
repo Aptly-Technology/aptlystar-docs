@@ -1,0 +1,705 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+28:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+29:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+2e:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+2f:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+30:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+ba:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+bb:"$Sreact.suspense"
+bd:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+be:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+bf:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+c0:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Supabase\",\"description\":\"Usa la base de datos Supabase\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/supabase\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/supabase\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/supabase\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Supabase\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/supabase\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#supabase_query","title":["$","code",null,{"children":"supabase_query"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#supabase_insert","title":["$","code",null,{"children":"supabase_insert"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#supabase_get_row","title":["$","code",null,{"children":"supabase_get_row"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#supabase_update","title":["$","code",null,{"children":"supabase_update"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#supabase_delete","title":["$","code",null,{"children":"supabase_delete"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#supabase_upsert","title":["$","code",null,{"children":"supabase_upsert"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#supabase_count","title":["$","code",null,{"children":"supabase_count"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#supabase_text_search","title":["$","code",null,{"children":"supabase_text_search"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#supabase_vector_search","title":["$","code",null,{"children":"supabase_vector_search"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#supabase_rpc","title":["$","code",null,{"children":"supabase_rpc"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#supabase_storage_upload","title":["$","code",null,{"children":"supabase_storage_upload"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#supabase_storage_download","title":["$","code",null,{"children":"supabase_storage_download"}]},{"depth":4,"url":"#entrada-11","title":"Entrada"},{"depth":4,"url":"#salida-11","title":"Salida"},{"depth":3,"url":"#supabase_storage_list","title":["$","code",null,{"children":"supabase_storage_list"}]},{"depth":4,"url":"#entrada-12","title":"$L3"},{"depth":4,"url":"#salida-12","title":"$L4"},{"depth":3,"url":"#supabase_storage_delete","title":"$L5"},{"depth":4,"url":"#entrada-13","title":"$L6"},{"depth":4,"url":"#salida-13","title":"$L7"},{"depth":3,"url":"#supabase_storage_move","title":"$L8"},{"depth":4,"url":"#entrada-14","title":"$L9"},{"depth":4,"url":"#salida-14","title":"$La"},{"depth":3,"url":"#supabase_storage_copy","title":"$Lb"},{"depth":4,"url":"#entrada-15","title":"$Lc"},{"depth":4,"url":"#salida-15","title":"$Ld"},{"depth":3,"url":"#supabase_storage_create_bucket","title":"$Le"},{"depth":4,"url":"#entrada-16","title":"$Lf"},{"depth":4,"url":"#salida-16","title":"$L10"},{"depth":3,"url":"#supabase_storage_list_buckets","title":"$L11"},{"depth":4,"url":"#entrada-17","title":"$L12"},{"depth":4,"url":"#salida-17","title":"$L13"},{"depth":3,"url":"#supabase_storage_delete_bucket","title":"$L14"},{"depth":4,"url":"#entrada-18","title":"$L15"},{"depth":4,"url":"#salida-18","title":"$L16"},{"depth":3,"url":"#supabase_storage_get_public_url","title":"$L17"},{"depth":4,"url":"#entrada-19","title":"$L18"},{"depth":4,"url":"#salida-19","title":"$L19"},{"depth":3,"url":"#supabase_storage_create_signed_url","title":"$L1a"},{"depth":4,"url":"#entrada-20","title":"$L1b"},{"depth":4,"url":"#salida-20","title":"$L1c"},{"depth":2,"url":"#notas","title":"$L1d"},{"depth":4,"url":"#entrada-21","title":"$L1e"},{"depth":4,"url":"#salida-21","title":"$L1f"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L20"},"children":["$L21","$L22"]}]],["$L23","$L24","$L25","$L26"],"$L27"]}],"loading":null,"isPartial":false}
+3:"Entrada"
+4:"Salida"
+5:["$","code",null,{"children":"supabase_storage_delete"}]
+6:"Entrada"
+7:"Salida"
+8:["$","code",null,{"children":"supabase_storage_move"}]
+9:"Entrada"
+a:"Salida"
+b:["$","code",null,{"children":"supabase_storage_copy"}]
+c:"Entrada"
+d:"Salida"
+e:["$","code",null,{"children":"supabase_storage_create_bucket"}]
+f:"Entrada"
+10:"Salida"
+11:["$","code",null,{"children":"supabase_storage_list_buckets"}]
+12:"Entrada"
+13:"Salida"
+14:["$","code",null,{"children":"supabase_storage_delete_bucket"}]
+15:"Entrada"
+16:"Salida"
+17:["$","code",null,{"children":"supabase_storage_get_public_url"}]
+18:"Entrada"
+19:"Salida"
+1a:["$","code",null,{"children":"supabase_storage_create_signed_url"}]
+1b:"Entrada"
+1c:"Salida"
+1d:"Notas"
+1e:"Entrada"
+1f:"Salida"
+20:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L28",null,{"href":"/es/tools/stripe","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Stripe"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L28",null,{"href":"/es/tools/tavily","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Tavily",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+2a:T9081,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="supabase" color="#1C1C1C" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Supabase](https://www.supabase.com/) es una potente plataforma backend-as-a-service que proporciona a los desarrolladores un conjunto de herramientas para construir, escalar y gestionar aplicaciones modernas. Supabase ofrece una base de datos [PostgreSQL](https://www.postgresql.org/) completamente gestionada, autenticación robusta, APIs RESTful y GraphQL instantáneas, suscripciones en tiempo real, almacenamiento de archivos y funciones edge, todo accesible a través de una interfaz unificada y amigable para desarrolladores. Su compatibilidad con frameworks populares la convierte en una alternativa convincente a Firebase, con el beneficio adicional de la flexibilidad y transparencia de SQL.
+
+**¿Por qué Supabase?**
+
+* **APIs instantáneas:** Cada tabla y vista en tu base de datos está disponible instantáneamente a través de endpoints REST y GraphQL, facilitando la creación de aplicaciones basadas en datos sin escribir código backend personalizado.
+* **Datos en tiempo real:** Supabase permite suscripciones en tiempo real, permitiendo que tus aplicaciones reaccionen instantáneamente a los cambios en tu base de datos.
+* **Autenticación y autorización:** Gestión de usuarios incorporada con soporte para email, OAuth, SSO y más, además de seguridad a nivel de fila para un control de acceso granular.
+* **Almacenamiento:** Sube, sirve y gestiona archivos de forma segura con almacenamiento integrado que se integra perfectamente con tu base de datos.
+* **Funciones Edge:** Despliega funciones serverless cerca de tus usuarios para lógica personalizada de baja latencia.
+
+**Uso de Supabase en Aptlystar**
+
+La integración de Supabase en Aptlystar facilita la conexión de tus flujos de trabajo basados en agentes con tus proyectos de Supabase. Con solo unos pocos campos de configuración —tu ID de proyecto, nombre de tabla y clave secreta de rol de servicio— puedes interactuar de forma segura con tu base de datos directamente desde tus bloques de Aptlystar. La integración abstrae la complejidad de las llamadas a la API, permitiéndote concentrarte en construir lógica y automatizaciones.
+
+**Beneficios clave de usar Supabase en Aptlystar:**
+
+* **Operaciones de base de datos sin código/con poco código:** Consulta, inserta, actualiza y elimina filas en tus tablas de Supabase sin escribir SQL o código backend.
+* **Consultas flexibles:** Utiliza la [sintaxis de filtro de PostgREST](https://postgrest.org/en/stable/api.html#operators) para realizar consultas avanzadas, incluyendo filtrado, ordenamiento y limitación de resultados.
+* **Integración perfecta:** Conecta fácilmente Supabase con otras herramientas y servicios en tu flujo de trabajo, habilitando potentes automatizaciones como sincronización de datos, activación de notificaciones o enriquecimiento de registros.
+* **Seguro y escalable:** Todas las operaciones utilizan tu clave secreta de rol de servicio de Supabase, asegurando un acceso seguro a tus datos con la escalabilidad de una plataforma cloud gestionada.
+
+Ya sea que estés construyendo herramientas internas, automatizando procesos de negocio o impulsando aplicaciones de producción, Supabase en Aptlystar proporciona una forma rápida, confiable y amigable para desarrolladores de gestionar tus datos y lógica de backend—sin necesidad de gestionar infraestructura. Simplemente configura tu bloque, selecciona la operación que necesitas y deja que Aptlystar se encargue del resto.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Integra Supabase en el flujo de trabajo. Admite operaciones de base de datos (consulta, inserción, actualización, eliminación, upsert), búsqueda de texto completo, funciones RPC, conteo de filas, búsqueda vectorial y gestión completa de almacenamiento (subir, descargar, listar, mover, copiar, eliminar archivos y buckets).
+
+Herramientas [#herramientas]
+
+supabase_query [#supabase_query]
+
+Consultar datos de una tabla de Supabase
+
+Entrada [#entrada]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                                 |
+| ----------- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                                   |
+| `table`     | string | Sí          | Nombre de la tabla Supabase a consultar                                                                                     |
+| `schema`    | string | No          | Esquema de base de datos desde el que consultar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `select`    | string | No          | Columnas a devolver (separadas por comas). Predeterminado: \* (todas las columnas)                                          |
+| `filter`    | string | No          | Filtro PostgREST (p. ej., "id=eq.123")                                                                                      |
+| `orderBy`   | string | No          | Columna por la que ordenar (añade DESC para orden descendente)                                                              |
+| `limit`     | number | No          | Número máximo de filas a devolver                                                                                           |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                             |
+
+Salida [#salida]
+
+| Parámetro | Tipo   | Descripción                                  |
+| --------- | ------ | -------------------------------------------- |
+| `message` | string | Mensaje de estado de la operación            |
+| `results` | array  | Array de registros devueltos por la consulta |
+
+supabase_insert [#supabase_insert]
+
+Insertar datos en una tabla de Supabase
+
+Entrada [#entrada-1]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                         |
+| ----------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                           |
+| `table`     | string | Sí          | Nombre de la tabla Supabase donde insertar datos                                                                    |
+| `schema`    | string | No          | Esquema de base de datos donde insertar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `data`      | array  | Sí          | Los datos a insertar (array de objetos o un solo objeto)                                                            |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                     |
+
+Salida [#salida-1]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `message` | string | Mensaje de estado de la operación |
+| `results` | array  | Array de registros insertados     |
+
+supabase_get_row [#supabase_get_row]
+
+Obtener una sola fila de una tabla de Supabase basada en criterios de filtro
+
+Entrada [#entrada-2]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                                 |
+| ----------- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                                   |
+| `table`     | string | Sí          | Nombre de la tabla Supabase a consultar                                                                                     |
+| `schema`    | string | No          | Esquema de base de datos desde el que consultar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `select`    | string | No          | Columnas a devolver (separadas por comas). Predeterminado: \* (todas las columnas)                                          |
+| `filter`    | string | Sí          | Filtro PostgREST para encontrar la fila específica (p. ej., "id=eq.123")                                                    |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                             |
+
+Salida [#salida-2]
+
+| Parámetro | Tipo   | Descripción                                                                               |
+| --------- | ------ | ----------------------------------------------------------------------------------------- |
+| `message` | string | Mensaje de estado de la operación                                                         |
+| `results` | array  | Array que contiene los datos de la fila si se encuentran, array vacío si no se encuentran |
+
+supabase_update [#supabase_update]
+
+Actualizar filas en una tabla de Supabase según criterios de filtro
+
+Entrada [#entrada-3]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                           |
+| ----------- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                             |
+| `table`     | string | Sí          | Nombre de la tabla Supabase a actualizar                                                                              |
+| `schema`    | string | No          | Esquema de base de datos donde actualizar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `filter`    | string | Sí          | Filtro PostgREST para identificar las filas a actualizar (p. ej., "id=eq.123")                                        |
+| `data`      | object | Sí          | Datos a actualizar en las filas coincidentes                                                                          |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                       |
+
+Salida [#salida-3]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `message` | string | Mensaje de estado de la operación |
+| `results` | array  | Array de registros actualizados   |
+
+supabase_delete [#supabase_delete]
+
+Eliminar filas de una tabla de Supabase según criterios de filtro
+
+Entrada [#entrada-4]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                           |
+| ----------- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                             |
+| `table`     | string | Sí          | Nombre de la tabla Supabase de la que eliminar                                                                        |
+| `schema`    | string | No          | Esquema de base de datos del que eliminar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `filter`    | string | Sí          | Filtro PostgREST para identificar las filas a eliminar (p. ej., "id=eq.123")                                          |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                       |
+
+Salida [#salida-4]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `message` | string | Mensaje de estado de la operación |
+| `results` | array  | Array de registros eliminados     |
+
+supabase_upsert [#supabase_upsert]
+
+Insertar o actualizar datos en una tabla de Supabase (operación upsert)
+
+Entrada [#entrada-5]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                             |
+| ----------- | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                               |
+| `table`     | string | Sí          | Nombre de la tabla Supabase donde hacer upsert de datos                                                                 |
+| `schema`    | string | No          | Esquema de base de datos donde hacer upsert (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `data`      | array  | Sí          | Los datos para hacer upsert (insertar o actualizar) - array de objetos o un solo objeto                                 |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                         |
+
+Salida [#salida-5]
+
+| Parámetro | Tipo   | Descripción                                  |
+| --------- | ------ | -------------------------------------------- |
+| `message` | string | Mensaje de estado de la operación            |
+| `results` | array  | Array de registros insertados o actualizados |
+
+supabase_count [#supabase_count]
+
+Contar filas en una tabla de Supabase
+
+Entrada [#entrada-6]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                                              |
+| ----------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                                |
+| `table`     | string | Sí          | El nombre de la tabla Supabase de la que contar filas                                                                    |
+| `schema`    | string | No          | Esquema de base de datos desde el que contar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `filter`    | string | No          | Filtro PostgREST (p. ej., "status=eq.active")                                                                            |
+| `countType` | string | No          | Tipo de conteo: exact, planned o estimated (predeterminado: exact)                                                       |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                          |
+
+Salida [#salida-6]
+
+| Parámetro | Tipo   | Descripción                                 |
+| --------- | ------ | ------------------------------------------- |
+| `message` | string | Mensaje de estado de la operación           |
+| `count`   | number | Número de filas que coinciden con el filtro |
+
+supabase_text_search [#supabase_text_search]
+
+Realizar búsqueda de texto completo en una tabla de Supabase
+
+Entrada [#entrada-7]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                                                           |
+| ------------ | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| `projectId`  | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                                             |
+| `table`      | string | Sí          | El nombre de la tabla Supabase donde buscar                                                                           |
+| `schema`     | string | No          | Esquema de base de datos en el que buscar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas. |
+| `column`     | string | Sí          | La columna en la que buscar                                                                                           |
+| `query`      | string | Sí          | La consulta de búsqueda                                                                                               |
+| `searchType` | string | No          | Tipo de búsqueda: plain, phrase o websearch (predeterminado: websearch)                                               |
+| `language`   | string | No          | Idioma para la configuración de búsqueda de texto (predeterminado: english)                                           |
+| `limit`      | number | No          | Número máximo de filas a devolver                                                                                     |
+| `apiKey`     | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                                       |
+
+Salida [#salida-7]
+
+| Parámetro | Tipo   | Descripción                                                  |
+| --------- | ------ | ------------------------------------------------------------ |
+| `message` | string | Mensaje de estado de la operación                            |
+| `results` | array  | Array de registros que coinciden con la consulta de búsqueda |
+
+supabase_vector_search [#supabase_vector_search]
+
+Realizar búsqueda de similitud usando pgvector en una tabla de Supabase
+
+Entrada [#entrada-8]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                                                                  |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------------------------- |
+| `projectId`      | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                    |
+| `functionName`   | string | Sí          | Nombre de la función PostgreSQL que realiza la búsqueda vectorial (p. ej., match\_documents) |
+| `queryEmbedding` | array  | Sí          | El vector/embedding de consulta para buscar elementos similares                              |
+| `matchThreshold` | number | No          | Umbral mínimo de similitud (0-1), típicamente 0.7-0.9                                        |
+| `matchCount`     | number | No          | Número máximo de resultados a devolver (predeterminado: 10)                                  |
+| `apiKey`         | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                              |
+
+Salida [#salida-8]
+
+| Parámetro | Tipo   | Descripción                                                                                                                                                                    |
+| --------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `message` | string | Mensaje de estado de la operación                                                                                                                                              |
+| `results` | array  | Array de registros con puntuaciones de similitud de la búsqueda vectorial. Cada registro incluye un campo de similitud (0-1) que indica cuán similar es al vector de consulta. |
+
+supabase_rpc [#supabase_rpc]
+
+Llamar a una función PostgreSQL en Supabase
+
+Entrada [#entrada-9]
+
+| Parámetro      | Tipo   | Obligatorio | Descripción                                               |
+| -------------- | ------ | ----------- | --------------------------------------------------------- |
+| `projectId`    | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom) |
+| `functionName` | string | Sí          | Nombre de la función PostgreSQL a llamar                  |
+| `apiKey`       | string | Sí          | Tu clave secreta de rol de servicio de Supabase           |
+
+Salida [#salida-9]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `message` | string | Mensaje de estado de la operación |
+| `results` | json   | Resultado devuelto por la función |
+
+supabase_storage_upload [#supabase_storage_upload]
+
+Subir un archivo a un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-10]
+
+| Parámetro     | Tipo    | Obligatorio | Descripción                                                                           |
+| ------------- | ------- | ----------- | ------------------------------------------------------------------------------------- |
+| `projectId`   | string  | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                             |
+| `bucket`      | string  | Sí          | El nombre del bucket de almacenamiento                                                |
+| `fileName`    | string  | Sí          | El nombre del archivo (p. ej., "documento.pdf", "imagen.jpg")                         |
+| `path`        | string  | No          | Ruta de carpeta opcional (p. ej., "carpeta/subcarpeta/")                              |
+| `fileContent` | string  | Sí          | El contenido del archivo (codificado en base64 para archivos binarios, o texto plano) |
+| `contentType` | string  | No          | Tipo MIME del archivo (p. ej., "image/jpeg", "text/plain")                            |
+| `upsert`      | boolean | No          | Si es verdadero, sobrescribe el archivo existente (predeterminado: false)             |
+| `apiKey`      | string  | Sí          | Tu clave secreta de rol de servicio de Supabase                                       |
+
+Salida [#salida-10]
+
+| Parámetro | Tipo   | Descripción                                                    |
+| --------- | ------ | -------------------------------------------------------------- |
+| `message` | string | Mensaje de estado de la operación                              |
+| `results` | object | Resultado de la subida incluyendo ruta del archivo y metadatos |
+
+supabase_storage_download [#supabase_storage_download]
+
+Descargar un archivo de un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-11]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                    |
+| ----------- | ------ | ----------- | -------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)      |
+| `bucket`    | string | Sí          | El nombre del bucket de almacenamiento                         |
+| `path`      | string | Sí          | La ruta al archivo a descargar (p. ej., "carpeta/archivo.jpg") |
+| `fileName`  | string | No          | Anulación opcional del nombre del archivo                      |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                |
+
+Salida [#salida-11]
+
+| Parámetro | Tipo | Descripción                                            |
+| --------- | ---- | ------------------------------------------------------ |
+| `file`    | file | Archivo descargado almacenado en archivos de ejecución |
+
+supabase_storage_list [#supabase_storage_list]
+
+Listar archivos en un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-12]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                 |
+| ----------- | ------ | ----------- | --------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                   |
+| `bucket`    | string | Sí          | El nombre del bucket de almacenamiento                                      |
+| `path`      | string | No          | La ruta de la carpeta desde donde listar archivos (predeterminado: raíz)    |
+| `limit`     | number | No          | Número máximo de archivos a devolver (predeterminado: 100)                  |
+| `offset`    | number | No          | Número de archivos a omitir (para paginación)                               |
+| `sortBy`    | string | No          | Columna para ordenar: name, created\_at, updated\_at (predeterminado: name) |
+| `sortOrder` | string | No          | Orden de clasificación: asc o desc (predeterminado: asc)                    |
+| `search`    | string | No          | Término de búsqueda para filtrar archivos por nombre                        |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                             |
+
+Salida [#salida-12]
+
+| Parámetro | Tipo   | Descripción                               |
+| --------- | ------ | ----------------------------------------- |
+| `message` | string | Mensaje de estado de la operación         |
+| `results` | array  | Array de objetos de archivo con metadatos |
+
+supabase_storage_delete [#supabase_storage_delete]
+
+Eliminar archivos de un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-13]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                                       |
+| ----------- | ------ | ----------- | ------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                         |
+| `bucket`    | string | Sí          | El nombre del bucket de almacenamiento                                                            |
+| `paths`     | array  | Sí          | Array de rutas de archivos a eliminar (p. ej., \["carpeta/archivo1.jpg", "carpeta/archivo2.jpg"]) |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                                                   |
+
+Salida [#salida-13]
+
+| Parámetro | Tipo   | Descripción                             |
+| --------- | ------ | --------------------------------------- |
+| `message` | string | Mensaje de estado de la operación       |
+| `results` | array  | Array de objetos de archivos eliminados |
+
+supabase_storage_move [#supabase_storage_move]
+
+Mover un archivo dentro de un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-14]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                      |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)        |
+| `bucket`    | string | Sí          | El nombre del bucket de almacenamiento                           |
+| `fromPath`  | string | Sí          | La ruta actual del archivo (p. ej., "carpeta/viejo.jpg")         |
+| `toPath`    | string | Sí          | La nueva ruta para el archivo (p. ej., "nuevacarpeta/nuevo.jpg") |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase                  |
+
+Salida [#salida-14]
+
+| Parámetro | Tipo   | Descripción                             |
+| --------- | ------ | --------------------------------------- |
+| `message` | string | Mensaje de estado de la operación       |
+| `results` | object | Resultado de la operación de movimiento |
+
+supabase_storage_copy [#supabase_storage_copy]
+
+Copiar un archivo dentro de un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-15]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                   |
+| ----------- | ------ | ----------- | ------------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)     |
+| `bucket`    | string | Sí          | El nombre del bucket de almacenamiento                        |
+| `fromPath`  | string | Sí          | La ruta del archivo de origen (p. ej., "carpeta/origen.jpg")  |
+| `toPath`    | string | Sí          | La ruta para el archivo copiado (p. ej., "carpeta/copia.jpg") |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase               |
+
+Salida [#salida-15]
+
+| Parámetro | Tipo   | Descripción                        |
+| --------- | ------ | ---------------------------------- |
+| `message` | string | Mensaje de estado de la operación  |
+| `results` | object | Resultado de la operación de copia |
+
+supabase_storage_create_bucket [#supabase_storage_create_bucket]
+
+Crear un nuevo bucket de almacenamiento en Supabase
+
+Entrada [#entrada-16]
+
+| Parámetro          | Tipo    | Obligatorio | Descripción                                                           |
+| ------------------ | ------- | ----------- | --------------------------------------------------------------------- |
+| `projectId`        | string  | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)             |
+| `bucket`           | string  | Sí          | El nombre del bucket a crear                                          |
+| `isPublic`         | boolean | No          | Si el bucket debe ser accesible públicamente (predeterminado: false)  |
+| `fileSizeLimit`    | number  | No          | Tamaño máximo de archivo en bytes (opcional)                          |
+| `allowedMimeTypes` | array   | No          | Array de tipos MIME permitidos (p. ej., \["image/png", "image/jpeg"]) |
+| `apiKey`           | string  | Sí          | Tu clave secreta de rol de servicio de Supabase                       |
+
+Salida [#salida-16]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `message` | string | Mensaje de estado de la operación |
+| `results` | object | Información del bucket creado     |
+
+supabase_storage_list_buckets [#supabase_storage_list_buckets]
+
+Listar todos los buckets de almacenamiento en Supabase
+
+Entrada [#entrada-17]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                               |
+| ----------- | ------ | ----------- | --------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom) |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase           |
+
+Salida [#salida-17]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `message` | string | Mensaje de estado de la operación |
+| `results` | array  | Array de objetos de bucket        |
+
+supabase_storage_delete_bucket [#supabase_storage_delete_bucket]
+
+Eliminar un bucket de almacenamiento en Supabase
+
+Entrada [#entrada-18]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                               |
+| ----------- | ------ | ----------- | --------------------------------------------------------- |
+| `projectId` | string | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom) |
+| `bucket`    | string | Sí          | El nombre del bucket a eliminar                           |
+| `apiKey`    | string | Sí          | Tu clave secreta de rol de servicio de Supabase           |
+
+Salida [#salida-18]
+
+| Parámetro | Tipo   | Descripción                              |
+| --------- | ------ | ---------------------------------------- |
+| `message` | string | Mensaje de estado de la operación        |
+| `results` | object | Resultado de la operación de eliminación |
+
+supabase_storage_get_public_url [#supabase_storage_get_public_url]
+
+Obtener la URL pública para un archivo en un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-19]
+
+| Parámetro   | Tipo    | Obligatorio | Descripción                                                                              |
+| ----------- | ------- | ----------- | ---------------------------------------------------------------------------------------- |
+| `projectId` | string  | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                |
+| `bucket`    | string  | Sí          | El nombre del bucket de almacenamiento                                                   |
+| `path`      | string  | Sí          | La ruta al archivo (p. ej., "carpeta/archivo.jpg")                                       |
+| `download`  | boolean | No          | Si es verdadero, fuerza la descarga en lugar de mostrar en línea (predeterminado: false) |
+| `apiKey`    | string  | Sí          | Tu clave secreta de rol de servicio de Supabase                                          |
+
+Salida [#salida-19]
+
+| Parámetro   | Tipo   | Descripción                            |
+| ----------- | ------ | -------------------------------------- |
+| `message`   | string | Mensaje de estado de la operación      |
+| `publicUrl` | string | La URL pública para acceder al archivo |
+
+supabase_storage_create_signed_url [#supabase_storage_create_signed_url]
+
+Crear una URL firmada temporal para un archivo en un bucket de almacenamiento de Supabase
+
+Entrada [#entrada-20]
+
+| Parámetro   | Tipo    | Obligatorio | Descripción                                                                              |
+| ----------- | ------- | ----------- | ---------------------------------------------------------------------------------------- |
+| `projectId` | string  | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                |
+| `bucket`    | string  | Sí          | El nombre del bucket de almacenamiento                                                   |
+| `path`      | string  | Sí          | La ruta al archivo (p. ej., "carpeta/archivo.jpg")                                       |
+| `expiresIn` | number  | Sí          | Número de segundos hasta que expire la URL (p. ej., 3600 para 1 hora)                    |
+| `download`  | boolean | No          | Si es verdadero, fuerza la descarga en lugar de mostrar en línea (predeterminado: false) |
+| `apiKey`    | string  | Sí          | Tu clave secreta de rol de servicio de Supabase                                          |
+
+Salida [#salida-20]
+
+| Parámetro   | Tipo   | Descripción                                     |
+| ----------- | ------ | ----------------------------------------------- |
+| `message`   | string | Mensaje de estado de la operación               |
+| `signedUrl` | string | La URL firmada temporal para acceder al archivo |
+
+Notas [#notas]
+
+* Categoría: `tools`
+* Tipo: `supabase`
+
+Entrada [#entrada-21]
+
+| Parámetro   | Tipo    | Obligatorio | Descripción                                                                              |
+| ----------- | ------- | ----------- | ---------------------------------------------------------------------------------------- |
+| `projectId` | string  | Sí          | ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)                                |
+| `bucket`    | string  | Sí          | El nombre del bucket de almacenamiento                                                   |
+| `path`      | string  | Sí          | La ruta al archivo (p. ej., "carpeta/archivo.jpg")                                       |
+| `expiresIn` | number  | Sí          | Número de segundos hasta que expire la URL (p. ej., 3600 para 1 hora)                    |
+| `download`  | boolean | No          | Si es verdadero, fuerza la descarga en lugar de mostrar en línea (predeterminado: false) |
+| `apiKey`    | string  | Sí          | Tu clave secreta de rol de servicio de Supabase                                          |
+
+Salida [#salida-21]
+
+| Parámetro   | Tipo   | Descripción                                     |
+| ----------- | ------ | ----------------------------------------------- |
+| `message`   | string | Mensaje de estado de la operación               |
+| `signedUrl` | string | La URL firmada temporal para acceder al archivo |
+21:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L29",null,{"content":"$2a"}]}],"$L2b"]}],"$L2c","$L2d"]}]
+22:["$","$L2e",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L2f",null,{"type":"supabase","color":"#1C1C1C"}],"\n","\n",["$","p",null,{"children":[["$","$L30",null,{"href":"https://www.supabase.com/","children":"Supabase"}]," es una potente plataforma backend-as-a-service que proporciona a los desarrolladores un conjunto de herramientas para construir, escalar y gestionar aplicaciones modernas. Supabase ofrece una base de datos ",["$","$L30",null,{"href":"https://www.postgresql.org/","children":"PostgreSQL"}]," completamente gestionada, autenticación robusta, APIs RESTful y GraphQL instantáneas, suscripciones en tiempo real, almacenamiento de archivos y funciones edge, todo accesible a través de una interfaz unificada y amigable para desarrolladores. Su compatibilidad con frameworks populares la convierte en una alternativa convincente a Firebase, con el beneficio adicional de la flexibilidad y transparencia de SQL."]}],"\n",["$","p",null,{"children":["$","strong",null,{"children":"¿Por qué Supabase?"}]}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"APIs instantáneas:"}]," Cada tabla y vista en tu base de datos está disponible instantáneamente a través de endpoints REST y GraphQL, facilitando la creación de aplicaciones basadas en datos sin escribir código backend personalizado."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Datos en tiempo real:"}]," Supabase permite suscripciones en tiempo real, permitiendo que tus aplicaciones reaccionen instantáneamente a los cambios en tu base de datos."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Autenticación y autorización:"}]," Gestión de usuarios incorporada con soporte para email, OAuth, SSO y más, además de seguridad a nivel de fila para un control de acceso granular."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Almacenamiento:"}]," Sube, sirve y gestiona archivos de forma segura con almacenamiento integrado que se integra perfectamente con tu base de datos."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Funciones Edge:"}]," Despliega funciones serverless cerca de tus usuarios para lógica personalizada de baja latencia."]}],"\n"]}],"\n",["$","p",null,{"children":["$","strong",null,{"children":"Uso de Supabase en Aptlystar"}]}],"\n",["$","p",null,{"children":"La integración de Supabase en Aptlystar facilita la conexión de tus flujos de trabajo basados en agentes con tus proyectos de Supabase. Con solo unos pocos campos de configuración —tu ID de proyecto, nombre de tabla y clave secreta de rol de servicio— puedes interactuar de forma segura con tu base de datos directamente desde tus bloques de Aptlystar. La integración abstrae la complejidad de las llamadas a la API, permitiéndote concentrarte en construir lógica y automatizaciones."}],"\n",["$","p",null,{"children":["$","strong",null,{"children":"Beneficios clave de usar Supabase en Aptlystar:"}]}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Operaciones de base de datos sin código/con poco código:"}]," Consulta, inserta, actualiza y elimina filas en tus tablas de Supabase sin escribir SQL o código backend."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Consultas flexibles:"}]," Utiliza la ",["$","$L30",null,{"href":"https://postgrest.org/en/stable/api.html#operators","children":"sintaxis de filtro de PostgREST"}]," para realizar consultas avanzadas, incluyendo filtrado, ordenamiento y limitación de resultados."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Integración perfecta:"}]," Conecta fácilmente Supabase con otras herramientas y servicios en tu flujo de trabajo, habilitando potentes automatizaciones como sincronización de datos, activación de notificaciones o enriquecimiento de registros."]}],"\n","$L31","\n"]}],"\n","$L32","\n","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9"]}]}]
+23:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+24:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+25:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+26:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+27:["$","$Lba",null,{"children":["$","$bb",null,{"name":"Next.MetadataOutlet","children":"$@bc"}]}]
+2b:["$","$Lbd",null,{"previous":{"$id":"es:tools/stripe.mdx","type":"page","name":"Stripe","description":"Procesa pagos y gestiona datos de Stripe","url":"/es/tools/stripe","$ref":{"file":"tools/stripe.mdx"}},"next":{"$id":"es:tools/tavily.mdx","type":"page","name":"Tavily","description":"Buscar y extraer información","url":"/es/tools/tavily","$ref":{"file":"tools/tavily.mdx"}}}]
+2c:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","fill":"currentColor","width":"24","height":"24","viewBox":"0 0 27 27","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M15.41 26.26C14.72 27.12 13.34 26.65 13.32 25.55L13.08 9.51H23.87C25.83 9.51 26.92 11.76 25.7 13.29L15.41 26.26Z","fill":"url(#supabase_paint0__S_1_)"}],["$","path",null,{"d":"M15.41 26.26C14.72 27.12 13.34 26.65 13.32 25.55L13.08 9.51H23.87C25.83 9.51 26.92 11.76 25.7 13.29L15.41 26.26Z","fill":"url(#supabase_paint1__S_1_)","fillOpacity":"0.2"}],["$","path",null,{"d":"M11.02 0.44C11.7 -0.42 13.08 0.06 13.1 1.15L13.2 17.2H2.55C0.6 17.2 -0.49 14.94 0.72 13.41L11.02 0.44Z","fill":"#3ECF8E"}],["$","defs",null,{"children":[["$","linearGradient",null,{"id":"supabase_paint0__S_1_","x1":"13.08","y1":"13.07","x2":"22.67","y2":"17.09","gradientUnits":"userSpaceOnUse","children":[["$","stop",null,{"stopColor":"#249361"}],["$","stop",null,{"offset":"1","stopColor":"#3ECF8E"}]]}],["$","linearGradient",null,{"id":"supabase_paint1__S_1_","x1":"8.83","y1":"7.24","x2":"13.21","y2":"15.48","gradientUnits":"userSpaceOnUse","children":[["$","stop",null,{}],["$","stop",null,{"offset":"1","stopOpacity":"0"}]]}]]}]]}]}],["$","$Lbe",null,{"className":"mb-0 min-w-0 flex-1","children":"Supabase"}]]}]
+2d:["$","$Lbf",null,{"children":"Usa la base de datos Supabase"}]
+31:["$","li",null,{"children":[["$","strong",null,{"children":"Seguro y escalable:"}]," Todas las operaciones utilizan tu clave secreta de rol de servicio de Supabase, asegurando un acceso seguro a tus datos con la escalabilidad de una plataforma cloud gestionada."]}]
+32:["$","p",null,{"children":"Ya sea que estés construyendo herramientas internas, automatizando procesos de negocio o impulsando aplicaciones de producción, Supabase en Aptlystar proporciona una forma rápida, confiable y amigable para desarrolladores de gestionar tus datos y lógica de backend—sin necesidad de gestionar infraestructura. Simplemente configura tu bloque, selecciona la operación que necesitas y deja que Aptlystar se encargue del resto."}]
+33:["$","$Lc0",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}]
+34:["$","p",null,{"children":"Integra Supabase en el flujo de trabajo. Admite operaciones de base de datos (consulta, inserción, actualización, eliminación, upsert), búsqueda de texto completo, funciones RPC, conteo de filas, búsqueda vectorial y gestión completa de almacenamiento (subir, descargar, listar, mover, copiar, eliminar archivos y buckets)."}]
+35:["$","$Lc0",null,{"as":"h2","id":"herramientas","children":"Herramientas"}]
+36:["$","$Lc0",null,{"as":"h3","id":"supabase_query","children":["$","code",null,{"children":"supabase_query"}]}]
+37:["$","p",null,{"children":"Consultar datos de una tabla de Supabase"}]
+38:["$","$Lc0",null,{"as":"h4","id":"entrada","children":"Entrada"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la tabla Supabase a consultar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos desde el que consultar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"select"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Columnas a devolver (separadas por comas). Predeterminado: * (todas las columnas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtro PostgREST (p. ej., \"id=eq.123\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Columna por la que ordenar (añade DESC para orden descendente)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de filas a devolver"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+3a:["$","$Lc0",null,{"as":"h4","id":"salida","children":"Salida"}]
+3b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros devueltos por la consulta"}]]}]]}]]}]}]
+3c:["$","$Lc0",null,{"as":"h3","id":"supabase_insert","children":["$","code",null,{"children":"supabase_insert"}]}]
+3d:["$","p",null,{"children":"Insertar datos en una tabla de Supabase"}]
+3e:["$","$Lc0",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la tabla Supabase donde insertar datos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos donde insertar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Los datos a insertar (array de objetos o un solo objeto)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+40:["$","$Lc0",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros insertados"}]]}]]}]]}]}]
+42:["$","$Lc0",null,{"as":"h3","id":"supabase_get_row","children":["$","code",null,{"children":"supabase_get_row"}]}]
+43:["$","p",null,{"children":"Obtener una sola fila de una tabla de Supabase basada en criterios de filtro"}]
+44:["$","$Lc0",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la tabla Supabase a consultar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos desde el que consultar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"select"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Columnas a devolver (separadas por comas). Predeterminado: * (todas las columnas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Filtro PostgREST para encontrar la fila específica (p. ej., \"id=eq.123\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+46:["$","$Lc0",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array que contiene los datos de la fila si se encuentran, array vacío si no se encuentran"}]]}]]}]]}]}]
+48:["$","$Lc0",null,{"as":"h3","id":"supabase_update","children":["$","code",null,{"children":"supabase_update"}]}]
+49:["$","p",null,{"children":"Actualizar filas en una tabla de Supabase según criterios de filtro"}]
+4a:["$","$Lc0",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la tabla Supabase a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos donde actualizar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Filtro PostgREST para identificar las filas a actualizar (p. ej., \"id=eq.123\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Datos a actualizar en las filas coincidentes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+4c:["$","$Lc0",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros actualizados"}]]}]]}]]}]}]
+4e:["$","$Lc0",null,{"as":"h3","id":"supabase_delete","children":["$","code",null,{"children":"supabase_delete"}]}]
+4f:["$","p",null,{"children":"Eliminar filas de una tabla de Supabase según criterios de filtro"}]
+50:["$","$Lc0",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la tabla Supabase de la que eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos del que eliminar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Filtro PostgREST para identificar las filas a eliminar (p. ej., \"id=eq.123\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+52:["$","$Lc0",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros eliminados"}]]}]]}]]}]}]
+54:["$","$Lc0",null,{"as":"h3","id":"supabase_upsert","children":["$","code",null,{"children":"supabase_upsert"}]}]
+55:["$","p",null,{"children":"Insertar o actualizar datos en una tabla de Supabase (operación upsert)"}]
+56:["$","$Lc0",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la tabla Supabase donde hacer upsert de datos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos donde hacer upsert (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Los datos para hacer upsert (insertar o actualizar) - array de objetos o un solo objeto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+58:["$","$Lc0",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros insertados o actualizados"}]]}]]}]]}]}]
+5a:["$","$Lc0",null,{"as":"h3","id":"supabase_count","children":["$","code",null,{"children":"supabase_count"}]}]
+5b:["$","p",null,{"children":"Contar filas en una tabla de Supabase"}]
+5c:["$","$Lc0",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre de la tabla Supabase de la que contar filas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos desde el que contar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtro PostgREST (p. ej., \"status=eq.active\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"countType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo de conteo: exact, planned o estimated (predeterminado: exact)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+5e:["$","$Lc0",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de filas que coinciden con el filtro"}]]}]]}]]}]}]
+60:["$","$Lc0",null,{"as":"h3","id":"supabase_text_search","children":["$","code",null,{"children":"supabase_text_search"}]}]
+61:["$","p",null,{"children":"Realizar búsqueda de texto completo en una tabla de Supabase"}]
+62:["$","$Lc0",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"table"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre de la tabla Supabase donde buscar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"schema"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esquema de base de datos en el que buscar (predeterminado: public). Usa esto para acceder a tablas en otros esquemas."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"column"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La columna en la que buscar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La consulta de búsqueda"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"searchType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo de búsqueda: plain, phrase o websearch (predeterminado: websearch)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"language"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Idioma para la configuración de búsqueda de texto (predeterminado: english)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de filas a devolver"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+64:["$","$Lc0",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros que coinciden con la consulta de búsqueda"}]]}]]}]]}]}]
+66:["$","$Lc0",null,{"as":"h3","id":"supabase_vector_search","children":["$","code",null,{"children":"supabase_vector_search"}]}]
+67:["$","p",null,{"children":"Realizar búsqueda de similitud usando pgvector en una tabla de Supabase"}]
+68:["$","$Lc0",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"functionName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la función PostgreSQL que realiza la búsqueda vectorial (p. ej., match_documents)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"queryEmbedding"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El vector/embedding de consulta para buscar elementos similares"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"matchThreshold"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Umbral mínimo de similitud (0-1), típicamente 0.7-0.9"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"matchCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de resultados a devolver (predeterminado: 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+6a:["$","$Lc0",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de registros con puntuaciones de similitud de la búsqueda vectorial. Cada registro incluye un campo de similitud (0-1) que indica cuán similar es al vector de consulta."}]]}]]}]]}]}]
+6c:["$","$Lc0",null,{"as":"h3","id":"supabase_rpc","children":["$","code",null,{"children":"supabase_rpc"}]}]
+6d:["$","p",null,{"children":"Llamar a una función PostgreSQL en Supabase"}]
+6e:["$","$Lc0",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"functionName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la función PostgreSQL a llamar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+70:["$","$Lc0",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Resultado devuelto por la función"}]]}]]}]]}]}]
+72:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_upload","children":["$","code",null,{"children":"supabase_storage_upload"}]}]
+73:["$","p",null,{"children":"Subir un archivo a un bucket de almacenamiento de Supabase"}]
+74:["$","$Lc0",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del archivo (p. ej., \"documento.pdf\", \"imagen.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Ruta de carpeta opcional (p. ej., \"carpeta/subcarpeta/\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El contenido del archivo (codificado en base64 para archivos binarios, o texto plano)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo MIME del archivo (p. ej., \"image/jpeg\", \"text/plain\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"upsert"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si es verdadero, sobrescribe el archivo existente (predeterminado: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+76:["$","$Lc0",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Resultado de la subida incluyendo ruta del archivo y metadatos"}]]}]]}]]}]}]
+78:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_download","children":["$","code",null,{"children":"supabase_storage_download"}]}]
+79:["$","p",null,{"children":"Descargar un archivo de un bucket de almacenamiento de Supabase"}]
+7a:["$","$Lc0",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta al archivo a descargar (p. ej., \"carpeta/archivo.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Anulación opcional del nombre del archivo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+7c:["$","$Lc0",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"Archivo descargado almacenado en archivos de ejecución"}]]}]}]]}]}]
+7e:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_list","children":["$","code",null,{"children":"supabase_storage_list"}]}]
+7f:["$","p",null,{"children":"Listar archivos en un bucket de almacenamiento de Supabase"}]
+80:["$","$Lc0",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"La ruta de la carpeta desde donde listar archivos (predeterminado: raíz)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número máximo de archivos a devolver (predeterminado: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de archivos a omitir (para paginación)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sortBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Columna para ordenar: name, created_at, updated_at (predeterminado: name)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sortOrder"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Orden de clasificación: asc o desc (predeterminado: asc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar archivos por nombre"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+82:["$","$Lc0",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de archivo con metadatos"}]]}]]}]]}]}]
+84:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_delete","children":["$","code",null,{"children":"supabase_storage_delete"}]}]
+85:["$","p",null,{"children":"Eliminar archivos de un bucket de almacenamiento de Supabase"}]
+86:["$","$Lc0",null,{"as":"h4","id":"entrada-13","children":"Entrada"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"paths"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Array de rutas de archivos a eliminar (p. ej., [\"carpeta/archivo1.jpg\", \"carpeta/archivo2.jpg\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+88:["$","$Lc0",null,{"as":"h4","id":"salida-13","children":"Salida"}]
+89:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de archivos eliminados"}]]}]]}]]}]}]
+8a:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_move","children":["$","code",null,{"children":"supabase_storage_move"}]}]
+8b:["$","p",null,{"children":"Mover un archivo dentro de un bucket de almacenamiento de Supabase"}]
+8c:["$","$Lc0",null,{"as":"h4","id":"entrada-14","children":"Entrada"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fromPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta actual del archivo (p. ej., \"carpeta/viejo.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"toPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La nueva ruta para el archivo (p. ej., \"nuevacarpeta/nuevo.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+8e:["$","$Lc0",null,{"as":"h4","id":"salida-14","children":"Salida"}]
+8f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Resultado de la operación de movimiento"}]]}]]}]]}]}]
+90:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_copy","children":["$","code",null,{"children":"supabase_storage_copy"}]}]
+91:["$","p",null,{"children":"Copiar un archivo dentro de un bucket de almacenamiento de Supabase"}]
+92:["$","$Lc0",null,{"as":"h4","id":"entrada-15","children":"Entrada"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fromPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta del archivo de origen (p. ej., \"carpeta/origen.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"toPath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta para el archivo copiado (p. ej., \"carpeta/copia.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+94:["$","$Lc0",null,{"as":"h4","id":"salida-15","children":"Salida"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Resultado de la operación de copia"}]]}]]}]]}]}]
+96:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_create_bucket","children":["$","code",null,{"children":"supabase_storage_create_bucket"}]}]
+97:["$","p",null,{"children":"Crear un nuevo bucket de almacenamiento en Supabase"}]
+98:["$","$Lc0",null,{"as":"h4","id":"entrada-16","children":"Entrada"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket a crear"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"isPublic"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si el bucket debe ser accesible públicamente (predeterminado: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileSizeLimit"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tamaño máximo de archivo en bytes (opcional)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"allowedMimeTypes"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array de tipos MIME permitidos (p. ej., [\"image/png\", \"image/jpeg\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+9a:["$","$Lc0",null,{"as":"h4","id":"salida-16","children":"Salida"}]
+9b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Información del bucket creado"}]]}]]}]]}]}]
+9c:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_list_buckets","children":["$","code",null,{"children":"supabase_storage_list_buckets"}]}]
+9d:["$","p",null,{"children":"Listar todos los buckets de almacenamiento en Supabase"}]
+9e:["$","$Lc0",null,{"as":"h4","id":"entrada-17","children":"Entrada"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+a0:["$","$Lc0",null,{"as":"h4","id":"salida-17","children":"Salida"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array de objetos de bucket"}]]}]]}]]}]}]
+a2:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_delete_bucket","children":["$","code",null,{"children":"supabase_storage_delete_bucket"}]}]
+a3:["$","p",null,{"children":"Eliminar un bucket de almacenamiento en Supabase"}]
+a4:["$","$Lc0",null,{"as":"h4","id":"entrada-18","children":"Entrada"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+a6:["$","$Lc0",null,{"as":"h4","id":"salida-18","children":"Salida"}]
+a7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Resultado de la operación de eliminación"}]]}]]}]]}]}]
+a8:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_get_public_url","children":["$","code",null,{"children":"supabase_storage_get_public_url"}]}]
+a9:["$","p",null,{"children":"Obtener la URL pública para un archivo en un bucket de almacenamiento de Supabase"}]
+aa:["$","$Lc0",null,{"as":"h4","id":"entrada-19","children":"Entrada"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta al archivo (p. ej., \"carpeta/archivo.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"download"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si es verdadero, fuerza la descarga en lugar de mostrar en línea (predeterminado: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+ac:["$","$Lc0",null,{"as":"h4","id":"salida-19","children":"Salida"}]
+ad:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"publicUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"La URL pública para acceder al archivo"}]]}]]}]]}]}]
+ae:["$","$Lc0",null,{"as":"h3","id":"supabase_storage_create_signed_url","children":["$","code",null,{"children":"supabase_storage_create_signed_url"}]}]
+af:["$","p",null,{"children":"Crear una URL firmada temporal para un archivo en un bucket de almacenamiento de Supabase"}]
+b0:["$","$Lc0",null,{"as":"h4","id":"entrada-20","children":"Entrada"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta al archivo (p. ej., \"carpeta/archivo.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"expiresIn"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Número de segundos hasta que expire la URL (p. ej., 3600 para 1 hora)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"download"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si es verdadero, fuerza la descarga en lugar de mostrar en línea (predeterminado: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+b2:["$","$Lc0",null,{"as":"h4","id":"salida-20","children":"Salida"}]
+b3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signedUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"La URL firmada temporal para acceder al archivo"}]]}]]}]]}]}]
+b4:["$","$Lc0",null,{"as":"h2","id":"notas","children":"Notas"}]
+b5:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Categoría: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Tipo: ",["$","code",null,{"children":"supabase"}]]}],"\n"]}]
+b6:["$","$Lc0",null,{"as":"h4","id":"entrada-21","children":"Entrada"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de tu proyecto Supabase (p. ej., jdrkgepadsdopsntdlom)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bucket"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El nombre del bucket de almacenamiento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"La ruta al archivo (p. ej., \"carpeta/archivo.jpg\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"expiresIn"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Número de segundos hasta que expire la URL (p. ej., 3600 para 1 hora)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"download"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si es verdadero, fuerza la descarga en lugar de mostrar en línea (predeterminado: false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tu clave secreta de rol de servicio de Supabase"}]]}]]}]]}]}]
+b8:["$","$Lc0",null,{"as":"h4","id":"salida-21","children":"Salida"}]
+b9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"signedUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"La URL firmada temporal para acceder al archivo"}]]}]]}]]}]}]
+bc:null

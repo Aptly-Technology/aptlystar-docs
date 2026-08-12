@@ -1,0 +1,530 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+1a:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+1f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+20:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+21:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+22:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+84:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+85:"$Sreact.suspense"
+87:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+88:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+89:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"SendGrid\",\"description\":\"Envía correos electrónicos y gestiona contactos, listas y plantillas con SendGrid\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/sendgrid\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/sendgrid\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/sendgrid\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"SendGrid\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/sendgrid\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#sendgrid_send_mail","title":["$","code",null,{"children":"sendgrid_send_mail"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#sendgrid_add_contact","title":["$","code",null,{"children":"sendgrid_add_contact"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#sendgrid_get_contact","title":["$","code",null,{"children":"sendgrid_get_contact"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#sendgrid_search_contacts","title":["$","code",null,{"children":"sendgrid_search_contacts"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#sendgrid_delete_contacts","title":["$","code",null,{"children":"sendgrid_delete_contacts"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#sendgrid_create_list","title":["$","code",null,{"children":"sendgrid_create_list"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#sendgrid_get_list","title":["$","code",null,{"children":"sendgrid_get_list"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#sendgrid_list_all_lists","title":["$","code",null,{"children":"sendgrid_list_all_lists"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#sendgrid_delete_list","title":["$","code",null,{"children":"sendgrid_delete_list"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#sendgrid_add_contacts_to_list","title":["$","code",null,{"children":"sendgrid_add_contacts_to_list"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#sendgrid_remove_contacts_from_list","title":["$","code",null,{"children":"sendgrid_remove_contacts_from_list"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#sendgrid_create_template","title":"$L3"},{"depth":4,"url":"#entrada-11","title":"$L4"},{"depth":4,"url":"#salida-11","title":"$L5"},{"depth":3,"url":"#sendgrid_get_template","title":"$L6"},{"depth":4,"url":"#entrada-12","title":"$L7"},{"depth":4,"url":"#salida-12","title":"$L8"},{"depth":3,"url":"#sendgrid_list_templates","title":"$L9"},{"depth":4,"url":"#entrada-13","title":"$La"},{"depth":4,"url":"#salida-13","title":"$Lb"},{"depth":3,"url":"#sendgrid_delete_template","title":"$Lc"},{"depth":4,"url":"#entrada-14","title":"$Ld"},{"depth":4,"url":"#salida-14","title":"$Le"},{"depth":3,"url":"#sendgrid_create_template_version","title":"$Lf"},{"depth":4,"url":"#entrada-15","title":"$L10"},{"depth":4,"url":"#salida-15","title":"$L11"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L12"},"children":["$L13","$L14"]}]],["$L15","$L16","$L17","$L18"],"$L19"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"sendgrid_create_template"}]
+4:"Entrada"
+5:"Salida"
+6:["$","code",null,{"children":"sendgrid_get_template"}]
+7:"Entrada"
+8:"Salida"
+9:["$","code",null,{"children":"sendgrid_list_templates"}]
+a:"Entrada"
+b:"Salida"
+c:["$","code",null,{"children":"sendgrid_delete_template"}]
+d:"Entrada"
+e:"Salida"
+f:["$","code",null,{"children":"sendgrid_create_template_version"}]
+10:"Entrada"
+11:"Salida"
+12:null
+1b:T61ea,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="sendgrid" color="#1A82E2" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[SendGrid](https://sendgrid.com) es una plataforma líder de envío de correos electrónicos en la nube en la que confían desarrolladores y empresas para enviar correos electrónicos transaccionales y de marketing fiables a gran escala. Con sus sólidas APIs y potentes herramientas, SendGrid te permite gestionar todos los aspectos de tu comunicación por correo electrónico, desde el envío de notificaciones y recibos hasta la gestión de complejas campañas de marketing.
+
+SendGrid ofrece a los usuarios un conjunto completo de operaciones de correo electrónico, permitiéndote automatizar flujos de trabajo críticos de correo electrónico y gestionar de cerca listas de contactos, plantillas y la participación de los destinatarios. Su integración perfecta con Aptlystar permite a los agentes y flujos de trabajo entregar mensajes específicos, mantener listas dinámicas de contactos y destinatarios, activar correos electrónicos personalizados a través de plantillas y seguir los resultados en tiempo real.
+
+Las características principales de SendGrid incluyen:
+
+* **Correo electrónico transaccional:** Envía correos electrónicos transaccionales automatizados y de alto volumen (como notificaciones, recibos y restablecimientos de contraseña).
+* **Plantillas dinámicas:** Utiliza plantillas de texto o HTML enriquecido con datos dinámicos para una comunicación altamente personalizada a gran escala.
+* **Gestión de contactos:** Añade y actualiza contactos de marketing, gestiona listas de destinatarios y segmentos objetivo para campañas.
+* **Soporte para archivos adjuntos:** Incluye uno o más archivos adjuntos en tus correos electrónicos.
+* **Cobertura integral de API:** Gestiona programáticamente correos electrónicos, contactos, listas, plantillas, grupos de supresión y más.
+
+Al conectar SendGrid con Aptlystar, tus agentes pueden:
+
+* Enviar correos electrónicos tanto simples como avanzados (con plantillas o múltiples destinatarios) como parte de cualquier flujo de trabajo.
+* Gestionar y segmentar contactos y listas automáticamente.
+* Aprovechar las plantillas para mantener consistencia y personalización dinámica.
+* Realizar seguimiento y responder a la interacción con los correos electrónicos dentro de tus procesos automatizados.
+
+Esta integración te permite automatizar todos los flujos de comunicación críticos, asegurar que los mensajes lleguen a la audiencia correcta y mantener el control sobre la estrategia de correo electrónico de tu organización, directamente desde los flujos de trabajo de Aptlystar.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Integra SendGrid en tu flujo de trabajo. Envía correos electrónicos transaccionales, gestiona contactos y listas de marketing, y trabaja con plantillas de correo electrónico. Compatible con plantillas dinámicas, archivos adjuntos y gestión integral de contactos.
+
+Herramientas [#herramientas]
+
+sendgrid_send_mail [#sendgrid_send_mail]
+
+Enviar un correo electrónico usando la API de SendGrid
+
+Entrada [#entrada]
+
+| Parámetro             | Tipo    | Obligatorio | Descripción                                                                                                          |
+| --------------------- | ------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`              | string  | Sí          | Clave API de SendGrid                                                                                                |
+| `from`                | string  | Sí          | Dirección de correo electrónico del remitente (debe estar verificada en SendGrid)                                    |
+| `fromName`            | string  | No          | Nombre del remitente                                                                                                 |
+| `to`                  | string  | Sí          | Dirección de correo electrónico del destinatario                                                                     |
+| `toName`              | string  | No          | Nombre del destinatario                                                                                              |
+| `subject`             | string  | No          | Asunto del correo electrónico (obligatorio a menos que se use una plantilla con asunto predefinido)                  |
+| `content`             | string  | No          | Contenido del cuerpo del correo electrónico (obligatorio a menos que se use una plantilla con contenido predefinido) |
+| `contentType`         | string  | No          | Tipo de contenido (text/plain o text/html)                                                                           |
+| `cc`                  | string  | No          | Dirección de correo electrónico CC                                                                                   |
+| `bcc`                 | string  | No          | Dirección de correo electrónico BCC                                                                                  |
+| `replyTo`             | string  | No          | Dirección de correo electrónico de respuesta                                                                         |
+| `replyToName`         | string  | No          | Nombre de respuesta                                                                                                  |
+| `attachments`         | file\[] | No          | Archivos para adjuntar al correo electrónico                                                                         |
+| `templateId`          | string  | No          | ID de plantilla de SendGrid a utilizar                                                                               |
+| `dynamicTemplateData` | json    | No          | Objeto JSON de datos de plantilla dinámica                                                                           |
+
+Salida [#salida]
+
+| Parámetro   | Tipo    | Descripción                                      |
+| ----------- | ------- | ------------------------------------------------ |
+| `success`   | boolean | Si el correo electrónico se envió correctamente  |
+| `messageId` | string  | ID del mensaje de SendGrid                       |
+| `to`        | string  | Dirección de correo electrónico del destinatario |
+| `subject`   | string  | Asunto del correo electrónico                    |
+
+sendgrid_add_contact [#sendgrid_add_contact]
+
+Añadir un nuevo contacto a SendGrid
+
+Entrada [#entrada-1]
+
+| Parámetro      | Tipo   | Obligatorio | Descripción                                                                                                                |
+| -------------- | ------ | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`       | string | Sí          | Clave API de SendGrid                                                                                                      |
+| `email`        | string | Sí          | Dirección de correo electrónico del contacto                                                                               |
+| `firstName`    | string | No          | Nombre del contacto                                                                                                        |
+| `lastName`     | string | No          | Apellido del contacto                                                                                                      |
+| `customFields` | json   | No          | Objeto JSON de pares clave-valor de campos personalizados (use IDs de campo como e1\_T, e2\_N, e3\_D, no nombres de campo) |
+| `listIds`      | string | No          | Lista separada por comas de IDs a los que añadir el contacto                                                               |
+
+Salida [#salida-1]
+
+| Parámetro   | Tipo   | Descripción                                                          |
+| ----------- | ------ | -------------------------------------------------------------------- |
+| `jobId`     | string | ID de trabajo para seguimiento de la creación asíncrona de contactos |
+| `email`     | string | Dirección de correo electrónico del contacto                         |
+| `firstName` | string | Nombre del contacto                                                  |
+| `lastName`  | string | Apellido del contacto                                                |
+| `message`   | string | Mensaje de estado                                                    |
+
+sendgrid_get_contact [#sendgrid_get_contact]
+
+Obtener un contacto específico por ID desde SendGrid
+
+Entrada [#entrada-2]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción           |
+| ----------- | ------ | ----------- | --------------------- |
+| `apiKey`    | string | Sí          | Clave API de SendGrid |
+| `contactId` | string | Sí          | ID del contacto       |
+
+Salida [#salida-2]
+
+| Parámetro      | Tipo   | Descripción                                            |
+| -------------- | ------ | ------------------------------------------------------ |
+| `id`           | string | ID del contacto                                        |
+| `email`        | string | Dirección de correo electrónico del contacto           |
+| `firstName`    | string | Nombre del contacto                                    |
+| `lastName`     | string | Apellido del contacto                                  |
+| `createdAt`    | string | Marca de tiempo de creación                            |
+| `updatedAt`    | string | Marca de tiempo de última actualización                |
+| `listIds`      | json   | Array de IDs de listas a las que pertenece el contacto |
+| `customFields` | json   | Valores de campos personalizados                       |
+
+sendgrid_search_contacts [#sendgrid_search_contacts]
+
+Buscar contactos en SendGrid usando una consulta
+
+Entrada [#entrada-3]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                                    |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------------------- |
+| `apiKey`  | string | Sí          | Clave API de SendGrid                                                                          |
+| `query`   | string | Sí          | Consulta de búsqueda (p. ej., "email LIKE '%example.com%' AND CONTAINS(list\_ids, 'list-id')") |
+
+Salida [#salida-3]
+
+| Parámetro      | Tipo   | Descripción                           |
+| -------------- | ------ | ------------------------------------- |
+| `contacts`     | json   | Array de contactos coincidentes       |
+| `contactCount` | number | Número total de contactos encontrados |
+
+sendgrid_delete_contacts [#sendgrid_delete_contacts]
+
+Eliminar uno o más contactos de SendGrid
+
+Entrada [#entrada-4]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                        |
+| ------------ | ------ | ----------- | -------------------------------------------------- |
+| `apiKey`     | string | Sí          | Clave API de SendGrid                              |
+| `contactIds` | string | Sí          | IDs de contactos separados por comas para eliminar |
+
+Salida [#salida-4]
+
+| Parámetro | Tipo   | Descripción                                    |
+| --------- | ------ | ---------------------------------------------- |
+| `jobId`   | string | ID de trabajo para la solicitud de eliminación |
+
+sendgrid_create_list [#sendgrid_create_list]
+
+Crear una nueva lista de contactos en SendGrid
+
+Entrada [#entrada-5]
+
+| Parámetro | Tipo   | Obligatorio | Descripción           |
+| --------- | ------ | ----------- | --------------------- |
+| `apiKey`  | string | Sí          | Clave API de SendGrid |
+| `name`    | string | Sí          | Nombre de la lista    |
+
+Salida [#salida-5]
+
+| Parámetro      | Tipo   | Descripción                     |
+| -------------- | ------ | ------------------------------- |
+| `id`           | string | ID de la lista                  |
+| `name`         | string | Nombre de la lista              |
+| `contactCount` | number | Número de contactos en la lista |
+
+sendgrid_get_list [#sendgrid_get_list]
+
+Obtener una lista específica por ID desde SendGrid
+
+Entrada [#entrada-6]
+
+| Parámetro | Tipo   | Obligatorio | Descripción           |
+| --------- | ------ | ----------- | --------------------- |
+| `apiKey`  | string | Sí          | Clave API de SendGrid |
+| `listId`  | string | Sí          | ID de la lista        |
+
+Salida [#salida-6]
+
+| Parámetro      | Tipo   | Descripción                     |
+| -------------- | ------ | ------------------------------- |
+| `id`           | string | ID de la lista                  |
+| `name`         | string | Nombre de la lista              |
+| `contactCount` | number | Número de contactos en la lista |
+
+sendgrid_list_all_lists [#sendgrid_list_all_lists]
+
+Obtener todas las listas de contactos desde SendGrid
+
+Entrada [#entrada-7]
+
+| Parámetro  | Tipo   | Obligatorio | Descripción                                                  |
+| ---------- | ------ | ----------- | ------------------------------------------------------------ |
+| `apiKey`   | string | Sí          | Clave API de SendGrid                                        |
+| `pageSize` | number | No          | Número de listas a devolver por página (predeterminado: 100) |
+
+Salida [#salida-7]
+
+| Parámetro | Tipo | Descripción     |
+| --------- | ---- | --------------- |
+| `lists`   | json | Array de listas |
+
+sendgrid_delete_list [#sendgrid_delete_list]
+
+Eliminar una lista de contactos de SendGrid
+
+Entrada [#entrada-8]
+
+| Parámetro | Tipo   | Obligatorio | Descripción               |
+| --------- | ------ | ----------- | ------------------------- |
+| `apiKey`  | string | Sí          | Clave API de SendGrid     |
+| `listId`  | string | Sí          | ID de la lista a eliminar |
+
+Salida [#salida-8]
+
+| Parámetro | Tipo   | Descripción      |
+| --------- | ------ | ---------------- |
+| `message` | string | Mensaje de éxito |
+
+sendgrid_add_contacts_to_list [#sendgrid_add_contacts_to_list]
+
+Añadir o actualizar contactos y asignarlos a una lista en SendGrid (usa PUT /v3/marketing/contacts)
+
+Entrada [#entrada-9]
+
+| Parámetro  | Tipo   | Obligatorio | Descripción                                                                                                                                                                                                                |
+| ---------- | ------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`   | string | Sí          | Clave API de SendGrid                                                                                                                                                                                                      |
+| `listId`   | string | Sí          | ID de la lista a la que añadir contactos                                                                                                                                                                                   |
+| `contacts` | json   | Sí          | Array JSON de objetos de contacto. Cada contacto debe tener al menos: email (o phone\_number\_id/external\_id/anonymous\_id). Ejemplo: \[\{"email": "[user@example.com](mailto:user@example.com)", "first\_name": "John"}] |
+
+Salida [#salida-9]
+
+| Parámetro | Tipo   | Descripción                                               |
+| --------- | ------ | --------------------------------------------------------- |
+| `jobId`   | string | ID del trabajo para seguimiento de la operación asíncrona |
+| `message` | string | Mensaje de estado                                         |
+
+sendgrid_remove_contacts_from_list [#sendgrid_remove_contacts_from_list]
+
+Eliminar contactos de una lista específica en SendGrid
+
+Entrada [#entrada-10]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                    |
+| ------------ | ------ | ----------- | -------------------------------------------------------------- |
+| `apiKey`     | string | Sí          | Clave API de SendGrid                                          |
+| `listId`     | string | Sí          | ID de la lista                                                 |
+| `contactIds` | string | Sí          | IDs de contactos separados por comas para eliminar de la lista |
+
+Salida [#salida-10]
+
+| Parámetro | Tipo   | Descripción                      |
+| --------- | ------ | -------------------------------- |
+| `jobId`   | string | ID del trabajo para la solicitud |
+
+sendgrid_create_template [#sendgrid_create_template]
+
+Crear una nueva plantilla de correo electrónico en SendGrid
+
+Entrada [#entrada-11]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                 |
+| ------------ | ------ | ----------- | --------------------------------------------------------------------------- |
+| `apiKey`     | string | Sí          | Clave API de SendGrid                                                       |
+| `name`       | string | Sí          | Nombre de la plantilla                                                      |
+| `generation` | string | No          | Tipo de generación de plantilla (legacy o dynamic, predeterminado: dynamic) |
+
+Salida [#salida-11]
+
+| Parámetro    | Tipo   | Descripción                                |
+| ------------ | ------ | ------------------------------------------ |
+| `id`         | string | ID de la plantilla                         |
+| `name`       | string | Nombre de la plantilla                     |
+| `generation` | string | Generación de la plantilla                 |
+| `updatedAt`  | string | Marca de tiempo de la última actualización |
+| `versions`   | json   | Array de versiones de la plantilla         |
+
+sendgrid_get_template [#sendgrid_get_template]
+
+Obtener una plantilla específica por ID desde SendGrid
+
+Entrada [#entrada-12]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción           |
+| ------------ | ------ | ----------- | --------------------- |
+| `apiKey`     | string | Sí          | Clave API de SendGrid |
+| `templateId` | string | Sí          | ID de la plantilla    |
+
+Salida [#salida-12]
+
+| Parámetro    | Tipo   | Descripción                                |
+| ------------ | ------ | ------------------------------------------ |
+| `id`         | string | ID de la plantilla                         |
+| `name`       | string | Nombre de la plantilla                     |
+| `generation` | string | Generación de la plantilla                 |
+| `updatedAt`  | string | Marca de tiempo de la última actualización |
+| `versions`   | json   | Array de versiones de la plantilla         |
+
+sendgrid_list_templates [#sendgrid_list_templates]
+
+Obtener todas las plantillas de correo electrónico de SendGrid
+
+Entrada [#entrada-13]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                     |
+| ------------- | ------ | ----------- | --------------------------------------------------------------- |
+| `apiKey`      | string | Sí          | Clave API de SendGrid                                           |
+| `generations` | string | No          | Filtrar por generación (legacy, dynamic, o ambas)               |
+| `pageSize`    | number | No          | Número de plantillas a devolver por página (predeterminado: 20) |
+
+Salida [#salida-13]
+
+| Parámetro   | Tipo | Descripción         |
+| ----------- | ---- | ------------------- |
+| `templates` | json | Array de plantillas |
+
+sendgrid_delete_template [#sendgrid_delete_template]
+
+Eliminar una plantilla de correo electrónico de SendGrid
+
+Entrada [#entrada-14]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                   |
+| ------------ | ------ | ----------- | ----------------------------- |
+| `apiKey`     | string | Sí          | Clave API de SendGrid         |
+| `templateId` | string | Sí          | ID de la plantilla a eliminar |
+
+Salida [#salida-14]
+
+| Parámetro      | Tipo    | Descripción                                                           |
+| -------------- | ------- | --------------------------------------------------------------------- |
+| `success`      | boolean | Estado de éxito de la operación                                       |
+| `message`      | string  | Mensaje de estado o éxito                                             |
+| `messageId`    | string  | ID del mensaje de correo electrónico (send\_mail)                     |
+| `to`           | string  | Dirección de correo electrónico del destinatario (send\_mail)         |
+| `subject`      | string  | Asunto del correo electrónico (send\_mail, create\_template\_version) |
+| `id`           | string  | ID del recurso                                                        |
+| `jobId`        | string  | ID de trabajo para operaciones asíncronas                             |
+| `email`        | string  | Dirección de correo electrónico del contacto                          |
+| `firstName`    | string  | Nombre del contacto                                                   |
+| `lastName`     | string  | Apellido del contacto                                                 |
+| `createdAt`    | string  | Marca de tiempo de creación                                           |
+| `updatedAt`    | string  | Marca de tiempo de última actualización                               |
+| `listIds`      | json    | Array de IDs de listas a las que pertenece el contacto                |
+| `customFields` | json    | Valores de campos personalizados                                      |
+| `contacts`     | json    | Array de contactos                                                    |
+| `contactCount` | number  | Número de contactos                                                   |
+| `lists`        | json    | Array de listas                                                       |
+| `name`         | string  | Nombre del recurso                                                    |
+| `templates`    | json    | Array de plantillas                                                   |
+| `generation`   | string  | Generación de plantilla                                               |
+| `versions`     | json    | Array de versiones de plantilla                                       |
+| `templateId`   | string  | ID de plantilla                                                       |
+| `active`       | boolean | Si la versión de la plantilla está activa                             |
+| `htmlContent`  | string  | Contenido HTML                                                        |
+| `plainContent` | string  | Contenido de texto plano                                              |
+
+sendgrid_create_template_version [#sendgrid_create_template_version]
+
+Crear una nueva versión de una plantilla de correo electrónico en SendGrid
+
+Entrada [#entrada-15]
+
+| Parámetro      | Tipo    | Obligatorio | Descripción                                        |
+| -------------- | ------- | ----------- | -------------------------------------------------- |
+| `apiKey`       | string  | Sí          | Clave API de SendGrid                              |
+| `templateId`   | string  | Sí          | ID de la plantilla                                 |
+| `name`         | string  | Sí          | Nombre de la versión                               |
+| `subject`      | string  | Sí          | Línea de asunto del correo electrónico             |
+| `htmlContent`  | string  | No          | Contenido HTML de la plantilla                     |
+| `plainContent` | string  | No          | Contenido de texto plano de la plantilla           |
+| `active`       | boolean | No          | Si esta versión está activa (predeterminado: true) |
+
+Salida [#salida-15]
+
+| Parámetro      | Tipo    | Descripción                                |
+| -------------- | ------- | ------------------------------------------ |
+| `id`           | string  | ID de la versión                           |
+| `templateId`   | string  | ID de la plantilla                         |
+| `name`         | string  | Nombre de la versión                       |
+| `subject`      | string  | Asunto del correo electrónico              |
+| `active`       | boolean | Si esta versión está activa                |
+| `htmlContent`  | string  | Contenido HTML                             |
+| `plainContent` | string  | Contenido de texto plano                   |
+| `updatedAt`    | string  | Marca de tiempo de la última actualización |
+13:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L1a",null,{"content":"$1b"}]}],"$L1c"]}],"$L1d","$L1e"]}]
+14:["$","$L1f",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L20",null,{"type":"sendgrid","color":"#1A82E2"}],"\n","\n",["$","p",null,{"children":[["$","$L21",null,{"href":"https://sendgrid.com","children":"SendGrid"}]," es una plataforma líder de envío de correos electrónicos en la nube en la que confían desarrolladores y empresas para enviar correos electrónicos transaccionales y de marketing fiables a gran escala. Con sus sólidas APIs y potentes herramientas, SendGrid te permite gestionar todos los aspectos de tu comunicación por correo electrónico, desde el envío de notificaciones y recibos hasta la gestión de complejas campañas de marketing."]}],"\n",["$","p",null,{"children":"SendGrid ofrece a los usuarios un conjunto completo de operaciones de correo electrónico, permitiéndote automatizar flujos de trabajo críticos de correo electrónico y gestionar de cerca listas de contactos, plantillas y la participación de los destinatarios. Su integración perfecta con Aptlystar permite a los agentes y flujos de trabajo entregar mensajes específicos, mantener listas dinámicas de contactos y destinatarios, activar correos electrónicos personalizados a través de plantillas y seguir los resultados en tiempo real."}],"\n",["$","p",null,{"children":"Las características principales de SendGrid incluyen:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Correo electrónico transaccional:"}]," Envía correos electrónicos transaccionales automatizados y de alto volumen (como notificaciones, recibos y restablecimientos de contraseña)."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Plantillas dinámicas:"}]," Utiliza plantillas de texto o HTML enriquecido con datos dinámicos para una comunicación altamente personalizada a gran escala."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestión de contactos:"}]," Añade y actualiza contactos de marketing, gestiona listas de destinatarios y segmentos objetivo para campañas."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Soporte para archivos adjuntos:"}]," Incluye uno o más archivos adjuntos en tus correos electrónicos."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Cobertura integral de API:"}]," Gestiona programáticamente correos electrónicos, contactos, listas, plantillas, grupos de supresión y más."]}],"\n"]}],"\n",["$","p",null,{"children":"Al conectar SendGrid con Aptlystar, tus agentes pueden:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":"Enviar correos electrónicos tanto simples como avanzados (con plantillas o múltiples destinatarios) como parte de cualquier flujo de trabajo."}],"\n",["$","li",null,{"children":"Gestionar y segmentar contactos y listas automáticamente."}],"\n",["$","li",null,{"children":"Aprovechar las plantillas para mantener consistencia y personalización dinámica."}],"\n",["$","li",null,{"children":"Realizar seguimiento y responder a la interacción con los correos electrónicos dentro de tus procesos automatizados."}],"\n"]}],"\n",["$","p",null,{"children":"Esta integración te permite automatizar todos los flujos de comunicación críticos, asegurar que los mensajes lleguen a la audiencia correcta y mantener el control sobre la estrategia de correo electrónico de tu organización, directamente desde los flujos de trabajo de Aptlystar."}],"\n","\n",["$","$L22",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Integra SendGrid en tu flujo de trabajo. Envía correos electrónicos transaccionales, gestiona contactos y listas de marketing, y trabaja con plantillas de correo electrónico. Compatible con plantillas dinámicas, archivos adjuntos y gestión integral de contactos."}],"\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83"]}]}]
+15:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+16:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+17:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+18:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+19:["$","$L84",null,{"children":["$","$85",null,{"name":"Next.MetadataOutlet","children":"$@86"}]}]
+1c:["$","$L87",null,{}]
+1d:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"800px","height":"800px","viewBox":"0 0 256 256","version":"1.1","xmlns":"http://www.w3.org/2000/svg","xmlnsXlink":"http://www.w3.org/1999/xlink","preserveAspectRatio":"xMidYMid","children":["$","g",null,{"children":[["$","path",null,{"d":"M256,0 L256,170.67 L170.67,170.67 L170.67,256 L0,256 L0,170.67 L0,170.67 L0,85.33 L85.33,85.33 L85.33,0 L256,0 Z","fill":"#9DD6E3"}],["$","polygon",null,{"fill":"#3F72AB","points":"0 256 85.34 256 85.34 170.66 0 170.66"}],["$","polygon",null,{"fill":"#00A9D1","points":"170.67 170.67 256 170.67 256 85.33 170.67 85.33"}],["$","polygon",null,{"fill":"#00A9D1","points":"85.33 85.33 170.67 85.33 170.67 0 85.33 0"}],["$","polygon",null,{"fill":"#2191C4","points":"85.33 170.66 170.67 170.66 170.67 85.33 85.33 85.33"}],["$","polygon",null,{"fill":"#3F72AB","points":"170.67 85.33 256 85.33 256 0 170.67 0"}]]}]}]}],["$","$L88",null,{"className":"mb-0 min-w-0 flex-1","children":"SendGrid"}]]}]
+1e:["$","$L89",null,{"children":"Envía correos electrónicos y gestiona contactos, listas y plantillas con SendGrid"}]
+23:["$","$L22",null,{"as":"h2","id":"herramientas","children":"Herramientas"}]
+24:["$","$L22",null,{"as":"h3","id":"sendgrid_send_mail","children":["$","code",null,{"children":"sendgrid_send_mail"}]}]
+25:["$","p",null,{"children":"Enviar un correo electrónico usando la API de SendGrid"}]
+26:["$","$L22",null,{"as":"h4","id":"entrada","children":"Entrada"}]
+27:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Dirección de correo electrónico del remitente (debe estar verificada en SendGrid)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fromName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre del remitente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Dirección de correo electrónico del destinatario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"toName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre del destinatario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Asunto del correo electrónico (obligatorio a menos que se use una plantilla con asunto predefinido)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido del cuerpo del correo electrónico (obligatorio a menos que se use una plantilla con contenido predefinido)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo de contenido (text/plain o text/html)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cc"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de correo electrónico CC"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bcc"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de correo electrónico BCC"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"replyTo"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de correo electrónico de respuesta"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"replyToName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de respuesta"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attachments"}]}],["$","td",null,{"children":"file[]"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Archivos para adjuntar al correo electrónico"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de plantilla de SendGrid a utilizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dynamicTemplateData"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Objeto JSON de datos de plantilla dinámica"}]]}]]}]]}]}]
+28:["$","$L22",null,{"as":"h4","id":"salida","children":"Salida"}]
+29:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el correo electrónico se envió correctamente"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del mensaje de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dirección de correo electrónico del destinatario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asunto del correo electrónico"}]]}]]}]]}]}]
+2a:["$","$L22",null,{"as":"h3","id":"sendgrid_add_contact","children":["$","code",null,{"children":"sendgrid_add_contact"}]}]
+2b:["$","p",null,{"children":"Añadir un nuevo contacto a SendGrid"}]
+2c:["$","$L22",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+2d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Dirección de correo electrónico del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Apellido del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Objeto JSON de pares clave-valor de campos personalizados (use IDs de campo como e1_T, e2_N, e3_D, no nombres de campo)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Lista separada por comas de IDs a los que añadir el contacto"}]]}]]}]]}]}]
+2e:["$","$L22",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+2f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de trabajo para seguimiento de la creación asíncrona de contactos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dirección de correo electrónico del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Apellido del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado"}]]}]]}]]}]}]
+30:["$","$L22",null,{"as":"h3","id":"sendgrid_get_contact","children":["$","code",null,{"children":"sendgrid_get_contact"}]}]
+31:["$","p",null,{"children":"Obtener un contacto específico por ID desde SendGrid"}]
+32:["$","$L22",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+33:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del contacto"}]]}]]}]]}]}]
+34:["$","$L22",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+35:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dirección de correo electrónico del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Apellido del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de creación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de última actualización"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listIds"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de IDs de listas a las que pertenece el contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Valores de campos personalizados"}]]}]]}]]}]}]
+36:["$","$L22",null,{"as":"h3","id":"sendgrid_search_contacts","children":["$","code",null,{"children":"sendgrid_search_contacts"}]}]
+37:["$","p",null,{"children":"Buscar contactos en SendGrid usando una consulta"}]
+38:["$","$L22",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Consulta de búsqueda (p. ej., \"email LIKE '%example.com%' AND CONTAINS(list_ids, 'list-id')\")"}]]}]]}]]}]}]
+3a:["$","$L22",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+3b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de contactos coincidentes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de contactos encontrados"}]]}]]}]]}]}]
+3c:["$","$L22",null,{"as":"h3","id":"sendgrid_delete_contacts","children":["$","code",null,{"children":"sendgrid_delete_contacts"}]}]
+3d:["$","p",null,{"children":"Eliminar uno o más contactos de SendGrid"}]
+3e:["$","$L22",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"IDs de contactos separados por comas para eliminar"}]]}]]}]]}]}]
+40:["$","$L22",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de trabajo para la solicitud de eliminación"}]]}]}]]}]}]
+42:["$","$L22",null,{"as":"h3","id":"sendgrid_create_list","children":["$","code",null,{"children":"sendgrid_create_list"}]}]
+43:["$","p",null,{"children":"Crear una nueva lista de contactos en SendGrid"}]
+44:["$","$L22",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la lista"}]]}]]}]]}]}]
+46:["$","$L22",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+47:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la lista"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre de la lista"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de contactos en la lista"}]]}]]}]]}]}]
+48:["$","$L22",null,{"as":"h3","id":"sendgrid_get_list","children":["$","code",null,{"children":"sendgrid_get_list"}]}]
+49:["$","p",null,{"children":"Obtener una lista específica por ID desde SendGrid"}]
+4a:["$","$L22",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la lista"}]]}]]}]]}]}]
+4c:["$","$L22",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la lista"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre de la lista"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de contactos en la lista"}]]}]]}]]}]}]
+4e:["$","$L22",null,{"as":"h3","id":"sendgrid_list_all_lists","children":["$","code",null,{"children":"sendgrid_list_all_lists"}]}]
+4f:["$","p",null,{"children":"Obtener todas las listas de contactos desde SendGrid"}]
+50:["$","$L22",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de listas a devolver por página (predeterminado: 100)"}]]}]]}]]}]}]
+52:["$","$L22",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+53:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lists"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de listas"}]]}]}]]}]}]
+54:["$","$L22",null,{"as":"h3","id":"sendgrid_delete_list","children":["$","code",null,{"children":"sendgrid_delete_list"}]}]
+55:["$","p",null,{"children":"Eliminar una lista de contactos de SendGrid"}]
+56:["$","$L22",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la lista a eliminar"}]]}]]}]]}]}]
+58:["$","$L22",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+59:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de éxito"}]]}]}]]}]}]
+5a:["$","$L22",null,{"as":"h3","id":"sendgrid_add_contacts_to_list","children":["$","code",null,{"children":"sendgrid_add_contacts_to_list"}]}]
+5b:["$","p",null,{"children":"Añadir o actualizar contactos y asignarlos a una lista en SendGrid (usa PUT /v3/marketing/contacts)"}]
+5c:["$","$L22",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la lista a la que añadir contactos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":["Array JSON de objetos de contacto. Cada contacto debe tener al menos: email (o phone_number_id/external_id/anonymous_id). Ejemplo: [{\"email\": \"",["$","$L21",null,{"href":"mailto:user@example.com","children":"user@example.com"}],"\", \"first_name\": \"John\"}]"]}]]}]]}]]}]}]
+5e:["$","$L22",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+5f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del trabajo para seguimiento de la operación asíncrona"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado"}]]}]]}]]}]}]
+60:["$","$L22",null,{"as":"h3","id":"sendgrid_remove_contacts_from_list","children":["$","code",null,{"children":"sendgrid_remove_contacts_from_list"}]}]
+61:["$","p",null,{"children":"Eliminar contactos de una lista específica en SendGrid"}]
+62:["$","$L22",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la lista"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactIds"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"IDs de contactos separados por comas para eliminar de la lista"}]]}]]}]]}]}]
+64:["$","$L22",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+65:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del trabajo para la solicitud"}]]}]}]]}]}]
+66:["$","$L22",null,{"as":"h3","id":"sendgrid_create_template","children":["$","code",null,{"children":"sendgrid_create_template"}]}]
+67:["$","p",null,{"children":"Crear una nueva plantilla de correo electrónico en SendGrid"}]
+68:["$","$L22",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"generation"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tipo de generación de plantilla (legacy o dynamic, predeterminado: dynamic)"}]]}]]}]]}]}]
+6a:["$","$L22",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"generation"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Generación de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la última actualización"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"versions"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de versiones de la plantilla"}]]}]]}]]}]}]
+6c:["$","$L22",null,{"as":"h3","id":"sendgrid_get_template","children":["$","code",null,{"children":"sendgrid_get_template"}]}]
+6d:["$","p",null,{"children":"Obtener una plantilla específica por ID desde SendGrid"}]
+6e:["$","$L22",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la plantilla"}]]}]]}]]}]}]
+70:["$","$L22",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+71:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"generation"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Generación de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la última actualización"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"versions"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de versiones de la plantilla"}]]}]]}]]}]}]
+72:["$","$L22",null,{"as":"h3","id":"sendgrid_list_templates","children":["$","code",null,{"children":"sendgrid_list_templates"}]}]
+73:["$","p",null,{"children":"Obtener todas las plantillas de correo electrónico de SendGrid"}]
+74:["$","$L22",null,{"as":"h4","id":"entrada-13","children":"Entrada"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"generations"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por generación (legacy, dynamic, o ambas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de plantillas a devolver por página (predeterminado: 20)"}]]}]]}]]}]}]
+76:["$","$L22",null,{"as":"h4","id":"salida-13","children":"Salida"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templates"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de plantillas"}]]}]}]]}]}]
+78:["$","$L22",null,{"as":"h3","id":"sendgrid_delete_template","children":["$","code",null,{"children":"sendgrid_delete_template"}]}]
+79:["$","p",null,{"children":"Eliminar una plantilla de correo electrónico de SendGrid"}]
+7a:["$","$L22",null,{"as":"h4","id":"entrada-14","children":"Entrada"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la plantilla a eliminar"}]]}]]}]]}]}]
+7c:["$","$L22",null,{"as":"h4","id":"salida-14","children":"Salida"}]
+7d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Estado de éxito de la operación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje de estado o éxito"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del mensaje de correo electrónico (send_mail)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"to"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dirección de correo electrónico del destinatario (send_mail)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asunto del correo electrónico (send_mail, create_template_version)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del recurso"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de trabajo para operaciones asíncronas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Dirección de correo electrónico del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"firstName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Apellido del contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de creación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de última actualización"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listIds"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de IDs de listas a las que pertenece el contacto"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"customFields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Valores de campos personalizados"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de contactos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contactCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de contactos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lists"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de listas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del recurso"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templates"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de plantillas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"generation"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Generación de plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"versions"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de versiones de plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"active"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la versión de la plantilla está activa"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"htmlContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido HTML"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"plainContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido de texto plano"}]]}]]}]]}]}]
+7e:["$","$L22",null,{"as":"h3","id":"sendgrid_create_template_version","children":["$","code",null,{"children":"sendgrid_create_template_version"}]}]
+7f:["$","p",null,{"children":"Crear una nueva versión de una plantilla de correo electrónico en SendGrid"}]
+80:["$","$L22",null,{"as":"h4","id":"entrada-15","children":"Entrada"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Clave API de SendGrid"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la versión"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Línea de asunto del correo electrónico"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"htmlContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido HTML de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"plainContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido de texto plano de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"active"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Si esta versión está activa (predeterminado: true)"}]]}]]}]]}]}]
+82:["$","$L22",null,{"as":"h4","id":"salida-15","children":"Salida"}]
+83:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la versión"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"templateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID de la plantilla"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre de la versión"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asunto del correo electrónico"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"active"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si esta versión está activa"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"htmlContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido HTML"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"plainContent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Contenido de texto plano"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updatedAt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marca de tiempo de la última actualización"}]]}]]}]]}]}]
+86:null

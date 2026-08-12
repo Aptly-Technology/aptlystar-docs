@@ -1,0 +1,777 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+33:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+38:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+39:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+3a:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+3b:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+cf:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+d0:"$Sreact.suspense"
+d2:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+d3:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+d4:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Apollo\",\"description\":\"Suchen, anreichern und verwalten Sie Kontakte mit Apollo.io\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/apollo\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/apollo\"},\"inLanguage\":\"de\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/apollo\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Apollo\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/apollo\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#gebrauchsanweisung","title":"Gebrauchsanweisung"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#apollo_people_search","title":["$","code",null,{"children":"apollo_people_search"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#apollo_people_enrich","title":["$","code",null,{"children":"apollo_people_enrich"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#apollo_people_bulk_enrich","title":["$","code",null,{"children":"apollo_people_bulk_enrich"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#apollo_organization_search","title":["$","code",null,{"children":"apollo_organization_search"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#apollo_organization_enrich","title":["$","code",null,{"children":"apollo_organization_enrich"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#apollo_organization_bulk_enrich","title":["$","code",null,{"children":"apollo_organization_bulk_enrich"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#apollo_contact_create","title":["$","code",null,{"children":"apollo_contact_create"}]},{"depth":4,"url":"#eingabe","title":"Eingabe"},{"depth":4,"url":"#ausgabe","title":"Ausgabe"},{"depth":3,"url":"#apollo_contact_update","title":["$","code",null,{"children":"apollo_contact_update"}]},{"depth":4,"url":"#eingabe-1","title":"Eingabe"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#apollo_contact_search","title":["$","code",null,{"children":"apollo_contact_search"}]},{"depth":4,"url":"#input-6","title":"Input"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#apollo_contact_bulk_create","title":["$","code",null,{"children":"apollo_contact_bulk_create"}]},{"depth":4,"url":"#input-7","title":"Input"},{"depth":4,"url":"#output-8","title":"Output"},{"depth":3,"url":"#apollo_contact_bulk_update","title":["$","code",null,{"children":"apollo_contact_bulk_update"}]},{"depth":4,"url":"#input-8","title":"Input"},{"depth":4,"url":"#output-9","title":"Output"},{"depth":3,"url":"#apollo_account_create","title":["$","code",null,{"children":"apollo_account_create"}]},{"depth":4,"url":"#input-9","title":"Input"},{"depth":4,"url":"#output-10","title":"$L3"},{"depth":3,"url":"#apollo_account_update","title":"$L4"},{"depth":4,"url":"#input-10","title":"$L5"},{"depth":4,"url":"#output-11","title":"$L6"},{"depth":3,"url":"#apollo_account_search","title":"$L7"},{"depth":4,"url":"#input-11","title":"$L8"},{"depth":4,"url":"#output-12","title":"$L9"},{"depth":3,"url":"#apollo_account_bulk_create","title":"$La"},{"depth":4,"url":"#input-12","title":"$Lb"},{"depth":4,"url":"#output-13","title":"$Lc"},{"depth":3,"url":"#apollo_account_bulk_update","title":"$Ld"},{"depth":4,"url":"#input-13","title":"$Le"},{"depth":4,"url":"#ausgabe-1","title":"$Lf"},{"depth":3,"url":"#apollo_opportunity_create","title":"$L10"},{"depth":4,"url":"#eingabe-2","title":"$L11"},{"depth":4,"url":"#ausgabe-2","title":"$L12"},{"depth":3,"url":"#apollo_opportunity_search","title":"$L13"},{"depth":4,"url":"#eingabe-3","title":"$L14"},{"depth":4,"url":"#output-14","title":"$L15"},{"depth":3,"url":"#apollo_opportunity_get","title":"$L16"},{"depth":4,"url":"#input-14","title":"$L17"},{"depth":4,"url":"#output-15","title":"$L18"},{"depth":3,"url":"#apollo_opportunity_update","title":"$L19"},{"depth":4,"url":"#eingabe-4","title":"$L1a"},{"depth":4,"url":"#ausgabe-3","title":"$L1b"},{"depth":3,"url":"#apollo_sequence_search","title":"$L1c"},{"depth":4,"url":"#eingabe-5","title":"$L1d"},{"depth":4,"url":"#output-16","title":"$L1e"},{"depth":3,"url":"#apollo_sequence_add_contacts","title":"$L1f"},{"depth":4,"url":"#input-15","title":"$L20"},{"depth":4,"url":"#output-17","title":"$L21"},{"depth":3,"url":"#apollo_task_create","title":"$L22"},{"depth":4,"url":"#input-16","title":"$L23"},{"depth":4,"url":"#ausgabe-4","title":"$L24"},{"depth":3,"url":"#apollo_task_search","title":"$L25"},{"depth":4,"url":"#eingabe-6","title":"$L26"},{"depth":4,"url":"#ausgabe-5","title":"$L27"},{"depth":3,"url":"#apollo_email_accounts","title":"$L28"},{"depth":4,"url":"#eingabe-7","title":"$L29"},{"depth":4,"url":"#ausgabe-6","title":"$L2a"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L2b"},"children":["$L2c","$L2d"]}]],["$L2e","$L2f","$L30","$L31"],"$L32"]}],"loading":null,"isPartial":false}
+3:"Output"
+4:["$","code",null,{"children":"apollo_account_update"}]
+5:"Input"
+6:"Output"
+7:["$","code",null,{"children":"apollo_account_search"}]
+8:"Input"
+9:"Output"
+a:["$","code",null,{"children":"apollo_account_bulk_create"}]
+b:"Input"
+c:"Output"
+d:["$","code",null,{"children":"apollo_account_bulk_update"}]
+e:"Input"
+f:"Ausgabe"
+10:["$","code",null,{"children":"apollo_opportunity_create"}]
+11:"Eingabe"
+12:"Ausgabe"
+13:["$","code",null,{"children":"apollo_opportunity_search"}]
+14:"Eingabe"
+15:"Output"
+16:["$","code",null,{"children":"apollo_opportunity_get"}]
+17:"Input"
+18:"Output"
+19:["$","code",null,{"children":"apollo_opportunity_update"}]
+1a:"Eingabe"
+1b:"Ausgabe"
+1c:["$","code",null,{"children":"apollo_sequence_search"}]
+1d:"Eingabe"
+1e:"Output"
+1f:["$","code",null,{"children":"apollo_sequence_add_contacts"}]
+20:"Input"
+21:"Output"
+22:["$","code",null,{"children":"apollo_task_create"}]
+23:"Input"
+24:"Ausgabe"
+25:["$","code",null,{"children":"apollo_task_search"}]
+26:"Eingabe"
+27:"Ausgabe"
+28:["$","code",null,{"children":"apollo_email_accounts"}]
+29:"Eingabe"
+2a:"Ausgabe"
+2b:null
+34:T8ec4,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="apollo" color="#EBF212" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Apollo.io](https://apollo.io/) ist eine führende Plattform für Vertriebsintelligenz und -engagement, die Benutzern ermöglicht, Kontakte und Unternehmen im großen Maßstab zu finden, anzureichern und zu kontaktieren. Apollo.io kombiniert eine umfangreiche Kontaktdatenbank mit robusten Anreicherungs- und Workflow-Automatisierungstools und unterstützt Vertriebs-, Marketing- und Recruiting-Teams bei der Beschleunigung des Wachstums.
+
+Mit Apollo.io können Sie:
+
+* **Millionen von Kontakten und Unternehmen durchsuchen**: Finden Sie präzise Leads mit erweiterten Filtern
+* **Leads und Accounts anreichern**: Füllen Sie fehlende Details mit verifizierten Daten und aktuellen Informationen
+* **CRM-Datensätze verwalten und organisieren**: Halten Sie Ihre Personen- und Unternehmensdaten genau und handlungsfähig
+* **Outreach automatisieren**: Fügen Sie Kontakte zu Sequenzen hinzu und erstellen Sie Follow-up-Aufgaben direkt aus Apollo.io
+
+In Aptlystar ermöglicht die Apollo.io-Integration Ihren Agenten, zentrale Apollo-Operationen programmatisch durchzuführen:
+
+* **Personen und Unternehmen suchen**: Verwenden Sie `apollo_people_search`, um neue Leads mit flexiblen Filtern zu entdecken.
+* **Personendaten anreichern**: Verwenden Sie `apollo_people_enrich`, um Kontakte mit verifizierten Informationen zu ergänzen.
+* **Personen in Masse anreichern**: Verwenden Sie `apollo_people_bulk_enrich` für die großflächige Anreicherung mehrerer Kontakte auf einmal.
+* **Unternehmen suchen und anreichern**: Verwenden Sie `apollo_company_search` und `apollo_company_enrich`, um wichtige Unternehmensinformationen zu entdecken und zu aktualisieren.
+
+Dies ermöglicht Ihren Agenten, leistungsstarke Workflows für Prospecting, CRM-Anreicherung und Automatisierung zu erstellen, ohne manuelle Dateneingabe oder Tabwechsel. Integrieren Sie Apollo.io als dynamische Datenquelle und CRM-Engine – und befähigen Sie Ihre Agenten, Leads nahtlos als Teil ihrer täglichen Arbeit zu identifizieren, zu qualifizieren und zu kontaktieren.
+
+{/* MANUAL-CONTENT-END */}
+
+Gebrauchsanweisung [#gebrauchsanweisung]
+
+Integriert Apollo.io in den Workflow. Suche nach Personen und Unternehmen, reichere Kontaktdaten an, verwalte deine CRM-Kontakte und Konten, füge Kontakte zu Sequenzen hinzu und erstelle Aufgaben.
+
+Tools [#tools]
+
+apollo_people_search [#apollo_people_search]
+
+Apollo durchsuchen
+
+Input [#input]
+
+| Parameter            | Typ    | Erforderlich | Beschreibung                                                                     |
+| -------------------- | ------ | ------------ | -------------------------------------------------------------------------------- |
+| `apiKey`             | string | Ja           | Apollo API-Schlüssel                                                             |
+| `person_titles`      | array  | Nein         | Zu suchende Berufsbezeichnungen (z.B. \["CEO", "VP of Sales"])                   |
+| `person_locations`   | array  | Nein         | Orte, in denen gesucht werden soll (z.B. \["San Francisco, CA", "New York, NY"]) |
+| `person_seniorities` | array  | Nein         | Hierarchieebenen (z.B. \["senior", "executive", "manager"])                      |
+| `organization_names` | array  | Nein         | Unternehmensnamen, in denen gesucht werden soll                                  |
+| `q_keywords`         | string | Nein         | Zu suchende Schlüsselwörter                                                      |
+| `page`               | number | Nein         | Seitennummer für Paginierung (Standard: 1)                                       |
+| `per_page`           | number | Nein         | Ergebnisse pro Seite (Standard: 25, max: 100)                                    |
+
+Output [#output]
+
+| Parameter  | Typ  | Beschreibung                                                                |
+| ---------- | ---- | --------------------------------------------------------------------------- |
+| `people`   | json | Array von Personen, die den Suchkriterien entsprechen                       |
+| `metadata` | json | Paginierungsinformationen einschließlich page, per\_page und total\_entries |
+
+apollo_people_enrich [#apollo_people_enrich]
+
+Daten für eine einzelne Person mit Apollo anreichern
+
+Input [#input-1]
+
+| Parameter                | Typ     | Erforderlich | Beschreibung                                               |
+| ------------------------ | ------- | ------------ | ---------------------------------------------------------- |
+| `apiKey`                 | string  | Ja           | Apollo API-Schlüssel                                       |
+| `first_name`             | string  | Nein         | Vorname der Person                                         |
+| `last_name`              | string  | Nein         | Nachname der Person                                        |
+| `email`                  | string  | Nein         | E-Mail-Adresse der Person                                  |
+| `organization_name`      | string  | Nein         | Name des Unternehmens, in dem die Person arbeitet          |
+| `domain`                 | string  | Nein         | Unternehmensdomäne (z.B. apollo.io)                        |
+| `linkedin_url`           | string  | Nein         | LinkedIn-Profil-URL                                        |
+| `reveal_personal_emails` | boolean | Nein         | Persönliche E-Mail-Adressen aufdecken (verbraucht Credits) |
+| `reveal_phone_number`    | boolean | Nein         | Telefonnummern aufdecken (verbraucht Credits)              |
+
+Output [#output-1]
+
+| Parameter  | Type | Beschreibung                                              |
+| ---------- | ---- | --------------------------------------------------------- |
+| `person`   | json | Angereicherte Personendaten von Apollo                    |
+| `metadata` | json | Anreicherungsmetadaten einschließlich Anreicherungsstatus |
+
+apollo_people_bulk_enrich [#apollo_people_bulk_enrich]
+
+Daten für bis zu 10 Personen gleichzeitig mit Apollo anreichern
+
+Input [#input-2]
+
+| Parameter                | Type    | Erforderlich | Beschreibung                                              |
+| ------------------------ | ------- | ------------ | --------------------------------------------------------- |
+| `apiKey`                 | string  | Ja           | Apollo API-Schlüssel                                      |
+| `people`                 | array   | Ja           | Array von Personen zur Anreicherung (max. 10)             |
+| `reveal_personal_emails` | boolean | Nein         | Persönliche E-Mail-Adressen anzeigen (verbraucht Credits) |
+| `reveal_phone_number`    | boolean | Nein         | Telefonnummern anzeigen (verbraucht Credits)              |
+
+Output [#output-2]
+
+| Parameter  | Type | Beschreibung                                                                      |
+| ---------- | ---- | --------------------------------------------------------------------------------- |
+| `people`   | json | Array von angereicherten Personendaten                                            |
+| `metadata` | json | Metadaten zur Massenanreicherung einschließlich Gesamt- und angereicherter Anzahl |
+
+apollo_organization_search [#apollo_organization_search]
+
+Apollo durchsuchen
+
+Input [#input-3]
+
+| Parameter                           | Type   | Erforderlich | Beschreibung                                           |
+| ----------------------------------- | ------ | ------------ | ------------------------------------------------------ |
+| `apiKey`                            | string | Ja           | Apollo API-Schlüssel                                   |
+| `organization_locations`            | array  | Nein         | Zu durchsuchende Unternehmensstandorte                 |
+| `organization_num_employees_ranges` | array  | Nein         | Bereiche der Mitarbeiterzahl (z.B. \["1-10", "11-50"]) |
+| `q_organization_keyword_tags`       | array  | Nein         | Branchen- oder Schlüsselwort-Tags                      |
+| `q_organization_name`               | string | Nein         | Zu suchender Organisationsname                         |
+| `page`                              | number | Nein         | Seitennummer für Paginierung                           |
+| `per_page`                          | number | Nein         | Ergebnisse pro Seite (max: 100)                        |
+
+Output [#output-3]
+
+| Parameter       | Type | Beschreibung                                                                |
+| --------------- | ---- | --------------------------------------------------------------------------- |
+| `organizations` | json | Array von Organisationen, die den Suchkriterien entsprechen                 |
+| `metadata`      | json | Paginierungsinformationen einschließlich page, per\_page und total\_entries |
+
+apollo_organization_enrich [#apollo_organization_enrich]
+
+Daten für eine einzelne Organisation mit Apollo anreichern
+
+Input [#input-4]
+
+| Parameter           | Type   | Erforderlich | Beschreibung                                                                                               |
+| ------------------- | ------ | ------------ | ---------------------------------------------------------------------------------------------------------- |
+| `apiKey`            | string | Ja           | Apollo API-Schlüssel                                                                                       |
+| `organization_name` | string | Nein         | Name der Organisation (mindestens einer von organization\_name oder domain ist erforderlich)               |
+| `domain`            | string | Nein         | Unternehmensdomäne (z.B. apollo.io) (mindestens einer von domain oder organization\_name ist erforderlich) |
+
+Output [#output-4]
+
+| Parameter      | Type | Beschreibung                                                  |
+| -------------- | ---- | ------------------------------------------------------------- |
+| `organization` | json | Angereicherte Organisationsdaten von Apollo                   |
+| `metadata`     | json | Anreicherungsmetadaten einschließlich des Anreicherungsstatus |
+
+apollo_organization_bulk_enrich [#apollo_organization_bulk_enrich]
+
+Daten für bis zu 10 Organisationen gleichzeitig mit Apollo anreichern
+
+Input [#input-5]
+
+| Parameter       | Type   | Erforderlich | Beschreibung                                        |
+| --------------- | ------ | ------------ | --------------------------------------------------- |
+| `apiKey`        | string | Ja           | Apollo API-Schlüssel                                |
+| `organizations` | array  | Ja           | Array von zu anreichernden Organisationen (max. 10) |
+
+Output [#output-5]
+
+| Parameter       | Type | Beschreibung                                                                     |
+| --------------- | ---- | -------------------------------------------------------------------------------- |
+| `organizations` | json | Array von angereicherten Organisationsdaten                                      |
+| `metadata`      | json | Metadaten zur Massenanreicherung einschließlich Gesamt- und angereicherte Anzahl |
+
+apollo_contact_create [#apollo_contact_create]
+
+Einen neuen Kontakt in Ihrer Apollo-Datenbank erstellen
+
+Eingabe [#eingabe]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                      |
+| ------------ | ------ | ------------ | --------------------------------- |
+| `apiKey`     | string | Ja           | Apollo API-Schlüssel              |
+| `first_name` | string | Ja           | Vorname des Kontakts              |
+| `last_name`  | string | Ja           | Nachname des Kontakts             |
+| `email`      | string | Nein         | E-Mail-Adresse des Kontakts       |
+| `title`      | string | Nein         | Berufsbezeichnung                 |
+| `account_id` | string | Nein         | Apollo-Konto-ID für die Zuordnung |
+| `owner_id`   | string | Nein         | Benutzer-ID des Kontaktinhabers   |
+
+Ausgabe [#ausgabe]
+
+| Parameter  | Typ  | Beschreibung                                          |
+| ---------- | ---- | ----------------------------------------------------- |
+| `contact`  | json | Erstellte Kontaktdaten von Apollo                     |
+| `metadata` | json | Erstellungsmetadaten einschließlich Erstellungsstatus |
+
+apollo_contact_update [#apollo_contact_update]
+
+Einen bestehenden Kontakt in Ihrer Apollo-Datenbank aktualisieren
+
+Eingabe [#eingabe-1]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                        |
+| ------------ | ------ | ------------ | ----------------------------------- |
+| `apiKey`     | string | Ja           | Apollo API-Schlüssel                |
+| `contact_id` | string | Ja           | ID des zu aktualisierenden Kontakts |
+| `first_name` | string | Nein         | Vorname des Kontakts                |
+| `last_name`  | string | Nein         | Nachname des Kontakts               |
+| `email`      | string | Nein         | E-Mail-Adresse                      |
+| `title`      | string | Nein         | Berufsbezeichnung                   |
+| `account_id` | string | Nein         | Apollo-Konto-ID                     |
+| `owner_id`   | string | Nein         | Benutzer-ID des Kontaktinhabers     |
+
+Output [#output-6]
+
+| Parameter  | Type | Beschreibung                                                     |
+| ---------- | ---- | ---------------------------------------------------------------- |
+| `contact`  | json | Aktualisierte Kontaktdaten von Apollo                            |
+| `metadata` | json | Aktualisierte Metadaten einschließlich des aktualisierten Status |
+
+apollo_contact_search [#apollo_contact_search]
+
+Dein Team durchsuchen
+
+Input [#input-6]
+
+| Parameter           | Type   | Erforderlich | Beschreibung                    |
+| ------------------- | ------ | ------------ | ------------------------------- |
+| `apiKey`            | string | Ja           | Apollo API-Schlüssel            |
+| `q_keywords`        | string | Nein         | Suchbegriffe                    |
+| `contact_stage_ids` | array  | Nein         | Nach Kontaktphasen-IDs filtern  |
+| `page`              | number | Nein         | Seitennummer für Paginierung    |
+| `per_page`          | number | Nein         | Ergebnisse pro Seite (max: 100) |
+
+Output [#output-7]
+
+| Parameter  | Type | Beschreibung                                                                |
+| ---------- | ---- | --------------------------------------------------------------------------- |
+| `contacts` | json | Array von Kontakten, die den Suchkriterien entsprechen                      |
+| `metadata` | json | Paginierungsinformationen einschließlich page, per\_page und total\_entries |
+
+apollo_contact_bulk_create [#apollo_contact_bulk_create]
+
+Erstelle bis zu 100 Kontakte auf einmal in deiner Apollo-Datenbank. Unterstützt Deduplizierung, um das Erstellen von Duplikaten zu verhindern. Master-Schlüssel erforderlich.
+
+Input [#input-7]
+
+| Parameter    | Type    | Erforderlich | Beschreibung                                                                                                                                             |
+| ------------ | ------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`     | string  | Ja           | Apollo API-Schlüssel (Master-Schlüssel erforderlich)                                                                                                     |
+| `contacts`   | array   | Ja           | Array von zu erstellenden Kontakten (max. 100). Jeder Kontakt sollte first\_name, last\_name und optional email, title, account\_id, owner\_id enthalten |
+| `run_dedupe` | boolean | Nein         | Aktiviere Deduplizierung, um das Erstellen von Duplikaten zu verhindern. Bei true werden bestehende Kontakte ohne Änderung zurückgegeben                 |
+
+Output [#output-8]
+
+| Parameter           | Typ  | Beschreibung                                                                             |
+| ------------------- | ---- | ---------------------------------------------------------------------------------------- |
+| `created_contacts`  | json | Array neu erstellter Kontakte                                                            |
+| `existing_contacts` | json | Array bestehender Kontakte (wenn Deduplizierung aktiviert ist)                           |
+| `metadata`          | json | Metadaten zur Massenerstellung einschließlich Anzahl erstellter und bestehender Kontakte |
+
+apollo_contact_bulk_update [#apollo_contact_bulk_update]
+
+Aktualisieren Sie bis zu 100 bestehende Kontakte gleichzeitig in Ihrer Apollo-Datenbank. Jeder Kontakt muss ein ID-Feld enthalten. Master-Key erforderlich.
+
+Input [#input-8]
+
+| Parameter  | Typ    | Erforderlich | Beschreibung                                                                                                                                                       |
+| ---------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `apiKey`   | string | Ja           | Apollo API-Schlüssel (Master-Key erforderlich)                                                                                                                     |
+| `contacts` | array  | Ja           | Array zu aktualisierender Kontakte (max. 100). Jeder Kontakt muss ein ID-Feld enthalten und optional first\_name, last\_name, email, title, account\_id, owner\_id |
+
+Output [#output-9]
+
+| Parameter          | Typ  | Beschreibung                                                                                          |
+| ------------------ | ---- | ----------------------------------------------------------------------------------------------------- |
+| `updated_contacts` | json | Array erfolgreich aktualisierter Kontakte                                                             |
+| `failed_contacts`  | json | Array von Kontakten, deren Aktualisierung fehlgeschlagen ist                                          |
+| `metadata`         | json | Metadaten zur Massenaktualisierung einschließlich Anzahl aktualisierter und fehlgeschlagener Kontakte |
+
+apollo_account_create [#apollo_account_create]
+
+Erstellen Sie ein neues Konto (Unternehmen) in Ihrer Apollo-Datenbank
+
+Input [#input-9]
+
+| Parameter     | Typ    | Erforderlich | Beschreibung                   |
+| ------------- | ------ | ------------ | ------------------------------ |
+| `apiKey`      | string | Ja           | Apollo API-Schlüssel           |
+| `name`        | string | Ja           | Unternehmensname               |
+| `website_url` | string | Nein         | Unternehmens-Website-URL       |
+| `phone`       | string | Nein         | Telefonnummer des Unternehmens |
+| `owner_id`    | string | Nein         | Benutzer-ID des Kontoinhabers  |
+
+Output [#output-10]
+
+| Parameter  | Type | Beschreibung                                          |
+| ---------- | ---- | ----------------------------------------------------- |
+| `account`  | json | Erstellte Kontodaten von Apollo                       |
+| `metadata` | json | Erstellungsmetadaten einschließlich Erstellungsstatus |
+
+apollo_account_update [#apollo_account_update]
+
+Aktualisieren eines vorhandenen Kontos in Ihrer Apollo-Datenbank
+
+Input [#input-10]
+
+| Parameter     | Type   | Erforderlich | Beschreibung                      |
+| ------------- | ------ | ------------ | --------------------------------- |
+| `apiKey`      | string | Ja           | Apollo API-Schlüssel              |
+| `account_id`  | string | Ja           | ID des zu aktualisierenden Kontos |
+| `name`        | string | Nein         | Firmenname                        |
+| `website_url` | string | Nein         | Firmen-Website-URL                |
+| `phone`       | string | Nein         | Telefonnummer des Unternehmens    |
+| `owner_id`    | string | Nein         | Benutzer-ID des Kontoinhabers     |
+
+Output [#output-11]
+
+| Parameter  | Type | Beschreibung                                                  |
+| ---------- | ---- | ------------------------------------------------------------- |
+| `account`  | json | Aktualisierte Kontodaten von Apollo                           |
+| `metadata` | json | Aktualisierungsmetadaten einschließlich Aktualisierungsstatus |
+
+apollo_account_search [#apollo_account_search]
+
+Durchsuchen Ihres Teams
+
+Input [#input-11]
+
+| Parameter           | Type   | Erforderlich | Beschreibung                                       |
+| ------------------- | ------ | ------------ | -------------------------------------------------- |
+| `apiKey`            | string | Ja           | Apollo API-Schlüssel (Hauptschlüssel erforderlich) |
+| `q_keywords`        | string | Nein         | Suchbegriffe für Kontodaten                        |
+| `owner_id`          | string | Nein         | Filtern nach Benutzer-ID des Kontoinhabers         |
+| `account_stage_ids` | array  | Nein         | Filtern nach Kontophase-IDs                        |
+| `page`              | number | Nein         | Seitennummer für Paginierung                       |
+| `per_page`          | number | Nein         | Ergebnisse pro Seite (max: 100)                    |
+
+Output [#output-12]
+
+| Parameter  | Type | Beschreibung                                                                |
+| ---------- | ---- | --------------------------------------------------------------------------- |
+| `accounts` | json | Array von Konten, die den Suchkriterien entsprechen                         |
+| `metadata` | json | Paginierungsinformationen einschließlich page, per\_page und total\_entries |
+
+apollo_account_bulk_create [#apollo_account_bulk_create]
+
+Erstellen Sie bis zu 100 Konten auf einmal in Ihrer Apollo-Datenbank. Hinweis: Apollo wendet keine Deduplizierung an - doppelte Konten können erstellt werden, wenn Einträge ähnliche Namen oder Domains haben. Master-Key erforderlich.
+
+Input [#input-12]
+
+| Parameter  | Type   | Erforderlich | Beschreibung                                                                                                                                     |
+| ---------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `apiKey`   | string | Ja           | Apollo API-Schlüssel (Master-Key erforderlich)                                                                                                   |
+| `accounts` | array  | Ja           | Array von zu erstellenden Konten (max. 100). Jedes Konto sollte einen Namen (erforderlich) und optional website\_url, phone, owner\_id enthalten |
+
+Output [#output-13]
+
+| Parameter          | Type | Beschreibung                                                                                |
+| ------------------ | ---- | ------------------------------------------------------------------------------------------- |
+| `created_accounts` | json | Array neu erstellter Konten                                                                 |
+| `failed_accounts`  | json | Array von Konten, deren Erstellung fehlgeschlagen ist                                       |
+| `metadata`         | json | Metadaten zur Massenerstellung einschließlich Anzahl erstellter und fehlgeschlagener Konten |
+
+apollo_account_bulk_update [#apollo_account_bulk_update]
+
+Aktualisieren Sie bis zu 1000 bestehende Konten auf einmal in Ihrer Apollo-Datenbank (höheres Limit als bei Kontakten!). Jedes Konto muss ein id-Feld enthalten. Master-Key erforderlich.
+
+Input [#input-13]
+
+| Parameter  | Type   | Erforderlich | Beschreibung                                                                                                                           |
+| ---------- | ------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`   | string | Ja           | Apollo API-Schlüssel (Master-Key erforderlich)                                                                                         |
+| `accounts` | array  | Ja           | Array zu aktualisierender Konten (max. 1000). Jedes Konto muss ein id-Feld enthalten und optional name, website\_url, phone, owner\_id |
+
+Ausgabe [#ausgabe-1]
+
+| Parameter          | Typ  | Beschreibung                                                                                             |
+| ------------------ | ---- | -------------------------------------------------------------------------------------------------------- |
+| `updated_accounts` | json | Array der erfolgreich aktualisierten Konten                                                              |
+| `failed_accounts`  | json | Array der Konten, deren Aktualisierung fehlgeschlagen ist                                                |
+| `metadata`         | json | Metadaten zur Massenaktualisierung, einschließlich der Anzahl aktualisierter und fehlgeschlagener Konten |
+
+apollo_opportunity_create [#apollo_opportunity_create]
+
+Erstellen Sie einen neuen Deal für ein Konto in Ihrer Apollo-Datenbank (Master-Key erforderlich)
+
+Eingabe [#eingabe-2]
+
+| Parameter     | Typ    | Erforderlich | Beschreibung                                   |
+| ------------- | ------ | ------------ | ---------------------------------------------- |
+| `apiKey`      | string | Ja           | Apollo API-Schlüssel (Master-Key erforderlich) |
+| `name`        | string | Ja           | Name der Opportunity/des Deals                 |
+| `account_id`  | string | Ja           | ID des Kontos, zu dem diese Opportunity gehört |
+| `amount`      | number | Nein         | Geldwert der Opportunity                       |
+| `stage_id`    | string | Nein         | ID der Deal-Phase                              |
+| `owner_id`    | string | Nein         | Benutzer-ID des Opportunity-Eigentümers        |
+| `close_date`  | string | Nein         | Erwartetes Abschlussdatum (ISO 8601-Format)    |
+| `description` | string | Nein         | Beschreibung oder Notizen zur Opportunity      |
+
+Ausgabe [#ausgabe-2]
+
+| Parameter     | Typ  | Beschreibung                                          |
+| ------------- | ---- | ----------------------------------------------------- |
+| `opportunity` | json | Erstellte Opportunity-Daten von Apollo                |
+| `metadata`    | json | Erstellungsmetadaten einschließlich Erstellungsstatus |
+
+apollo_opportunity_search [#apollo_opportunity_search]
+
+Suchen und listen Sie alle Deals/Opportunities in Ihrem Team auf
+
+Eingabe [#eingabe-3]
+
+| Parameter     | Typ    | Erforderlich | Beschreibung                                    |
+| ------------- | ------ | ------------ | ----------------------------------------------- |
+| `apiKey`      | string | Ja           | Apollo API-Schlüssel                            |
+| `q_keywords`  | string | Nein         | Suchbegriffe für die Suche in Opportunity-Namen |
+| `account_ids` | array  | Nein         | Nach bestimmten Account-IDs filtern             |
+| `stage_ids`   | array  | Nein         | Nach Deal-Phase-IDs filtern                     |
+| `owner_ids`   | array  | Nein         | Nach Opportunity-Besitzer-IDs filtern           |
+| `page`        | number | Nein         | Seitennummer für Paginierung                    |
+| `per_page`    | number | Nein         | Ergebnisse pro Seite (max: 100)                 |
+
+Output [#output-14]
+
+| Parameter       | Typ  | Beschreibung                                                                |
+| --------------- | ---- | --------------------------------------------------------------------------- |
+| `opportunities` | json | Array von Opportunities, die den Suchkriterien entsprechen                  |
+| `metadata`      | json | Paginierungsinformationen einschließlich page, per\_page und total\_entries |
+
+apollo_opportunity_get [#apollo_opportunity_get]
+
+Vollständige Details eines bestimmten Deals/Opportunity anhand der ID abrufen
+
+Input [#input-14]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                    |
+| ---------------- | ------ | ------------ | ------------------------------- |
+| `apiKey`         | string | Ja           | Apollo API-Schlüssel            |
+| `opportunity_id` | string | Ja           | ID der abzurufenden Opportunity |
+
+Output [#output-15]
+
+| Parameter     | Typ  | Beschreibung                                   |
+| ------------- | ---- | ---------------------------------------------- |
+| `opportunity` | json | Vollständige Opportunity-Daten von Apollo      |
+| `metadata`    | json | Abruf-Metadaten einschließlich Gefunden-Status |
+
+apollo_opportunity_update [#apollo_opportunity_update]
+
+Einen bestehenden Deal/Opportunity in Ihrer Apollo-Datenbank aktualisieren
+
+Eingabe [#eingabe-4]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                |
+| ---------------- | ------ | ------------ | ------------------------------------------- |
+| `apiKey`         | string | Ja           | Apollo API-Schlüssel                        |
+| `opportunity_id` | string | Ja           | ID der zu aktualisierenden Opportunity      |
+| `name`           | string | Nein         | Name der Opportunity/des Deals              |
+| `amount`         | number | Nein         | Geldwert der Opportunity                    |
+| `stage_id`       | string | Nein         | ID der Deal-Phase                           |
+| `owner_id`       | string | Nein         | Benutzer-ID des Opportunity-Eigentümers     |
+| `close_date`     | string | Nein         | Erwartetes Abschlussdatum (ISO 8601-Format) |
+| `description`    | string | Nein         | Beschreibung oder Notizen zur Opportunity   |
+
+Ausgabe [#ausgabe-3]
+
+| Parameter     | Typ  | Beschreibung                                                  |
+| ------------- | ---- | ------------------------------------------------------------- |
+| `opportunity` | json | Aktualisierte Opportunity-Daten von Apollo                    |
+| `metadata`    | json | Aktualisierungsmetadaten einschließlich Aktualisierungsstatus |
+
+apollo_sequence_search [#apollo_sequence_search]
+
+Suche nach Sequenzen/Kampagnen in deinem Team
+
+Eingabe [#eingabe-5]
+
+| Parameter  | Typ     | Erforderlich | Beschreibung                                                                  |
+| ---------- | ------- | ------------ | ----------------------------------------------------------------------------- |
+| `apiKey`   | string  | Ja           | Apollo API-Schlüssel (Master-Schlüssel erforderlich)                          |
+| `q_name`   | string  | Nein         | Sequenzen nach Namen durchsuchen                                              |
+| `active`   | boolean | Nein         | Nach Aktivitätsstatus filtern (true für aktive Sequenzen, false für inaktive) |
+| `page`     | number  | Nein         | Seitennummer für Paginierung                                                  |
+| `per_page` | number  | Nein         | Ergebnisse pro Seite (max: 100)                                               |
+
+Output [#output-16]
+
+| Parameter   | Type | Beschreibung                                                                |
+| ----------- | ---- | --------------------------------------------------------------------------- |
+| `sequences` | json | Array von Sequenzen/Kampagnen, die den Suchkriterien entsprechen            |
+| `metadata`  | json | Paginierungsinformationen einschließlich page, per\_page und total\_entries |
+
+apollo_sequence_add_contacts [#apollo_sequence_add_contacts]
+
+Kontakte zu einer Apollo-Sequenz hinzufügen
+
+Input [#input-15]
+
+| Parameter                 | Type   | Erforderlich | Beschreibung                                                     |
+| ------------------------- | ------ | ------------ | ---------------------------------------------------------------- |
+| `apiKey`                  | string | Ja           | Apollo API-Schlüssel (Master-Schlüssel erforderlich)             |
+| `sequence_id`             | string | Ja           | ID der Sequenz, zu der Kontakte hinzugefügt werden sollen        |
+| `contact_ids`             | array  | Ja           | Array von Kontakt-IDs, die zur Sequenz hinzugefügt werden sollen |
+| `emailer_campaign_id`     | string | Nein         | Optionale E-Mail-Kampagnen-ID                                    |
+| `send_email_from_user_id` | string | Nein         | Benutzer-ID, von der E-Mails gesendet werden sollen              |
+
+Output [#output-17]
+
+| Parameter        | Type | Beschreibung                                                          |
+| ---------------- | ---- | --------------------------------------------------------------------- |
+| `contacts_added` | json | Array von Kontakt-IDs, die zur Sequenz hinzugefügt wurden             |
+| `metadata`       | json | Sequenz-Metadaten einschließlich sequence\_id und total\_added Anzahl |
+
+apollo_task_create [#apollo_task_create]
+
+Eine neue Aufgabe in Apollo erstellen
+
+Input [#input-16]
+
+| Parameter    | Type   | Erforderlich | Beschreibung                                         |
+| ------------ | ------ | ------------ | ---------------------------------------------------- |
+| `apiKey`     | string | Ja           | Apollo API-Schlüssel (Master-Schlüssel erforderlich) |
+| `note`       | string | Ja           | Aufgabennotiz/Beschreibung                           |
+| `contact_id` | string | Nein         | Zu verknüpfende Kontakt-ID                           |
+| `account_id` | string | Nein         | Zu verknüpfende Account-ID                           |
+| `due_at`     | string | Nein         | Fälligkeitsdatum im ISO-Format                       |
+| `priority`   | string | Nein         | Aufgabenpriorität                                    |
+| `type`       | string | Nein         | Aufgabentyp                                          |
+
+Ausgabe [#ausgabe-4]
+
+| Parameter  | Typ  | Beschreibung                                              |
+| ---------- | ---- | --------------------------------------------------------- |
+| `task`     | json | Erstellte Aufgabendaten von Apollo                        |
+| `metadata` | json | Erstellungsmetadaten einschließlich des Erstellungsstatus |
+
+apollo_task_search [#apollo_task_search]
+
+Suche nach Aufgaben in Apollo
+
+Eingabe [#eingabe-6]
+
+| Parameter    | Typ     | Erforderlich | Beschreibung                                         |
+| ------------ | ------- | ------------ | ---------------------------------------------------- |
+| `apiKey`     | string  | Ja           | Apollo API-Schlüssel (Master-Schlüssel erforderlich) |
+| `contact_id` | string  | Nein         | Nach Kontakt-ID filtern                              |
+| `account_id` | string  | Nein         | Nach Konto-ID filtern                                |
+| `completed`  | boolean | Nein         | Nach Abschlussstatus filtern                         |
+| `page`       | number  | Nein         | Seitennummer für Paginierung                         |
+| `per_page`   | number  | Nein         | Ergebnisse pro Seite (max: 100)                      |
+
+Ausgabe [#ausgabe-5]
+
+| Parameter  | Typ  | Beschreibung                                                                  |
+| ---------- | ---- | ----------------------------------------------------------------------------- |
+| `tasks`    | json | Array von Aufgaben, die den Suchkriterien entsprechen                         |
+| `metadata` | json | Paginierungsinformationen einschließlich Seite, pro\_Seite und Gesamteinträge |
+
+apollo_email_accounts [#apollo_email_accounts]
+
+Liste des Teams abrufen
+
+Eingabe [#eingabe-7]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                         |
+| --------- | ------ | ------------ | ---------------------------------------------------- |
+| `apiKey`  | string | Ja           | Apollo API-Schlüssel (Master-Schlüssel erforderlich) |
+
+Ausgabe [#ausgabe-6]
+
+| Parameter        | Typ  | Beschreibung                                                |
+| ---------------- | ---- | ----------------------------------------------------------- |
+| `email_accounts` | json | Array von Team-E-Mail-Konten, die in Apollo verknüpft sind  |
+| `metadata`       | json | Metadaten einschließlich der Gesamtanzahl von E-Mail-Konten |
+2c:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L33",null,{"content":"$34"}]}],"$L35"]}],"$L36","$L37"]}]
+2d:["$","$L38",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L39",null,{"type":"apollo","color":"#EBF212"}],"\n","\n",["$","p",null,{"children":[["$","$L3a",null,{"href":"https://apollo.io/","children":"Apollo.io"}]," ist eine führende Plattform für Vertriebsintelligenz und -engagement, die Benutzern ermöglicht, Kontakte und Unternehmen im großen Maßstab zu finden, anzureichern und zu kontaktieren. Apollo.io kombiniert eine umfangreiche Kontaktdatenbank mit robusten Anreicherungs- und Workflow-Automatisierungstools und unterstützt Vertriebs-, Marketing- und Recruiting-Teams bei der Beschleunigung des Wachstums."]}],"\n",["$","p",null,{"children":"Mit Apollo.io können Sie:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Millionen von Kontakten und Unternehmen durchsuchen"}],": Finden Sie präzise Leads mit erweiterten Filtern"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Leads und Accounts anreichern"}],": Füllen Sie fehlende Details mit verifizierten Daten und aktuellen Informationen"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"CRM-Datensätze verwalten und organisieren"}],": Halten Sie Ihre Personen- und Unternehmensdaten genau und handlungsfähig"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Outreach automatisieren"}],": Fügen Sie Kontakte zu Sequenzen hinzu und erstellen Sie Follow-up-Aufgaben direkt aus Apollo.io"]}],"\n"]}],"\n",["$","p",null,{"children":"In Aptlystar ermöglicht die Apollo.io-Integration Ihren Agenten, zentrale Apollo-Operationen programmatisch durchzuführen:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Personen und Unternehmen suchen"}],": Verwenden Sie ",["$","code",null,{"children":"apollo_people_search"}],", um neue Leads mit flexiblen Filtern zu entdecken."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Personendaten anreichern"}],": Verwenden Sie ",["$","code",null,{"children":"apollo_people_enrich"}],", um Kontakte mit verifizierten Informationen zu ergänzen."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Personen in Masse anreichern"}],": Verwenden Sie ",["$","code",null,{"children":"apollo_people_bulk_enrich"}]," für die großflächige Anreicherung mehrerer Kontakte auf einmal."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Unternehmen suchen und anreichern"}],": Verwenden Sie ",["$","code",null,{"children":"apollo_company_search"}]," und ",["$","code",null,{"children":"apollo_company_enrich"}],", um wichtige Unternehmensinformationen zu entdecken und zu aktualisieren."]}],"\n"]}],"\n",["$","p",null,{"children":"Dies ermöglicht Ihren Agenten, leistungsstarke Workflows für Prospecting, CRM-Anreicherung und Automatisierung zu erstellen, ohne manuelle Dateneingabe oder Tabwechsel. Integrieren Sie Apollo.io als dynamische Datenquelle und CRM-Engine – und befähigen Sie Ihre Agenten, Leads nahtlos als Teil ihrer täglichen Arbeit zu identifizieren, zu qualifizieren und zu kontaktieren."}],"\n","\n",["$","$L3b",null,{"as":"h2","id":"gebrauchsanweisung","children":"Gebrauchsanweisung"}],"\n",["$","p",null,{"children":"Integriert Apollo.io in den Workflow. Suche nach Personen und Unternehmen, reichere Kontaktdaten an, verwalte deine CRM-Kontakte und Konten, füge Kontakte zu Sequenzen hinzu und erstelle Aufgaben."}],"\n",["$","$L3b",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L3b",null,{"as":"h3","id":"apollo_people_search","children":["$","code",null,{"children":"apollo_people_search"}]}],"\n",["$","p",null,{"children":"Apollo durchsuchen"}],"\n",["$","$L3b",null,{"as":"h4","id":"input","children":"Input"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],"$L3c"]}]}],"\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce"]}]}]
+2e:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+2f:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+30:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+31:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+32:["$","$Lcf",null,{"children":["$","$d0",null,{"name":"Next.MetadataOutlet","children":"$@d1"}]}]
+35:["$","$Ld2",null,{}]
+36:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","height":"26","viewBox":"0 0 36 36","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M19.6 0.09L19.61 13.26C19.61 15.34 17.42 16.67 15.61 15.7L2.58 8.72C3.58 7.06 4.83 5.58 6.27 4.32L16.49 13.89C17.03 14.4 17.88 13.85 17.66 13.14L13.7 0.49C15.03 0.17 16.42 0 17.85 0C18.44 0 19.02 0.03 19.6 0.09Z","fill":"#000000"}],["$","path",null,{"d":"M16.06 36.11L16.06 23C16.06 20.92 18.24 19.59 20.05 20.56L33.08 27.55C32.08 29.2 30.83 30.68 29.38 31.93L19.17 22.37C18.63 21.86 17.78 22.41 18 23.12L21.95 35.72C20.63 36.03 19.26 36.2 17.85 36.2C17.25 36.2 16.65 36.17 16.06 36.11Z","fill":"#000000"}],["$","path",null,{"d":"M22.01 16.77L31.47 6.39C30.24 4.92 28.77 3.65 27.14 2.64L20.23 15.88C19.27 17.72 20.59 19.93 22.64 19.93L35.62 19.92C35.68 19.32 35.71 18.72 35.71 18.1C35.71 16.67 35.54 15.28 35.23 13.94L22.75 17.96C22.05 18.18 21.51 17.32 22.01 16.77Z","fill":"#000000"}],["$","path",null,{"d":"M0.08 16.34L13.02 16.33C15.08 16.33 16.39 18.55 15.43 20.38L8.56 33.56C6.93 32.55 5.47 31.28 4.24 29.81L13.65 19.49C14.15 18.94 13.61 18.08 12.91 18.3L0.49 22.3C0.17 20.95 0 19.55 0 18.1C0 17.51 0.03 16.92 0.08 16.34Z","fill":"#000000"}]]}]}],["$","$Ld3",null,{"className":"mb-0 min-w-0 flex-1","children":"Apollo"}]]}]
+37:["$","$Ld4",null,{"children":"Suchen, anreichern und verwalten Sie Kontakte mit Apollo.io"}]
+3c:["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"person_titles"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zu suchende Berufsbezeichnungen (z.B. [\"CEO\", \"VP of Sales\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"person_locations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Orte, in denen gesucht werden soll (z.B. [\"San Francisco, CA\", \"New York, NY\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"person_seniorities"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Hierarchieebenen (z.B. [\"senior\", \"executive\", \"manager\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organization_names"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Unternehmensnamen, in denen gesucht werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_keywords"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zu suchende Schlüsselwörter"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung (Standard: 1)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (Standard: 25, max: 100)"}]]}]]}]
+3d:["$","$L3b",null,{"as":"h4","id":"output","children":"Output"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"people"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Personen, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich page, per_page und total_entries"}]]}]]}]]}]}]
+3f:["$","$L3b",null,{"as":"h3","id":"apollo_people_enrich","children":["$","code",null,{"children":"apollo_people_enrich"}]}]
+40:["$","p",null,{"children":"Daten für eine einzelne Person mit Apollo anreichern"}]
+41:["$","$L3b",null,{"as":"h4","id":"input-1","children":"Input"}]
+42:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Vorname der Person"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nachname der Person"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"E-Mail-Adresse der Person"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organization_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Name des Unternehmens, in dem die Person arbeitet"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Unternehmensdomäne (z.B. apollo.io)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"linkedin_url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"LinkedIn-Profil-URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reveal_personal_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Persönliche E-Mail-Adressen aufdecken (verbraucht Credits)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reveal_phone_number"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Telefonnummern aufdecken (verbraucht Credits)"}]]}]]}]]}]}]
+43:["$","$L3b",null,{"as":"h4","id":"output-1","children":"Output"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"person"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Angereicherte Personendaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Anreicherungsmetadaten einschließlich Anreicherungsstatus"}]]}]]}]]}]}]
+45:["$","$L3b",null,{"as":"h3","id":"apollo_people_bulk_enrich","children":["$","code",null,{"children":"apollo_people_bulk_enrich"}]}]
+46:["$","p",null,{"children":"Daten für bis zu 10 Personen gleichzeitig mit Apollo anreichern"}]
+47:["$","$L3b",null,{"as":"h4","id":"input-2","children":"Input"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"people"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array von Personen zur Anreicherung (max. 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reveal_personal_emails"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Persönliche E-Mail-Adressen anzeigen (verbraucht Credits)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reveal_phone_number"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Telefonnummern anzeigen (verbraucht Credits)"}]]}]]}]]}]}]
+49:["$","$L3b",null,{"as":"h4","id":"output-2","children":"Output"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"people"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von angereicherten Personendaten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten zur Massenanreicherung einschließlich Gesamt- und angereicherter Anzahl"}]]}]]}]]}]}]
+4b:["$","$L3b",null,{"as":"h3","id":"apollo_organization_search","children":["$","code",null,{"children":"apollo_organization_search"}]}]
+4c:["$","p",null,{"children":"Apollo durchsuchen"}]
+4d:["$","$L3b",null,{"as":"h4","id":"input-3","children":"Input"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organization_locations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zu durchsuchende Unternehmensstandorte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organization_num_employees_ranges"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Bereiche der Mitarbeiterzahl (z.B. [\"1-10\", \"11-50\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_organization_keyword_tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Branchen- oder Schlüsselwort-Tags"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_organization_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zu suchender Organisationsname"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (max: 100)"}]]}]]}]]}]}]
+4f:["$","$L3b",null,{"as":"h4","id":"output-3","children":"Output"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Organisationen, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich page, per_page und total_entries"}]]}]]}]]}]}]
+51:["$","$L3b",null,{"as":"h3","id":"apollo_organization_enrich","children":["$","code",null,{"children":"apollo_organization_enrich"}]}]
+52:["$","p",null,{"children":"Daten für eine einzelne Organisation mit Apollo anreichern"}]
+53:["$","$L3b",null,{"as":"h4","id":"input-4","children":"Input"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organization_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Name der Organisation (mindestens einer von organization_name oder domain ist erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Unternehmensdomäne (z.B. apollo.io) (mindestens einer von domain oder organization_name ist erforderlich)"}]]}]]}]]}]}]
+55:["$","$L3b",null,{"as":"h4","id":"output-4","children":"Output"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organization"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Angereicherte Organisationsdaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Anreicherungsmetadaten einschließlich des Anreicherungsstatus"}]]}]]}]]}]}]
+57:["$","$L3b",null,{"as":"h3","id":"apollo_organization_bulk_enrich","children":["$","code",null,{"children":"apollo_organization_bulk_enrich"}]}]
+58:["$","p",null,{"children":"Daten für bis zu 10 Organisationen gleichzeitig mit Apollo anreichern"}]
+59:["$","$L3b",null,{"as":"h4","id":"input-5","children":"Input"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizations"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array von zu anreichernden Organisationen (max. 10)"}]]}]]}]]}]}]
+5b:["$","$L3b",null,{"as":"h4","id":"output-5","children":"Output"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"organizations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von angereicherten Organisationsdaten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten zur Massenanreicherung einschließlich Gesamt- und angereicherte Anzahl"}]]}]]}]]}]}]
+5d:["$","$L3b",null,{"as":"h3","id":"apollo_contact_create","children":["$","code",null,{"children":"apollo_contact_create"}]}]
+5e:["$","p",null,{"children":"Einen neuen Kontakt in Ihrer Apollo-Datenbank erstellen"}]
+5f:["$","$L3b",null,{"as":"h4","id":"eingabe","children":"Eingabe"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Vorname des Kontakts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Nachname des Kontakts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"E-Mail-Adresse des Kontakts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Berufsbezeichnung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Apollo-Konto-ID für die Zuordnung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID des Kontaktinhabers"}]]}]]}]]}]}]
+61:["$","$L3b",null,{"as":"h4","id":"ausgabe","children":"Ausgabe"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellte Kontaktdaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellungsmetadaten einschließlich Erstellungsstatus"}]]}]]}]]}]}]
+63:["$","$L3b",null,{"as":"h3","id":"apollo_contact_update","children":["$","code",null,{"children":"apollo_contact_update"}]}]
+64:["$","p",null,{"children":"Einen bestehenden Kontakt in Ihrer Apollo-Datenbank aktualisieren"}]
+65:["$","$L3b",null,{"as":"h4","id":"eingabe-1","children":"Eingabe"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu aktualisierenden Kontakts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"first_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Vorname des Kontakts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"last_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nachname des Kontakts"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"E-Mail-Adresse"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Berufsbezeichnung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Apollo-Konto-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID des Kontaktinhabers"}]]}]]}]]}]}]
+67:["$","$L3b",null,{"as":"h4","id":"output-6","children":"Output"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierte Kontaktdaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierte Metadaten einschließlich des aktualisierten Status"}]]}]]}]]}]}]
+69:["$","$L3b",null,{"as":"h3","id":"apollo_contact_search","children":["$","code",null,{"children":"apollo_contact_search"}]}]
+6a:["$","p",null,{"children":"Dein Team durchsuchen"}]
+6b:["$","$L3b",null,{"as":"h4","id":"input-6","children":"Input"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_keywords"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Suchbegriffe"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact_stage_ids"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Kontaktphasen-IDs filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (max: 100)"}]]}]]}]]}]}]
+6d:["$","$L3b",null,{"as":"h4","id":"output-7","children":"Output"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Kontakten, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich page, per_page und total_entries"}]]}]]}]]}]}]
+6f:["$","$L3b",null,{"as":"h3","id":"apollo_contact_bulk_create","children":["$","code",null,{"children":"apollo_contact_bulk_create"}]}]
+70:["$","p",null,{"children":"Erstelle bis zu 100 Kontakte auf einmal in deiner Apollo-Datenbank. Unterstützt Deduplizierung, um das Erstellen von Duplikaten zu verhindern. Master-Schlüssel erforderlich."}]
+71:["$","$L3b",null,{"as":"h4","id":"input-7","children":"Input"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Schlüssel erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array von zu erstellenden Kontakten (max. 100). Jeder Kontakt sollte first_name, last_name und optional email, title, account_id, owner_id enthalten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"run_dedupe"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Aktiviere Deduplizierung, um das Erstellen von Duplikaten zu verhindern. Bei true werden bestehende Kontakte ohne Änderung zurückgegeben"}]]}]]}]]}]}]
+73:["$","$L3b",null,{"as":"h4","id":"output-8","children":"Output"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array neu erstellter Kontakte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"existing_contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array bestehender Kontakte (wenn Deduplizierung aktiviert ist)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten zur Massenerstellung einschließlich Anzahl erstellter und bestehender Kontakte"}]]}]]}]]}]}]
+75:["$","$L3b",null,{"as":"h3","id":"apollo_contact_bulk_update","children":["$","code",null,{"children":"apollo_contact_bulk_update"}]}]
+76:["$","p",null,{"children":"Aktualisieren Sie bis zu 100 bestehende Kontakte gleichzeitig in Ihrer Apollo-Datenbank. Jeder Kontakt muss ein ID-Feld enthalten. Master-Key erforderlich."}]
+77:["$","$L3b",null,{"as":"h4","id":"input-8","children":"Input"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Key erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array zu aktualisierender Kontakte (max. 100). Jeder Kontakt muss ein ID-Feld enthalten und optional first_name, last_name, email, title, account_id, owner_id"}]]}]]}]]}]}]
+79:["$","$L3b",null,{"as":"h4","id":"output-9","children":"Output"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated_contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array erfolgreich aktualisierter Kontakte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"failed_contacts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Kontakten, deren Aktualisierung fehlgeschlagen ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten zur Massenaktualisierung einschließlich Anzahl aktualisierter und fehlgeschlagener Kontakte"}]]}]]}]]}]}]
+7b:["$","$L3b",null,{"as":"h3","id":"apollo_account_create","children":["$","code",null,{"children":"apollo_account_create"}]}]
+7c:["$","p",null,{"children":"Erstellen Sie ein neues Konto (Unternehmen) in Ihrer Apollo-Datenbank"}]
+7d:["$","$L3b",null,{"as":"h4","id":"input-9","children":"Input"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Unternehmensname"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website_url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Unternehmens-Website-URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Telefonnummer des Unternehmens"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID des Kontoinhabers"}]]}]]}]]}]}]
+7f:["$","$L3b",null,{"as":"h4","id":"output-10","children":"Output"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellte Kontodaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellungsmetadaten einschließlich Erstellungsstatus"}]]}]]}]]}]}]
+81:["$","$L3b",null,{"as":"h3","id":"apollo_account_update","children":["$","code",null,{"children":"apollo_account_update"}]}]
+82:["$","p",null,{"children":"Aktualisieren eines vorhandenen Kontos in Ihrer Apollo-Datenbank"}]
+83:["$","$L3b",null,{"as":"h4","id":"input-10","children":"Input"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des zu aktualisierenden Kontos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Firmenname"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"website_url"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Firmen-Website-URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"phone"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Telefonnummer des Unternehmens"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID des Kontoinhabers"}]]}]]}]]}]}]
+85:["$","$L3b",null,{"as":"h4","id":"output-11","children":"Output"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierte Kontodaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierungsmetadaten einschließlich Aktualisierungsstatus"}]]}]]}]]}]}]
+87:["$","$L3b",null,{"as":"h3","id":"apollo_account_search","children":["$","code",null,{"children":"apollo_account_search"}]}]
+88:["$","p",null,{"children":"Durchsuchen Ihres Teams"}]
+89:["$","$L3b",null,{"as":"h4","id":"input-11","children":"Input"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Hauptschlüssel erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_keywords"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Suchbegriffe für Kontodaten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Filtern nach Benutzer-ID des Kontoinhabers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_stage_ids"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Filtern nach Kontophase-IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (max: 100)"}]]}]]}]]}]}]
+8b:["$","$L3b",null,{"as":"h4","id":"output-12","children":"Output"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accounts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Konten, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich page, per_page und total_entries"}]]}]]}]]}]}]
+8d:["$","$L3b",null,{"as":"h3","id":"apollo_account_bulk_create","children":["$","code",null,{"children":"apollo_account_bulk_create"}]}]
+8e:["$","p",null,{"children":"Erstellen Sie bis zu 100 Konten auf einmal in Ihrer Apollo-Datenbank. Hinweis: Apollo wendet keine Deduplizierung an - doppelte Konten können erstellt werden, wenn Einträge ähnliche Namen oder Domains haben. Master-Key erforderlich."}]
+8f:["$","$L3b",null,{"as":"h4","id":"input-12","children":"Input"}]
+90:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Key erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accounts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array von zu erstellenden Konten (max. 100). Jedes Konto sollte einen Namen (erforderlich) und optional website_url, phone, owner_id enthalten"}]]}]]}]]}]}]
+91:["$","$L3b",null,{"as":"h4","id":"output-13","children":"Output"}]
+92:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"created_accounts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array neu erstellter Konten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"failed_accounts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Konten, deren Erstellung fehlgeschlagen ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten zur Massenerstellung einschließlich Anzahl erstellter und fehlgeschlagener Konten"}]]}]]}]]}]}]
+93:["$","$L3b",null,{"as":"h3","id":"apollo_account_bulk_update","children":["$","code",null,{"children":"apollo_account_bulk_update"}]}]
+94:["$","p",null,{"children":"Aktualisieren Sie bis zu 1000 bestehende Konten auf einmal in Ihrer Apollo-Datenbank (höheres Limit als bei Kontakten!). Jedes Konto muss ein id-Feld enthalten. Master-Key erforderlich."}]
+95:["$","$L3b",null,{"as":"h4","id":"input-13","children":"Input"}]
+96:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Key erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accounts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array zu aktualisierender Konten (max. 1000). Jedes Konto muss ein id-Feld enthalten und optional name, website_url, phone, owner_id"}]]}]]}]]}]}]
+97:["$","$L3b",null,{"as":"h4","id":"ausgabe-1","children":"Ausgabe"}]
+98:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"updated_accounts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array der erfolgreich aktualisierten Konten"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"failed_accounts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array der Konten, deren Aktualisierung fehlgeschlagen ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten zur Massenaktualisierung, einschließlich der Anzahl aktualisierter und fehlgeschlagener Konten"}]]}]]}]]}]}]
+99:["$","$L3b",null,{"as":"h3","id":"apollo_opportunity_create","children":["$","code",null,{"children":"apollo_opportunity_create"}]}]
+9a:["$","p",null,{"children":"Erstellen Sie einen neuen Deal für ein Konto in Ihrer Apollo-Datenbank (Master-Key erforderlich)"}]
+9b:["$","$L3b",null,{"as":"h4","id":"eingabe-2","children":"Eingabe"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Key erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Name der Opportunity/des Deals"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID des Kontos, zu dem diese Opportunity gehört"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"amount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Geldwert der Opportunity"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stage_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"ID der Deal-Phase"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID des Opportunity-Eigentümers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"close_date"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Erwartetes Abschlussdatum (ISO 8601-Format)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beschreibung oder Notizen zur Opportunity"}]]}]]}]]}]}]
+9d:["$","$L3b",null,{"as":"h4","id":"ausgabe-2","children":"Ausgabe"}]
+9e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"opportunity"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellte Opportunity-Daten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellungsmetadaten einschließlich Erstellungsstatus"}]]}]]}]]}]}]
+9f:["$","$L3b",null,{"as":"h3","id":"apollo_opportunity_search","children":["$","code",null,{"children":"apollo_opportunity_search"}]}]
+a0:["$","p",null,{"children":"Suchen und listen Sie alle Deals/Opportunities in Ihrem Team auf"}]
+a1:["$","$L3b",null,{"as":"h4","id":"eingabe-3","children":"Eingabe"}]
+a2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_keywords"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Suchbegriffe für die Suche in Opportunity-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_ids"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach bestimmten Account-IDs filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stage_ids"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Deal-Phase-IDs filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_ids"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Opportunity-Besitzer-IDs filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (max: 100)"}]]}]]}]]}]}]
+a3:["$","$L3b",null,{"as":"h4","id":"output-14","children":"Output"}]
+a4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"opportunities"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Opportunities, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich page, per_page und total_entries"}]]}]]}]]}]}]
+a5:["$","$L3b",null,{"as":"h3","id":"apollo_opportunity_get","children":["$","code",null,{"children":"apollo_opportunity_get"}]}]
+a6:["$","p",null,{"children":"Vollständige Details eines bestimmten Deals/Opportunity anhand der ID abrufen"}]
+a7:["$","$L3b",null,{"as":"h4","id":"input-14","children":"Input"}]
+a8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"opportunity_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID der abzurufenden Opportunity"}]]}]]}]]}]}]
+a9:["$","$L3b",null,{"as":"h4","id":"output-15","children":"Output"}]
+aa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"opportunity"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Vollständige Opportunity-Daten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Abruf-Metadaten einschließlich Gefunden-Status"}]]}]]}]]}]}]
+ab:["$","$L3b",null,{"as":"h3","id":"apollo_opportunity_update","children":["$","code",null,{"children":"apollo_opportunity_update"}]}]
+ac:["$","p",null,{"children":"Einen bestehenden Deal/Opportunity in Ihrer Apollo-Datenbank aktualisieren"}]
+ad:["$","$L3b",null,{"as":"h4","id":"eingabe-4","children":"Eingabe"}]
+ae:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"opportunity_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID der zu aktualisierenden Opportunity"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Name der Opportunity/des Deals"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"amount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Geldwert der Opportunity"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stage_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"ID der Deal-Phase"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owner_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID des Opportunity-Eigentümers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"close_date"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Erwartetes Abschlussdatum (ISO 8601-Format)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beschreibung oder Notizen zur Opportunity"}]]}]]}]]}]}]
+af:["$","$L3b",null,{"as":"h4","id":"ausgabe-3","children":"Ausgabe"}]
+b0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"opportunity"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierte Opportunity-Daten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Aktualisierungsmetadaten einschließlich Aktualisierungsstatus"}]]}]]}]]}]}]
+b1:["$","$L3b",null,{"as":"h3","id":"apollo_sequence_search","children":["$","code",null,{"children":"apollo_sequence_search"}]}]
+b2:["$","p",null,{"children":"Suche nach Sequenzen/Kampagnen in deinem Team"}]
+b3:["$","$L3b",null,{"as":"h4","id":"eingabe-5","children":"Eingabe"}]
+b4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Schlüssel erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"q_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sequenzen nach Namen durchsuchen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"active"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Aktivitätsstatus filtern (true für aktive Sequenzen, false für inaktive)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (max: 100)"}]]}]]}]]}]}]
+b5:["$","$L3b",null,{"as":"h4","id":"output-16","children":"Output"}]
+b6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sequences"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Sequenzen/Kampagnen, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich page, per_page und total_entries"}]]}]]}]]}]}]
+b7:["$","$L3b",null,{"as":"h3","id":"apollo_sequence_add_contacts","children":["$","code",null,{"children":"apollo_sequence_add_contacts"}]}]
+b8:["$","p",null,{"children":"Kontakte zu einer Apollo-Sequenz hinzufügen"}]
+b9:["$","$L3b",null,{"as":"h4","id":"input-15","children":"Input"}]
+ba:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Schlüssel erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sequence_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"ID der Sequenz, zu der Kontakte hinzugefügt werden sollen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact_ids"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Array von Kontakt-IDs, die zur Sequenz hinzugefügt werden sollen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"emailer_campaign_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale E-Mail-Kampagnen-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"send_email_from_user_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Benutzer-ID, von der E-Mails gesendet werden sollen"}]]}]]}]]}]}]
+bb:["$","$L3b",null,{"as":"h4","id":"output-17","children":"Output"}]
+bc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contacts_added"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Kontakt-IDs, die zur Sequenz hinzugefügt wurden"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Sequenz-Metadaten einschließlich sequence_id und total_added Anzahl"}]]}]]}]]}]}]
+bd:["$","$L3b",null,{"as":"h3","id":"apollo_task_create","children":["$","code",null,{"children":"apollo_task_create"}]}]
+be:["$","p",null,{"children":"Eine neue Aufgabe in Apollo erstellen"}]
+bf:["$","$L3b",null,{"as":"h4","id":"input-16","children":"Input"}]
+c0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Schlüssel erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Aufgabennotiz/Beschreibung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zu verknüpfende Kontakt-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zu verknüpfende Account-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"due_at"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Fälligkeitsdatum im ISO-Format"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priority"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Aufgabenpriorität"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Aufgabentyp"}]]}]]}]]}]}]
+c1:["$","$L3b",null,{"as":"h4","id":"ausgabe-4","children":"Ausgabe"}]
+c2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"task"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellte Aufgabendaten von Apollo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Erstellungsmetadaten einschließlich des Erstellungsstatus"}]]}]]}]]}]}]
+c3:["$","$L3b",null,{"as":"h3","id":"apollo_task_search","children":["$","code",null,{"children":"apollo_task_search"}]}]
+c4:["$","p",null,{"children":"Suche nach Aufgaben in Apollo"}]
+c5:["$","$L3b",null,{"as":"h4","id":"eingabe-6","children":"Eingabe"}]
+c6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Schlüssel erforderlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contact_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Kontakt-ID filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Konto-ID filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"completed"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Abschlussstatus filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"per_page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ergebnisse pro Seite (max: 100)"}]]}]]}]]}]}]
+c7:["$","$L3b",null,{"as":"h4","id":"ausgabe-5","children":"Ausgabe"}]
+c8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tasks"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Aufgaben, die den Suchkriterien entsprechen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Paginierungsinformationen einschließlich Seite, pro_Seite und Gesamteinträge"}]]}]]}]]}]}]
+c9:["$","$L3b",null,{"as":"h3","id":"apollo_email_accounts","children":["$","code",null,{"children":"apollo_email_accounts"}]}]
+ca:["$","p",null,{"children":"Liste des Teams abrufen"}]
+cb:["$","$L3b",null,{"as":"h4","id":"eingabe-7","children":"Eingabe"}]
+cc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Apollo API-Schlüssel (Master-Schlüssel erforderlich)"}]]}]}]]}]}]
+cd:["$","$L3b",null,{"as":"h4","id":"ausgabe-6","children":"Ausgabe"}]
+ce:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email_accounts"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array von Team-E-Mail-Konten, die in Apollo verknüpft sind"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Metadaten einschließlich der Gesamtanzahl von E-Mail-Konten"}]]}]]}]]}]}]
+d1:null

@@ -1,0 +1,722 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+38:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+39:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+3e:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+3f:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+40:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+d6:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+d7:"$Sreact.suspense"
+d9:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+db:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+dc:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Persona\",\"description\":\"Verify identities with Persona\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/persona\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/persona\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/persona\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Persona\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/persona\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#persona_create_inquiry","title":["$","code",null,{"children":"persona_create_inquiry"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#persona_get_inquiry","title":["$","code",null,{"children":"persona_get_inquiry"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#persona_list_inquiries","title":["$","code",null,{"children":"persona_list_inquiries"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#persona_update_inquiry","title":["$","code",null,{"children":"persona_update_inquiry"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#persona_approve_inquiry","title":["$","code",null,{"children":"persona_approve_inquiry"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#persona_decline_inquiry","title":["$","code",null,{"children":"persona_decline_inquiry"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#persona_mark_inquiry_for_review","title":["$","code",null,{"children":"persona_mark_inquiry_for_review"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#persona_resume_inquiry","title":["$","code",null,{"children":"persona_resume_inquiry"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#persona_expire_inquiry","title":["$","code",null,{"children":"persona_expire_inquiry"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#persona_generate_inquiry_link","title":["$","code",null,{"children":"persona_generate_inquiry_link"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#persona_print_inquiry_pdf","title":["$","code",null,{"children":"persona_print_inquiry_pdf"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#persona_redact_inquiry","title":"$L3"},{"depth":4,"url":"#entrada-11","title":"$L4"},{"depth":4,"url":"#salida-11","title":"$L5"},{"depth":3,"url":"#persona_create_account","title":"$L6"},{"depth":4,"url":"#entrada-12","title":"$L7"},{"depth":4,"url":"#salida-12","title":"$L8"},{"depth":3,"url":"#persona_get_account","title":"$L9"},{"depth":4,"url":"#entrada-13","title":"$La"},{"depth":4,"url":"#salida-13","title":"$Lb"},{"depth":3,"url":"#persona_list_accounts","title":"$Lc"},{"depth":4,"url":"#entrada-14","title":"$Ld"},{"depth":4,"url":"#salida-14","title":"$Le"},{"depth":3,"url":"#persona_update_account","title":"$Lf"},{"depth":4,"url":"#entrada-15","title":"$L10"},{"depth":4,"url":"#salida-15","title":"$L11"},{"depth":3,"url":"#persona_import_accounts","title":"$L12"},{"depth":4,"url":"#entrada-16","title":"$L13"},{"depth":4,"url":"#salida-16","title":"$L14"},{"depth":3,"url":"#persona_redact_account","title":"$L15"},{"depth":4,"url":"#entrada-17","title":"$L16"},{"depth":4,"url":"#salida-17","title":"$L17"},{"depth":3,"url":"#persona_list_cases","title":"$L18"},{"depth":4,"url":"#entrada-18","title":"$L19"},{"depth":4,"url":"#salida-18","title":"$L1a"},{"depth":3,"url":"#persona_get_case","title":"$L1b"},{"depth":4,"url":"#entrada-19","title":"$L1c"},{"depth":4,"url":"#salida-19","title":"$L1d"},{"depth":3,"url":"#persona_create_report","title":"$L1e"},{"depth":4,"url":"#entrada-20","title":"$L1f"},{"depth":4,"url":"#salida-20","title":"$L20"},{"depth":3,"url":"#persona_get_report","title":"$L21"},{"depth":4,"url":"#entrada-21","title":"$L22"},{"depth":4,"url":"#salida-21","title":"$L23"},{"depth":3,"url":"#persona_list_reports","title":"$L24"},{"depth":4,"url":"#entrada-22","title":"$L25"},{"depth":4,"url":"#salida-22","title":"$L26"},{"depth":3,"url":"#persona_get_verification","title":"$L27"},{"depth":4,"url":"#entrada-23","title":"$L28"},{"depth":4,"url":"#salida-23","title":"$L29"},{"depth":3,"url":"#persona_get_document","title":"$L2a"},{"depth":4,"url":"#entrada-24","title":"$L2b"},{"depth":4,"url":"#salida-24","title":"$L2c"},{"depth":3,"url":"#persona_list_inquiry_templates","title":"$L2d"},{"depth":4,"url":"#entrada-25","title":"$L2e"},{"depth":4,"url":"#salida-25","title":"$L2f"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L30"},"children":["$L31","$L32"]}]],["$L33","$L34","$L35","$L36"],"$L37"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"persona_redact_inquiry"}]
+4:"Entrada"
+5:"Salida"
+6:["$","code",null,{"children":"persona_create_account"}]
+7:"Entrada"
+8:"Salida"
+9:["$","code",null,{"children":"persona_get_account"}]
+a:"Entrada"
+b:"Salida"
+c:["$","code",null,{"children":"persona_list_accounts"}]
+d:"Entrada"
+e:"Salida"
+f:["$","code",null,{"children":"persona_update_account"}]
+10:"Entrada"
+11:"Salida"
+12:["$","code",null,{"children":"persona_import_accounts"}]
+13:"Entrada"
+14:"Salida"
+15:["$","code",null,{"children":"persona_redact_account"}]
+16:"Entrada"
+17:"Salida"
+18:["$","code",null,{"children":"persona_list_cases"}]
+19:"Entrada"
+1a:"Salida"
+1b:["$","code",null,{"children":"persona_get_case"}]
+1c:"Entrada"
+1d:"Salida"
+1e:["$","code",null,{"children":"persona_create_report"}]
+1f:"Entrada"
+20:"Salida"
+21:["$","code",null,{"children":"persona_get_report"}]
+22:"Entrada"
+23:"Salida"
+24:["$","code",null,{"children":"persona_list_reports"}]
+25:"Entrada"
+26:"Salida"
+27:["$","code",null,{"children":"persona_get_verification"}]
+28:"Entrada"
+29:"Salida"
+2a:["$","code",null,{"children":"persona_get_document"}]
+2b:"Entrada"
+2c:"Salida"
+2d:["$","code",null,{"children":"persona_list_inquiry_templates"}]
+2e:"Entrada"
+2f:"Salida"
+30:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L38",null,{"href":"/es/tools/perplexity","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Perplexity"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L38",null,{"href":"/es/tools/pinecone","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Pinecone",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+3a:T73c2,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="persona" color="#FFFFFF" />
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Integrate Persona identity verification into the workflow. Manage the full inquiry lifecycle (create, update, approve, decline, review, resume, expire, redact), generate one-time verification links and PDF summaries, manage accounts including CSV bulk import, run watchlist and adverse media reports, review cases, retrieve verifications and documents, and discover inquiry templates.
+
+Herramientas [#herramientas]
+
+persona_create_inquiry [#persona_create_inquiry]
+
+Create a new identity verification inquiry from an inquiry template. Returns the created inquiry, which can then be completed by the individual via a one-time link.
+
+Entrada [#entrada]
+
+| Parámetro           | Tipo   | Obligatorio | Descripción                                                                                                                               |
+| ------------------- | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`            | string | Sí          | Persona API key                                                                                                                           |
+| `inquiryTemplateId` | string | Sí          | Inquiry template ID (starts with itmpl\_), inquiry template version ID (starts with itmplv\_), or legacy template ID (starts with tmpl\_) |
+| `accountId`         | string | No          | Account ID (starts with act\_) to associate with this inquiry                                                                             |
+| `referenceId`       | string | No          | Reference ID that refers to an entity in your user model. An account is auto-created for it if one does not exist.                        |
+| `fields`            | json   | No          | JSON object of field name to field value pairs to pre-fill, as defined by the inquiry template (e.g. \{"name-first": "Jane"})             |
+| `note`              | string | No          | Free-form note to attach to the inquiry                                                                                                   |
+| `redirectUri`       | string | No          | URI to redirect the individual to after completing the inquiry flow                                                                       |
+
+Salida [#salida]
+
+| Parámetro | Tipo   | Descripción         |
+| --------- | ------ | ------------------- |
+| `inquiry` | object | The created inquiry |
+
+persona_get_inquiry [#persona_get_inquiry]
+
+Retrieve a single identity verification inquiry by ID, including its status, collected fields, and decision timestamps.
+
+Entrada [#entrada-1]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                |
+| ----------- | ------ | ----------- | ------------------------------------------ |
+| `apiKey`    | string | Sí          | Persona API key                            |
+| `inquiryId` | string | Sí          | Inquiry ID to retrieve (starts with inq\_) |
+
+Salida [#salida-1]
+
+| Parámetro | Tipo   | Descripción           |
+| --------- | ------ | --------------------- |
+| `inquiry` | object | The retrieved inquiry |
+
+persona_list_inquiries [#persona_list_inquiries]
+
+List identity verification inquiries, optionally filtered by status, account ID, reference ID, or creation date range. Results are cursor-paginated.
+
+Entrada [#entrada-2]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                                                                                |
+| ---------------- | ------ | ----------- | ---------------------------------------------------------------------------------------------------------- |
+| `apiKey`         | string | Sí          | Persona API key                                                                                            |
+| `status`         | string | No          | Filter by inquiry status (created, pending, completed, failed, expired, needs\_review, approved, declined) |
+| `accountId`      | string | No          | Filter by account ID (starts with act\_); comma-separate multiple IDs                                      |
+| `referenceId`    | string | No          | Filter by reference ID                                                                                     |
+| `createdAtStart` | string | No          | Filter to inquiries created at or after this ISO 8601 timestamp                                            |
+| `createdAtEnd`   | string | No          | Filter to inquiries created at or before this ISO 8601 timestamp                                           |
+| `pageSize`       | number | No          | Number of inquiries to return per page (1-100, default 10)                                                 |
+| `pageAfter`      | string | No          | Pagination cursor: return inquiries after this inquiry ID                                                  |
+
+Salida [#salida-2]
+
+| Parámetro    | Tipo   | Descripción                                                            |
+| ------------ | ------ | ---------------------------------------------------------------------- |
+| `inquiries`  | array  | Inquiries matching the filters                                         |
+| `nextCursor` | string | Cursor for the next page (pass as pageAfter), or null on the last page |
+
+persona_update_inquiry [#persona_update_inquiry]
+
+Update an inquiry’s note, fields, tags, or redirect URI. Only the provided values are changed.
+
+Entrada [#entrada-3]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                                                              |
+| ------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `apiKey`      | string | Sí          | Persona API key                                                                                                          |
+| `inquiryId`   | string | Sí          | Inquiry ID to update (starts with inq\_)                                                                                 |
+| `note`        | string | No          | Free-form note to set on the inquiry                                                                                     |
+| `fields`      | json   | No          | JSON object of field name to field value pairs to set, as defined by the inquiry template (e.g. \{"name-first": "Jane"}) |
+| `tags`        | array  | No          | JSON array of tag names to set on the inquiry (e.g. \["vip"])                                                            |
+| `redirectUri` | string | No          | URI to redirect the individual to after completing the inquiry flow                                                      |
+
+Salida [#salida-3]
+
+| Parámetro | Tipo   | Descripción         |
+| --------- | ------ | ------------------- |
+| `inquiry` | object | The updated inquiry |
+
+persona_approve_inquiry [#persona_approve_inquiry]
+
+Approve an identity verification inquiry. Approving prevents further progress on the inquiry and triggers any associated workflows and webhooks.
+
+Entrada [#entrada-4]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                               |
+| ----------- | ------ | ----------- | ----------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                           |
+| `inquiryId` | string | Sí          | Inquiry ID to approve (starts with inq\_) |
+
+Salida [#salida-4]
+
+| Parámetro | Tipo   | Descripción          |
+| --------- | ------ | -------------------- |
+| `inquiry` | object | The approved inquiry |
+
+persona_decline_inquiry [#persona_decline_inquiry]
+
+Decline an identity verification inquiry. Declining prevents further progress on the inquiry and triggers any associated workflows and webhooks.
+
+Entrada [#entrada-5]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                               |
+| ----------- | ------ | ----------- | ----------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                           |
+| `inquiryId` | string | Sí          | Inquiry ID to decline (starts with inq\_) |
+
+Salida [#salida-5]
+
+| Parámetro | Tipo   | Descripción          |
+| --------- | ------ | -------------------- |
+| `inquiry` | object | The declined inquiry |
+
+persona_mark_inquiry_for_review [#persona_mark_inquiry_for_review]
+
+Mark an identity verification inquiry for manual review, moving it to the needs\_review status.
+
+Entrada [#entrada-6]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                       |
+| ----------- | ------ | ----------- | ------------------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                                   |
+| `inquiryId` | string | Sí          | Inquiry ID to mark for review (starts with inq\_) |
+
+Salida [#salida-6]
+
+| Parámetro | Tipo   | Descripción                   |
+| --------- | ------ | ----------------------------- |
+| `inquiry` | object | The inquiry marked for review |
+
+persona_resume_inquiry [#persona_resume_inquiry]
+
+Resume a pending or expired inquiry, creating a new session so the individual can continue verification. Returns a session token.
+
+Entrada [#entrada-7]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                              |
+| ----------- | ------ | ----------- | ---------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                          |
+| `inquiryId` | string | Sí          | Inquiry ID to resume (starts with inq\_) |
+
+Salida [#salida-7]
+
+| Parámetro      | Tipo   | Descripción                                                                           |
+| -------------- | ------ | ------------------------------------------------------------------------------------- |
+| `inquiry`      | object | The resumed inquiry                                                                   |
+| `sessionToken` | string | Session token for the new inquiry session, used to continue the flow in embedded SDKs |
+
+persona_expire_inquiry [#persona_expire_inquiry]
+
+Expire an in-progress inquiry, invalidating its sessions and one-time links so the individual can no longer continue it.
+
+Entrada [#entrada-8]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                              |
+| ----------- | ------ | ----------- | ---------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                          |
+| `inquiryId` | string | Sí          | Inquiry ID to expire (starts with inq\_) |
+
+Salida [#salida-8]
+
+| Parámetro | Tipo   | Descripción         |
+| --------- | ------ | ------------------- |
+| `inquiry` | object | The expired inquiry |
+
+persona_generate_inquiry_link [#persona_generate_inquiry_link]
+
+Generate a one-time link for an inquiry that the individual can open to complete their identity verification.
+
+Entrada [#entrada-9]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                                                                                              |
+| ------------------ | ------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`           | string | Sí          | Persona API key                                                                                                                          |
+| `inquiryId`        | string | Sí          | Inquiry ID to generate a one-time link for (starts with inq\_)                                                                           |
+| `expiresInSeconds` | number | No          | Number of seconds from now until the link expires (must be greater than 0; defaults to the inquiry template setting, typically 24 hours) |
+
+Salida [#salida-9]
+
+| Parámetro          | Tipo   | Descripción                                                   |
+| ------------------ | ------ | ------------------------------------------------------------- |
+| `inquiry`          | object | The inquiry the link was generated for                        |
+| `oneTimeLink`      | string | One-time link the individual can open to complete the inquiry |
+| `oneTimeLinkShort` | string | Shortened version of the one-time link                        |
+
+persona_print_inquiry_pdf [#persona_print_inquiry_pdf]
+
+Download a PDF summary of an inquiry, including its collected information and verification results.
+
+Entrada [#entrada-10]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                             |
+| ----------- | ------ | ----------- | --------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                         |
+| `inquiryId` | string | Sí          | Inquiry ID to print (starts with inq\_) |
+
+Salida [#salida-10]
+
+| Parámetro | Tipo | Descripción                                           |
+| --------- | ---- | ----------------------------------------------------- |
+| `file`    | file | PDF summary of the inquiry, stored in execution files |
+
+persona_redact_inquiry [#persona_redact_inquiry]
+
+Permanently delete all personally identifiable information collected by an inquiry, for example to honor a data deletion request. This cannot be undone.
+
+Entrada [#entrada-11]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                              |
+| ----------- | ------ | ----------- | ---------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                          |
+| `inquiryId` | string | Sí          | Inquiry ID to redact (starts with inq\_) |
+
+Salida [#salida-11]
+
+| Parámetro | Tipo   | Descripción                                   |
+| --------- | ------ | --------------------------------------------- |
+| `inquiry` | object | The redacted inquiry (PII fields are removed) |
+
+persona_create_account [#persona_create_account]
+
+Create an account that represents an individual in Persona. Accounts consolidate inquiries, verifications, and reports for the same person.
+
+Entrada [#entrada-12]
+
+| Parámetro       | Tipo   | Obligatorio | Descripción                                                                                                   |
+| --------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------- |
+| `apiKey`        | string | Sí          | Persona API key                                                                                               |
+| `accountTypeId` | string | No          | Account type ID to create the account for (starts with acttp\_); defaults to your organization default        |
+| `referenceId`   | string | No          | Reference ID that refers to an entity in your user model                                                      |
+| `countryCode`   | string | No          | ISO 3166-1 alpha-2 country code (e.g. US)                                                                     |
+| `fields`        | json   | No          | JSON object of field name to field value pairs, as defined by the account type (e.g. \{"name-first": "Jane"}) |
+| `tags`          | array  | No          | JSON array of tag names to associate with the account (e.g. \["vip"])                                         |
+
+Salida [#salida-12]
+
+| Parámetro | Tipo   | Descripción         |
+| --------- | ------ | ------------------- |
+| `account` | object | The created account |
+
+persona_get_account [#persona_get_account]
+
+Retrieve a single account by ID, including its reference ID, fields, tags, and status.
+
+Entrada [#entrada-13]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                |
+| ----------- | ------ | ----------- | ------------------------------------------ |
+| `apiKey`    | string | Sí          | Persona API key                            |
+| `accountId` | string | Sí          | Account ID to retrieve (starts with act\_) |
+
+Salida [#salida-13]
+
+| Parámetro | Tipo   | Descripción           |
+| --------- | ------ | --------------------- |
+| `account` | object | The retrieved account |
+
+persona_list_accounts [#persona_list_accounts]
+
+List accounts in your Persona organization, optionally filtered by reference ID. Results are cursor-paginated.
+
+Entrada [#entrada-14]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                               |
+| ------------- | ------ | ----------- | --------------------------------------------------------- |
+| `apiKey`      | string | Sí          | Persona API key                                           |
+| `referenceId` | string | No          | Filter by reference ID                                    |
+| `pageSize`    | number | No          | Number of accounts to return per page (1-100, default 10) |
+| `pageAfter`   | string | No          | Pagination cursor: return accounts after this account ID  |
+
+Salida [#salida-14]
+
+| Parámetro    | Tipo   | Descripción                                                            |
+| ------------ | ------ | ---------------------------------------------------------------------- |
+| `accounts`   | array  | Accounts matching the filters                                          |
+| `nextCursor` | string | Cursor for the next page (pass as pageAfter), or null on the last page |
+
+persona_update_account [#persona_update_account]
+
+Update an account’s reference ID, country code, fields, or tags. Only the provided values are changed.
+
+Entrada [#entrada-15]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                                                          |
+| ------------- | ------ | ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| `apiKey`      | string | Sí          | Persona API key                                                                                                      |
+| `accountId`   | string | Sí          | Account ID to update (starts with act\_)                                                                             |
+| `referenceId` | string | No          | Reference ID that refers to an entity in your user model                                                             |
+| `countryCode` | string | No          | ISO 3166-1 alpha-2 country code (e.g. US)                                                                            |
+| `fields`      | json   | No          | JSON object of field name to field value pairs to set, as defined by the account type (e.g. \{"name-first": "Jane"}) |
+| `tags`        | array  | No          | JSON array of tag names to set on the account (e.g. \["vip"])                                                        |
+
+Salida [#salida-15]
+
+| Parámetro | Tipo   | Descripción         |
+| --------- | ------ | ------------------- |
+| `account` | object | The updated account |
+
+persona_import_accounts [#persona_import_accounts]
+
+Bulk-import accounts into Persona from a CSV file. Returns an importer whose status can be polled until processing completes.
+
+Entrada [#entrada-16]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                    |
+| --------- | ------ | ----------- | ------------------------------ |
+| `apiKey`  | string | Sí          | Persona API key                |
+| `file`    | file   | Sí          | CSV file of accounts to import |
+
+Salida [#salida-16]
+
+| Parámetro  | Tipo   | Descripción                  |
+| ---------- | ------ | ---------------------------- |
+| `importer` | object | The created account importer |
+
+persona_redact_account [#persona_redact_account]
+
+Permanently delete all personally identifiable information stored on an account, for example to honor a data deletion request. This cannot be undone.
+
+Entrada [#entrada-17]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                              |
+| ----------- | ------ | ----------- | ---------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                          |
+| `accountId` | string | Sí          | Account ID to redact (starts with act\_) |
+
+Salida [#salida-17]
+
+| Parámetro | Tipo   | Descripción                                   |
+| --------- | ------ | --------------------------------------------- |
+| `account` | object | The redacted account (PII fields are removed) |
+
+persona_list_cases [#persona_list_cases]
+
+List manual review cases, optionally filtered by status, account ID, or reference ID. Results are cursor-paginated.
+
+Entrada [#entrada-18]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                            |
+| ------------- | ------ | ----------- | ------------------------------------------------------ |
+| `apiKey`      | string | Sí          | Persona API key                                        |
+| `status`      | string | No          | Filter by case status (e.g. Open, Resolved)            |
+| `accountId`   | string | No          | Filter by account ID (starts with act\_)               |
+| `referenceId` | string | No          | Filter by reference ID                                 |
+| `pageSize`    | number | No          | Number of cases to return per page (1-100, default 10) |
+| `pageAfter`   | string | No          | Pagination cursor: return cases after this case ID     |
+
+Salida [#salida-18]
+
+| Parámetro    | Tipo   | Descripción                                                            |
+| ------------ | ------ | ---------------------------------------------------------------------- |
+| `cases`      | array  | Cases matching the filters                                             |
+| `nextCursor` | string | Cursor for the next page (pass as pageAfter), or null on the last page |
+
+persona_get_case [#persona_get_case]
+
+Retrieve a single manual review case by ID, including its status, resolution, and assignee.
+
+Entrada [#entrada-19]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                              |
+| --------- | ------ | ----------- | ---------------------------------------- |
+| `apiKey`  | string | Sí          | Persona API key                          |
+| `caseId`  | string | Sí          | Case ID to retrieve (starts with case\_) |
+
+Salida [#salida-19]
+
+| Parámetro | Tipo   | Descripción        |
+| --------- | ------ | ------------------ |
+| `case`    | object | The retrieved case |
+
+persona_create_report [#persona_create_report]
+
+Run a screening report (watchlist, adverse media, or politically exposed person) against an individual by name or search term.
+
+Entrada [#entrada-20]
+
+| Parámetro          | Tipo   | Obligatorio | Descripción                                                                         |
+| ------------------ | ------ | ----------- | ----------------------------------------------------------------------------------- |
+| `apiKey`           | string | Sí          | Persona API key                                                                     |
+| `reportType`       | string | Sí          | Type of report to run: watchlist, adverse-media, or politically-exposed-person      |
+| `reportTemplateId` | string | Sí          | Report template ID to run (starts with rptp\_)                                      |
+| `term`             | string | No          | Full-name search term (e.g. "Jane Q Doe"). Provide this or the separate name parts. |
+| `nameFirst`        | string | No          | First name of the individual to search                                              |
+| `nameMiddle`       | string | No          | Middle name of the individual to search                                             |
+| `nameLast`         | string | No          | Last name of the individual to search                                               |
+| `birthdate`        | string | No          | Birthdate of the individual, formatted as YYYY-MM-DD                                |
+| `countryCode`      | string | No          | ISO 3166-1 alpha-2 country code (e.g. US)                                           |
+| `accountId`        | string | No          | Account ID (starts with act\_) to associate with this report                        |
+
+Salida [#salida-20]
+
+| Parámetro | Tipo   | Descripción                                                                 |
+| --------- | ------ | --------------------------------------------------------------------------- |
+| `report`  | object | The created report. Reports run asynchronously; poll until status is ready. |
+
+persona_get_report [#persona_get_report]
+
+Retrieve a single screening report by ID, including its status, match results, and full type-specific attributes.
+
+Entrada [#entrada-21]
+
+| Parámetro  | Tipo   | Obligatorio | Descripción                               |
+| ---------- | ------ | ----------- | ----------------------------------------- |
+| `apiKey`   | string | Sí          | Persona API key                           |
+| `reportId` | string | Sí          | Report ID to retrieve (starts with rep\_) |
+
+Salida [#salida-21]
+
+| Parámetro | Tipo   | Descripción          |
+| --------- | ------ | -------------------- |
+| `report`  | object | The retrieved report |
+
+persona_list_reports [#persona_list_reports]
+
+List screening reports, optionally filtered by account ID or reference ID. Results are cursor-paginated.
+
+Entrada [#entrada-22]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                              |
+| ------------- | ------ | ----------- | -------------------------------------------------------- |
+| `apiKey`      | string | Sí          | Persona API key                                          |
+| `accountId`   | string | No          | Filter by account ID (starts with act\_)                 |
+| `referenceId` | string | No          | Filter by reference ID                                   |
+| `pageSize`    | number | No          | Number of reports to return per page (1-100, default 10) |
+| `pageAfter`   | string | No          | Pagination cursor: return reports after this report ID   |
+
+Salida [#salida-22]
+
+| Parámetro    | Tipo   | Descripción                                                            |
+| ------------ | ------ | ---------------------------------------------------------------------- |
+| `reports`    | array  | Reports matching the filters                                           |
+| `nextCursor` | string | Cursor for the next page (pass as pageAfter), or null on the last page |
+
+persona_get_verification [#persona_get_verification]
+
+Retrieve a single verification by ID (government ID, selfie, document, database, and more), including its status and the checks that ran.
+
+Entrada [#entrada-23]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                     |
+| ---------------- | ------ | ----------- | ----------------------------------------------- |
+| `apiKey`         | string | Sí          | Persona API key                                 |
+| `verificationId` | string | Sí          | Verification ID to retrieve (starts with ver\_) |
+
+Salida [#salida-23]
+
+| Parámetro      | Tipo   | Descripción                |
+| -------------- | ------ | -------------------------- |
+| `verification` | object | The retrieved verification |
+
+persona_get_document [#persona_get_document]
+
+Retrieve a single document by ID (government ID, generic document, and more), including its processing status and uploaded files.
+
+Entrada [#entrada-24]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                 |
+| ------------ | ------ | ----------- | ------------------------------------------- |
+| `apiKey`     | string | Sí          | Persona API key                             |
+| `documentId` | string | Sí          | Document ID to retrieve (starts with doc\_) |
+
+Salida [#salida-24]
+
+| Parámetro  | Tipo   | Descripción            |
+| ---------- | ------ | ---------------------- |
+| `document` | object | The retrieved document |
+
+persona_list_inquiry_templates [#persona_list_inquiry_templates]
+
+List the inquiry templates in your Persona organization, to discover template IDs for creating inquiries. Results are cursor-paginated.
+
+Entrada [#entrada-25]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                |
+| ----------- | ------ | ----------- | ---------------------------------------------------------- |
+| `apiKey`    | string | Sí          | Persona API key                                            |
+| `pageSize`  | number | No          | Number of templates to return per page (1-100, default 10) |
+| `pageAfter` | string | No          | Pagination cursor: return templates after this template ID |
+
+Salida [#salida-25]
+
+| Parámetro          | Tipo   | Descripción                                                            |
+| ------------------ | ------ | ---------------------------------------------------------------------- |
+| `inquiryTemplates` | array  | Inquiry templates in the organization                                  |
+| `nextCursor`       | string | Cursor for the next page (pass as pageAfter), or null on the last page |
+31:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L39",null,{"content":"$3a"}]}],"$L3b"]}],"$L3c","$L3d"]}]
+32:["$","$L3e",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L3f",null,{"type":"persona","color":"#FFFFFF"}],"\n",["$","$L40",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Integrate Persona identity verification into the workflow. Manage the full inquiry lifecycle (create, update, approve, decline, review, resume, expire, redact), generate one-time verification links and PDF summaries, manage accounts including CSV bulk import, run watchlist and adverse media reports, review cases, retrieve verifications and documents, and discover inquiry templates."}],"\n",["$","$L40",null,{"as":"h2","id":"herramientas","children":"Herramientas"}],"\n",["$","$L40",null,{"as":"h3","id":"persona_create_inquiry","children":["$","code",null,{"children":"persona_create_inquiry"}]}],"\n",["$","p",null,{"children":"Create a new identity verification inquiry from an inquiry template. Returns the created inquiry, which can then be completed by the individual via a one-time link."}],"\n",["$","$L40",null,{"as":"h4","id":"entrada","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryTemplateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry template ID (starts with itmpl_), inquiry template version ID (starts with itmplv_), or legacy template ID (starts with tmpl_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Account ID (starts with act_) to associate with this inquiry"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Reference ID that refers to an entity in your user model. An account is auto-created for it if one does not exist."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of field name to field value pairs to pre-fill, as defined by the inquiry template (e.g. {\"name-first\": \"Jane\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Free-form note to attach to the inquiry"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"redirectUri"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URI to redirect the individual to after completing the inquiry flow"}]]}]]}]]}]}],"\n",["$","$L40",null,{"as":"h4","id":"salida","children":"Salida"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created inquiry"}]]}]}]]}]}],"\n",["$","$L40",null,{"as":"h3","id":"persona_get_inquiry","children":["$","code",null,{"children":"persona_get_inquiry"}]}],"\n",["$","p",null,{"children":"Retrieve a single identity verification inquiry by ID, including its status, collected fields, and decision timestamps."}],"\n",["$","$L40",null,{"as":"h4","id":"entrada-1","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],"$L41","$L42"]}]}],"$L43"]}]}],"\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5"]}]}]
+33:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+34:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+35:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+36:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+37:["$","$Ld6",null,{"children":["$","$d7",null,{"name":"Next.MetadataOutlet","children":"$@d8"}]}]
+3b:["$","$Ld9",null,{"previous":{"$id":"es:tools/perplexity.mdx","type":"page","name":"Perplexity","description":"Usa Perplexity AI para chat y búsqueda","url":"/es/tools/perplexity","$ref":{"file":"tools/perplexity.mdx"}},"next":{"$id":"es:tools/pinecone.mdx","type":"page","name":"Pinecone","description":"Usa la base de datos vectorial Pinecone","url":"/es/tools/pinecone","$ref":{"file":"tools/pinecone.mdx"}}}]
+da:T545,M17.0185 20.6995V21.9299C17.0185 22.5269 16.686 22.8618 16.086 22.8618H0.932486C0.335072 22.8618 0 22.5295 0 21.9299V20.6995C0 20.1025 0.332474 19.7676 0.932486 19.7676H16.0886C16.686 19.7676 17.0211 20.0999 17.0211 20.6995H17.0185ZM15.9847 11.391L12.034 9.11194C11.9041 9.03666 11.9041 8.85236 12.034 8.77709L15.9847 6.498C16.4315 6.24101 16.5821 5.66994 16.325 5.22607L15.7094 4.1618C15.4523 3.71532 14.8834 3.56477 14.4367 3.82175L10.4859 6.10084C10.3561 6.17612 10.195 6.08267 10.195 5.93471V1.37134C10.195 0.857373 9.77682 0.439453 9.26252 0.439453H8.03133C7.51703 0.439453 7.09884 0.857373 7.09884 1.37134V5.93212C7.09884 6.08008 6.9378 6.17352 6.80793 6.09825L2.8572 3.81915C2.41044 3.56217 1.8416 3.71532 1.58445 4.1592L0.968851 5.22347C0.711703 5.66994 0.864952 6.23842 1.30912 6.4954L5.25985 8.77449C5.38972 8.84977 5.38972 9.03407 5.25985 9.10935L1.30912 11.3884C0.862355 11.6454 0.711703 12.2139 0.968851 12.6604L1.58445 13.7246C1.8416 14.1711 2.41044 14.3217 2.8572 14.0647L6.80793 11.7856C6.9378 11.7103 7.09884 11.8038 7.09884 11.9517V16.5125C7.09884 17.0265 7.51703 17.4444 8.03133 17.4444H9.26252C9.77682 17.4444 10.195 17.0265 10.195 16.5125V11.9517C10.195 11.8038 10.3561 11.7103 10.4859 11.7856L14.4367 14.0647C14.8834 14.3217 15.4523 14.1685 15.7094 13.7246L16.325 12.6604C16.5821 12.2139 16.4289 11.6454 15.9847 11.3884V11.391Z3c:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"width":"1em","height":"1em","viewBox":"0 0 17.02 23.3","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"size-7","children":["$","path",null,{"d":"$da","fill":"#7379FD"}]}]}],["$","$Ldb",null,{"className":"mb-0 min-w-0 flex-1","children":"Persona"}]]}]
+3d:["$","$Ldc",null,{"children":"Verify identities with Persona"}]
+41:["$","th",null,{"children":"Obligatorio"}]
+42:["$","th",null,{"children":"Descripción"}]
+43:["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to retrieve (starts with inq_)"}]]}]]}]
+44:["$","$L40",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retrieved inquiry"}]]}]}]]}]}]
+46:["$","$L40",null,{"as":"h3","id":"persona_list_inquiries","children":["$","code",null,{"children":"persona_list_inquiries"}]}]
+47:["$","p",null,{"children":"List identity verification inquiries, optionally filtered by status, account ID, reference ID, or creation date range. Results are cursor-paginated."}]
+48:["$","$L40",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by inquiry status (created, pending, completed, failed, expired, needs_review, approved, declined)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by account ID (starts with act_); comma-separate multiple IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by reference ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdAtStart"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter to inquiries created at or after this ISO 8601 timestamp"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"createdAtEnd"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter to inquiries created at or before this ISO 8601 timestamp"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of inquiries to return per page (1-100, default 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageAfter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Pagination cursor: return inquiries after this inquiry ID"}]]}]]}]]}]}]
+4a:["$","$L40",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiries"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Inquiries matching the filters"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextCursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Cursor for the next page (pass as pageAfter), or null on the last page"}]]}]]}]]}]}]
+4c:["$","$L40",null,{"as":"h3","id":"persona_update_inquiry","children":["$","code",null,{"children":"persona_update_inquiry"}]}]
+4d:["$","p",null,{"children":"Update an inquiry’s note, fields, tags, or redirect URI. Only the provided values are changed."}]
+4e:["$","$L40",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to update (starts with inq_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Free-form note to set on the inquiry"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of field name to field value pairs to set, as defined by the inquiry template (e.g. {\"name-first\": \"Jane\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON array of tag names to set on the inquiry (e.g. [\"vip\"])"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"redirectUri"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URI to redirect the individual to after completing the inquiry flow"}]]}]]}]]}]}]
+50:["$","$L40",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The updated inquiry"}]]}]}]]}]}]
+52:["$","$L40",null,{"as":"h3","id":"persona_approve_inquiry","children":["$","code",null,{"children":"persona_approve_inquiry"}]}]
+53:["$","p",null,{"children":"Approve an identity verification inquiry. Approving prevents further progress on the inquiry and triggers any associated workflows and webhooks."}]
+54:["$","$L40",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to approve (starts with inq_)"}]]}]]}]]}]}]
+56:["$","$L40",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The approved inquiry"}]]}]}]]}]}]
+58:["$","$L40",null,{"as":"h3","id":"persona_decline_inquiry","children":["$","code",null,{"children":"persona_decline_inquiry"}]}]
+59:["$","p",null,{"children":"Decline an identity verification inquiry. Declining prevents further progress on the inquiry and triggers any associated workflows and webhooks."}]
+5a:["$","$L40",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to decline (starts with inq_)"}]]}]]}]]}]}]
+5c:["$","$L40",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The declined inquiry"}]]}]}]]}]}]
+5e:["$","$L40",null,{"as":"h3","id":"persona_mark_inquiry_for_review","children":["$","code",null,{"children":"persona_mark_inquiry_for_review"}]}]
+5f:["$","p",null,{"children":"Mark an identity verification inquiry for manual review, moving it to the needs_review status."}]
+60:["$","$L40",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to mark for review (starts with inq_)"}]]}]]}]]}]}]
+62:["$","$L40",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The inquiry marked for review"}]]}]}]]}]}]
+64:["$","$L40",null,{"as":"h3","id":"persona_resume_inquiry","children":["$","code",null,{"children":"persona_resume_inquiry"}]}]
+65:["$","p",null,{"children":"Resume a pending or expired inquiry, creating a new session so the individual can continue verification. Returns a session token."}]
+66:["$","$L40",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to resume (starts with inq_)"}]]}]]}]]}]}]
+68:["$","$L40",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The resumed inquiry"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sessionToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Session token for the new inquiry session, used to continue the flow in embedded SDKs"}]]}]]}]]}]}]
+6a:["$","$L40",null,{"as":"h3","id":"persona_expire_inquiry","children":["$","code",null,{"children":"persona_expire_inquiry"}]}]
+6b:["$","p",null,{"children":"Expire an in-progress inquiry, invalidating its sessions and one-time links so the individual can no longer continue it."}]
+6c:["$","$L40",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to expire (starts with inq_)"}]]}]]}]]}]}]
+6e:["$","$L40",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The expired inquiry"}]]}]}]]}]}]
+70:["$","$L40",null,{"as":"h3","id":"persona_generate_inquiry_link","children":["$","code",null,{"children":"persona_generate_inquiry_link"}]}]
+71:["$","p",null,{"children":"Generate a one-time link for an inquiry that the individual can open to complete their identity verification."}]
+72:["$","$L40",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to generate a one-time link for (starts with inq_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"expiresInSeconds"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of seconds from now until the link expires (must be greater than 0; defaults to the inquiry template setting, typically 24 hours)"}]]}]]}]]}]}]
+74:["$","$L40",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The inquiry the link was generated for"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"oneTimeLink"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"One-time link the individual can open to complete the inquiry"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"oneTimeLinkShort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shortened version of the one-time link"}]]}]]}]]}]}]
+76:["$","$L40",null,{"as":"h3","id":"persona_print_inquiry_pdf","children":["$","code",null,{"children":"persona_print_inquiry_pdf"}]}]
+77:["$","p",null,{"children":"Download a PDF summary of an inquiry, including its collected information and verification results."}]
+78:["$","$L40",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to print (starts with inq_)"}]]}]]}]]}]}]
+7a:["$","$L40",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"PDF summary of the inquiry, stored in execution files"}]]}]}]]}]}]
+7c:["$","$L40",null,{"as":"h3","id":"persona_redact_inquiry","children":["$","code",null,{"children":"persona_redact_inquiry"}]}]
+7d:["$","p",null,{"children":"Permanently delete all personally identifiable information collected by an inquiry, for example to honor a data deletion request. This cannot be undone."}]
+7e:["$","$L40",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Inquiry ID to redact (starts with inq_)"}]]}]]}]]}]}]
+80:["$","$L40",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiry"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The redacted inquiry (PII fields are removed)"}]]}]}]]}]}]
+82:["$","$L40",null,{"as":"h3","id":"persona_create_account","children":["$","code",null,{"children":"persona_create_account"}]}]
+83:["$","p",null,{"children":"Create an account that represents an individual in Persona. Accounts consolidate inquiries, verifications, and reports for the same person."}]
+84:["$","$L40",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountTypeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Account type ID to create the account for (starts with acttp_); defaults to your organization default"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Reference ID that refers to an entity in your user model"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"countryCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ISO 3166-1 alpha-2 country code (e.g. US)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of field name to field value pairs, as defined by the account type (e.g. {\"name-first\": \"Jane\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON array of tag names to associate with the account (e.g. [\"vip\"])"}]]}]]}]]}]}]
+86:["$","$L40",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created account"}]]}]}]]}]}]
+88:["$","$L40",null,{"as":"h3","id":"persona_get_account","children":["$","code",null,{"children":"persona_get_account"}]}]
+89:["$","p",null,{"children":"Retrieve a single account by ID, including its reference ID, fields, tags, and status."}]
+8a:["$","$L40",null,{"as":"h4","id":"entrada-13","children":"Entrada"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Account ID to retrieve (starts with act_)"}]]}]]}]]}]}]
+8c:["$","$L40",null,{"as":"h4","id":"salida-13","children":"Salida"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retrieved account"}]]}]}]]}]}]
+8e:["$","$L40",null,{"as":"h3","id":"persona_list_accounts","children":["$","code",null,{"children":"persona_list_accounts"}]}]
+8f:["$","p",null,{"children":"List accounts in your Persona organization, optionally filtered by reference ID. Results are cursor-paginated."}]
+90:["$","$L40",null,{"as":"h4","id":"entrada-14","children":"Entrada"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by reference ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of accounts to return per page (1-100, default 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageAfter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Pagination cursor: return accounts after this account ID"}]]}]]}]]}]}]
+92:["$","$L40",null,{"as":"h4","id":"salida-14","children":"Salida"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accounts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Accounts matching the filters"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextCursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Cursor for the next page (pass as pageAfter), or null on the last page"}]]}]]}]]}]}]
+94:["$","$L40",null,{"as":"h3","id":"persona_update_account","children":["$","code",null,{"children":"persona_update_account"}]}]
+95:["$","p",null,{"children":"Update an account’s reference ID, country code, fields, or tags. Only the provided values are changed."}]
+96:["$","$L40",null,{"as":"h4","id":"entrada-15","children":"Entrada"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Account ID to update (starts with act_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Reference ID that refers to an entity in your user model"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"countryCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ISO 3166-1 alpha-2 country code (e.g. US)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fields"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON object of field name to field value pairs to set, as defined by the account type (e.g. {\"name-first\": \"Jane\"})"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"JSON array of tag names to set on the account (e.g. [\"vip\"])"}]]}]]}]]}]}]
+98:["$","$L40",null,{"as":"h4","id":"salida-15","children":"Salida"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The updated account"}]]}]}]]}]}]
+9a:["$","$L40",null,{"as":"h3","id":"persona_import_accounts","children":["$","code",null,{"children":"persona_import_accounts"}]}]
+9b:["$","p",null,{"children":"Bulk-import accounts into Persona from a CSV file. Returns an importer whose status can be polled until processing completes."}]
+9c:["$","$L40",null,{"as":"h4","id":"entrada-16","children":"Entrada"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"CSV file of accounts to import"}]]}]]}]]}]}]
+9e:["$","$L40",null,{"as":"h4","id":"salida-16","children":"Salida"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"importer"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created account importer"}]]}]}]]}]}]
+a0:["$","$L40",null,{"as":"h3","id":"persona_redact_account","children":["$","code",null,{"children":"persona_redact_account"}]}]
+a1:["$","p",null,{"children":"Permanently delete all personally identifiable information stored on an account, for example to honor a data deletion request. This cannot be undone."}]
+a2:["$","$L40",null,{"as":"h4","id":"entrada-17","children":"Entrada"}]
+a3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Account ID to redact (starts with act_)"}]]}]]}]]}]}]
+a4:["$","$L40",null,{"as":"h4","id":"salida-17","children":"Salida"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"account"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The redacted account (PII fields are removed)"}]]}]}]]}]}]
+a6:["$","$L40",null,{"as":"h3","id":"persona_list_cases","children":["$","code",null,{"children":"persona_list_cases"}]}]
+a7:["$","p",null,{"children":"List manual review cases, optionally filtered by status, account ID, or reference ID. Results are cursor-paginated."}]
+a8:["$","$L40",null,{"as":"h4","id":"entrada-18","children":"Entrada"}]
+a9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by case status (e.g. Open, Resolved)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by account ID (starts with act_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by reference ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of cases to return per page (1-100, default 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageAfter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Pagination cursor: return cases after this case ID"}]]}]]}]]}]}]
+aa:["$","$L40",null,{"as":"h4","id":"salida-18","children":"Salida"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cases"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Cases matching the filters"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextCursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Cursor for the next page (pass as pageAfter), or null on the last page"}]]}]]}]]}]}]
+ac:["$","$L40",null,{"as":"h3","id":"persona_get_case","children":["$","code",null,{"children":"persona_get_case"}]}]
+ad:["$","p",null,{"children":"Retrieve a single manual review case by ID, including its status, resolution, and assignee."}]
+ae:["$","$L40",null,{"as":"h4","id":"entrada-19","children":"Entrada"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"caseId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Case ID to retrieve (starts with case_)"}]]}]]}]]}]}]
+b0:["$","$L40",null,{"as":"h4","id":"salida-19","children":"Salida"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"case"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retrieved case"}]]}]}]]}]}]
+b2:["$","$L40",null,{"as":"h3","id":"persona_create_report","children":["$","code",null,{"children":"persona_create_report"}]}]
+b3:["$","p",null,{"children":"Run a screening report (watchlist, adverse media, or politically exposed person) against an individual by name or search term."}]
+b4:["$","$L40",null,{"as":"h4","id":"entrada-20","children":"Entrada"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reportType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Type of report to run: watchlist, adverse-media, or politically-exposed-person"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reportTemplateId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Report template ID to run (starts with rptp_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"term"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Full-name search term (e.g. \"Jane Q Doe\"). Provide this or the separate name parts."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nameFirst"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"First name of the individual to search"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nameMiddle"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Middle name of the individual to search"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nameLast"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Last name of the individual to search"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"birthdate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Birthdate of the individual, formatted as YYYY-MM-DD"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"countryCode"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ISO 3166-1 alpha-2 country code (e.g. US)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Account ID (starts with act_) to associate with this report"}]]}]]}]]}]}]
+b6:["$","$L40",null,{"as":"h4","id":"salida-20","children":"Salida"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"report"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created report. Reports run asynchronously; poll until status is ready."}]]}]}]]}]}]
+b8:["$","$L40",null,{"as":"h3","id":"persona_get_report","children":["$","code",null,{"children":"persona_get_report"}]}]
+b9:["$","p",null,{"children":"Retrieve a single screening report by ID, including its status, match results, and full type-specific attributes."}]
+ba:["$","$L40",null,{"as":"h4","id":"entrada-21","children":"Entrada"}]
+bb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reportId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Report ID to retrieve (starts with rep_)"}]]}]]}]]}]}]
+bc:["$","$L40",null,{"as":"h4","id":"salida-21","children":"Salida"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"report"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retrieved report"}]]}]}]]}]}]
+be:["$","$L40",null,{"as":"h3","id":"persona_list_reports","children":["$","code",null,{"children":"persona_list_reports"}]}]
+bf:["$","p",null,{"children":"List screening reports, optionally filtered by account ID or reference ID. Results are cursor-paginated."}]
+c0:["$","$L40",null,{"as":"h4","id":"entrada-22","children":"Entrada"}]
+c1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"accountId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by account ID (starts with act_)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"referenceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by reference ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of reports to return per page (1-100, default 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageAfter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Pagination cursor: return reports after this report ID"}]]}]]}]]}]}]
+c2:["$","$L40",null,{"as":"h4","id":"salida-22","children":"Salida"}]
+c3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"reports"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Reports matching the filters"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextCursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Cursor for the next page (pass as pageAfter), or null on the last page"}]]}]]}]]}]}]
+c4:["$","$L40",null,{"as":"h3","id":"persona_get_verification","children":["$","code",null,{"children":"persona_get_verification"}]}]
+c5:["$","p",null,{"children":"Retrieve a single verification by ID (government ID, selfie, document, database, and more), including its status and the checks that ran."}]
+c6:["$","$L40",null,{"as":"h4","id":"entrada-23","children":"Entrada"}]
+c7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"verificationId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Verification ID to retrieve (starts with ver_)"}]]}]]}]]}]}]
+c8:["$","$L40",null,{"as":"h4","id":"salida-23","children":"Salida"}]
+c9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"verification"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retrieved verification"}]]}]}]]}]}]
+ca:["$","$L40",null,{"as":"h3","id":"persona_get_document","children":["$","code",null,{"children":"persona_get_document"}]}]
+cb:["$","p",null,{"children":"Retrieve a single document by ID (government ID, generic document, and more), including its processing status and uploaded files."}]
+cc:["$","$L40",null,{"as":"h4","id":"entrada-24","children":"Entrada"}]
+cd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"documentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Document ID to retrieve (starts with doc_)"}]]}]]}]]}]}]
+ce:["$","$L40",null,{"as":"h4","id":"salida-24","children":"Salida"}]
+cf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"document"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retrieved document"}]]}]}]]}]}]
+d0:["$","$L40",null,{"as":"h3","id":"persona_list_inquiry_templates","children":["$","code",null,{"children":"persona_list_inquiry_templates"}]}]
+d1:["$","p",null,{"children":"List the inquiry templates in your Persona organization, to discover template IDs for creating inquiries. Results are cursor-paginated."}]
+d2:["$","$L40",null,{"as":"h4","id":"entrada-25","children":"Entrada"}]
+d3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Persona API key"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of templates to return per page (1-100, default 10)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageAfter"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Pagination cursor: return templates after this template ID"}]]}]]}]]}]}]
+d4:["$","$L40",null,{"as":"h4","id":"salida-25","children":"Salida"}]
+d5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"inquiryTemplates"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Inquiry templates in the organization"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextCursor"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Cursor for the next page (pass as pageAfter), or null on the last page"}]]}]]}]]}]}]
+d8:null

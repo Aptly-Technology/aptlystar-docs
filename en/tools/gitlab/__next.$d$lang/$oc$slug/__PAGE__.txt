@@ -1,0 +1,961 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+44:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+45:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+4a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+4b:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+4c:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+4d:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+105:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+106:"$Sreact.suspense"
+108:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+109:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+10a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"GitLab\",\"description\":\"Interact with GitLab projects, issues, merge requests, and pipelines\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/gitlab\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/gitlab\"},\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/gitlab\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"GitLab\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/gitlab\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#gitlab_list_projects","title":["$","code",null,{"children":"gitlab_list_projects"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#gitlab_get_project","title":["$","code",null,{"children":"gitlab_get_project"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#gitlab_list_issues","title":["$","code",null,{"children":"gitlab_list_issues"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#gitlab_get_issue","title":["$","code",null,{"children":"gitlab_get_issue"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#gitlab_create_issue","title":["$","code",null,{"children":"gitlab_create_issue"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#gitlab_update_issue","title":["$","code",null,{"children":"gitlab_update_issue"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#gitlab_delete_issue","title":["$","code",null,{"children":"gitlab_delete_issue"}]},{"depth":4,"url":"#input-6","title":"Input"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#gitlab_create_issue_note","title":["$","code",null,{"children":"gitlab_create_issue_note"}]},{"depth":4,"url":"#input-7","title":"Input"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#gitlab_list_merge_requests","title":["$","code",null,{"children":"gitlab_list_merge_requests"}]},{"depth":4,"url":"#input-8","title":"Input"},{"depth":4,"url":"#output-8","title":"Output"},{"depth":3,"url":"#gitlab_get_merge_request","title":["$","code",null,{"children":"gitlab_get_merge_request"}]},{"depth":4,"url":"#input-9","title":"Input"},{"depth":4,"url":"#output-9","title":"Output"},{"depth":3,"url":"#gitlab_create_merge_request","title":["$","code",null,{"children":"gitlab_create_merge_request"}]},{"depth":4,"url":"#input-10","title":"Input"},{"depth":4,"url":"#output-10","title":"Output"},{"depth":3,"url":"#gitlab_update_merge_request","title":["$","code",null,{"children":"gitlab_update_merge_request"}]},{"depth":4,"url":"#input-11","title":"Input"},{"depth":4,"url":"#output-11","title":"Output"},{"depth":3,"url":"#gitlab_merge_merge_request","title":"$L3"},{"depth":4,"url":"#input-12","title":"$L4"},{"depth":4,"url":"#output-12","title":"$L5"},{"depth":3,"url":"#gitlab_create_merge_request_note","title":"$L6"},{"depth":4,"url":"#input-13","title":"$L7"},{"depth":4,"url":"#output-13","title":"$L8"},{"depth":3,"url":"#gitlab_list_pipelines","title":"$L9"},{"depth":4,"url":"#input-14","title":"$La"},{"depth":4,"url":"#output-14","title":"$Lb"},{"depth":3,"url":"#gitlab_get_pipeline","title":"$Lc"},{"depth":4,"url":"#input-15","title":"$Ld"},{"depth":4,"url":"#output-15","title":"$Le"},{"depth":3,"url":"#gitlab_create_pipeline","title":"$Lf"},{"depth":4,"url":"#input-16","title":"$L10"},{"depth":4,"url":"#output-16","title":"$L11"},{"depth":3,"url":"#gitlab_retry_pipeline","title":"$L12"},{"depth":4,"url":"#input-17","title":"$L13"},{"depth":4,"url":"#output-17","title":"$L14"},{"depth":3,"url":"#gitlab_cancel_pipeline","title":"$L15"},{"depth":4,"url":"#input-18","title":"$L16"},{"depth":4,"url":"#output-18","title":"$L17"},{"depth":3,"url":"#gitlab_list_repository_tree","title":"$L18"},{"depth":4,"url":"#input-19","title":"$L19"},{"depth":4,"url":"#output-19","title":"$L1a"},{"depth":3,"url":"#gitlab_get_file","title":"$L1b"},{"depth":4,"url":"#input-20","title":"$L1c"},{"depth":4,"url":"#output-20","title":"$L1d"},{"depth":3,"url":"#gitlab_create_file","title":"$L1e"},{"depth":4,"url":"#input-21","title":"$L1f"},{"depth":4,"url":"#output-21","title":"$L20"},{"depth":3,"url":"#gitlab_update_file","title":"$L21"},{"depth":4,"url":"#input-22","title":"$L22"},{"depth":4,"url":"#output-22","title":"$L23"},{"depth":3,"url":"#gitlab_create_branch","title":"$L24"},{"depth":4,"url":"#input-23","title":"$L25"},{"depth":4,"url":"#output-23","title":"$L26"},{"depth":3,"url":"#gitlab_list_branches","title":"$L27"},{"depth":4,"url":"#input-24","title":"$L28"},{"depth":4,"url":"#output-24","title":"$L29"},{"depth":3,"url":"#gitlab_list_commits","title":"$L2a"},{"depth":4,"url":"#input-25","title":"$L2b"},{"depth":4,"url":"#output-25","title":"$L2c"},{"depth":3,"url":"#gitlab_get_merge_request_changes","title":"$L2d"},{"depth":4,"url":"#input-26","title":"$L2e"},{"depth":4,"url":"#output-26","title":"$L2f"},{"depth":3,"url":"#gitlab_approve_merge_request","title":"$L30"},{"depth":4,"url":"#input-27","title":"$L31"},{"depth":4,"url":"#output-27","title":"$L32"},{"depth":3,"url":"#gitlab_list_pipeline_jobs","title":"$L33"},{"depth":4,"url":"#input-28","title":"$L34"},{"depth":4,"url":"#output-28","title":"$L35"},{"depth":3,"url":"#gitlab_get_job_log","title":"$L36"},{"depth":4,"url":"#input-29","title":"$L37"},{"depth":4,"url":"#output-29","title":"$L38"},{"depth":3,"url":"#gitlab_play_job","title":"$L39"},{"depth":4,"url":"#input-30","title":"$L3a"},{"depth":4,"url":"#output-30","title":"$L3b"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L3c"},"children":["$L3d","$L3e"]}]],["$L3f","$L40","$L41","$L42"],"$L43"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"gitlab_merge_merge_request"}]
+4:"Input"
+5:"Output"
+6:["$","code",null,{"children":"gitlab_create_merge_request_note"}]
+7:"Input"
+8:"Output"
+9:["$","code",null,{"children":"gitlab_list_pipelines"}]
+a:"Input"
+b:"Output"
+c:["$","code",null,{"children":"gitlab_get_pipeline"}]
+d:"Input"
+e:"Output"
+f:["$","code",null,{"children":"gitlab_create_pipeline"}]
+10:"Input"
+11:"Output"
+12:["$","code",null,{"children":"gitlab_retry_pipeline"}]
+13:"Input"
+14:"Output"
+15:["$","code",null,{"children":"gitlab_cancel_pipeline"}]
+16:"Input"
+17:"Output"
+18:["$","code",null,{"children":"gitlab_list_repository_tree"}]
+19:"Input"
+1a:"Output"
+1b:["$","code",null,{"children":"gitlab_get_file"}]
+1c:"Input"
+1d:"Output"
+1e:["$","code",null,{"children":"gitlab_create_file"}]
+1f:"Input"
+20:"Output"
+21:["$","code",null,{"children":"gitlab_update_file"}]
+22:"Input"
+23:"Output"
+24:["$","code",null,{"children":"gitlab_create_branch"}]
+25:"Input"
+26:"Output"
+27:["$","code",null,{"children":"gitlab_list_branches"}]
+28:"Input"
+29:"Output"
+2a:["$","code",null,{"children":"gitlab_list_commits"}]
+2b:"Input"
+2c:"Output"
+2d:["$","code",null,{"children":"gitlab_get_merge_request_changes"}]
+2e:"Input"
+2f:"Output"
+30:["$","code",null,{"children":"gitlab_approve_merge_request"}]
+31:"Input"
+32:"Output"
+33:["$","code",null,{"children":"gitlab_list_pipeline_jobs"}]
+34:"Input"
+35:"Output"
+36:["$","code",null,{"children":"gitlab_get_job_log"}]
+37:"Input"
+38:"Output"
+39:["$","code",null,{"children":"gitlab_play_job"}]
+3a:"Input"
+3b:"Output"
+3c:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L44",null,{"href":"/en/tools/github","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"GitHub"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L44",null,{"href":"/en/tools/gong","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Gong",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+46:T9e93,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="gitlab" color="#F5F5F5" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[GitLab](https://gitlab.com/) is a comprehensive DevOps platform that allows teams to manage, collaborate on, and automate their software development lifecycle. With GitLab, you can effortlessly handle source code management, CI/CD, reviews, and collaboration in a single application.
+
+With GitLab in Aptlystar, you can:
+
+* **Manage projects and repositories**: List and retrieve your GitLab projects, access details, and organize your repositories
+* **Work with issues**: List, create, and comment on issues to track work and collaborate effectively
+* **Handle merge requests**: Review, create, and manage merge requests for code changes and peer reviews
+* **Automate CI/CD pipelines**: Trigger, monitor, and interact with GitLab pipelines as part of your automation flows
+* **Collaborate with comments**: Add comments to issues or merge requests for efficient communication within your team
+
+Using Aptlystar’s GitLab integration, your agents can programmatically interact with your GitLab projects. Automate project management, issue tracking, code reviews, and pipeline operations seamlessly in your workflows, optimizing your software development process and enhancing collaboration across your team.
+
+{/* MANUAL-CONTENT-END */}
+
+Tools [#tools]
+
+gitlab_list_projects [#gitlab_list_projects]
+
+List GitLab projects accessible to the authenticated user
+
+Input [#input]
+
+| Parameter    | Type    | Required | Description                                                                   |
+| ------------ | ------- | -------- | ----------------------------------------------------------------------------- |
+| `host`       | string  | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com.   |
+| `owned`      | boolean | No       | Limit to projects owned by the current user                                   |
+| `membership` | boolean | No       | Limit to projects the current user is a member of                             |
+| `search`     | string  | No       | Search projects by name                                                       |
+| `visibility` | string  | No       | Filter by visibility (public, internal, private)                              |
+| `orderBy`    | string  | No       | Order by field (id, name, path, created\_at, updated\_at, last\_activity\_at) |
+| `sort`       | string  | No       | Sort direction (asc, desc)                                                    |
+| `perPage`    | number  | No       | Number of results per page (default 20, max 100)                              |
+| `page`       | number  | No       | Page number for pagination                                                    |
+
+Output [#output]
+
+| Parameter  | Type   | Description              |
+| ---------- | ------ | ------------------------ |
+| `projects` | array  | List of GitLab projects  |
+| `total`    | number | Total number of projects |
+
+gitlab_get_project [#gitlab_get_project]
+
+Get details of a specific GitLab project
+
+Input [#input-1]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path (e.g., "namespace/project")                  |
+
+Output [#output-1]
+
+| Parameter | Type   | Description                |
+| --------- | ------ | -------------------------- |
+| `project` | object | The GitLab project details |
+
+gitlab_list_issues [#gitlab_list_issues]
+
+List issues in a GitLab project
+
+Input [#input-2]
+
+| Parameter        | Type   | Required | Description                                                                 |
+| ---------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`           | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`      | string | Yes      | Project ID or URL-encoded path                                              |
+| `state`          | string | No       | Filter by state (opened, closed, all)                                       |
+| `labels`         | string | No       | Comma-separated list of label names                                         |
+| `assigneeId`     | number | No       | Filter by assignee user ID                                                  |
+| `milestoneTitle` | string | No       | Filter by milestone title                                                   |
+| `search`         | string | No       | Search issues by title and description                                      |
+| `orderBy`        | string | No       | Order by field (created\_at, updated\_at)                                   |
+| `sort`           | string | No       | Sort direction (asc, desc)                                                  |
+| `perPage`        | number | No       | Number of results per page (default 20, max 100)                            |
+| `page`           | number | No       | Page number for pagination                                                  |
+
+Output [#output-2]
+
+| Parameter | Type   | Description            |
+| --------- | ------ | ---------------------- |
+| `issues`  | array  | List of GitLab issues  |
+| `total`   | number | Total number of issues |
+
+gitlab_get_issue [#gitlab_get_issue]
+
+Get details of a specific GitLab issue
+
+Input [#input-3]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `issueIid`  | number | Yes      | Issue number within the project (the # shown in GitLab UI)                  |
+
+Output [#output-3]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `issue`   | object | The GitLab issue details |
+
+gitlab_create_issue [#gitlab_create_issue]
+
+Create a new issue in a GitLab project
+
+Input [#input-4]
+
+| Parameter      | Type    | Required | Description                            |
+| -------------- | ------- | -------- | -------------------------------------- |
+| `projectId`    | string  | Yes      | Project ID or URL-encoded path         |
+| `title`        | string  | Yes      | Issue title                            |
+| `description`  | string  | No       | Issue description (Markdown supported) |
+| `labels`       | string  | No       | Comma-separated list of label names    |
+| `assigneeIds`  | array   | No       | Array of user IDs to assign            |
+| `milestoneId`  | number  | No       | Milestone ID to assign                 |
+| `dueDate`      | string  | No       | Due date in YYYY-MM-DD format          |
+| `confidential` | boolean | No       | Whether the issue is confidential      |
+
+Output [#output-4]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `issue`   | object | The created GitLab issue |
+
+gitlab_update_issue [#gitlab_update_issue]
+
+Update an existing issue in a GitLab project
+
+Input [#input-5]
+
+| Parameter      | Type    | Required | Description                                |
+| -------------- | ------- | -------- | ------------------------------------------ |
+| `projectId`    | string  | Yes      | Project ID or URL-encoded path             |
+| `issueIid`     | number  | Yes      | Issue internal ID (IID)                    |
+| `title`        | string  | No       | New issue title                            |
+| `description`  | string  | No       | New issue description (Markdown supported) |
+| `stateEvent`   | string  | No       | State event (close or reopen)              |
+| `labels`       | string  | No       | Comma-separated list of label names        |
+| `assigneeIds`  | array   | No       | Array of user IDs to assign                |
+| `milestoneId`  | number  | No       | Milestone ID to assign                     |
+| `dueDate`      | string  | No       | Due date in YYYY-MM-DD format              |
+| `confidential` | boolean | No       | Whether the issue is confidential          |
+
+Output [#output-5]
+
+| Parameter | Type   | Description              |
+| --------- | ------ | ------------------------ |
+| `issue`   | object | The updated GitLab issue |
+
+gitlab_delete_issue [#gitlab_delete_issue]
+
+Delete an issue from a GitLab project
+
+Input [#input-6]
+
+| Parameter   | Type   | Required | Description                    |
+| ----------- | ------ | -------- | ------------------------------ |
+| `projectId` | string | Yes      | Project ID or URL-encoded path |
+| `issueIid`  | number | Yes      | Issue internal ID (IID)        |
+
+Output [#output-6]
+
+| Parameter | Type    | Description                                |
+| --------- | ------- | ------------------------------------------ |
+| `success` | boolean | Whether the issue was deleted successfully |
+
+gitlab_create_issue_note [#gitlab_create_issue_note]
+
+Add a comment to a GitLab issue
+
+Input [#input-7]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `issueIid`  | number | Yes      | Issue internal ID (IID)                                                     |
+| `body`      | string | Yes      | Comment body (Markdown supported)                                           |
+
+Output [#output-7]
+
+| Parameter | Type   | Description         |
+| --------- | ------ | ------------------- |
+| `note`    | object | The created comment |
+
+gitlab_list_merge_requests [#gitlab_list_merge_requests]
+
+List merge requests in a GitLab project
+
+Input [#input-8]
+
+| Parameter      | Type   | Required | Description                                                                 |
+| -------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`         | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`    | string | Yes      | Project ID or URL-encoded path                                              |
+| `state`        | string | No       | Filter by state (opened, closed, merged, all)                               |
+| `labels`       | string | No       | Comma-separated list of label names                                         |
+| `sourceBranch` | string | No       | Filter by source branch                                                     |
+| `targetBranch` | string | No       | Filter by target branch                                                     |
+| `orderBy`      | string | No       | Order by field (created\_at, updated\_at)                                   |
+| `sort`         | string | No       | Sort direction (asc, desc)                                                  |
+| `perPage`      | number | No       | Number of results per page (default 20, max 100)                            |
+| `page`         | number | No       | Page number for pagination                                                  |
+
+Output [#output-8]
+
+| Parameter       | Type   | Description                    |
+| --------------- | ------ | ------------------------------ |
+| `mergeRequests` | array  | List of GitLab merge requests  |
+| `total`         | number | Total number of merge requests |
+
+gitlab_get_merge_request [#gitlab_get_merge_request]
+
+Get details of a specific GitLab merge request
+
+Input [#input-9]
+
+| Parameter         | Type   | Required | Description                                                                 |
+| ----------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`            | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`       | string | Yes      | Project ID or URL-encoded path                                              |
+| `mergeRequestIid` | number | Yes      | Merge request internal ID (IID)                                             |
+
+Output [#output-9]
+
+| Parameter      | Type   | Description                      |
+| -------------- | ------ | -------------------------------- |
+| `mergeRequest` | object | The GitLab merge request details |
+
+gitlab_create_merge_request [#gitlab_create_merge_request]
+
+Create a new merge request in a GitLab project
+
+Input [#input-10]
+
+| Parameter            | Type    | Required | Description                                                                 |
+| -------------------- | ------- | -------- | --------------------------------------------------------------------------- |
+| `host`               | string  | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`          | string  | Yes      | Project ID or URL-encoded path                                              |
+| `sourceBranch`       | string  | Yes      | Source branch name                                                          |
+| `targetBranch`       | string  | Yes      | Target branch name                                                          |
+| `title`              | string  | Yes      | Merge request title                                                         |
+| `description`        | string  | No       | Merge request description (Markdown supported)                              |
+| `labels`             | string  | No       | Comma-separated list of label names                                         |
+| `assigneeIds`        | array   | No       | Array of user IDs to assign                                                 |
+| `milestoneId`        | number  | No       | Milestone ID to assign                                                      |
+| `removeSourceBranch` | boolean | No       | Delete source branch after merge                                            |
+| `squash`             | boolean | No       | Squash commits on merge                                                     |
+| `draft`              | boolean | No       | Mark as draft (work in progress)                                            |
+
+Output [#output-10]
+
+| Parameter      | Type   | Description                      |
+| -------------- | ------ | -------------------------------- |
+| `mergeRequest` | object | The created GitLab merge request |
+
+gitlab_update_merge_request [#gitlab_update_merge_request]
+
+Update an existing merge request in a GitLab project
+
+Input [#input-11]
+
+| Parameter            | Type    | Required | Description                                                                 |
+| -------------------- | ------- | -------- | --------------------------------------------------------------------------- |
+| `host`               | string  | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`          | string  | Yes      | Project ID or URL-encoded path                                              |
+| `mergeRequestIid`    | number  | Yes      | Merge request internal ID (IID)                                             |
+| `title`              | string  | No       | New merge request title                                                     |
+| `description`        | string  | No       | New merge request description                                               |
+| `stateEvent`         | string  | No       | State event (close or reopen)                                               |
+| `labels`             | string  | No       | Comma-separated list of label names                                         |
+| `assigneeIds`        | array   | No       | Array of user IDs to assign                                                 |
+| `milestoneId`        | number  | No       | Milestone ID to assign                                                      |
+| `targetBranch`       | string  | No       | New target branch                                                           |
+| `removeSourceBranch` | boolean | No       | Delete source branch after merge                                            |
+| `squash`             | boolean | No       | Squash commits on merge                                                     |
+| `draft`              | boolean | No       | Mark as draft (work in progress)                                            |
+
+Output [#output-11]
+
+| Parameter      | Type   | Description                      |
+| -------------- | ------ | -------------------------------- |
+| `mergeRequest` | object | The updated GitLab merge request |
+
+gitlab_merge_merge_request [#gitlab_merge_merge_request]
+
+Merge a merge request in a GitLab project
+
+Input [#input-12]
+
+| Parameter                   | Type    | Required | Description                                                                 |
+| --------------------------- | ------- | -------- | --------------------------------------------------------------------------- |
+| `host`                      | string  | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`                 | string  | Yes      | Project ID or URL-encoded path                                              |
+| `mergeRequestIid`           | number  | Yes      | Merge request internal ID (IID)                                             |
+| `mergeCommitMessage`        | string  | No       | Custom merge commit message                                                 |
+| `squashCommitMessage`       | string  | No       | Custom squash commit message                                                |
+| `squash`                    | boolean | No       | Squash commits before merging                                               |
+| `shouldRemoveSourceBranch`  | boolean | No       | Delete source branch after merge                                            |
+| `mergeWhenPipelineSucceeds` | boolean | No       | Merge when pipeline succeeds                                                |
+
+Output [#output-12]
+
+| Parameter      | Type   | Description                     |
+| -------------- | ------ | ------------------------------- |
+| `mergeRequest` | object | The merged GitLab merge request |
+
+gitlab_create_merge_request_note [#gitlab_create_merge_request_note]
+
+Add a comment to a GitLab merge request
+
+Input [#input-13]
+
+| Parameter         | Type   | Required | Description                                                                 |
+| ----------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`            | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`       | string | Yes      | Project ID or URL-encoded path                                              |
+| `mergeRequestIid` | number | Yes      | Merge request internal ID (IID)                                             |
+| `body`            | string | Yes      | Comment body (Markdown supported)                                           |
+
+Output [#output-13]
+
+| Parameter | Type   | Description         |
+| --------- | ------ | ------------------- |
+| `note`    | object | The created comment |
+
+gitlab_list_pipelines [#gitlab_list_pipelines]
+
+List pipelines in a GitLab project
+
+Input [#input-14]
+
+| Parameter   | Type   | Required | Description                                                                                                                            |
+| ----------- | ------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com.                                                            |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                                                                                         |
+| `ref`       | string | No       | Filter by ref (branch or tag)                                                                                                          |
+| `status`    | string | No       | Filter by status (created, waiting\_for\_resource, preparing, pending, running, success, failed, canceled, skipped, manual, scheduled) |
+| `orderBy`   | string | No       | Order by field (id, status, ref, updated\_at, user\_id)                                                                                |
+| `sort`      | string | No       | Sort direction (asc, desc)                                                                                                             |
+| `perPage`   | number | No       | Number of results per page (default 20, max 100)                                                                                       |
+| `page`      | number | No       | Page number for pagination                                                                                                             |
+
+Output [#output-14]
+
+| Parameter   | Type   | Description               |
+| ----------- | ------ | ------------------------- |
+| `pipelines` | array  | List of GitLab pipelines  |
+| `total`     | number | Total number of pipelines |
+
+gitlab_get_pipeline [#gitlab_get_pipeline]
+
+Get details of a specific GitLab pipeline
+
+Input [#input-15]
+
+| Parameter    | Type   | Required | Description                    |
+| ------------ | ------ | -------- | ------------------------------ |
+| `projectId`  | string | Yes      | Project ID or URL-encoded path |
+| `pipelineId` | number | Yes      | Pipeline ID                    |
+
+Output [#output-15]
+
+| Parameter  | Type   | Description                 |
+| ---------- | ------ | --------------------------- |
+| `pipeline` | object | The GitLab pipeline details |
+
+gitlab_create_pipeline [#gitlab_create_pipeline]
+
+Trigger a new pipeline in a GitLab project
+
+Input [#input-16]
+
+| Parameter   | Type   | Required | Description                                                                             |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com.             |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                                          |
+| `ref`       | string | Yes      | Branch or tag to run the pipeline on                                                    |
+| `variables` | array  | No       | Array of variables for the pipeline (each with key, value, and optional variable\_type) |
+
+Output [#output-16]
+
+| Parameter  | Type   | Description                 |
+| ---------- | ------ | --------------------------- |
+| `pipeline` | object | The created GitLab pipeline |
+
+gitlab_retry_pipeline [#gitlab_retry_pipeline]
+
+Retry a failed GitLab pipeline
+
+Input [#input-17]
+
+| Parameter    | Type   | Required | Description                                                                 |
+| ------------ | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`       | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`  | string | Yes      | Project ID or URL-encoded path                                              |
+| `pipelineId` | number | Yes      | Pipeline ID                                                                 |
+
+Output [#output-17]
+
+| Parameter  | Type   | Description                 |
+| ---------- | ------ | --------------------------- |
+| `pipeline` | object | The retried GitLab pipeline |
+
+gitlab_cancel_pipeline [#gitlab_cancel_pipeline]
+
+Cancel a running GitLab pipeline
+
+Input [#input-18]
+
+| Parameter    | Type   | Required | Description                                                                 |
+| ------------ | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`       | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`  | string | Yes      | Project ID or URL-encoded path                                              |
+| `pipelineId` | number | Yes      | Pipeline ID                                                                 |
+
+Output [#output-18]
+
+| Parameter  | Type   | Description                   |
+| ---------- | ------ | ----------------------------- |
+| `pipeline` | object | The cancelled GitLab pipeline |
+
+gitlab_list_repository_tree [#gitlab_list_repository_tree]
+
+List files and directories in a GitLab project repository
+
+Input [#input-19]
+
+| Parameter   | Type    | Required | Description                                                                 |
+| ----------- | ------- | -------- | --------------------------------------------------------------------------- |
+| `host`      | string  | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string  | Yes      | Project ID or URL-encoded path                                              |
+| `path`      | string  | No       | Path inside the repository to list                                          |
+| `ref`       | string  | No       | Branch, tag, or commit SHA to list from                                     |
+| `recursive` | boolean | No       | Whether to list files recursively                                           |
+| `perPage`   | number  | No       | Number of results per page (default 20, max 100)                            |
+| `page`      | number  | No       | Page number for pagination                                                  |
+
+Output [#output-19]
+
+| Parameter | Type   | Description                     |
+| --------- | ------ | ------------------------------- |
+| `tree`    | array  | List of repository tree entries |
+| `total`   | number | Total number of tree entries    |
+
+gitlab_get_file [#gitlab_get_file]
+
+Get the contents of a file from a GitLab project repository
+
+Input [#input-20]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `filePath`  | string | Yes      | Path to the file in the repository                                          |
+| `ref`       | string | Yes      | Branch, tag, or commit SHA                                                  |
+
+Output [#output-20]
+
+| Parameter      | Type   | Description                               |
+| -------------- | ------ | ----------------------------------------- |
+| `filePath`     | string | The file path                             |
+| `fileName`     | string | The file name                             |
+| `size`         | number | The file size in bytes                    |
+| `ref`          | string | The branch, tag, or commit SHA            |
+| `blobId`       | string | The blob ID                               |
+| `lastCommitId` | string | The last commit ID that modified the file |
+| `content`      | string | The decoded file content                  |
+
+gitlab_create_file [#gitlab_create_file]
+
+Create a new file in a GitLab project repository
+
+Input [#input-21]
+
+| Parameter       | Type   | Required | Description                                                                 |
+| --------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`          | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`     | string | Yes      | Project ID or URL-encoded path                                              |
+| `filePath`      | string | Yes      | Path to the file in the repository                                          |
+| `branch`        | string | Yes      | Branch to commit the new file to                                            |
+| `content`       | string | Yes      | File content                                                                |
+| `commitMessage` | string | Yes      | Commit message                                                              |
+
+Output [#output-21]
+
+| Parameter  | Type   | Description                          |
+| ---------- | ------ | ------------------------------------ |
+| `filePath` | string | The created file path                |
+| `branch`   | string | The branch the file was committed to |
+
+gitlab_update_file [#gitlab_update_file]
+
+Update an existing file in a GitLab project repository
+
+Input [#input-22]
+
+| Parameter       | Type   | Required | Description                                                                 |
+| --------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`          | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`     | string | Yes      | Project ID or URL-encoded path                                              |
+| `filePath`      | string | Yes      | Path to the file in the repository                                          |
+| `branch`        | string | Yes      | Branch to commit the update to                                              |
+| `content`       | string | Yes      | New file content                                                            |
+| `commitMessage` | string | Yes      | Commit message                                                              |
+| `lastCommitId`  | string | No       | Last known commit ID for the file (optimistic locking)                      |
+
+Output [#output-22]
+
+| Parameter  | Type   | Description                            |
+| ---------- | ------ | -------------------------------------- |
+| `filePath` | string | The updated file path                  |
+| `branch`   | string | The branch the update was committed to |
+
+gitlab_create_branch [#gitlab_create_branch]
+
+Create a new branch in a GitLab project repository
+
+Input [#input-23]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `branch`    | string | Yes      | Name of the new branch                                                      |
+| `ref`       | string | Yes      | Source branch/tag/SHA                                                       |
+
+Output [#output-23]
+
+| Parameter   | Type    | Description                     |
+| ----------- | ------- | ------------------------------- |
+| `name`      | string  | The created branch name         |
+| `webUrl`    | string  | The web URL of the branch       |
+| `protected` | boolean | Whether the branch is protected |
+| `commit`    | object  | The commit the branch points to |
+
+gitlab_list_branches [#gitlab_list_branches]
+
+List branches in a GitLab project repository
+
+Input [#input-24]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `search`    | string | No       | Filter branches by name                                                     |
+| `perPage`   | number | No       | Number of results per page (default 20, max 100)                            |
+| `page`      | number | No       | Page number for pagination                                                  |
+
+Output [#output-24]
+
+| Parameter  | Type   | Description              |
+| ---------- | ------ | ------------------------ |
+| `branches` | array  | List of branches         |
+| `total`    | number | Total number of branches |
+
+gitlab_list_commits [#gitlab_list_commits]
+
+List commits in a GitLab project repository
+
+Input [#input-25]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `refName`   | string | No       | Branch, tag, or revision range to list commits from                         |
+| `since`     | string | No       | Only commits after this ISO 8601 date                                       |
+| `until`     | string | No       | Only commits before this ISO 8601 date                                      |
+| `path`      | string | No       | Only commits affecting this file path                                       |
+| `author`    | string | No       | Filter commits by author                                                    |
+| `perPage`   | number | No       | Number of results per page (default 20, max 100)                            |
+| `page`      | number | No       | Page number for pagination                                                  |
+
+Output [#output-25]
+
+| Parameter | Type   | Description             |
+| --------- | ------ | ----------------------- |
+| `commits` | array  | List of commits         |
+| `total`   | number | Total number of commits |
+
+gitlab_get_merge_request_changes [#gitlab_get_merge_request_changes]
+
+Get the file changes (diffs) of a GitLab merge request
+
+Input [#input-26]
+
+| Parameter         | Type   | Required | Description                                                                 |
+| ----------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`            | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`       | string | Yes      | Project ID or URL-encoded path                                              |
+| `mergeRequestIid` | number | Yes      | Merge request internal ID (IID)                                             |
+
+Output [#output-26]
+
+| Parameter         | Type   | Description                         |
+| ----------------- | ------ | ----------------------------------- |
+| `mergeRequestIid` | number | The merge request internal ID (IID) |
+| `changes`         | array  | List of file changes (diffs)        |
+| `changesCount`    | number | Number of changed files returned    |
+
+gitlab_approve_merge_request [#gitlab_approve_merge_request]
+
+Approve a GitLab merge request
+
+Input [#input-27]
+
+| Parameter         | Type   | Required | Description                                                                 |
+| ----------------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`            | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`       | string | Yes      | Project ID or URL-encoded path                                              |
+| `mergeRequestIid` | number | Yes      | Merge request internal ID (IID)                                             |
+| `sha`             | string | No       | HEAD SHA of the merge request to approve                                    |
+
+Output [#output-27]
+
+| Parameter           | Type   | Description                      |
+| ------------------- | ------ | -------------------------------- |
+| `approvalsRequired` | number | Number of approvals required     |
+| `approvalsLeft`     | number | Number of approvals still needed |
+| `approvedBy`        | array  | List of approvers                |
+
+gitlab_list_pipeline_jobs [#gitlab_list_pipeline_jobs]
+
+List jobs for a GitLab pipeline
+
+Input [#input-28]
+
+| Parameter        | Type    | Required | Description                                                                 |
+| ---------------- | ------- | -------- | --------------------------------------------------------------------------- |
+| `host`           | string  | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId`      | string  | Yes      | Project ID or URL-encoded path                                              |
+| `pipelineId`     | number  | Yes      | Pipeline ID                                                                 |
+| `scope`          | string  | No       | Filter jobs by scope (e.g. created, running, success, failed)               |
+| `includeRetried` | boolean | No       | Whether to include retried jobs                                             |
+| `perPage`        | number  | No       | Number of results per page (default 20, max 100)                            |
+| `page`           | number  | No       | Page number for pagination                                                  |
+
+Output [#output-28]
+
+| Parameter | Type   | Description           |
+| --------- | ------ | --------------------- |
+| `jobs`    | array  | List of pipeline jobs |
+| `total`   | number | Total number of jobs  |
+
+gitlab_get_job_log [#gitlab_get_job_log]
+
+Get the log (trace) of a GitLab job
+
+Input [#input-29]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `jobId`     | number | Yes      | Job ID                                                                      |
+
+Output [#output-29]
+
+| Parameter | Type   | Description                |
+| --------- | ------ | -------------------------- |
+| `log`     | string | The job log (trace) output |
+
+gitlab_play_job [#gitlab_play_job]
+
+Trigger (play) a manual GitLab job
+
+Input [#input-30]
+
+| Parameter   | Type   | Required | Description                                                                 |
+| ----------- | ------ | -------- | --------------------------------------------------------------------------- |
+| `host`      | string | No       | Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com. |
+| `projectId` | string | Yes      | Project ID or URL-encoded path                                              |
+| `jobId`     | number | Yes      | Job ID                                                                      |
+
+Output [#output-30]
+
+| Parameter | Type   | Description            |
+| --------- | ------ | ---------------------- |
+| `id`      | number | The job ID             |
+| `name`    | string | The job name           |
+| `status`  | string | The job status         |
+| `webUrl`  | string | The web URL of the job |
+3d:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L45",null,{"content":"$46"}]}],"$L47"]}],"$L48","$L49"]}]
+3e:["$","$L4a",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L4b",null,{"type":"gitlab","color":"#F5F5F5"}],"\n","\n",["$","p",null,{"children":[["$","$L4c",null,{"href":"https://gitlab.com/","children":"GitLab"}]," is a comprehensive DevOps platform that allows teams to manage, collaborate on, and automate their software development lifecycle. With GitLab, you can effortlessly handle source code management, CI/CD, reviews, and collaboration in a single application."]}],"\n",["$","p",null,{"children":"With GitLab in Aptlystar, you can:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Manage projects and repositories"}],": List and retrieve your GitLab projects, access details, and organize your repositories"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Work with issues"}],": List, create, and comment on issues to track work and collaborate effectively"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Handle merge requests"}],": Review, create, and manage merge requests for code changes and peer reviews"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Automate CI/CD pipelines"}],": Trigger, monitor, and interact with GitLab pipelines as part of your automation flows"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Collaborate with comments"}],": Add comments to issues or merge requests for efficient communication within your team"]}],"\n"]}],"\n",["$","p",null,{"children":"Using Aptlystar’s GitLab integration, your agents can programmatically interact with your GitLab projects. Automate project management, issue tracking, code reviews, and pipeline operations seamlessly in your workflows, optimizing your software development process and enhancing collaboration across your team."}],"\n","\n",["$","$L4d",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L4d",null,{"as":"h3","id":"gitlab_list_projects","children":["$","code",null,{"children":"gitlab_list_projects"}]}],"\n",["$","p",null,{"children":"List GitLab projects accessible to the authenticated user"}],"\n",["$","$L4d",null,{"as":"h4","id":"input","children":"Input"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owned"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Limit to projects owned by the current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"membership"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Limit to projects the current user is a member of"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Search projects by name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"visibility"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by visibility (public, internal, private)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Order by field (id, name, path, created_at, updated_at, last_activity_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Sort direction (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],"$L4e"]}]]}]}],"\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6","\n","$Le7","\n","$Le8","\n","$Le9","\n","$Lea","\n","$Leb","\n","$Lec","\n","$Led","\n","$Lee","\n","$Lef","\n","$Lf0","\n","$Lf1","\n","$Lf2","\n","$Lf3","\n","$Lf4","\n","$Lf5","\n","$Lf6","\n","$Lf7","\n","$Lf8","\n","$Lf9","\n","$Lfa","\n","$Lfb","\n","$Lfc","\n","$Lfd","\n","$Lfe","\n","$Lff","\n","$L100","\n","$L101","\n","$L102","\n","$L103","\n","$L104"]}]}]
+3f:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+40:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+41:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+42:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+43:["$","$L105",null,{"children":["$","$106",null,{"name":"Next.MetadataOutlet","children":"$@107"}]}]
+47:["$","$L108",null,{"previous":{"$id":"en:tools/github.mdx","type":"page","name":"GitHub","description":"Interact with GitHub or trigger workflows from GitHub events","url":"/en/tools/github","$ref":{"file":"tools/github.mdx"}},"next":{"$id":"en:tools/gong.mdx","type":"page","name":"Gong","description":"Revenue intelligence and conversation analytics","url":"/en/tools/gong","$ref":{"file":"tools/gong.mdx"}}}]
+48:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"24","height":"24","viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z","fill":"#FC6D26"}],["$","path",null,{"d":"M12 22.13L16.05 9.67H7.95L12 22.13z","fill":"#E24329"}],["$","path",null,{"d":"M12 22.13L7.95 9.67H1.69L12 22.13z","fill":"#FC6D26"}],["$","path",null,{"d":"M1.69 9.67L.47 13.45a.84.84 0 0 0 .3.94L12 22.13 1.69 9.67z","fill":"#FCA326"}],["$","path",null,{"d":"M1.69 9.67H7.95L5.51 2.16A.42.42 0 0 0 4.93 2a.42.42 0 0 0-.11.18L1.69 9.67z","fill":"#E24329"}],["$","path",null,{"d":"M12 22.13L16.05 9.67H22.31L12 22.13z","fill":"#FC6D26"}],["$","path",null,{"d":"M22.31 9.67L23.53 13.45a.84.84 0 0 1-.3.94L12 22.13 22.31 9.67z","fill":"#FCA326"}],["$","path",null,{"d":"M22.31 9.67H16.05l2.44-7.51A.42.42 0 0 1 19.07 2a.42.42 0 0 1 .11.18l3.13 7.49z","fill":"#E24329"}]]}]}],["$","$L109",null,{"className":"mb-0 min-w-0 flex-1","children":"GitLab"}]]}]
+49:["$","$L10a",null,{"children":"Interact with GitLab projects, issues, merge requests, and pipelines"}]
+4e:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]
+4f:["$","$L4d",null,{"as":"h4","id":"output","children":"Output"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projects"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of GitLab projects"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of projects"}]]}]]}]]}]}]
+51:["$","$L4d",null,{"as":"h3","id":"gitlab_get_project","children":["$","code",null,{"children":"gitlab_get_project"}]}]
+52:["$","p",null,{"children":"Get details of a specific GitLab project"}]
+53:["$","$L4d",null,{"as":"h4","id":"input-1","children":"Input"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path (e.g., \"namespace/project\")"}]]}]]}]]}]}]
+55:["$","$L4d",null,{"as":"h4","id":"output-1","children":"Output"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"project"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The GitLab project details"}]]}]}]]}]}]
+57:["$","$L4d",null,{"as":"h3","id":"gitlab_list_issues","children":["$","code",null,{"children":"gitlab_list_issues"}]}]
+58:["$","p",null,{"children":"List issues in a GitLab project"}]
+59:["$","$L4d",null,{"as":"h4","id":"input-2","children":"Input"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by state (opened, closed, all)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of label names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by assignee user ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneTitle"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by milestone title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Search issues by title and description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Order by field (created_at, updated_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Sort direction (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+5b:["$","$L4d",null,{"as":"h4","id":"output-2","children":"Output"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of GitLab issues"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of issues"}]]}]]}]]}]}]
+5d:["$","$L4d",null,{"as":"h3","id":"gitlab_get_issue","children":["$","code",null,{"children":"gitlab_get_issue"}]}]
+5e:["$","p",null,{"children":"Get details of a specific GitLab issue"}]
+5f:["$","$L4d",null,{"as":"h4","id":"input-3","children":"Input"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Issue number within the project (the # shown in GitLab UI)"}]]}]]}]]}]}]
+61:["$","$L4d",null,{"as":"h4","id":"output-3","children":"Output"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The GitLab issue details"}]]}]}]]}]}]
+63:["$","$L4d",null,{"as":"h3","id":"gitlab_create_issue","children":["$","code",null,{"children":"gitlab_create_issue"}]}]
+64:["$","p",null,{"children":"Create a new issue in a GitLab project"}]
+65:["$","$L4d",null,{"as":"h4","id":"input-4","children":"Input"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Issue title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Issue description (Markdown supported)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of label names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array of user IDs to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Milestone ID to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dueDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Due date in YYYY-MM-DD format"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidential"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether the issue is confidential"}]]}]]}]]}]}]
+67:["$","$L4d",null,{"as":"h4","id":"output-4","children":"Output"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created GitLab issue"}]]}]}]]}]}]
+69:["$","$L4d",null,{"as":"h3","id":"gitlab_update_issue","children":["$","code",null,{"children":"gitlab_update_issue"}]}]
+6a:["$","p",null,{"children":"Update an existing issue in a GitLab project"}]
+6b:["$","$L4d",null,{"as":"h4","id":"input-5","children":"Input"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Issue internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New issue title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New issue description (Markdown supported)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stateEvent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"State event (close or reopen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of label names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array of user IDs to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Milestone ID to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dueDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Due date in YYYY-MM-DD format"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidential"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether the issue is confidential"}]]}]]}]]}]}]
+6d:["$","$L4d",null,{"as":"h4","id":"output-5","children":"Output"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The updated GitLab issue"}]]}]}]]}]}]
+6f:["$","$L4d",null,{"as":"h3","id":"gitlab_delete_issue","children":["$","code",null,{"children":"gitlab_delete_issue"}]}]
+70:["$","p",null,{"children":"Delete an issue from a GitLab project"}]
+71:["$","$L4d",null,{"as":"h4","id":"input-6","children":"Input"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Issue internal ID (IID)"}]]}]]}]]}]}]
+73:["$","$L4d",null,{"as":"h4","id":"output-6","children":"Output"}]
+74:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the issue was deleted successfully"}]]}]}]]}]}]
+75:["$","$L4d",null,{"as":"h3","id":"gitlab_create_issue_note","children":["$","code",null,{"children":"gitlab_create_issue_note"}]}]
+76:["$","p",null,{"children":"Add a comment to a GitLab issue"}]
+77:["$","$L4d",null,{"as":"h4","id":"input-7","children":"Input"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Issue internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Comment body (Markdown supported)"}]]}]]}]]}]}]
+79:["$","$L4d",null,{"as":"h4","id":"output-7","children":"Output"}]
+7a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created comment"}]]}]}]]}]}]
+7b:["$","$L4d",null,{"as":"h3","id":"gitlab_list_merge_requests","children":["$","code",null,{"children":"gitlab_list_merge_requests"}]}]
+7c:["$","p",null,{"children":"List merge requests in a GitLab project"}]
+7d:["$","$L4d",null,{"as":"h4","id":"input-8","children":"Input"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by state (opened, closed, merged, all)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of label names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by source branch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by target branch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Order by field (created_at, updated_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Sort direction (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+7f:["$","$L4d",null,{"as":"h4","id":"output-8","children":"Output"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequests"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of GitLab merge requests"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of merge requests"}]]}]]}]]}]}]
+81:["$","$L4d",null,{"as":"h3","id":"gitlab_get_merge_request","children":["$","code",null,{"children":"gitlab_get_merge_request"}]}]
+82:["$","p",null,{"children":"Get details of a specific GitLab merge request"}]
+83:["$","$L4d",null,{"as":"h4","id":"input-9","children":"Input"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request internal ID (IID)"}]]}]]}]]}]}]
+85:["$","$L4d",null,{"as":"h4","id":"output-9","children":"Output"}]
+86:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The GitLab merge request details"}]]}]}]]}]}]
+87:["$","$L4d",null,{"as":"h3","id":"gitlab_create_merge_request","children":["$","code",null,{"children":"gitlab_create_merge_request"}]}]
+88:["$","p",null,{"children":"Create a new merge request in a GitLab project"}]
+89:["$","$L4d",null,{"as":"h4","id":"input-10","children":"Input"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Source branch name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Target branch name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Merge request description (Markdown supported)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of label names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array of user IDs to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Milestone ID to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Delete source branch after merge"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Squash commits on merge"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Mark as draft (work in progress)"}]]}]]}]]}]}]
+8b:["$","$L4d",null,{"as":"h4","id":"output-10","children":"Output"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created GitLab merge request"}]]}]}]]}]}]
+8d:["$","$L4d",null,{"as":"h3","id":"gitlab_update_merge_request","children":["$","code",null,{"children":"gitlab_update_merge_request"}]}]
+8e:["$","p",null,{"children":"Update an existing merge request in a GitLab project"}]
+8f:["$","$L4d",null,{"as":"h4","id":"input-11","children":"Input"}]
+90:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New merge request title"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New merge request description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stateEvent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"State event (close or reopen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of label names"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array of user IDs to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Milestone ID to assign"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New target branch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Delete source branch after merge"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Squash commits on merge"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Mark as draft (work in progress)"}]]}]]}]]}]}]
+91:["$","$L4d",null,{"as":"h4","id":"output-11","children":"Output"}]
+92:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The updated GitLab merge request"}]]}]}]]}]}]
+93:["$","$L4d",null,{"as":"h3","id":"gitlab_merge_merge_request","children":["$","code",null,{"children":"gitlab_merge_merge_request"}]}]
+94:["$","p",null,{"children":"Merge a merge request in a GitLab project"}]
+95:["$","$L4d",null,{"as":"h4","id":"input-12","children":"Input"}]
+96:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeCommitMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Custom merge commit message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squashCommitMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Custom squash commit message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Squash commits before merging"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shouldRemoveSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Delete source branch after merge"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeWhenPipelineSucceeds"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Merge when pipeline succeeds"}]]}]]}]]}]}]
+97:["$","$L4d",null,{"as":"h4","id":"output-12","children":"Output"}]
+98:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The merged GitLab merge request"}]]}]}]]}]}]
+99:["$","$L4d",null,{"as":"h3","id":"gitlab_create_merge_request_note","children":["$","code",null,{"children":"gitlab_create_merge_request_note"}]}]
+9a:["$","p",null,{"children":"Add a comment to a GitLab merge request"}]
+9b:["$","$L4d",null,{"as":"h4","id":"input-13","children":"Input"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Comment body (Markdown supported)"}]]}]]}]]}]}]
+9d:["$","$L4d",null,{"as":"h4","id":"output-13","children":"Output"}]
+9e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created comment"}]]}]}]]}]}]
+9f:["$","$L4d",null,{"as":"h3","id":"gitlab_list_pipelines","children":["$","code",null,{"children":"gitlab_list_pipelines"}]}]
+a0:["$","p",null,{"children":"List pipelines in a GitLab project"}]
+a1:["$","$L4d",null,{"as":"h4","id":"input-14","children":"Input"}]
+a2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by ref (branch or tag)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter by status (created, waiting_for_resource, preparing, pending, running, success, failed, canceled, skipped, manual, scheduled)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Order by field (id, status, ref, updated_at, user_id)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Sort direction (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+a3:["$","$L4d",null,{"as":"h4","id":"output-14","children":"Output"}]
+a4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelines"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of GitLab pipelines"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of pipelines"}]]}]]}]]}]}]
+a5:["$","$L4d",null,{"as":"h3","id":"gitlab_get_pipeline","children":["$","code",null,{"children":"gitlab_get_pipeline"}]}]
+a6:["$","p",null,{"children":"Get details of a specific GitLab pipeline"}]
+a7:["$","$L4d",null,{"as":"h4","id":"input-15","children":"Input"}]
+a8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Pipeline ID"}]]}]]}]]}]}]
+a9:["$","$L4d",null,{"as":"h4","id":"output-15","children":"Output"}]
+aa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The GitLab pipeline details"}]]}]}]]}]}]
+ab:["$","$L4d",null,{"as":"h3","id":"gitlab_create_pipeline","children":["$","code",null,{"children":"gitlab_create_pipeline"}]}]
+ac:["$","p",null,{"children":"Trigger a new pipeline in a GitLab project"}]
+ad:["$","$L4d",null,{"as":"h4","id":"input-16","children":"Input"}]
+ae:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Branch or tag to run the pipeline on"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"variables"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array of variables for the pipeline (each with key, value, and optional variable_type)"}]]}]]}]]}]}]
+af:["$","$L4d",null,{"as":"h4","id":"output-16","children":"Output"}]
+b0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The created GitLab pipeline"}]]}]}]]}]}]
+b1:["$","$L4d",null,{"as":"h3","id":"gitlab_retry_pipeline","children":["$","code",null,{"children":"gitlab_retry_pipeline"}]}]
+b2:["$","p",null,{"children":"Retry a failed GitLab pipeline"}]
+b3:["$","$L4d",null,{"as":"h4","id":"input-17","children":"Input"}]
+b4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Pipeline ID"}]]}]]}]]}]}]
+b5:["$","$L4d",null,{"as":"h4","id":"output-17","children":"Output"}]
+b6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The retried GitLab pipeline"}]]}]}]]}]}]
+b7:["$","$L4d",null,{"as":"h3","id":"gitlab_cancel_pipeline","children":["$","code",null,{"children":"gitlab_cancel_pipeline"}]}]
+b8:["$","p",null,{"children":"Cancel a running GitLab pipeline"}]
+b9:["$","$L4d",null,{"as":"h4","id":"input-18","children":"Input"}]
+ba:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Pipeline ID"}]]}]]}]]}]}]
+bb:["$","$L4d",null,{"as":"h4","id":"output-18","children":"Output"}]
+bc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The cancelled GitLab pipeline"}]]}]}]]}]}]
+bd:["$","$L4d",null,{"as":"h3","id":"gitlab_list_repository_tree","children":["$","code",null,{"children":"gitlab_list_repository_tree"}]}]
+be:["$","p",null,{"children":"List files and directories in a GitLab project repository"}]
+bf:["$","$L4d",null,{"as":"h4","id":"input-19","children":"Input"}]
+c0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Path inside the repository to list"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Branch, tag, or commit SHA to list from"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recursive"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to list files recursively"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+c1:["$","$L4d",null,{"as":"h4","id":"output-19","children":"Output"}]
+c2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tree"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of repository tree entries"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of tree entries"}]]}]]}]]}]}]
+c3:["$","$L4d",null,{"as":"h3","id":"gitlab_get_file","children":["$","code",null,{"children":"gitlab_get_file"}]}]
+c4:["$","p",null,{"children":"Get the contents of a file from a GitLab project repository"}]
+c5:["$","$L4d",null,{"as":"h4","id":"input-20","children":"Input"}]
+c6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Path to the file in the repository"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Branch, tag, or commit SHA"}]]}]]}]]}]}]
+c7:["$","$L4d",null,{"as":"h4","id":"output-20","children":"Output"}]
+c8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The file path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The file name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The file size in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The branch, tag, or commit SHA"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"blobId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The blob ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastCommitId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The last commit ID that modified the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The decoded file content"}]]}]]}]]}]}]
+c9:["$","$L4d",null,{"as":"h3","id":"gitlab_create_file","children":["$","code",null,{"children":"gitlab_create_file"}]}]
+ca:["$","p",null,{"children":"Create a new file in a GitLab project repository"}]
+cb:["$","$L4d",null,{"as":"h4","id":"input-21","children":"Input"}]
+cc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Path to the file in the repository"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"branch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Branch to commit the new file to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"File content"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commitMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Commit message"}]]}]]}]]}]}]
+cd:["$","$L4d",null,{"as":"h4","id":"output-21","children":"Output"}]
+ce:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The created file path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"branch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The branch the file was committed to"}]]}]]}]]}]}]
+cf:["$","$L4d",null,{"as":"h3","id":"gitlab_update_file","children":["$","code",null,{"children":"gitlab_update_file"}]}]
+d0:["$","p",null,{"children":"Update an existing file in a GitLab project repository"}]
+d1:["$","$L4d",null,{"as":"h4","id":"input-22","children":"Input"}]
+d2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Path to the file in the repository"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"branch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Branch to commit the update to"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"New file content"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commitMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Commit message"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"lastCommitId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Last known commit ID for the file (optimistic locking)"}]]}]]}]]}]}]
+d3:["$","$L4d",null,{"as":"h4","id":"output-22","children":"Output"}]
+d4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filePath"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The updated file path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"branch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The branch the update was committed to"}]]}]]}]]}]}]
+d5:["$","$L4d",null,{"as":"h3","id":"gitlab_create_branch","children":["$","code",null,{"children":"gitlab_create_branch"}]}]
+d6:["$","p",null,{"children":"Create a new branch in a GitLab project repository"}]
+d7:["$","$L4d",null,{"as":"h4","id":"input-23","children":"Input"}]
+d8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"branch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Name of the new branch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Source branch/tag/SHA"}]]}]]}]]}]}]
+d9:["$","$L4d",null,{"as":"h4","id":"output-23","children":"Output"}]
+da:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The created branch name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"webUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The web URL of the branch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"protected"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the branch is protected"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commit"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"The commit the branch points to"}]]}]]}]]}]}]
+db:["$","$L4d",null,{"as":"h3","id":"gitlab_list_branches","children":["$","code",null,{"children":"gitlab_list_branches"}]}]
+dc:["$","p",null,{"children":"List branches in a GitLab project repository"}]
+dd:["$","$L4d",null,{"as":"h4","id":"input-24","children":"Input"}]
+de:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter branches by name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+df:["$","$L4d",null,{"as":"h4","id":"output-24","children":"Output"}]
+e0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"branches"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of branches"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of branches"}]]}]]}]]}]}]
+e1:["$","$L4d",null,{"as":"h3","id":"gitlab_list_commits","children":["$","code",null,{"children":"gitlab_list_commits"}]}]
+e2:["$","p",null,{"children":"List commits in a GitLab project repository"}]
+e3:["$","$L4d",null,{"as":"h4","id":"input-25","children":"Input"}]
+e4:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Branch, tag, or revision range to list commits from"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"since"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Only commits after this ISO 8601 date"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"until"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Only commits before this ISO 8601 date"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"path"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Only commits affecting this file path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter commits by author"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+e5:["$","$L4d",null,{"as":"h4","id":"output-25","children":"Output"}]
+e6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commits"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of commits"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of commits"}]]}]]}]]}]}]
+e7:["$","$L4d",null,{"as":"h3","id":"gitlab_get_merge_request_changes","children":["$","code",null,{"children":"gitlab_get_merge_request_changes"}]}]
+e8:["$","p",null,{"children":"Get the file changes (diffs) of a GitLab merge request"}]
+e9:["$","$L4d",null,{"as":"h4","id":"input-26","children":"Input"}]
+ea:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request internal ID (IID)"}]]}]]}]]}]}]
+eb:["$","$L4d",null,{"as":"h4","id":"output-26","children":"Output"}]
+ec:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The merge request internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"changes"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of file changes (diffs)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"changesCount"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of changed files returned"}]]}]]}]]}]}]
+ed:["$","$L4d",null,{"as":"h3","id":"gitlab_approve_merge_request","children":["$","code",null,{"children":"gitlab_approve_merge_request"}]}]
+ee:["$","p",null,{"children":"Approve a GitLab merge request"}]
+ef:["$","$L4d",null,{"as":"h4","id":"input-27","children":"Input"}]
+f0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Merge request internal ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sha"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"HEAD SHA of the merge request to approve"}]]}]]}]]}]}]
+f1:["$","$L4d",null,{"as":"h4","id":"output-27","children":"Output"}]
+f2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"approvalsRequired"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of approvals required"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"approvalsLeft"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Number of approvals still needed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"approvedBy"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of approvers"}]]}]]}]]}]}]
+f3:["$","$L4d",null,{"as":"h3","id":"gitlab_list_pipeline_jobs","children":["$","code",null,{"children":"gitlab_list_pipeline_jobs"}]}]
+f4:["$","p",null,{"children":"List jobs for a GitLab pipeline"}]
+f5:["$","$L4d",null,{"as":"h4","id":"input-28","children":"Input"}]
+f6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Pipeline ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scope"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filter jobs by scope (e.g. created, running, success, failed)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeRetried"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to include retried jobs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Number of results per page (default 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Page number for pagination"}]]}]]}]]}]}]
+f7:["$","$L4d",null,{"as":"h4","id":"output-28","children":"Output"}]
+f8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobs"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of pipeline jobs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Total number of jobs"}]]}]]}]]}]}]
+f9:["$","$L4d",null,{"as":"h3","id":"gitlab_get_job_log","children":["$","code",null,{"children":"gitlab_get_job_log"}]}]
+fa:["$","p",null,{"children":"Get the log (trace) of a GitLab job"}]
+fb:["$","$L4d",null,{"as":"h4","id":"input-29","children":"Input"}]
+fc:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Job ID"}]]}]]}]]}]}]
+fd:["$","$L4d",null,{"as":"h4","id":"output-29","children":"Output"}]
+fe:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"log"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The job log (trace) output"}]]}]}]]}]}]
+ff:["$","$L4d",null,{"as":"h3","id":"gitlab_play_job","children":["$","code",null,{"children":"gitlab_play_job"}]}]
+100:["$","p",null,{"children":"Trigger (play) a manual GitLab job"}]
+101:["$","$L4d",null,{"as":"h4","id":"input-30","children":"Input"}]
+102:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Self-managed GitLab host (e.g. gitlab.example.com). Defaults to gitlab.com."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Project ID or URL-encoded path"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"jobId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Job ID"}]]}]]}]]}]}]
+103:["$","$L4d",null,{"as":"h4","id":"output-30","children":"Output"}]
+104:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"The job ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The job name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The job status"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"webUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The web URL of the job"}]]}]]}]]}]}]
+107:null

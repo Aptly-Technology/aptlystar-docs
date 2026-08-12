@@ -1,0 +1,498 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+11:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+16:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+17:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+18:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+19:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+71:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+72:"$Sreact.suspense"
+74:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+75:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+76:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Elasticsearch\",\"description\":\"Busca, indexa y gestiona datos en Elasticsearch\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/elasticsearch\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/elasticsearch\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/elasticsearch\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Elasticsearch\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/elasticsearch\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#elasticsearch_search","title":["$","code",null,{"children":"elasticsearch_search"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#elasticsearch_index_document","title":["$","code",null,{"children":"elasticsearch_index_document"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#elasticsearch_get_document","title":["$","code",null,{"children":"elasticsearch_get_document"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#elasticsearch_update_document","title":["$","code",null,{"children":"elasticsearch_update_document"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#elasticsearch_delete_document","title":["$","code",null,{"children":"elasticsearch_delete_document"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#elasticsearch_bulk","title":["$","code",null,{"children":"elasticsearch_bulk"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#elasticsearch_count","title":["$","code",null,{"children":"elasticsearch_count"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#elasticsearch_create_index","title":["$","code",null,{"children":"elasticsearch_create_index"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#elasticsearch_delete_index","title":["$","code",null,{"children":"elasticsearch_delete_index"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#elasticsearch_get_index","title":["$","code",null,{"children":"elasticsearch_get_index"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#elasticsearch_cluster_health","title":["$","code",null,{"children":"elasticsearch_cluster_health"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#elasticsearch_cluster_stats","title":"$L3"},{"depth":4,"url":"#entrada-11","title":"$L4"},{"depth":4,"url":"#salida-11","title":"$L5"},{"depth":2,"url":"#notas","title":"$L6"},{"depth":4,"url":"#entrada-12","title":"$L7"},{"depth":4,"url":"#salida-12","title":"$L8"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L9"},"children":["$La","$Lb"]}]],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"elasticsearch_cluster_stats"}]
+4:"Entrada"
+5:"Salida"
+6:"Notas"
+7:"Entrada"
+8:"Salida"
+9:null
+12:T678a,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="elasticsearch" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Elasticsearch](https://www.elastic.co/elasticsearch/) es un potente motor de búsqueda y análisis distribuido que te permite indexar, buscar y analizar grandes volúmenes de datos en tiempo real. Es ampliamente utilizado para potenciar funciones de búsqueda, análisis de datos de registros y eventos, observabilidad y más.
+
+Con Elasticsearch en Aptlystar, obtienes acceso programático a las capacidades principales de Elasticsearch, incluyendo:
+
+* **Búsqueda de documentos**: Realiza búsquedas avanzadas en texto estructurado o no estructurado utilizando Query DSL, con soporte para ordenación, paginación y selección de campos.
+* **Indexación de documentos**: Añade nuevos documentos o actualiza los existentes en cualquier índice de Elasticsearch para su recuperación y análisis inmediatos.
+* **Obtener, actualizar o eliminar documentos**: Recupera, modifica o elimina documentos específicos por ID.
+* **Operaciones masivas**: Ejecuta múltiples acciones de indexación o actualización en una sola solicitud para un procesamiento de datos de alto rendimiento.
+* **Gestión de índices**: Crea, elimina u obtén detalles sobre índices como parte de tu automatización de flujo de trabajo.
+* **Monitorización de clústeres**: Comprueba la salud y las estadísticas de tu despliegue de Elasticsearch.
+
+Las herramientas de Elasticsearch de Aptlystar funcionan tanto con entornos autoalojados como con Elastic Cloud. Integra Elasticsearch en tus flujos de trabajo de agentes para automatizar la ingesta de datos, buscar en vastos conjuntos de datos, ejecutar informes o construir aplicaciones personalizadas basadas en búsquedas, todo sin intervención manual.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Integra Elasticsearch en flujos de trabajo para búsquedas potentes, indexación y gestión de datos. Admite operaciones CRUD de documentos, consultas de búsqueda avanzadas, operaciones masivas, gestión de índices y monitorización de clústeres. Funciona tanto con despliegues autoalojados como con Elastic Cloud.
+
+Herramientas [#herramientas]
+
+elasticsearch_search [#elasticsearch_search]
+
+Busca documentos en Elasticsearch usando Query DSL. Devuelve documentos coincidentes con puntuaciones y metadatos.
+
+Entrada [#entrada]
+
+| Parámetro        | Tipo    | Obligatorio | Descripción                                                                    |
+| ---------------- | ------- | ----------- | ------------------------------------------------------------------------------ |
+| `deploymentType` | string  | Sí          | Tipo de despliegue: self\_hosted o cloud                                       |
+| `host`           | string  | No          | URL del host de Elasticsearch (para clúster dedicado)                          |
+| `cloudId`        | string  | No          | ID de Elastic Cloud (para despliegues en la nube)                              |
+| `authMethod`     | string  | Sí          | Método de autenticación: api\_key o basic\_auth                                |
+| `apiKey`         | string  | No          | Clave API de Elasticsearch                                                     |
+| `username`       | string  | No          | Nombre de usuario para autenticación básica                                    |
+| `password`       | string  | No          | Contraseña para autenticación básica                                           |
+| `index`          | string  | Sí          | Nombre del índice para buscar                                                  |
+| `query`          | string  | No          | Query DSL como cadena JSON                                                     |
+| `from`           | number  | No          | Desplazamiento inicial para paginación (predeterminado: 0)                     |
+| `size`           | number  | No          | Número de resultados a devolver (predeterminado: 10)                           |
+| `sort`           | string  | No          | Especificación de ordenación como cadena JSON                                  |
+| `sourceIncludes` | string  | No          | Lista separada por comas de campos a incluir en \_source                       |
+| `sourceExcludes` | string  | No          | Lista separada por comas de campos a excluir de \_source                       |
+| `trackTotalHits` | boolean | No          | Seguimiento preciso del recuento total de coincidencias (predeterminado: true) |
+
+Salida [#salida]
+
+| Parámetro      | Tipo    | Descripción                                                         |
+| -------------- | ------- | ------------------------------------------------------------------- |
+| `took`         | number  | Tiempo en milisegundos que tardó la búsqueda                        |
+| `timed_out`    | boolean | Si la búsqueda agotó el tiempo de espera                            |
+| `hits`         | object  | Resultados de búsqueda con recuento total y documentos coincidentes |
+| `aggregations` | json    | Resultados de agregación si los hay                                 |
+
+elasticsearch_index_document [#elasticsearch_index_document]
+
+Indexar (crear o actualizar) un documento en Elasticsearch.
+
+Entrada [#entrada-1]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                                       |
+| ---------------- | ------ | ----------- | ----------------------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud                          |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado)             |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en cloud)                   |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth                   |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                                        |
+| `username`       | string | No          | Nombre de usuario para autenticación básica                       |
+| `password`       | string | No          | Contraseña para autenticación básica                              |
+| `index`          | string | Sí          | Nombre del índice de destino                                      |
+| `documentId`     | string | No          | ID del documento (se genera automáticamente si no se proporciona) |
+| `document`       | string | Sí          | Cuerpo del documento como cadena JSON                             |
+| `refresh`        | string | No          | Política de actualización: true, false o wait\_for                |
+
+Salida [#salida-1]
+
+| Parámetro  | Tipo   | Descripción                                   |
+| ---------- | ------ | --------------------------------------------- |
+| `_index`   | string | Índice donde se almacenó el documento         |
+| `_id`      | string | ID del documento                              |
+| `_version` | number | Versión del documento                         |
+| `result`   | string | Resultado de la operación (created o updated) |
+
+elasticsearch_get_document [#elasticsearch_get_document]
+
+Recuperar un documento por ID desde Elasticsearch.
+
+Entrada [#entrada-2]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en cloud)       |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+| `index`          | string | Sí          | Nombre del índice                                     |
+| `documentId`     | string | Sí          | ID del documento a recuperar                          |
+| `sourceIncludes` | string | No          | Lista separada por comas de campos a incluir          |
+| `sourceExcludes` | string | No          | Lista separada por comas de campos a excluir          |
+
+Salida [#salida-2]
+
+| Parámetro  | Tipo    | Descripción                    |
+| ---------- | ------- | ------------------------------ |
+| `_index`   | string  | Nombre del índice              |
+| `_id`      | string  | ID del documento               |
+| `_version` | number  | Versión del documento          |
+| `found`    | boolean | Si el documento fue encontrado |
+| `_source`  | json    | Contenido del documento        |
+
+elasticsearch_update_document [#elasticsearch_update_document]
+
+Actualiza parcialmente un documento en Elasticsearch usando la fusión de documentos.
+
+Entrada [#entrada-3]
+
+| Parámetro         | Tipo   | Obligatorio | Descripción                                           |
+| ----------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType`  | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`            | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`         | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`      | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`          | string | No          | Clave API de Elasticsearch                            |
+| `username`        | string | No          | Nombre de usuario para autenticación básica           |
+| `password`        | string | No          | Contraseña para autenticación básica                  |
+| `index`           | string | Sí          | Nombre del índice                                     |
+| `documentId`      | string | Sí          | ID del documento a actualizar                         |
+| `document`        | string | Sí          | Documento parcial para fusionar como cadena JSON      |
+| `retryOnConflict` | number | No          | Número de reintentos en conflicto de versión          |
+
+Salida [#salida-3]
+
+| Parámetro  | Tipo   | Descripción                                |
+| ---------- | ------ | ------------------------------------------ |
+| `_index`   | string | Nombre del índice                          |
+| `_id`      | string | ID del documento                           |
+| `_version` | number | Nueva versión del documento                |
+| `result`   | string | Resultado de la operación (updated o noop) |
+
+elasticsearch_delete_document [#elasticsearch_delete_document]
+
+Elimina un documento de Elasticsearch por ID.
+
+Entrada [#entrada-4]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+| `index`          | string | Sí          | Nombre del índice                                     |
+| `documentId`     | string | Sí          | ID del documento a eliminar                           |
+| `refresh`        | string | No          | Política de actualización: true, false o wait\_for    |
+
+Salida [#salida-4]
+
+| Parámetro  | Tipo   | Descripción                                      |
+| ---------- | ------ | ------------------------------------------------ |
+| `_index`   | string | Nombre del índice                                |
+| `_id`      | string | ID del documento                                 |
+| `_version` | number | Versión del documento                            |
+| `result`   | string | Resultado de la operación (deleted o not\_found) |
+
+elasticsearch_bulk [#elasticsearch_bulk]
+
+Realiza múltiples operaciones de indexación, creación, eliminación o actualización en una sola petición para un alto rendimiento.
+
+Entrada [#entrada-5]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                                                |
+| ---------------- | ------ | ----------- | -------------------------------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud                                   |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado)                      |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)                          |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth                            |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                                                 |
+| `username`       | string | No          | Nombre de usuario para autenticación básica                                |
+| `password`       | string | No          | Contraseña para autenticación básica                                       |
+| `index`          | string | No          | Índice predeterminado para operaciones que no especifican uno              |
+| `operations`     | string | Sí          | Operaciones masivas como cadena NDJSON (JSON delimitado por nuevas líneas) |
+| `refresh`        | string | No          | Política de actualización: true, false o wait\_for                         |
+
+Salida [#salida-5]
+
+| Parámetro | Tipo    | Descripción                                          |
+| --------- | ------- | ---------------------------------------------------- |
+| `took`    | number  | Tiempo en milisegundos que tardó la operación masiva |
+| `errors`  | boolean | Si alguna operación tuvo un error                    |
+| `items`   | array   | Resultados para cada operación                       |
+
+elasticsearch_count [#elasticsearch_count]
+
+Contar documentos que coinciden con una consulta en Elasticsearch.
+
+Entrada [#entrada-6]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                             |
+| ---------------- | ------ | ----------- | ------------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud                |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado)   |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)       |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth         |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                              |
+| `username`       | string | No          | Nombre de usuario para autenticación básica             |
+| `password`       | string | No          | Contraseña para autenticación básica                    |
+| `index`          | string | Sí          | Nombre del índice donde contar documentos               |
+| `query`          | string | No          | Consulta opcional para filtrar documentos (cadena JSON) |
+
+Salida [#salida-6]
+
+| Parámetro | Tipo   | Descripción                                        |
+| --------- | ------ | -------------------------------------------------- |
+| `count`   | number | Número de documentos que coinciden con la consulta |
+| `_shards` | object | Estadísticas de fragmentos                         |
+
+elasticsearch_create_index [#elasticsearch_create_index]
+
+Crear un nuevo índice con configuraciones y mapeos opcionales.
+
+Entrada [#entrada-7]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+| `index`          | string | Sí          | Nombre del índice a crear                             |
+| `settings`       | string | No          | Configuraciones del índice como cadena JSON           |
+| `mappings`       | string | No          | Mapeos del índice como cadena JSON                    |
+
+Salida [#salida-7]
+
+| Parámetro             | Tipo    | Descripción                          |
+| --------------------- | ------- | ------------------------------------ |
+| `acknowledged`        | boolean | Si la solicitud fue reconocida       |
+| `shards_acknowledged` | boolean | Si los fragmentos fueron reconocidos |
+| `index`               | string  | Nombre del índice creado             |
+
+elasticsearch_delete_index [#elasticsearch_delete_index]
+
+Elimina un índice y todos sus documentos. Esta operación es irreversible.
+
+Entrada [#entrada-8]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+| `index`          | string | Sí          | Nombre del índice a eliminar                          |
+
+Salida [#salida-8]
+
+| Parámetro      | Tipo    | Descripción                      |
+| -------------- | ------- | -------------------------------- |
+| `acknowledged` | boolean | Si la eliminación fue reconocida |
+
+elasticsearch_get_index [#elasticsearch_get_index]
+
+Recupera información del índice incluyendo configuraciones, mapeos y alias.
+
+Entrada [#entrada-9]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+| `index`          | string | Sí          | Nombre del índice del que recuperar información       |
+
+Salida [#salida-9]
+
+| Parámetro | Tipo | Descripción                                                       |
+| --------- | ---- | ----------------------------------------------------------------- |
+| `index`   | json | Información del índice incluyendo alias, mapeos y configuraciones |
+
+elasticsearch_cluster_health [#elasticsearch_cluster_health]
+
+Obtener el estado de salud del clúster de Elasticsearch.
+
+Entrada [#entrada-10]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                                           |
+| ---------------- | ------ | ----------- | --------------------------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud                              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado)                 |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)                     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth                       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica                           |
+| `password`       | string | No          | Contraseña para autenticación básica                                  |
+| `waitForStatus`  | string | No          | Esperar hasta que el clúster alcance este estado: green, yellow o red |
+| `timeout`        | string | No          | Tiempo de espera para la operación de espera (p. ej., 30s, 1m)        |
+
+Salida [#salida-10]
+
+| Parámetro              | Tipo   | Descripción                                      |
+| ---------------------- | ------ | ------------------------------------------------ |
+| `cluster_name`         | string | Nombre del clúster                               |
+| `status`               | string | Estado de salud del clúster: green, yellow o red |
+| `number_of_nodes`      | number | Número total de nodos en el clúster              |
+| `number_of_data_nodes` | number | Número de nodos de datos                         |
+| `active_shards`        | number | Número de fragmentos activos                     |
+| `unassigned_shards`    | number | Número de fragmentos no asignados                |
+
+elasticsearch_cluster_stats [#elasticsearch_cluster_stats]
+
+Obtén estadísticas completas sobre el clúster de Elasticsearch.
+
+Entrada [#entrada-11]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+
+Salida [#salida-11]
+
+| Parámetro      | Tipo   | Descripción                                                                          |
+| -------------- | ------ | ------------------------------------------------------------------------------------ |
+| `cluster_name` | string | Nombre del clúster                                                                   |
+| `status`       | string | Estado de salud del clúster                                                          |
+| `nodes`        | object | Estadísticas de nodos incluyendo recuento y versiones                                |
+| `indices`      | object | Estadísticas de índices incluyendo recuento de documentos y tamaño de almacenamiento |
+
+Notas [#notas]
+
+* Categoría: `tools`
+* Tipo: `elasticsearch`
+
+Entrada [#entrada-12]
+
+| Parámetro        | Tipo   | Obligatorio | Descripción                                           |
+| ---------------- | ------ | ----------- | ----------------------------------------------------- |
+| `deploymentType` | string | Sí          | Tipo de despliegue: self\_hosted o cloud              |
+| `host`           | string | No          | URL del host de Elasticsearch (para clúster dedicado) |
+| `cloudId`        | string | No          | ID de Elastic Cloud (para despliegues en la nube)     |
+| `authMethod`     | string | Sí          | Método de autenticación: api\_key o basic\_auth       |
+| `apiKey`         | string | No          | Clave API de Elasticsearch                            |
+| `username`       | string | No          | Nombre de usuario para autenticación básica           |
+| `password`       | string | No          | Contraseña para autenticación básica                  |
+
+Salida [#salida-12]
+
+| Parámetro | Tipo   | Descripción                                 |
+| --------- | ------ | ------------------------------------------- |
+| `message` | string | Mensaje resumen sobre los índices           |
+| `indices` | json   | Array de objetos con información de índices |
+a:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L11",null,{"content":"$12"}]}],"$L13"]}],"$L14","$L15"]}]
+b:["$","$L16",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L17",null,{"type":"elasticsearch","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L18",null,{"href":"https://www.elastic.co/elasticsearch/","children":"Elasticsearch"}]," es un potente motor de búsqueda y análisis distribuido que te permite indexar, buscar y analizar grandes volúmenes de datos en tiempo real. Es ampliamente utilizado para potenciar funciones de búsqueda, análisis de datos de registros y eventos, observabilidad y más."]}],"\n",["$","p",null,{"children":"Con Elasticsearch en Aptlystar, obtienes acceso programático a las capacidades principales de Elasticsearch, incluyendo:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Búsqueda de documentos"}],": Realiza búsquedas avanzadas en texto estructurado o no estructurado utilizando Query DSL, con soporte para ordenación, paginación y selección de campos."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Indexación de documentos"}],": Añade nuevos documentos o actualiza los existentes en cualquier índice de Elasticsearch para su recuperación y análisis inmediatos."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Obtener, actualizar o eliminar documentos"}],": Recupera, modifica o elimina documentos específicos por ID."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Operaciones masivas"}],": Ejecuta múltiples acciones de indexación o actualización en una sola solicitud para un procesamiento de datos de alto rendimiento."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Gestión de índices"}],": Crea, elimina u obtén detalles sobre índices como parte de tu automatización de flujo de trabajo."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Monitorización de clústeres"}],": Comprueba la salud y las estadísticas de tu despliegue de Elasticsearch."]}],"\n"]}],"\n",["$","p",null,{"children":"Las herramientas de Elasticsearch de Aptlystar funcionan tanto con entornos autoalojados como con Elastic Cloud. Integra Elasticsearch en tus flujos de trabajo de agentes para automatizar la ingesta de datos, buscar en vastos conjuntos de datos, ejecutar informes o construir aplicaciones personalizadas basadas en búsquedas, todo sin intervención manual."}],"\n","\n",["$","$L19",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Integra Elasticsearch en flujos de trabajo para búsquedas potentes, indexación y gestión de datos. Admite operaciones CRUD de documentos, consultas de búsqueda avanzadas, operaciones masivas, gestión de índices y monitorización de clústeres. Funciona tanto con despliegues autoalojados como con Elastic Cloud."}],"\n",["$","$L19",null,{"as":"h2","id":"herramientas","children":"Herramientas"}],"\n",["$","$L19",null,{"as":"h3","id":"elasticsearch_search","children":["$","code",null,{"children":"elasticsearch_search"}]}],"\n",["$","p",null,{"children":"Busca documentos en Elasticsearch usando Query DSL. Devuelve documentos coincidentes con puntuaciones y metadatos."}],"\n",["$","$L19",null,{"as":"h4","id":"entrada","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]]}]}],"\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70"]}]}]
+c:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+d:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+e:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+f:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+10:["$","$L71",null,{"children":["$","$72",null,{"name":"Next.MetadataOutlet","children":"$@73"}]}]
+13:["$","$L74",null,{}]
+14:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 128 128","children":[["$","path",null,{"fill":"#343741","d":"M4 64c0 5.54.777 10.88 2.1 16H84c8.84 0 16-7.16 16-16s-7.16-16-16-16H6.1A63.74 63.74 0 0 0 4 64"}],["$","path",null,{"fill":"#fec514","d":"M111.7 30.65A61.49 61.49 0 0 0 117.92 24C106.19 9.38 88.2 0 68 0 42.72 0 20.96 14.71 10.57 36H98.04a20.12 20.12 0 0 0 13.65-5.35"}],["$","path",null,{"fill":"#00bfb3","d":"M98.04 92H10.58C20.96 113.29 42.72 128 68 128c20.2 0 38.19-9.38 49.92-24a61.1 61.1 0 0 0-6.23-6.65A20.13 20.13 0 0 0 98.04 92"}]]}]}],["$","$L75",null,{"className":"mb-0 min-w-0 flex-1","children":"Elasticsearch"}]]}]
+15:["$","$L76",null,{"children":"Busca, indexa y gestiona datos en Elasticsearch"}]
+1a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}]
+1b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}]
+1c:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}]
+1d:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}]
+1e:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}]
+1f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice para buscar"}]]}]
+20:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Query DSL como cadena JSON"}]]}]
+21:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"from"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Desplazamiento inicial para paginación (predeterminado: 0)"}]]}]
+22:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"size"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados a devolver (predeterminado: 10)"}]]}]
+23:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Especificación de ordenación como cadena JSON"}]]}]
+24:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceIncludes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Lista separada por comas de campos a incluir en _source"}]]}]
+25:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceExcludes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Lista separada por comas de campos a excluir de _source"}]]}]
+26:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trackTotalHits"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Seguimiento preciso del recuento total de coincidencias (predeterminado: true)"}]]}]
+27:["$","$L19",null,{"as":"h4","id":"salida","children":"Salida"}]
+28:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"took"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tiempo en milisegundos que tardó la búsqueda"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timed_out"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la búsqueda agotó el tiempo de espera"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"hits"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Resultados de búsqueda con recuento total y documentos coincidentes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"aggregations"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Resultados de agregación si los hay"}]]}]]}]]}]}]
+29:["$","$L19",null,{"as":"h3","id":"elasticsearch_index_document","children":["$","code",null,{"children":"elasticsearch_index_document"}]}]
+2a:["$","p",null,{"children":"Indexar (crear o actualizar) un documento en Elasticsearch."}]
+2b:["$","$L19",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+2c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice de destino"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"documentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del documento (se genera automáticamente si no se proporciona)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"document"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Cuerpo del documento como cadena JSON"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Política de actualización: true, false o wait_for"}]]}]]}]]}]}]
+2d:["$","$L19",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+2e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Índice donde se almacenó el documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Versión del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"result"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resultado de la operación (created o updated)"}]]}]]}]]}]}]
+2f:["$","$L19",null,{"as":"h3","id":"elasticsearch_get_document","children":["$","code",null,{"children":"elasticsearch_get_document"}]}]
+30:["$","p",null,{"children":"Recuperar un documento por ID desde Elasticsearch."}]
+31:["$","$L19",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+32:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en cloud)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"documentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del documento a recuperar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceIncludes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Lista separada por comas de campos a incluir"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceExcludes"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Lista separada por comas de campos a excluir"}]]}]]}]]}]}]
+33:["$","$L19",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+34:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del índice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Versión del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"found"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el documento fue encontrado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_source"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Contenido del documento"}]]}]]}]]}]}]
+35:["$","$L19",null,{"as":"h3","id":"elasticsearch_update_document","children":["$","code",null,{"children":"elasticsearch_update_document"}]}]
+36:["$","p",null,{"children":"Actualiza parcialmente un documento en Elasticsearch usando la fusión de documentos."}]
+37:["$","$L19",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"documentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del documento a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"document"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Documento parcial para fusionar como cadena JSON"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"retryOnConflict"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de reintentos en conflicto de versión"}]]}]]}]]}]}]
+39:["$","$L19",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+3a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del índice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nueva versión del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"result"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resultado de la operación (updated o noop)"}]]}]]}]]}]}]
+3b:["$","$L19",null,{"as":"h3","id":"elasticsearch_delete_document","children":["$","code",null,{"children":"elasticsearch_delete_document"}]}]
+3c:["$","p",null,{"children":"Elimina un documento de Elasticsearch por ID."}]
+3d:["$","$L19",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"documentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del documento a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Política de actualización: true, false o wait_for"}]]}]]}]]}]}]
+3f:["$","$L19",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+40:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del índice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_id"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"ID del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_version"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Versión del documento"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"result"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resultado de la operación (deleted o not_found)"}]]}]]}]]}]}]
+41:["$","$L19",null,{"as":"h3","id":"elasticsearch_bulk","children":["$","code",null,{"children":"elasticsearch_bulk"}]}]
+42:["$","p",null,{"children":"Realiza múltiples operaciones de indexación, creación, eliminación o actualización en una sola petición para un alto rendimiento."}]
+43:["$","$L19",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+44:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Índice predeterminado para operaciones que no especifican uno"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"operations"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Operaciones masivas como cadena NDJSON (JSON delimitado por nuevas líneas)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"refresh"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Política de actualización: true, false o wait_for"}]]}]]}]]}]}]
+45:["$","$L19",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"took"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Tiempo en milisegundos que tardó la operación masiva"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"errors"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si alguna operación tuvo un error"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"items"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Resultados para cada operación"}]]}]]}]]}]}]
+47:["$","$L19",null,{"as":"h3","id":"elasticsearch_count","children":["$","code",null,{"children":"elasticsearch_count"}]}]
+48:["$","p",null,{"children":"Contar documentos que coinciden con una consulta en Elasticsearch."}]
+49:["$","$L19",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+4a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice donde contar documentos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Consulta opcional para filtrar documentos (cadena JSON)"}]]}]]}]]}]}]
+4b:["$","$L19",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+4c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"count"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de documentos que coinciden con la consulta"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"_shards"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Estadísticas de fragmentos"}]]}]]}]]}]}]
+4d:["$","$L19",null,{"as":"h3","id":"elasticsearch_create_index","children":["$","code",null,{"children":"elasticsearch_create_index"}]}]
+4e:["$","p",null,{"children":"Crear un nuevo índice con configuraciones y mapeos opcionales."}]
+4f:["$","$L19",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+50:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice a crear"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"settings"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Configuraciones del índice como cadena JSON"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mappings"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Mapeos del índice como cadena JSON"}]]}]]}]]}]}]
+51:["$","$L19",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"acknowledged"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la solicitud fue reconocida"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shards_acknowledged"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si los fragmentos fueron reconocidos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del índice creado"}]]}]]}]]}]}]
+53:["$","$L19",null,{"as":"h3","id":"elasticsearch_delete_index","children":["$","code",null,{"children":"elasticsearch_delete_index"}]}]
+54:["$","p",null,{"children":"Elimina un índice y todos sus documentos. Esta operación es irreversible."}]
+55:["$","$L19",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice a eliminar"}]]}]]}]]}]}]
+57:["$","$L19",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"acknowledged"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si la eliminación fue reconocida"}]]}]}]]}]}]
+59:["$","$L19",null,{"as":"h3","id":"elasticsearch_get_index","children":["$","code",null,{"children":"elasticsearch_get_index"}]}]
+5a:["$","p",null,{"children":"Recupera información del índice incluyendo configuraciones, mapeos y alias."}]
+5b:["$","$L19",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+5c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre del índice del que recuperar información"}]]}]]}]]}]}]
+5d:["$","$L19",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"index"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Información del índice incluyendo alias, mapeos y configuraciones"}]]}]}]]}]}]
+5f:["$","$L19",null,{"as":"h3","id":"elasticsearch_cluster_health","children":["$","code",null,{"children":"elasticsearch_cluster_health"}]}]
+60:["$","p",null,{"children":"Obtener el estado de salud del clúster de Elasticsearch."}]
+61:["$","$L19",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"waitForStatus"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Esperar hasta que el clúster alcance este estado: green, yellow o red"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timeout"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Tiempo de espera para la operación de espera (p. ej., 30s, 1m)"}]]}]]}]]}]}]
+63:["$","$L19",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cluster_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del clúster"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Estado de salud del clúster: green, yellow o red"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"number_of_nodes"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número total de nodos en el clúster"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"number_of_data_nodes"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de nodos de datos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"active_shards"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de fragmentos activos"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"unassigned_shards"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Número de fragmentos no asignados"}]]}]]}]]}]}]
+65:["$","$L19",null,{"as":"h3","id":"elasticsearch_cluster_stats","children":["$","code",null,{"children":"elasticsearch_cluster_stats"}]}]
+66:["$","p",null,{"children":"Obtén estadísticas completas sobre el clúster de Elasticsearch."}]
+67:["$","$L19",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+68:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}]]}]]}]}]
+69:["$","$L19",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cluster_name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nombre del clúster"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Estado de salud del clúster"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nodes"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Estadísticas de nodos incluyendo recuento y versiones"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"indices"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Estadísticas de índices incluyendo recuento de documentos y tamaño de almacenamiento"}]]}]]}]]}]}]
+6b:["$","$L19",null,{"as":"h2","id":"notas","children":"Notas"}]
+6c:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Categoría: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Tipo: ",["$","code",null,{"children":"elasticsearch"}]]}],"\n"]}]
+6d:["$","$L19",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+6e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deploymentType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Tipo de despliegue: self_hosted o cloud"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"host"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del host de Elasticsearch (para clúster dedicado)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cloudId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de Elastic Cloud (para despliegues en la nube)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authMethod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Método de autenticación: api_key o basic_auth"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"apiKey"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Clave API de Elasticsearch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"username"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre de usuario para autenticación básica"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"password"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contraseña para autenticación básica"}]]}]]}]]}]}]
+6f:["$","$L19",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"message"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mensaje resumen sobre los índices"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"indices"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Array de objetos con información de índices"}]]}]]}]]}]}]
+73:null

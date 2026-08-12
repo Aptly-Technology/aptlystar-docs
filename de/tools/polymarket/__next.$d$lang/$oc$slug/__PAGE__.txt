@@ -1,0 +1,614 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+24:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+29:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+2a:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+2b:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+2c:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+a9:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+aa:"$Sreact.suspense"
+ac:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+ad:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+ae:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Polymarket\",\"description\":\"Zugriff auf Prognosemarktdaten von Polymarket\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/polymarket\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/polymarket\"},\"inLanguage\":\"de\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/polymarket\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Polymarket\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/polymarket\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#nutzungsanweisungen","title":"Nutzungsanweisungen"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#polymarket_get_markets","title":["$","code",null,{"children":"polymarket_get_markets"}]},{"depth":4,"url":"#eingabe","title":"Eingabe"},{"depth":4,"url":"#ausgabe","title":"Ausgabe"},{"depth":3,"url":"#polymarket_get_market","title":["$","code",null,{"children":"polymarket_get_market"}]},{"depth":4,"url":"#eingabe-1","title":"Eingabe"},{"depth":4,"url":"#ausgabe-1","title":"Ausgabe"},{"depth":3,"url":"#polymarket_get_events","title":["$","code",null,{"children":"polymarket_get_events"}]},{"depth":4,"url":"#eingabe-2","title":"Eingabe"},{"depth":4,"url":"#ausgabe-2","title":"Ausgabe"},{"depth":3,"url":"#polymarket_get_event","title":["$","code",null,{"children":"polymarket_get_event"}]},{"depth":4,"url":"#eingabe-3","title":"Eingabe"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#polymarket_get_tags","title":["$","code",null,{"children":"polymarket_get_tags"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#polymarket_search","title":["$","code",null,{"children":"polymarket_search"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#polymarket_get_series","title":["$","code",null,{"children":"polymarket_get_series"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#polymarket_get_series_by_id","title":["$","code",null,{"children":"polymarket_get_series_by_id"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#polymarket_get_orderbook","title":["$","code",null,{"children":"polymarket_get_orderbook"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#polymarket_get_price","title":["$","code",null,{"children":"polymarket_get_price"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#ausgabe-3","title":"Ausgabe"},{"depth":3,"url":"#polymarket_get_midpoint","title":["$","code",null,{"children":"polymarket_get_midpoint"}]},{"depth":4,"url":"#eingabe-4","title":"Eingabe"},{"depth":4,"url":"#ausgabe-4","title":"Ausgabe"},{"depth":3,"url":"#polymarket_get_price_history","title":["$","code",null,{"children":"polymarket_get_price_history"}]},{"depth":4,"url":"#eingabe-5","title":"Eingabe"},{"depth":4,"url":"#ausgabe-5","title":"$L3"},{"depth":3,"url":"#polymarket_get_last_trade_price","title":"$L4"},{"depth":4,"url":"#eingabe-6","title":"$L5"},{"depth":4,"url":"#ausgabe-6","title":"$L6"},{"depth":3,"url":"#polymarket_get_spread","title":"$L7"},{"depth":4,"url":"#eingabe-7","title":"$L8"},{"depth":4,"url":"#ausgabe-7","title":"$L9"},{"depth":3,"url":"#polymarket_get_tick_size","title":"$La"},{"depth":4,"url":"#eingabe-8","title":"$Lb"},{"depth":4,"url":"#ausgabe-8","title":"$Lc"},{"depth":3,"url":"#polymarket_get_positions","title":"$Ld"},{"depth":4,"url":"#eingabe-9","title":"$Le"},{"depth":4,"url":"#ausgabe-9","title":"$Lf"},{"depth":3,"url":"#polymarket_get_trades","title":"$L10"},{"depth":4,"url":"#eingabe-10","title":"$L11"},{"depth":4,"url":"#ausgabe-10","title":"$L12"},{"depth":2,"url":"#hinweise","title":"$L13"},{"depth":4,"url":"#eingabe-11","title":"$L14"},{"depth":4,"url":"#ausgabe-11","title":"$L15"},{"depth":3,"url":"#polymarket_get_leaderboard","title":"$L16"},{"depth":4,"url":"#eingabe-12","title":"$L17"},{"depth":4,"url":"#ausgabe-12","title":"$L18"},{"depth":3,"url":"#polymarket_get_holders","title":"$L19"},{"depth":4,"url":"#eingabe-13","title":"$L1a"},{"depth":4,"url":"#ausgabe-13","title":"$L1b"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L1c"},"children":["$L1d","$L1e"]}]],["$L1f","$L20","$L21","$L22"],"$L23"]}],"loading":null,"isPartial":false}
+3:"Ausgabe"
+4:["$","code",null,{"children":"polymarket_get_last_trade_price"}]
+5:"Eingabe"
+6:"Ausgabe"
+7:["$","code",null,{"children":"polymarket_get_spread"}]
+8:"Eingabe"
+9:"Ausgabe"
+a:["$","code",null,{"children":"polymarket_get_tick_size"}]
+b:"Eingabe"
+c:"Ausgabe"
+d:["$","code",null,{"children":"polymarket_get_positions"}]
+e:"Eingabe"
+f:"Ausgabe"
+10:["$","code",null,{"children":"polymarket_get_trades"}]
+11:"Eingabe"
+12:"Ausgabe"
+13:"Hinweise"
+14:"Eingabe"
+15:"Ausgabe"
+16:["$","code",null,{"children":"polymarket_get_leaderboard"}]
+17:"Eingabe"
+18:"Ausgabe"
+19:["$","code",null,{"children":"polymarket_get_holders"}]
+1a:"Eingabe"
+1b:"Ausgabe"
+1c:null
+25:T66ff,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="polymarket" color="#4C82FB" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Polymarket](https://polymarket.com) ist eine dezentralisierte Plattform für Prognosemärkte, auf der Nutzer mit Blockchain-Technologie auf den Ausgang zukünftiger Ereignisse handeln können. Polymarket bietet eine umfassende API, die Entwicklern und Agenten den Zugriff auf Live-Marktdaten, Ereignislisten, Preisinformationen und Orderbuch-Statistiken ermöglicht, um datengesteuerte Workflows und KI-Automatisierungen zu unterstützen.
+
+Mit der API von Polymarket und der Aptlystar-Integration können Sie Agenten befähigen, programmatisch Informationen zu Prognosemärkten abzurufen, offene Märkte und zugehörige Ereignisse zu erkunden, historische Preisdaten zu analysieren und auf Orderbücher und Markt-Mittelwerte zuzugreifen. Dies schafft neue Möglichkeiten für Recherchen, automatisierte Analysen und die Entwicklung intelligenter Agenten, die auf Echtzeit-Ereigniswahrscheinlichkeiten reagieren, die aus Marktpreisen abgeleitet werden.
+
+Zu den wichtigsten Funktionen der Polymarket-Integration gehören:
+
+* **Marktlisting & Filterung:** Auflistung aller aktuellen oder historischen Prognosemärkte, Filterung nach Tags, Sortierung und Seitenweise Durchblättern der Ergebnisse.
+* **Marktdetails:** Abrufen von Details für einen einzelnen Markt anhand der Markt-ID oder des Slugs, einschließlich seiner Ergebnisse und Status.
+* **Ereignislisten:** Zugriff auf Listen von Polymarket-Ereignissen und detaillierte Ereignisinformationen.
+* **Orderbuch- & Preisdaten:** Analyse des Orderbuchs, Abruf der aktuellen Marktpreise, Einsicht in den Mittelwert oder Erhalt historischer Preisinformationen für jeden Markt.
+* **Automatisierungsbereit:** Erstellen von Agenten oder Tools, die programmatisch auf Marktentwicklungen, sich ändernde Quoten oder bestimmte Ereignisausgänge reagieren.
+
+Durch die Nutzung dieser dokumentierten API-Endpunkte können Sie die umfangreichen On-Chain-Prognosemarktdaten von Polymarket nahtlos in Ihre eigenen KI-Workflows, Dashboards, Recherchetools und Handelsautomatisierungen integrieren.
+
+{/* MANUAL-CONTENT-END */}
+
+Nutzungsanweisungen [#nutzungsanweisungen]
+
+Integrieren Sie Polymarket-Prognosemärkte in den Workflow. Kann Märkte, Markt, Ereignisse, Ereignis, Tags, Serien, Orderbuch, Preis, Mittelpunkt, Preisverlauf, letzten Handelspreis, Spread, Tick-Größe, Positionen, Trades und Suche abrufen.
+
+Tools [#tools]
+
+polymarket_get_markets [#polymarket_get_markets]
+
+Rufen Sie eine Liste von Prognosemärkten von Polymarket mit optionaler Filterung ab
+
+Eingabe [#eingabe]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                               |
+| ----------- | ------ | ------------ | ------------------------------------------------------------------------------------------ |
+| `closed`    | string | Nein         | Nach geschlossenem Status filtern (true/false). Verwenden Sie false für nur aktive Märkte. |
+| `order`     | string | Nein         | Sortierfeld (z.B. volumeNum, liquidityNum, startDate, endDate, createdAt)                  |
+| `ascending` | string | Nein         | Sortierrichtung (true für aufsteigend, false für absteigend)                               |
+| `tagId`     | string | Nein         | Nach Tag-ID filtern                                                                        |
+| `limit`     | string | Nein         | Anzahl der Ergebnisse pro Seite (max 50)                                                   |
+| `offset`    | string | Nein         | Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)                               |
+
+Ausgabe [#ausgabe]
+
+| Parameter | Typ     | Beschreibung                |
+| --------- | ------- | --------------------------- |
+| `success` | boolean | Erfolgsstatus der Operation |
+| `output`  | object  | Marktdaten und Metadaten    |
+
+polymarket_get_market [#polymarket_get_market]
+
+Rufen Sie Details eines bestimmten Prognosemarktes nach ID oder Slug ab
+
+Eingabe [#eingabe-1]
+
+| Parameter  | Typ    | Erforderlich | Beschreibung                                                                              |
+| ---------- | ------ | ------------ | ----------------------------------------------------------------------------------------- |
+| `marketId` | string | Nein         | Die Markt-ID. Erforderlich, wenn Slug nicht angegeben wird.                               |
+| `slug`     | string | Nein         | Der Markt-Slug (z.B. "will-trump-win"). Erforderlich, wenn marketId nicht angegeben wird. |
+
+Ausgabe [#ausgabe-1]
+
+| Parameter | Typ     | Beschreibung                |
+| --------- | ------- | --------------------------- |
+| `success` | boolean | Erfolgsstatus der Operation |
+| `output`  | object  | Marktdaten und Metadaten    |
+
+polymarket_get_events [#polymarket_get_events]
+
+Ruft eine Liste von Events von Polymarket mit optionaler Filterung ab
+
+Eingabe [#eingabe-2]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                                   |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------------- |
+| `closed`    | string | Nein         | Nach geschlossenem Status filtern (true/false). Verwenden Sie false für nur aktive Ereignisse. |
+| `order`     | string | Nein         | Sortierfeld (z.B. volume, liquidity, startDate, endDate, createdAt)                            |
+| `ascending` | string | Nein         | Sortierrichtung (true für aufsteigend, false für absteigend)                                   |
+| `tagId`     | string | Nein         | Nach Tag-ID filtern                                                                            |
+| `limit`     | string | Nein         | Anzahl der Ergebnisse pro Seite (max 50)                                                       |
+| `offset`    | string | Nein         | Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)                                   |
+
+Ausgabe [#ausgabe-2]
+
+| Parameter | Typ     | Beschreibung                |
+| --------- | ------- | --------------------------- |
+| `success` | boolean | Erfolgsstatus der Operation |
+| `output`  | object  | Event-Daten und Metadaten   |
+
+polymarket_get_event [#polymarket_get_event]
+
+Ruft Details eines bestimmten Events nach ID oder Slug ab
+
+Eingabe [#eingabe-3]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                                                                         |
+| --------- | ------ | ------------ | ---------------------------------------------------------------------------------------------------- |
+| `eventId` | string | Nein         | Die Event-ID. Erforderlich, wenn kein Slug angegeben wird.                                           |
+| `slug`    | string | Nein         | Der Event-Slug (z.B. "2024-presidential-election"). Erforderlich, wenn keine eventId angegeben wird. |
+
+Output [#output]
+
+| Parameter | Typ     | Beschreibung                |
+| --------- | ------- | --------------------------- |
+| `success` | boolean | Erfolgsstatus der Operation |
+| `output`  | object  | Event-Daten und Metadaten   |
+
+polymarket_get_tags [#polymarket_get_tags]
+
+Verfügbare Tags zum Filtern von Märkten von Polymarket abrufen
+
+Input [#input]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                                 |
+| --------- | ------ | ------------ | ------------------------------------------------------------ |
+| `limit`   | string | Nein         | Anzahl der Ergebnisse pro Seite (max 50)                     |
+| `offset`  | string | Nein         | Paginierungsoffset (überspringe diese Anzahl an Ergebnissen) |
+
+Output [#output-1]
+
+| Parameter | Typ     | Beschreibung                |
+| --------- | ------- | --------------------------- |
+| `success` | boolean | Erfolgsstatus der Operation |
+| `output`  | object  | Tag-Daten und Metadaten     |
+
+polymarket_search [#polymarket_search]
+
+Nach Märkten, Ereignissen und Profilen auf Polymarket suchen
+
+Input [#input-1]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                             |
+| --------- | ------ | ------------ | ---------------------------------------- |
+| `query`   | string | Ja           | Suchbegriff                              |
+| `limit`   | string | Nein         | Anzahl der Ergebnisse pro Seite (max 50) |
+| `offset`  | string | Nein         | Paginierungsoffset                       |
+
+Output [#output-2]
+
+| Parameter | Typ     | Beschreibung                 |
+| --------- | ------- | ---------------------------- |
+| `success` | boolean | Erfolgsstatus der Operation  |
+| `output`  | object  | Suchergebnisse und Metadaten |
+
+polymarket_get_series [#polymarket_get_series]
+
+Serien (verwandte Marktgruppen) von Polymarket abrufen
+
+Input [#input-2]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                                 |
+| --------- | ------ | ------------ | ------------------------------------------------------------ |
+| `limit`   | string | Nein         | Anzahl der Ergebnisse pro Seite (max 50)                     |
+| `offset`  | string | Nein         | Paginierungsoffset (überspringe diese Anzahl an Ergebnissen) |
+
+Output [#output-3]
+
+| Parameter | Typ   | Beschreibung              |
+| --------- | ----- | ------------------------- |
+| `series`  | array | Array von Serien-Objekten |
+
+polymarket_get_series_by_id [#polymarket_get_series_by_id]
+
+Eine bestimmte Serie (zugehörige Marktgruppe) anhand der ID von Polymarket abrufen
+
+Input [#input-3]
+
+| Parameter  | Type   | Erforderlich | Beschreibung  |
+| ---------- | ------ | ------------ | ------------- |
+| `seriesId` | string | Ja           | Die Serien-ID |
+
+Output [#output-4]
+
+| Parameter | Typ    | Beschreibung              |
+| --------- | ------ | ------------------------- |
+| `series`  | object | Serien-Objekt mit Details |
+
+polymarket_get_orderbook [#polymarket_get_orderbook]
+
+Die Orderbuch-Zusammenfassung für einen bestimmten Token abrufen
+
+Input [#input-4]
+
+| Parameter | Type   | Erforderlich | Beschreibung                                         |
+| --------- | ------ | ------------ | ---------------------------------------------------- |
+| `tokenId` | string | Ja           | Die CLOB-Token-ID (aus den clobTokenIds des Marktes) |
+
+Output [#output-5]
+
+| Parameter   | Typ    | Beschreibung                             |
+| ----------- | ------ | ---------------------------------------- |
+| `orderbook` | object | Orderbuch mit Geld- und Briefkurs-Arrays |
+
+polymarket_get_price [#polymarket_get_price]
+
+Den Marktpreis für einen bestimmten Token und eine bestimmte Seite abrufen
+
+Input [#input-5]
+
+| Parameter | Type   | Erforderlich | Beschreibung                                         |
+| --------- | ------ | ------------ | ---------------------------------------------------- |
+| `tokenId` | string | Ja           | Die CLOB-Token-ID (aus den clobTokenIds des Marktes) |
+| `side`    | string | Ja           | Orderseite: buy oder sell                            |
+
+Ausgabe [#ausgabe-3]
+
+| Parameter | Typ    | Beschreibung |
+| --------- | ------ | ------------ |
+| `price`   | string | Marktpreis   |
+
+polymarket_get_midpoint [#polymarket_get_midpoint]
+
+Abrufen des Mittelpreises für einen bestimmten Token
+
+Eingabe [#eingabe-4]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                |
+| --------- | ------ | ------------ | ------------------------------------------- |
+| `tokenId` | string | Ja           | Die CLOB-Token-ID (aus market clobTokenIds) |
+
+Ausgabe [#ausgabe-4]
+
+| Parameter  | Typ    | Beschreibung |
+| ---------- | ------ | ------------ |
+| `midpoint` | string | Mittelkurs   |
+
+polymarket_get_price_history [#polymarket_get_price_history]
+
+Abrufen historischer Preisdaten für einen bestimmten Markttoken
+
+Eingabe [#eingabe-5]
+
+| Parameter  | Typ    | Erforderlich | Beschreibung                                                                                                            |
+| ---------- | ------ | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| `tokenId`  | string | Ja           | Die CLOB-Token-ID (aus market clobTokenIds)                                                                             |
+| `interval` | string | Nein         | Zeitraum, der zum aktuellen Zeitpunkt endet (1m, 1h, 6h, 1d, 1w, max). Schließt sich gegenseitig mit startTs/endTs aus. |
+| `fidelity` | number | Nein         | Datenauflösung in Minuten (z.B. 60 für stündlich)                                                                       |
+| `startTs`  | number | Nein         | Startzeitstempel (Unix-Sekunden UTC)                                                                                    |
+| `endTs`    | number | Nein         | Endzeitstempel (Unix-Sekunden UTC)                                                                                      |
+
+Ausgabe [#ausgabe-5]
+
+| Parameter | Typ   | Beschreibung                                                       |
+| --------- | ----- | ------------------------------------------------------------------ |
+| `history` | array | Array von Preisverlaufseinträgen mit Zeitstempel (t) und Preis (p) |
+
+polymarket_get_last_trade_price [#polymarket_get_last_trade_price]
+
+Den letzten Handelspreis für einen bestimmten Token abrufen
+
+Eingabe [#eingabe-6]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                |
+| --------- | ------ | ------------ | ------------------------------------------- |
+| `tokenId` | string | Ja           | Die CLOB-Token-ID (aus market clobTokenIds) |
+
+Ausgabe [#ausgabe-6]
+
+| Parameter | Typ    | Beschreibung         |
+| --------- | ------ | -------------------- |
+| `price`   | string | Letzter Handelspreis |
+
+polymarket_get_spread [#polymarket_get_spread]
+
+Die Geld-Brief-Spanne für einen bestimmten Token abrufen
+
+Eingabe [#eingabe-7]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                |
+| --------- | ------ | ------------ | ------------------------------------------- |
+| `tokenId` | string | Ja           | Die CLOB-Token-ID (aus market clobTokenIds) |
+
+Ausgabe [#ausgabe-7]
+
+| Parameter | Typ    | Beschreibung                                |
+| --------- | ------ | ------------------------------------------- |
+| `spread`  | object | Geld-Brief-Spanne mit Geld- und Briefkursen |
+
+polymarket_get_tick_size [#polymarket_get_tick_size]
+
+Die minimale Tickgröße für einen bestimmten Token abrufen
+
+Eingabe [#eingabe-8]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                |
+| --------- | ------ | ------------ | ------------------------------------------- |
+| `tokenId` | string | Ja           | Die CLOB-Token-ID (aus market clobTokenIds) |
+
+Ausgabe [#ausgabe-8]
+
+| Parameter  | Typ    | Beschreibung        |
+| ---------- | ------ | ------------------- |
+| `tickSize` | string | Minimale Tick-Größe |
+
+polymarket_get_positions [#polymarket_get_positions]
+
+Benutzerpositionen von Polymarket abrufen
+
+Eingabe [#eingabe-9]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                  |
+| --------- | ------ | ------------ | --------------------------------------------- |
+| `user`    | string | Ja           | Wallet-Adresse des Benutzers                  |
+| `market`  | string | Nein         | Optionale Markt-ID zum Filtern von Positionen |
+
+Ausgabe [#ausgabe-9]
+
+| Parameter   | Typ   | Beschreibung                 |
+| ----------- | ----- | ---------------------------- |
+| `positions` | array | Array von Positions-Objekten |
+
+polymarket_get_trades [#polymarket_get_trades]
+
+Handelshistorie von Polymarket abrufen
+
+Eingabe [#eingabe-10]
+
+| Parameter | Typ    | Erforderlich | Beschreibung                                                 |
+| --------- | ------ | ------------ | ------------------------------------------------------------ |
+| `user`    | string | Nein         | Wallet-Adresse des Benutzers zum Filtern von Trades          |
+| `market`  | string | Nein         | Markt-ID zum Filtern von Trades                              |
+| `limit`   | string | Nein         | Anzahl der Ergebnisse pro Seite (max 50)                     |
+| `offset`  | string | Nein         | Paginierungsoffset (überspringe diese Anzahl an Ergebnissen) |
+
+Ausgabe [#ausgabe-10]
+
+| Parameter | Typ   | Beschreibung              |
+| --------- | ----- | ------------------------- |
+| `trades`  | array | Array von Handelsobjekten |
+
+Hinweise [#hinweise]
+
+* Kategorie: `tools`
+* Typ: `polymarket`
+
+Eingabe [#eingabe-11]
+
+| Parameter       | Typ    | Erforderlich | Beschreibung                                                                                                          |
+| --------------- | ------ | ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| `user`          | string | Ja           | Wallet-Adresse des Benutzers (mit 0x-Präfix)                                                                          |
+| `limit`         | string | Nein         | Maximale Anzahl zurückzugebender Ergebnisse (z. B. „50"). Standard: 100, max: 500.                                    |
+| `offset`        | string | Nein         | Anzahl der zu überspringenden Ergebnisse für Paginierung (z. B. „100"). Standard: 0, max: 10000.                      |
+| `market`        | string | Nein         | Durch Komma getrennte Condition-IDs (z. B. „0x1234...abcd,0x5678...efgh"). Schließt sich gegenseitig mit eventId aus. |
+| `eventId`       | string | Nein         | Durch Komma getrennte Event-IDs (z. B. „12345,67890"). Schließt sich gegenseitig mit market aus.                      |
+| `type`          | string | Nein         | Aktivitätstyp-Filter: TRADE, SPLIT, MERGE, REDEEM, REWARD, CONVERSION, MAKER\_REBATE                                  |
+| `start`         | number | Nein         | Start-Zeitstempel (Unix-Sekunden)                                                                                     |
+| `end`           | number | Nein         | End-Zeitstempel (Unix-Sekunden)                                                                                       |
+| `sortBy`        | string | Nein         | Sortierfeld: TIMESTAMP, TOKENS oder CASH (Standard: TIMESTAMP)                                                        |
+| `sortDirection` | string | Nein         | Sortierrichtung: ASC oder DESC (Standard: DESC)                                                                       |
+| `side`          | string | Nein         | Trade-Seiten-Filter: BUY oder SELL (gilt nur für Trades)                                                              |
+
+Ausgabe [#ausgabe-11]
+
+| Parameter                 | Typ    | Beschreibung                                                    |
+| ------------------------- | ------ | --------------------------------------------------------------- |
+| `activity`                | array  | Array von Aktivitätseinträgen                                   |
+| ↳ `proxyWallet`           | string | Proxy-Wallet-Adresse des Benutzers                              |
+| ↳ `timestamp`             | number | Unix-Zeitstempel der Aktivität                                  |
+| ↳ `conditionId`           | string | Markt-Condition-ID                                              |
+| ↳ `type`                  | string | Aktivitätstyp (TRADE, SPLIT, MERGE, REDEEM, REWARD, CONVERSION) |
+| ↳ `size`                  | number | Größe in Token                                                  |
+| ↳ `usdcSize`              | number | Größe in USDC                                                   |
+| ↳ `transactionHash`       | string | Blockchain-Transaktions-Hash                                    |
+| ↳ `price`                 | number | Preis (für Trades)                                              |
+| ↳ `asset`                 | string | Asset-/Token-ID                                                 |
+| ↳ `side`                  | string | Trade-Seite (BUY/SELL)                                          |
+| ↳ `outcomeIndex`          | number | Outcome-Index                                                   |
+| ↳ `title`                 | string | Markttitel                                                      |
+| ↳ `slug`                  | string | Markt-Slug                                                      |
+| ↳ `icon`                  | string | Markt-Icon-URL                                                  |
+| ↳ `eventSlug`             | string | Event-Slug                                                      |
+| ↳ `outcome`               | string | Outcome-Name                                                    |
+| ↳ `name`                  | string | Anzeigename des Benutzers                                       |
+| ↳ `pseudonym`             | string | Pseudonym des Benutzers                                         |
+| ↳ `bio`                   | string | Bio des Benutzers                                               |
+| ↳ `profileImage`          | string | Profilbild-URL des Benutzers                                    |
+| ↳ `profileImageOptimized` | string | Optimierte Profilbild-URL                                       |
+
+polymarket_get_leaderboard [#polymarket_get_leaderboard]
+
+Trader-Leaderboard-Rankings nach Gewinn/Verlust oder Volumen abrufen
+
+Eingabe [#eingabe-12]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                                                                 |
+| ------------ | ------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| `category`   | string | Nein         | Kategoriefilter: OVERALL, POLITICS, SPORTS, CRYPTO, CULTURE, MENTIONS, WEATHER, ECONOMICS, TECH, FINANCE (Standard: OVERALL) |
+| `timePeriod` | string | Nein         | Zeitraum: DAY, WEEK, MONTH, ALL (Standard: DAY)                                                                              |
+| `orderBy`    | string | Nein         | Sortierung nach: PNL oder VOL (Standard: PNL)                                                                                |
+| `limit`      | string | Nein         | Anzahl der zurückzugebenden Ergebnisse (z. B. „10"). Bereich: 1-50, Standard: 25.                                            |
+| `offset`     | string | Nein         | Anzahl der zu überspringenden Ergebnisse für Paginierung (z. B. „25"). Bereich: 0-1000, Standard: 0.                         |
+| `user`       | string | Nein         | Nach bestimmter Wallet-Adresse des Benutzers filtern                                                                         |
+| `userName`   | string | Nein         | Nach Benutzername filtern                                                                                                    |
+
+Ausgabe [#ausgabe-12]
+
+| Parameter         | Typ     | Beschreibung                                    |
+| ----------------- | ------- | ----------------------------------------------- |
+| `leaderboard`     | array   | Array von Leaderboard-Einträgen                 |
+| ↳ `rank`          | string  | Leaderboard-Rangposition                        |
+| ↳ `proxyWallet`   | string  | Proxy-Wallet-Adresse des Benutzers              |
+| ↳ `userName`      | string  | Anzeigename des Benutzers                       |
+| ↳ `vol`           | number  | Handelsvolumen                                  |
+| ↳ `pnl`           | number  | Gewinn und Verlust                              |
+| ↳ `profileImage`  | string  | Profilbild-URL des Benutzers                    |
+| ↳ `xUsername`     | string  | Twitter/X-Benutzername                          |
+| ↳ `verifiedBadge` | boolean | Ob der Benutzer ein verifiziertes Abzeichen hat |
+
+polymarket_get_holders [#polymarket_get_holders]
+
+Top-Inhaber eines bestimmten Markt-Tokens abrufen
+
+Eingabe [#eingabe-13]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                                                                                       |
+| ------------ | ------ | ------------ | -------------------------------------------------------------------------------------------------- |
+| `market`     | string | Ja           | Kommagetrennte Liste von Condition-IDs (z. B. "0x1234...abcd" oder "0x1234...abcd,0x5678...efgh"). |
+| `limit`      | string | Nein         | Anzahl der zurückzugebenden Inhaber (z. B. "10"). Bereich: 0-20, Standard: 20.                     |
+| `minBalance` | string | Nein         | Minimaler Kontostand-Schwellenwert (Standard: 1)                                                   |
+
+Ausgabe [#ausgabe-13]
+
+| Parameter                 | Typ     | Beschreibung                                  |
+| ------------------------- | ------- | --------------------------------------------- |
+| `holders`                 | array   | Array von Markt-Inhaber-Gruppen nach Token    |
+| ↳ `token`                 | string  | Token-/Asset-ID                               |
+| ↳ `holders`               | array   | Array von Inhabern für diesen Token           |
+| ↳ `proxyWallet`           | string  | Wallet-Adresse des Inhabers                   |
+| ↳ `bio`                   | string  | Bio des Inhabers                              |
+| ↳ `asset`                 | string  | Asset-ID                                      |
+| ↳ `pseudonym`             | string  | Pseudonym des Inhabers                        |
+| ↳ `amount`                | number  | Gehaltener Betrag                             |
+| ↳ `displayUsernamePublic` | boolean | Ob der Benutzername öffentlich angezeigt wird |
+| ↳ `outcomeIndex`          | number  | Outcome-Index                                 |
+| ↳ `name`                  | string  | Anzeigename des Inhabers                      |
+| ↳ `profileImage`          | string  | Profilbild-URL                                |
+| ↳ `profileImageOptimized` | string  | Optimierte Profilbild-URL                     |
+1d:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L24",null,{"content":"$25"}]}],"$L26"]}],"$L27","$L28"]}]
+1e:["$","$L29",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L2a",null,{"type":"polymarket","color":"#4C82FB"}],"\n","\n",["$","p",null,{"children":[["$","$L2b",null,{"href":"https://polymarket.com","children":"Polymarket"}]," ist eine dezentralisierte Plattform für Prognosemärkte, auf der Nutzer mit Blockchain-Technologie auf den Ausgang zukünftiger Ereignisse handeln können. Polymarket bietet eine umfassende API, die Entwicklern und Agenten den Zugriff auf Live-Marktdaten, Ereignislisten, Preisinformationen und Orderbuch-Statistiken ermöglicht, um datengesteuerte Workflows und KI-Automatisierungen zu unterstützen."]}],"\n",["$","p",null,{"children":"Mit der API von Polymarket und der Aptlystar-Integration können Sie Agenten befähigen, programmatisch Informationen zu Prognosemärkten abzurufen, offene Märkte und zugehörige Ereignisse zu erkunden, historische Preisdaten zu analysieren und auf Orderbücher und Markt-Mittelwerte zuzugreifen. Dies schafft neue Möglichkeiten für Recherchen, automatisierte Analysen und die Entwicklung intelligenter Agenten, die auf Echtzeit-Ereigniswahrscheinlichkeiten reagieren, die aus Marktpreisen abgeleitet werden."}],"\n",["$","p",null,{"children":"Zu den wichtigsten Funktionen der Polymarket-Integration gehören:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Marktlisting & Filterung:"}]," Auflistung aller aktuellen oder historischen Prognosemärkte, Filterung nach Tags, Sortierung und Seitenweise Durchblättern der Ergebnisse."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Marktdetails:"}]," Abrufen von Details für einen einzelnen Markt anhand der Markt-ID oder des Slugs, einschließlich seiner Ergebnisse und Status."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Ereignislisten:"}]," Zugriff auf Listen von Polymarket-Ereignissen und detaillierte Ereignisinformationen."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Orderbuch- & Preisdaten:"}]," Analyse des Orderbuchs, Abruf der aktuellen Marktpreise, Einsicht in den Mittelwert oder Erhalt historischer Preisinformationen für jeden Markt."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Automatisierungsbereit:"}]," Erstellen von Agenten oder Tools, die programmatisch auf Marktentwicklungen, sich ändernde Quoten oder bestimmte Ereignisausgänge reagieren."]}],"\n"]}],"\n",["$","p",null,{"children":"Durch die Nutzung dieser dokumentierten API-Endpunkte können Sie die umfangreichen On-Chain-Prognosemarktdaten von Polymarket nahtlos in Ihre eigenen KI-Workflows, Dashboards, Recherchetools und Handelsautomatisierungen integrieren."}],"\n","\n",["$","$L2c",null,{"as":"h2","id":"nutzungsanweisungen","children":"Nutzungsanweisungen"}],"\n",["$","p",null,{"children":"Integrieren Sie Polymarket-Prognosemärkte in den Workflow. Kann Märkte, Markt, Ereignisse, Ereignis, Tags, Serien, Orderbuch, Preis, Mittelpunkt, Preisverlauf, letzten Handelspreis, Spread, Tick-Größe, Positionen, Trades und Suche abrufen."}],"\n",["$","$L2c",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L2c",null,{"as":"h3","id":"polymarket_get_markets","children":["$","code",null,{"children":"polymarket_get_markets"}]}],"\n",["$","p",null,{"children":"Rufen Sie eine Liste von Prognosemärkten von Polymarket mit optionaler Filterung ab"}],"\n",["$","$L2c",null,{"as":"h4","id":"eingabe","children":"Eingabe"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"closed"}]}],"$L2d","$L2e","$L2f"]}],"$L30","$L31","$L32","$L33","$L34"]}]]}]}],"\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8"]}]}]
+1f:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+20:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+21:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+22:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+23:["$","$La9",null,{"children":["$","$aa",null,{"name":"Next.MetadataOutlet","children":"$@ab"}]}]
+26:["$","$Lac",null,{}]
+27:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"51 209 123 155","children":["$","path",null,{"fill":"currentColor","d":"M173.2,363.2L51.1,328.3v-83.7l122.1-34.9V363.2z M161.4,296.2l-89.8,25.6l89.8,25.6L161.4,296.2z M62.9,260.8v51.3l89.8-25.6L62.9,260.8z M161.4,225.3L71.6,251l89.8,25.6L161.4,225.3z"}]}]}],["$","$Lad",null,{"className":"mb-0 min-w-0 flex-1","children":"Polymarket"}]]}]
+28:["$","$Lae",null,{"children":"Zugriff auf Prognosemarktdaten von Polymarket"}]
+2d:["$","td",null,{"children":"string"}]
+2e:["$","td",null,{"children":"Nein"}]
+2f:["$","td",null,{"children":"Nach geschlossenem Status filtern (true/false). Verwenden Sie false für nur aktive Märkte."}]
+30:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierfeld (z.B. volumeNum, liquidityNum, startDate, endDate, createdAt)"}]]}]
+31:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ascending"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung (true für aufsteigend, false für absteigend)"}]]}]
+32:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Tag-ID filtern"}]]}]
+33:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (max 50)"}]]}]
+34:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)"}]]}]
+35:["$","$L2c",null,{"as":"h4","id":"ausgabe","children":"Ausgabe"}]
+36:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Erfolgsstatus der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"output"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Marktdaten und Metadaten"}]]}]]}]]}]}]
+37:["$","$L2c",null,{"as":"h3","id":"polymarket_get_market","children":["$","code",null,{"children":"polymarket_get_market"}]}]
+38:["$","p",null,{"children":"Rufen Sie Details eines bestimmten Prognosemarktes nach ID oder Slug ab"}]
+39:["$","$L2c",null,{"as":"h4","id":"eingabe-1","children":"Eingabe"}]
+3a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"marketId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Die Markt-ID. Erforderlich, wenn Slug nicht angegeben wird."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Markt-Slug (z.B. \"will-trump-win\"). Erforderlich, wenn marketId nicht angegeben wird."}]]}]]}]]}]}]
+3b:["$","$L2c",null,{"as":"h4","id":"ausgabe-1","children":"Ausgabe"}]
+3c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Erfolgsstatus der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"output"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Marktdaten und Metadaten"}]]}]]}]]}]}]
+3d:["$","$L2c",null,{"as":"h3","id":"polymarket_get_events","children":["$","code",null,{"children":"polymarket_get_events"}]}]
+3e:["$","p",null,{"children":"Ruft eine Liste von Events von Polymarket mit optionaler Filterung ab"}]
+3f:["$","$L2c",null,{"as":"h4","id":"eingabe-2","children":"Eingabe"}]
+40:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"closed"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach geschlossenem Status filtern (true/false). Verwenden Sie false für nur aktive Ereignisse."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierfeld (z.B. volume, liquidity, startDate, endDate, createdAt)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ascending"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung (true für aufsteigend, false für absteigend)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tagId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Tag-ID filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (max 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)"}]]}]]}]]}]}]
+41:["$","$L2c",null,{"as":"h4","id":"ausgabe-2","children":"Ausgabe"}]
+42:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Erfolgsstatus der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"output"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Event-Daten und Metadaten"}]]}]]}]]}]}]
+43:["$","$L2c",null,{"as":"h3","id":"polymarket_get_event","children":["$","code",null,{"children":"polymarket_get_event"}]}]
+44:["$","p",null,{"children":"Ruft Details eines bestimmten Events nach ID oder Slug ab"}]
+45:["$","$L2c",null,{"as":"h4","id":"eingabe-3","children":"Eingabe"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Die Event-ID. Erforderlich, wenn kein Slug angegeben wird."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Der Event-Slug (z.B. \"2024-presidential-election\"). Erforderlich, wenn keine eventId angegeben wird."}]]}]]}]]}]}]
+47:["$","$L2c",null,{"as":"h4","id":"output","children":"Output"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Erfolgsstatus der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"output"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Event-Daten und Metadaten"}]]}]]}]]}]}]
+49:["$","$L2c",null,{"as":"h3","id":"polymarket_get_tags","children":["$","code",null,{"children":"polymarket_get_tags"}]}]
+4a:["$","p",null,{"children":"Verfügbare Tags zum Filtern von Märkten von Polymarket abrufen"}]
+4b:["$","$L2c",null,{"as":"h4","id":"input","children":"Input"}]
+4c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (max 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)"}]]}]]}]]}]}]
+4d:["$","$L2c",null,{"as":"h4","id":"output-1","children":"Output"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Erfolgsstatus der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"output"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Tag-Daten und Metadaten"}]]}]]}]]}]}]
+4f:["$","$L2c",null,{"as":"h3","id":"polymarket_search","children":["$","code",null,{"children":"polymarket_search"}]}]
+50:["$","p",null,{"children":"Nach Märkten, Ereignissen und Profilen auf Polymarket suchen"}]
+51:["$","$L2c",null,{"as":"h4","id":"input-1","children":"Input"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Suchbegriff"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (max 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Paginierungsoffset"}]]}]]}]]}]}]
+53:["$","$L2c",null,{"as":"h4","id":"output-2","children":"Output"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Erfolgsstatus der Operation"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"output"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Suchergebnisse und Metadaten"}]]}]]}]]}]}]
+55:["$","$L2c",null,{"as":"h3","id":"polymarket_get_series","children":["$","code",null,{"children":"polymarket_get_series"}]}]
+56:["$","p",null,{"children":"Serien (verwandte Marktgruppen) von Polymarket abrufen"}]
+57:["$","$L2c",null,{"as":"h4","id":"input-2","children":"Input"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (max 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)"}]]}]]}]]}]}]
+59:["$","$L2c",null,{"as":"h4","id":"output-3","children":"Output"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"series"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Serien-Objekten"}]]}]}]]}]}]
+5b:["$","$L2c",null,{"as":"h3","id":"polymarket_get_series_by_id","children":["$","code",null,{"children":"polymarket_get_series_by_id"}]}]
+5c:["$","p",null,{"children":"Eine bestimmte Serie (zugehörige Marktgruppe) anhand der ID von Polymarket abrufen"}]
+5d:["$","$L2c",null,{"as":"h4","id":"input-3","children":"Input"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"seriesId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die Serien-ID"}]]}]}]]}]}]
+5f:["$","$L2c",null,{"as":"h4","id":"output-4","children":"Output"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"series"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Serien-Objekt mit Details"}]]}]}]]}]}]
+61:["$","$L2c",null,{"as":"h3","id":"polymarket_get_orderbook","children":["$","code",null,{"children":"polymarket_get_orderbook"}]}]
+62:["$","p",null,{"children":"Die Orderbuch-Zusammenfassung für einen bestimmten Token abrufen"}]
+63:["$","$L2c",null,{"as":"h4","id":"input-4","children":"Input"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus den clobTokenIds des Marktes)"}]]}]}]]}]}]
+65:["$","$L2c",null,{"as":"h4","id":"output-5","children":"Output"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderbook"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Orderbuch mit Geld- und Briefkurs-Arrays"}]]}]}]]}]}]
+67:["$","$L2c",null,{"as":"h3","id":"polymarket_get_price","children":["$","code",null,{"children":"polymarket_get_price"}]}]
+68:["$","p",null,{"children":"Den Marktpreis für einen bestimmten Token und eine bestimmte Seite abrufen"}]
+69:["$","$L2c",null,{"as":"h4","id":"input-5","children":"Input"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus den clobTokenIds des Marktes)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"side"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Orderseite: buy oder sell"}]]}]]}]]}]}]
+6b:["$","$L2c",null,{"as":"h4","id":"ausgabe-3","children":"Ausgabe"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"price"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Marktpreis"}]]}]}]]}]}]
+6d:["$","$L2c",null,{"as":"h3","id":"polymarket_get_midpoint","children":["$","code",null,{"children":"polymarket_get_midpoint"}]}]
+6e:["$","p",null,{"children":"Abrufen des Mittelpreises für einen bestimmten Token"}]
+6f:["$","$L2c",null,{"as":"h4","id":"eingabe-4","children":"Eingabe"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus market clobTokenIds)"}]]}]}]]}]}]
+71:["$","$L2c",null,{"as":"h4","id":"ausgabe-4","children":"Ausgabe"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"midpoint"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Mittelkurs"}]]}]}]]}]}]
+73:["$","$L2c",null,{"as":"h3","id":"polymarket_get_price_history","children":["$","code",null,{"children":"polymarket_get_price_history"}]}]
+74:["$","p",null,{"children":"Abrufen historischer Preisdaten für einen bestimmten Markttoken"}]
+75:["$","$L2c",null,{"as":"h4","id":"eingabe-5","children":"Eingabe"}]
+76:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus market clobTokenIds)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"interval"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zeitraum, der zum aktuellen Zeitpunkt endet (1m, 1h, 6h, 1d, 1w, max). Schließt sich gegenseitig mit startTs/endTs aus."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fidelity"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Datenauflösung in Minuten (z.B. 60 für stündlich)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"startTs"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Startzeitstempel (Unix-Sekunden UTC)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"endTs"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Endzeitstempel (Unix-Sekunden UTC)"}]]}]]}]]}]}]
+77:["$","$L2c",null,{"as":"h4","id":"ausgabe-5","children":"Ausgabe"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"history"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Preisverlaufseinträgen mit Zeitstempel (t) und Preis (p)"}]]}]}]]}]}]
+79:["$","$L2c",null,{"as":"h3","id":"polymarket_get_last_trade_price","children":["$","code",null,{"children":"polymarket_get_last_trade_price"}]}]
+7a:["$","p",null,{"children":"Den letzten Handelspreis für einen bestimmten Token abrufen"}]
+7b:["$","$L2c",null,{"as":"h4","id":"eingabe-6","children":"Eingabe"}]
+7c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus market clobTokenIds)"}]]}]}]]}]}]
+7d:["$","$L2c",null,{"as":"h4","id":"ausgabe-6","children":"Ausgabe"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"price"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Letzter Handelspreis"}]]}]}]]}]}]
+7f:["$","$L2c",null,{"as":"h3","id":"polymarket_get_spread","children":["$","code",null,{"children":"polymarket_get_spread"}]}]
+80:["$","p",null,{"children":"Die Geld-Brief-Spanne für einen bestimmten Token abrufen"}]
+81:["$","$L2c",null,{"as":"h4","id":"eingabe-7","children":"Eingabe"}]
+82:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus market clobTokenIds)"}]]}]}]]}]}]
+83:["$","$L2c",null,{"as":"h4","id":"ausgabe-7","children":"Ausgabe"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"spread"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Geld-Brief-Spanne mit Geld- und Briefkursen"}]]}]}]]}]}]
+85:["$","$L2c",null,{"as":"h3","id":"polymarket_get_tick_size","children":["$","code",null,{"children":"polymarket_get_tick_size"}]}]
+86:["$","p",null,{"children":"Die minimale Tickgröße für einen bestimmten Token abrufen"}]
+87:["$","$L2c",null,{"as":"h4","id":"eingabe-8","children":"Eingabe"}]
+88:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tokenId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Die CLOB-Token-ID (aus market clobTokenIds)"}]]}]}]]}]}]
+89:["$","$L2c",null,{"as":"h4","id":"ausgabe-8","children":"Ausgabe"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tickSize"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Minimale Tick-Größe"}]]}]}]]}]}]
+8b:["$","$L2c",null,{"as":"h3","id":"polymarket_get_positions","children":["$","code",null,{"children":"polymarket_get_positions"}]}]
+8c:["$","p",null,{"children":"Benutzerpositionen von Polymarket abrufen"}]
+8d:["$","$L2c",null,{"as":"h4","id":"eingabe-9","children":"Eingabe"}]
+8e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Wallet-Adresse des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"market"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Optionale Markt-ID zum Filtern von Positionen"}]]}]]}]]}]}]
+8f:["$","$L2c",null,{"as":"h4","id":"ausgabe-9","children":"Ausgabe"}]
+90:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"positions"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Positions-Objekten"}]]}]}]]}]}]
+91:["$","$L2c",null,{"as":"h3","id":"polymarket_get_trades","children":["$","code",null,{"children":"polymarket_get_trades"}]}]
+92:["$","p",null,{"children":"Handelshistorie von Polymarket abrufen"}]
+93:["$","$L2c",null,{"as":"h4","id":"eingabe-10","children":"Eingabe"}]
+94:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Wallet-Adresse des Benutzers zum Filtern von Trades"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"market"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Markt-ID zum Filtern von Trades"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (max 50)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Paginierungsoffset (überspringe diese Anzahl an Ergebnissen)"}]]}]]}]]}]}]
+95:["$","$L2c",null,{"as":"h4","id":"ausgabe-10","children":"Ausgabe"}]
+96:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"trades"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Handelsobjekten"}]]}]}]]}]}]
+97:["$","$L2c",null,{"as":"h2","id":"hinweise","children":"Hinweise"}]
+98:["$","ul",null,{"children":["\n",["$","li",null,{"children":["Kategorie: ",["$","code",null,{"children":"tools"}]]}],"\n",["$","li",null,{"children":["Typ: ",["$","code",null,{"children":"polymarket"}]]}],"\n"]}]
+99:["$","$L2c",null,{"as":"h4","id":"eingabe-11","children":"Eingabe"}]
+9a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Wallet-Adresse des Benutzers (mit 0x-Präfix)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Maximale Anzahl zurückzugebender Ergebnisse (z. B. „50\"). Standard: 100, max: 500."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der zu überspringenden Ergebnisse für Paginierung (z. B. „100\"). Standard: 0, max: 10000."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"market"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Durch Komma getrennte Condition-IDs (z. B. „0x1234...abcd,0x5678...efgh\"). Schließt sich gegenseitig mit eventId aus."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Durch Komma getrennte Event-IDs (z. B. „12345,67890\"). Schließt sich gegenseitig mit market aus."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Aktivitätstyp-Filter: TRADE, SPLIT, MERGE, REDEEM, REWARD, CONVERSION, MAKER_REBATE"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"start"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Start-Zeitstempel (Unix-Sekunden)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"end"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"End-Zeitstempel (Unix-Sekunden)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sortBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierfeld: TIMESTAMP, TOKENS oder CASH (Standard: TIMESTAMP)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sortDirection"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung: ASC oder DESC (Standard: DESC)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"side"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Trade-Seiten-Filter: BUY oder SELL (gilt nur für Trades)"}]]}]]}]]}]}]
+9b:["$","$L2c",null,{"as":"h4","id":"ausgabe-11","children":"Ausgabe"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"activity"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Aktivitätseinträgen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"proxyWallet"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Proxy-Wallet-Adresse des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"timestamp"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Unix-Zeitstempel der Aktivität"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"conditionId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Markt-Condition-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Aktivitätstyp (TRADE, SPLIT, MERGE, REDEEM, REWARD, CONVERSION)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Größe in Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"usdcSize"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Größe in USDC"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"transactionHash"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Blockchain-Transaktions-Hash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"price"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Preis (für Trades)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"asset"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset-/Token-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"side"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Trade-Seite (BUY/SELL)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"outcomeIndex"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Outcome-Index"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"title"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Markttitel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"slug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Markt-Slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"icon"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Markt-Icon-URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"eventSlug"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Event-Slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"outcome"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Outcome-Name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Anzeigename des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pseudonym"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Pseudonym des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"bio"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Bio des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Profilbild-URL des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImageOptimized"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Optimierte Profilbild-URL"}]]}]]}]]}]}]
+9d:["$","$L2c",null,{"as":"h3","id":"polymarket_get_leaderboard","children":["$","code",null,{"children":"polymarket_get_leaderboard"}]}]
+9e:["$","p",null,{"children":"Trader-Leaderboard-Rankings nach Gewinn/Verlust oder Volumen abrufen"}]
+9f:["$","$L2c",null,{"as":"h4","id":"eingabe-12","children":"Eingabe"}]
+a0:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"category"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kategoriefilter: OVERALL, POLITICS, SPORTS, CRYPTO, CULTURE, MENTIONS, WEATHER, ECONOMICS, TECH, FINANCE (Standard: OVERALL)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"timePeriod"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Zeitraum: DAY, WEEK, MONTH, ALL (Standard: DAY)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierung nach: PNL oder VOL (Standard: PNL)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der zurückzugebenden Ergebnisse (z. B. „10\"). Bereich: 1-50, Standard: 25."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"offset"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der zu überspringenden Ergebnisse für Paginierung (z. B. „25\"). Bereich: 0-1000, Standard: 0."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach bestimmter Wallet-Adresse des Benutzers filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Benutzername filtern"}]]}]]}]]}]}]
+a1:["$","$L2c",null,{"as":"h4","id":"ausgabe-12","children":"Ausgabe"}]
+a2:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"leaderboard"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Leaderboard-Einträgen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"rank"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Leaderboard-Rangposition"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"proxyWallet"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Proxy-Wallet-Adresse des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"userName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Anzeigename des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"vol"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Handelsvolumen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pnl"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gewinn und Verlust"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Profilbild-URL des Benutzers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"xUsername"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Twitter/X-Benutzername"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"verifiedBadge"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob der Benutzer ein verifiziertes Abzeichen hat"}]]}]]}]]}]}]
+a3:["$","$L2c",null,{"as":"h3","id":"polymarket_get_holders","children":["$","code",null,{"children":"polymarket_get_holders"}]}]
+a4:["$","p",null,{"children":"Top-Inhaber eines bestimmten Markt-Tokens abrufen"}]
+a5:["$","$L2c",null,{"as":"h4","id":"eingabe-13","children":"Eingabe"}]
+a6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"market"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kommagetrennte Liste von Condition-IDs (z. B. \"0x1234...abcd\" oder \"0x1234...abcd,0x5678...efgh\")."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"limit"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der zurückzugebenden Inhaber (z. B. \"10\"). Bereich: 0-20, Standard: 20."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"minBalance"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Minimaler Kontostand-Schwellenwert (Standard: 1)"}]]}]]}]]}]}]
+a7:["$","$L2c",null,{"as":"h4","id":"ausgabe-13","children":"Ausgabe"}]
+a8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"holders"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Markt-Inhaber-Gruppen nach Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"token"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Token-/Asset-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"holders"}]]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array von Inhabern für diesen Token"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"proxyWallet"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Wallet-Adresse des Inhabers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"bio"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Bio des Inhabers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"asset"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Asset-ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pseudonym"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Pseudonym des Inhabers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"amount"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gehaltener Betrag"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayUsernamePublic"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob der Benutzername öffentlich angezeigt wird"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"outcomeIndex"}]]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Outcome-Index"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Anzeigename des Inhabers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Profilbild-URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"profileImageOptimized"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Optimierte Profilbild-URL"}]]}]]}]]}]}]
+ab:null

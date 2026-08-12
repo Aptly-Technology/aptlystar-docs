@@ -1,0 +1,682 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+27:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+28:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+2d:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+2e:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+2f:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+c0:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+c1:"$Sreact.suspense"
+c3:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+c4:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+c5:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Attio\",\"description\":\"Available Attio triggers for automating workflows\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/en/triggers/attio\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/en/triggers/attio\"},\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/en/triggers/attio\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Triggers\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/triggers\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Attio\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/triggers/attio\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#triggers","title":"Triggers"},{"depth":3,"url":"#attio-comment-created","title":"Attio Comment Created"},{"depth":4,"url":"#configuration","title":"Configuration"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#attio-comment-deleted","title":"Attio Comment Deleted"},{"depth":4,"url":"#configuration-1","title":"Configuration"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#attio-comment-resolved","title":"Attio Comment Resolved"},{"depth":4,"url":"#configuration-2","title":"Configuration"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#attio-comment-unresolved","title":"Attio Comment Unresolved"},{"depth":4,"url":"#configuration-3","title":"Configuration"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#attio-list-created","title":"Attio List Created"},{"depth":4,"url":"#configuration-4","title":"Configuration"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#attio-list-deleted","title":"Attio List Deleted"},{"depth":4,"url":"#configuration-5","title":"Configuration"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#attio-list-entry-created","title":"Attio List Entry Created"},{"depth":4,"url":"#configuration-6","title":"Configuration"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#attio-list-entry-deleted","title":"Attio List Entry Deleted"},{"depth":4,"url":"#configuration-7","title":"Configuration"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#attio-list-entry-updated","title":"Attio List Entry Updated"},{"depth":4,"url":"#configuration-8","title":"Configuration"},{"depth":4,"url":"#output-8","title":"Output"},{"depth":3,"url":"#attio-list-updated","title":"Attio List Updated"},{"depth":4,"url":"#configuration-9","title":"Configuration"},{"depth":4,"url":"#output-9","title":"Output"},{"depth":3,"url":"#attio-note-created","title":"Attio Note Created"},{"depth":4,"url":"#configuration-10","title":"Configuration"},{"depth":4,"url":"#output-10","title":"Output"},{"depth":3,"url":"#attio-note-deleted","title":"Attio Note Deleted"},{"depth":4,"url":"#configuration-11","title":"Configuration"},{"depth":4,"url":"#output-11","title":"Output"},{"depth":3,"url":"#attio-note-updated","title":"Attio Note Updated"},{"depth":4,"url":"#configuration-12","title":"Configuration"},{"depth":4,"url":"#output-12","title":"$L3"},{"depth":3,"url":"#attio-record-created","title":"$L4"},{"depth":4,"url":"#configuration-13","title":"$L5"},{"depth":4,"url":"#output-13","title":"$L6"},{"depth":3,"url":"#attio-record-deleted","title":"$L7"},{"depth":4,"url":"#configuration-14","title":"$L8"},{"depth":4,"url":"#output-14","title":"$L9"},{"depth":3,"url":"#attio-record-merged","title":"$La"},{"depth":4,"url":"#configuration-15","title":"$Lb"},{"depth":4,"url":"#output-15","title":"$Lc"},{"depth":3,"url":"#attio-record-updated","title":"$Ld"},{"depth":4,"url":"#configuration-16","title":"$Le"},{"depth":4,"url":"#output-16","title":"$Lf"},{"depth":3,"url":"#attio-task-created","title":"$L10"},{"depth":4,"url":"#configuration-17","title":"$L11"},{"depth":4,"url":"#output-17","title":"$L12"},{"depth":3,"url":"#attio-task-deleted","title":"$L13"},{"depth":4,"url":"#configuration-18","title":"$L14"},{"depth":4,"url":"#output-18","title":"$L15"},{"depth":3,"url":"#attio-task-updated","title":"$L16"},{"depth":4,"url":"#configuration-19","title":"$L17"},{"depth":4,"url":"#output-19","title":"$L18"},{"depth":3,"url":"#attio-webhook-all-events","title":"$L19"},{"depth":4,"url":"#configuration-20","title":"$L1a"},{"depth":4,"url":"#output-20","title":"$L1b"},{"depth":3,"url":"#attio-workspace-member-created","title":"$L1c"},{"depth":4,"url":"#configuration-21","title":"$L1d"},{"depth":4,"url":"#output-21","title":"$L1e"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L1f"},"children":["$L20","$L21"]}]],["$L22","$L23","$L24","$L25"],"$L26"]}],"loading":null,"isPartial":false}
+3:"Output"
+4:"Attio Record Created"
+5:"Configuration"
+6:"Output"
+7:"Attio Record Deleted"
+8:"Configuration"
+9:"Output"
+a:"Attio Record Merged"
+b:"Configuration"
+c:"Output"
+d:"Attio Record Updated"
+e:"Configuration"
+f:"Output"
+10:"Attio Task Created"
+11:"Configuration"
+12:"Output"
+13:"Attio Task Deleted"
+14:"Configuration"
+15:"Output"
+16:"Attio Task Updated"
+17:"Configuration"
+18:"Output"
+19:"Attio Webhook (All Events)"
+1a:"Configuration"
+1b:"Output"
+1c:"Attio Workspace Member Created"
+1d:"Configuration"
+1e:"Output"
+1f:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L27",null,{"href":"/en/triggers/ashby","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Ashby"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L27",null,{"href":"/en/triggers/azure_devops","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Azure Devops",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+29:T4f56,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="attio" color="#1D1E20" />
+
+Attio provides 22 triggers for automating workflows based on events.
+
+Triggers [#triggers]
+
+Attio Comment Created [#attio-comment-created]
+
+Trigger workflow when a new comment is created in Attio
+
+Configuration [#configuration]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `threadId`    | string | The thread ID                                         |
+| `commentId`   | string | The comment ID                                        |
+| `objectId`    | string | The object type ID                                    |
+| `recordId`    | string | The record ID                                         |
+| `listId`      | string | The list ID (if comment is on a list entry)           |
+| `entryId`     | string | The list entry ID (if comment is on a list entry)     |
+
+***
+
+Attio Comment Deleted [#attio-comment-deleted]
+
+Trigger workflow when a comment is deleted in Attio
+
+Configuration [#configuration-1]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-1]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `threadId`    | string | The thread ID                                         |
+| `commentId`   | string | The comment ID                                        |
+| `objectId`    | string | The object type ID                                    |
+| `recordId`    | string | The record ID                                         |
+| `listId`      | string | The list ID (if comment is on a list entry)           |
+| `entryId`     | string | The list entry ID (if comment is on a list entry)     |
+
+***
+
+Attio Comment Resolved [#attio-comment-resolved]
+
+Trigger workflow when a comment thread is resolved in Attio
+
+Configuration [#configuration-2]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-2]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `threadId`    | string | The thread ID                                         |
+| `commentId`   | string | The comment ID                                        |
+| `objectId`    | string | The object type ID                                    |
+| `recordId`    | string | The record ID                                         |
+| `listId`      | string | The list ID (if comment is on a list entry)           |
+| `entryId`     | string | The list entry ID (if comment is on a list entry)     |
+
+***
+
+Attio Comment Unresolved [#attio-comment-unresolved]
+
+Trigger workflow when a comment thread is unresolved in Attio
+
+Configuration [#configuration-3]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-3]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `threadId`    | string | The thread ID                                         |
+| `commentId`   | string | The comment ID                                        |
+| `objectId`    | string | The object type ID                                    |
+| `recordId`    | string | The record ID                                         |
+| `listId`      | string | The list ID (if comment is on a list entry)           |
+| `entryId`     | string | The list entry ID (if comment is on a list entry)     |
+
+***
+
+Attio List Created [#attio-list-created]
+
+Trigger workflow when a list is created in Attio
+
+Configuration [#configuration-4]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-4]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `listId`      | string | The list ID                                           |
+
+***
+
+Attio List Deleted [#attio-list-deleted]
+
+Trigger workflow when a list is deleted in Attio
+
+Configuration [#configuration-5]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-5]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `listId`      | string | The list ID                                           |
+
+***
+
+Attio List Entry Created [#attio-list-entry-created]
+
+Trigger workflow when a new list entry is created in Attio
+
+Configuration [#configuration-6]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-6]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `listId`      | string | The list ID                                           |
+| `entryId`     | string | The list entry ID                                     |
+
+***
+
+Attio List Entry Deleted [#attio-list-entry-deleted]
+
+Trigger workflow when a list entry is deleted in Attio
+
+Configuration [#configuration-7]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-7]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `listId`      | string | The list ID                                           |
+| `entryId`     | string | The list entry ID                                     |
+
+***
+
+Attio List Entry Updated [#attio-list-entry-updated]
+
+Trigger workflow when a list entry is updated in Attio
+
+Configuration [#configuration-8]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-8]
+
+| Parameter     | Type   | Description                                                |
+| ------------- | ------ | ---------------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created)      |
+| `workspaceId` | string | The workspace ID                                           |
+| `listId`      | string | The list ID                                                |
+| `entryId`     | string | The list entry ID                                          |
+| `attributeId` | string | The ID of the attribute that was updated on the list entry |
+
+***
+
+Attio List Updated [#attio-list-updated]
+
+Trigger workflow when a list is updated in Attio
+
+Configuration [#configuration-9]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-9]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `listId`      | string | The list ID                                           |
+
+***
+
+Attio Note Created [#attio-note-created]
+
+Trigger workflow when a new note is created in Attio
+
+Configuration [#configuration-10]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-10]
+
+| Parameter        | Type   | Description                                           |
+| ---------------- | ------ | ----------------------------------------------------- |
+| `eventType`      | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId`    | string | The workspace ID                                      |
+| `noteId`         | string | The note ID                                           |
+| `parentObjectId` | string | The parent object type ID                             |
+| `parentRecordId` | string | The parent record ID                                  |
+
+***
+
+Attio Note Deleted [#attio-note-deleted]
+
+Trigger workflow when a note is deleted in Attio
+
+Configuration [#configuration-11]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-11]
+
+| Parameter        | Type   | Description                                           |
+| ---------------- | ------ | ----------------------------------------------------- |
+| `eventType`      | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId`    | string | The workspace ID                                      |
+| `noteId`         | string | The note ID                                           |
+| `parentObjectId` | string | The parent object type ID                             |
+| `parentRecordId` | string | The parent record ID                                  |
+
+***
+
+Attio Note Updated [#attio-note-updated]
+
+Trigger workflow when a note is updated in Attio
+
+Configuration [#configuration-12]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-12]
+
+| Parameter        | Type   | Description                                           |
+| ---------------- | ------ | ----------------------------------------------------- |
+| `eventType`      | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId`    | string | The workspace ID                                      |
+| `noteId`         | string | The note ID                                           |
+| `parentObjectId` | string | The parent object type ID                             |
+| `parentRecordId` | string | The parent record ID                                  |
+
+***
+
+Attio Record Created [#attio-record-created]
+
+Trigger workflow when a new record is created in Attio
+
+Configuration [#configuration-13]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-13]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `objectId`    | string | The object type ID (e.g. people, companies)           |
+| `recordId`    | string | The record ID                                         |
+
+***
+
+Attio Record Deleted [#attio-record-deleted]
+
+Trigger workflow when a record is deleted in Attio
+
+Configuration [#configuration-14]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-14]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `objectId`    | string | The object type ID (e.g. people, companies)           |
+| `recordId`    | string | The record ID                                         |
+
+***
+
+Attio Record Merged [#attio-record-merged]
+
+Trigger workflow when two records are merged in Attio
+
+Configuration [#configuration-15]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-15]
+
+| Parameter           | Type   | Description                                           |
+| ------------------- | ------ | ----------------------------------------------------- |
+| `eventType`         | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId`       | string | The workspace ID                                      |
+| `objectId`          | string | The object type ID of the surviving record            |
+| `recordId`          | string | The surviving record ID after merge                   |
+| `duplicateObjectId` | string | The object type ID of the merged-away record          |
+| `duplicateRecordId` | string | The record ID that was merged away                    |
+
+***
+
+Attio Record Updated [#attio-record-updated]
+
+Trigger workflow when a record is updated in Attio
+
+Configuration [#configuration-16]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-16]
+
+| Parameter     | Type   | Description                                            |
+| ------------- | ------ | ------------------------------------------------------ |
+| `eventType`   | string | The type of event (e.g. record.created, note.created)  |
+| `workspaceId` | string | The workspace ID                                       |
+| `objectId`    | string | The object type ID (e.g. people, companies)            |
+| `recordId`    | string | The record ID                                          |
+| `attributeId` | string | The ID of the attribute that was updated on the record |
+
+***
+
+Attio Task Created [#attio-task-created]
+
+Trigger workflow when a new task is created in Attio
+
+Configuration [#configuration-17]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-17]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `taskId`      | string | The task ID                                           |
+
+***
+
+Attio Task Deleted [#attio-task-deleted]
+
+Trigger workflow when a task is deleted in Attio
+
+Configuration [#configuration-18]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-18]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `taskId`      | string | The task ID                                           |
+
+***
+
+Attio Task Updated [#attio-task-updated]
+
+Trigger workflow when a task is updated in Attio
+
+Configuration [#configuration-19]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-19]
+
+| Parameter     | Type   | Description                                           |
+| ------------- | ------ | ----------------------------------------------------- |
+| `eventType`   | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId` | string | The workspace ID                                      |
+| `taskId`      | string | The task ID                                           |
+
+***
+
+Attio Webhook (All Events) [#attio-webhook-all-events]
+
+Trigger workflow on any Attio webhook event
+
+Configuration [#configuration-20]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-20]
+
+| Parameter        | Type   | Description                                           |
+| ---------------- | ------ | ----------------------------------------------------- |
+| `eventType`      | string | The type of event (e.g. record.created, note.created) |
+| `id`             | json   | The event ID object containing resource identifiers   |
+| `parentObjectId` | string | The parent object type ID (if applicable)             |
+| `parentRecordId` | string | The parent record ID (if applicable)                  |
+
+***
+
+Attio Workspace Member Created [#attio-workspace-member-created]
+
+Trigger workflow when a new member is added to the Attio workspace
+
+Configuration [#configuration-21]
+
+| Parameter            | Type   | Required | Description   |
+| -------------------- | ------ | -------- | ------------- |
+| `triggerCredentials` | string | Yes      | Attio Account |
+
+Output [#output-21]
+
+| Parameter           | Type   | Description                                           |
+| ------------------- | ------ | ----------------------------------------------------- |
+| `eventType`         | string | The type of event (e.g. record.created, note.created) |
+| `workspaceId`       | string | The workspace ID                                      |
+| `workspaceMemberId` | string | The workspace member ID                               |
+20:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L28",null,{"content":"$29"}]}],"$L2a"]}],"$L2b","$L2c"]}]
+21:["$","$L2d",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L2e",null,{"type":"attio","color":"#1D1E20"}],"\n",["$","p",null,{"children":"Attio provides 22 triggers for automating workflows based on events."}],"\n",["$","$L2f",null,{"as":"h2","id":"triggers","children":"Triggers"}],"\n",["$","$L2f",null,{"as":"h3","id":"attio-comment-created","children":"Attio Comment Created"}],"\n",["$","p",null,{"children":"Trigger workflow when a new comment is created in Attio"}],"\n",["$","$L2f",null,{"as":"h4","id":"configuration","children":"Configuration"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}],"\n",["$","$L2f",null,{"as":"h4","id":"output","children":"Output"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"threadId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The thread ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The comment ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID (if comment is on a list entry)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID (if comment is on a list entry)"}]]}]]}]]}]}],"\n",["$","hr",null,{}],"\n",["$","$L2f",null,{"as":"h3","id":"attio-comment-deleted","children":"Attio Comment Deleted"}],"\n",["$","p",null,{"children":"Trigger workflow when a comment is deleted in Attio"}],"\n",["$","$L2f",null,{"as":"h4","id":"configuration-1","children":"Configuration"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}],"\n",["$","$L2f",null,{"as":"h4","id":"output-1","children":"Output"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"threadId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The thread ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The comment ID"}]]}],"$L30","$L31","$L32","$L33"]}]]}]}],"\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf"]}]}]
+22:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+23:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+24:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+25:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+26:["$","$Lc0",null,{"children":["$","$c1",null,{"name":"Next.MetadataOutlet","children":"$@c2"}]}]
+2a:["$","$Lc3",null,{"previous":{"$id":"en:triggers/ashby.mdx","type":"page","name":"Ashby","description":"Available Ashby triggers for automating workflows","url":"/en/triggers/ashby","$ref":{"file":"triggers/ashby.mdx"}},"next":{"$id":"en:triggers/azure_devops.mdx","type":"page","name":"Azure Devops","description":"Available Azure Devops triggers for automating workflows","url":"/en/triggers/azure_devops","$ref":{"file":"triggers/azure_devops.mdx"}}}]
+2b:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 60.9 50","fill":"currentColor","children":[["$","path",null,{"d":"M60.3,34.8l-5.1-8.1c0,0,0,0,0,0L54.7,26c-0.8-1.2-2.1-1.9-3.5-1.9L43,24L42.5,25l-9.8,15.7l-0.5,0.9l4.1,6.6c0.8,1.2,2.1,1.9,3.5,1.9h11.5c1.4,0,2.8-0.7,3.5-1.9l0.4-0.6c0,0,0,0,0,0l5.1-8.2C61.1,37.9,61.1,36.2,60.3,34.8L60.3,34.8z M58.7,38.3l-5.1,8.2c0,0,0,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.5,0.2c-0.1,0-0.4,0-0.6-0.3l-5.1-8.2c-0.1-0.1-0.1-0.2-0.2-0.3c0-0.1-0.1-0.2-0.1-0.3c-0.1-0.4-0.1-0.8,0-1.3c0.1-0.2,0.1-0.4,0.3-0.6l5.1-8.1c0,0,0,0,0,0c0.1-0.2,0.3-0.3,0.4-0.3c0.1,0,0.1,0,0.1,0c0,0,0,0,0.1,0c0.1,0,0.4,0,0.6,0.3l5.1,8.1C59.2,36.6,59.2,37.5,58.7,38.3L58.7,38.3z"}],["$","path",null,{"d":"M45.2,15.1c0.8-1.3,0.8-3.1,0-4.4l-5.1-8.1l-0.4-0.7C38.9,0.7,37.6,0,36.2,0H24.7c-1.4,0-2.7,0.7-3.5,1.9L0.6,34.9C0.2,35.5,0,36.3,0,37c0,0.8,0.2,1.5,0.6,2.2l5.5,8.8C6.9,49.3,8.2,50,9.7,50h11.5c1.4,0,2.8-0.7,3.5-1.9l0.4-0.7c0,0,0,0,0,0c0,0,0,0,0,0l4.1-6.6l12.1-19.4L45.2,15.1L45.2,15.1z M44,13c0,0.4-0.1,0.8-0.4,1.2L23.5,46.4c-0.2,0.3-0.5,0.3-0.6,0.3c-0.1,0-0.4,0-0.6-0.3l-5.1-8.2c-0.5-0.7-0.5-1.7,0-2.4L37.4,3.6c0.2-0.3,0.5-0.3,0.6-0.3c0.1,0,0.4,0,0.6,0.3l5.1,8.1C43.9,12.1,44,12.5,44,13z"}]]}]}],["$","$Lc4",null,{"className":"mb-0 min-w-0 flex-1","children":"Attio"}]]}]
+2c:["$","$Lc5",null,{"children":"Available Attio triggers for automating workflows"}]
+30:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID"}]]}]
+31:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}]
+32:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID (if comment is on a list entry)"}]]}]
+33:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID (if comment is on a list entry)"}]]}]
+34:["$","hr",null,{}]
+35:["$","$L2f",null,{"as":"h3","id":"attio-comment-resolved","children":"Attio Comment Resolved"}]
+36:["$","p",null,{"children":"Trigger workflow when a comment thread is resolved in Attio"}]
+37:["$","$L2f",null,{"as":"h4","id":"configuration-2","children":"Configuration"}]
+38:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+39:["$","$L2f",null,{"as":"h4","id":"output-2","children":"Output"}]
+3a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"threadId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The thread ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The comment ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID (if comment is on a list entry)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID (if comment is on a list entry)"}]]}]]}]]}]}]
+3b:["$","hr",null,{}]
+3c:["$","$L2f",null,{"as":"h3","id":"attio-comment-unresolved","children":"Attio Comment Unresolved"}]
+3d:["$","p",null,{"children":"Trigger workflow when a comment thread is unresolved in Attio"}]
+3e:["$","$L2f",null,{"as":"h4","id":"configuration-3","children":"Configuration"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+40:["$","$L2f",null,{"as":"h4","id":"output-3","children":"Output"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"threadId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The thread ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The comment ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID (if comment is on a list entry)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID (if comment is on a list entry)"}]]}]]}]]}]}]
+42:["$","hr",null,{}]
+43:["$","$L2f",null,{"as":"h3","id":"attio-list-created","children":"Attio List Created"}]
+44:["$","p",null,{"children":"Trigger workflow when a list is created in Attio"}]
+45:["$","$L2f",null,{"as":"h4","id":"configuration-4","children":"Configuration"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+47:["$","$L2f",null,{"as":"h4","id":"output-4","children":"Output"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID"}]]}]]}]]}]}]
+49:["$","hr",null,{}]
+4a:["$","$L2f",null,{"as":"h3","id":"attio-list-deleted","children":"Attio List Deleted"}]
+4b:["$","p",null,{"children":"Trigger workflow when a list is deleted in Attio"}]
+4c:["$","$L2f",null,{"as":"h4","id":"configuration-5","children":"Configuration"}]
+4d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+4e:["$","$L2f",null,{"as":"h4","id":"output-5","children":"Output"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID"}]]}]]}]]}]}]
+50:["$","hr",null,{}]
+51:["$","$L2f",null,{"as":"h3","id":"attio-list-entry-created","children":"Attio List Entry Created"}]
+52:["$","p",null,{"children":"Trigger workflow when a new list entry is created in Attio"}]
+53:["$","$L2f",null,{"as":"h4","id":"configuration-6","children":"Configuration"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+55:["$","$L2f",null,{"as":"h4","id":"output-6","children":"Output"}]
+56:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID"}]]}]]}]]}]}]
+57:["$","hr",null,{}]
+58:["$","$L2f",null,{"as":"h3","id":"attio-list-entry-deleted","children":"Attio List Entry Deleted"}]
+59:["$","p",null,{"children":"Trigger workflow when a list entry is deleted in Attio"}]
+5a:["$","$L2f",null,{"as":"h4","id":"configuration-7","children":"Configuration"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+5c:["$","$L2f",null,{"as":"h4","id":"output-7","children":"Output"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID"}]]}]]}]]}]}]
+5e:["$","hr",null,{}]
+5f:["$","$L2f",null,{"as":"h3","id":"attio-list-entry-updated","children":"Attio List Entry Updated"}]
+60:["$","p",null,{"children":"Trigger workflow when a list entry is updated in Attio"}]
+61:["$","$L2f",null,{"as":"h4","id":"configuration-8","children":"Configuration"}]
+62:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+63:["$","$L2f",null,{"as":"h4","id":"output-8","children":"Output"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"entryId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list entry ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attributeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The ID of the attribute that was updated on the list entry"}]]}]]}]]}]}]
+65:["$","hr",null,{}]
+66:["$","$L2f",null,{"as":"h3","id":"attio-list-updated","children":"Attio List Updated"}]
+67:["$","p",null,{"children":"Trigger workflow when a list is updated in Attio"}]
+68:["$","$L2f",null,{"as":"h4","id":"configuration-9","children":"Configuration"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+6a:["$","$L2f",null,{"as":"h4","id":"output-9","children":"Output"}]
+6b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"listId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The list ID"}]]}]]}]]}]}]
+6c:["$","hr",null,{}]
+6d:["$","$L2f",null,{"as":"h3","id":"attio-note-created","children":"Attio Note Created"}]
+6e:["$","p",null,{"children":"Trigger workflow when a new note is created in Attio"}]
+6f:["$","$L2f",null,{"as":"h4","id":"configuration-10","children":"Configuration"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+71:["$","$L2f",null,{"as":"h4","id":"output-10","children":"Output"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The note ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent object type ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentRecordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent record ID"}]]}]]}]]}]}]
+73:["$","hr",null,{}]
+74:["$","$L2f",null,{"as":"h3","id":"attio-note-deleted","children":"Attio Note Deleted"}]
+75:["$","p",null,{"children":"Trigger workflow when a note is deleted in Attio"}]
+76:["$","$L2f",null,{"as":"h4","id":"configuration-11","children":"Configuration"}]
+77:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+78:["$","$L2f",null,{"as":"h4","id":"output-11","children":"Output"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The note ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent object type ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentRecordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent record ID"}]]}]]}]]}]}]
+7a:["$","hr",null,{}]
+7b:["$","$L2f",null,{"as":"h3","id":"attio-note-updated","children":"Attio Note Updated"}]
+7c:["$","p",null,{"children":"Trigger workflow when a note is updated in Attio"}]
+7d:["$","$L2f",null,{"as":"h4","id":"configuration-12","children":"Configuration"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+7f:["$","$L2f",null,{"as":"h4","id":"output-12","children":"Output"}]
+80:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"noteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The note ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent object type ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentRecordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent record ID"}]]}]]}]]}]}]
+81:["$","hr",null,{}]
+82:["$","$L2f",null,{"as":"h3","id":"attio-record-created","children":"Attio Record Created"}]
+83:["$","p",null,{"children":"Trigger workflow when a new record is created in Attio"}]
+84:["$","$L2f",null,{"as":"h4","id":"configuration-13","children":"Configuration"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+86:["$","$L2f",null,{"as":"h4","id":"output-13","children":"Output"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID (e.g. people, companies)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}]]}]]}]}]
+88:["$","hr",null,{}]
+89:["$","$L2f",null,{"as":"h3","id":"attio-record-deleted","children":"Attio Record Deleted"}]
+8a:["$","p",null,{"children":"Trigger workflow when a record is deleted in Attio"}]
+8b:["$","$L2f",null,{"as":"h4","id":"configuration-14","children":"Configuration"}]
+8c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+8d:["$","$L2f",null,{"as":"h4","id":"output-14","children":"Output"}]
+8e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID (e.g. people, companies)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}]]}]]}]}]
+8f:["$","hr",null,{}]
+90:["$","$L2f",null,{"as":"h3","id":"attio-record-merged","children":"Attio Record Merged"}]
+91:["$","p",null,{"children":"Trigger workflow when two records are merged in Attio"}]
+92:["$","$L2f",null,{"as":"h4","id":"configuration-15","children":"Configuration"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+94:["$","$L2f",null,{"as":"h4","id":"output-15","children":"Output"}]
+95:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID of the surviving record"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The surviving record ID after merge"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"duplicateObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID of the merged-away record"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"duplicateRecordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID that was merged away"}]]}]]}]]}]}]
+96:["$","hr",null,{}]
+97:["$","$L2f",null,{"as":"h3","id":"attio-record-updated","children":"Attio Record Updated"}]
+98:["$","p",null,{"children":"Trigger workflow when a record is updated in Attio"}]
+99:["$","$L2f",null,{"as":"h4","id":"configuration-16","children":"Configuration"}]
+9a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+9b:["$","$L2f",null,{"as":"h4","id":"output-16","children":"Output"}]
+9c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"objectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The object type ID (e.g. people, companies)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"recordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The record ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"attributeId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The ID of the attribute that was updated on the record"}]]}]]}]]}]}]
+9d:["$","hr",null,{}]
+9e:["$","$L2f",null,{"as":"h3","id":"attio-task-created","children":"Attio Task Created"}]
+9f:["$","p",null,{"children":"Trigger workflow when a new task is created in Attio"}]
+a0:["$","$L2f",null,{"as":"h4","id":"configuration-17","children":"Configuration"}]
+a1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+a2:["$","$L2f",null,{"as":"h4","id":"output-17","children":"Output"}]
+a3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"taskId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The task ID"}]]}]]}]]}]}]
+a4:["$","hr",null,{}]
+a5:["$","$L2f",null,{"as":"h3","id":"attio-task-deleted","children":"Attio Task Deleted"}]
+a6:["$","p",null,{"children":"Trigger workflow when a task is deleted in Attio"}]
+a7:["$","$L2f",null,{"as":"h4","id":"configuration-18","children":"Configuration"}]
+a8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+a9:["$","$L2f",null,{"as":"h4","id":"output-18","children":"Output"}]
+aa:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"taskId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The task ID"}]]}]]}]]}]}]
+ab:["$","hr",null,{}]
+ac:["$","$L2f",null,{"as":"h3","id":"attio-task-updated","children":"Attio Task Updated"}]
+ad:["$","p",null,{"children":"Trigger workflow when a task is updated in Attio"}]
+ae:["$","$L2f",null,{"as":"h4","id":"configuration-19","children":"Configuration"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+b0:["$","$L2f",null,{"as":"h4","id":"output-19","children":"Output"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"taskId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The task ID"}]]}]]}]]}]}]
+b2:["$","hr",null,{}]
+b3:["$","$L2f",null,{"as":"h3","id":"attio-webhook-all-events","children":"Attio Webhook (All Events)"}]
+b4:["$","p",null,{"children":"Trigger workflow on any Attio webhook event"}]
+b5:["$","$L2f",null,{"as":"h4","id":"configuration-20","children":"Configuration"}]
+b6:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+b7:["$","$L2f",null,{"as":"h4","id":"output-20","children":"Output"}]
+b8:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"id"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The event ID object containing resource identifiers"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentObjectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent object type ID (if applicable)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parentRecordId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The parent record ID (if applicable)"}]]}]]}]]}]}]
+b9:["$","hr",null,{}]
+ba:["$","$L2f",null,{"as":"h3","id":"attio-workspace-member-created","children":"Attio Workspace Member Created"}]
+bb:["$","p",null,{"children":"Trigger workflow when a new member is added to the Attio workspace"}]
+bc:["$","$L2f",null,{"as":"h4","id":"configuration-21","children":"Configuration"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"triggerCredentials"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Attio Account"}]]}]}]]}]}]
+be:["$","$L2f",null,{"as":"h4","id":"output-21","children":"Output"}]
+bf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"eventType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The type of event (e.g. record.created, note.created)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"workspaceMemberId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The workspace member ID"}]]}]]}]]}]}]
+c2:null

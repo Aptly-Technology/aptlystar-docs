@@ -1,0 +1,448 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+3:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+e:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+13:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+14:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+15:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+5c:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+5d:"$Sreact.suspense"
+5f:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+60:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+61:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+70:I[315927,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"CodeBlock"]
+71:I[144324,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Pre"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Astrax\",\"description\":\"\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/astrax\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/astrax\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/astrax\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Astrax\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/astrax\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#menú-contextual-","title":"Menú contextual (@)"},{"depth":2,"url":"#modos","title":"Modos"},{"depth":2,"url":"#niveles-de-profundidad","title":"Niveles de profundidad"},{"depth":3,"url":"#interfaz-de-selección-de-modo","title":"Interfaz de selección de modo"},{"depth":2,"url":"#facturación-y-cálculo-de-costos","title":"Facturación y cálculo de costos"},{"depth":3,"url":"#cómo-se-calculan-los-costos","title":"Cómo se calculan los costos"},{"depth":3,"url":"#cola-de-mensajes","title":"Cola de mensajes"},{"depth":2,"url":"#archivos-adjuntos","title":"Archivos adjuntos"},{"depth":2,"url":"#puntos-de-control-y-cambios","title":"Puntos de control y cambios"},{"depth":3,"url":"#ver-puntos-de-control","title":"Ver puntos de control"},{"depth":3,"url":"#revertir-cambios","title":"Revertir cambios"},{"depth":3,"url":"#aceptar-cambios","title":"Aceptar cambios"},{"depth":2,"url":"#bloques-de-pensamiento","title":"Bloques de pensamiento"},{"depth":2,"url":"#selección-de-opciones","title":"Selección de opciones"},{"depth":2,"url":"#atajos-de-teclado","title":"Atajos de teclado"},{"depth":2,"url":"#límites-de-uso","title":"Límites de uso"},{"depth":2,"url":"#astrax-mcp","title":"Astrax MCP"},{"depth":3,"url":"#generar-una-clave-api-de-astrax","title":"Generar una clave API de Astrax"},{"depth":3,"url":"#cursor","title":"Cursor"},{"depth":3,"url":"#claude-code","title":"Claude Code"},{"depth":3,"url":"#claude-desktop","title":"Claude Desktop"},{"depth":3,"url":"#vs-code","title":"VS Code"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L3",null,{"href":"/es/mcp/deploy-workflows","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["$L4","Implementar flujos de trabajo como MCP"]}]]}],"$L5","$L6"]}]]}]},"children":["$L7","$L8"]}]],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]
+5:["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}]
+6:["$","$L3",null,{"href":"/es/skills","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Habilidades del agente",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]
+f:T2e84,
+
+import { Callout } from 'fumadocs-ui/components/callout'
+import { Card, Cards } from 'fumadocs-ui/components/card'
+import { MessageCircle, Package, Zap, Infinity as InfinityIcon, Brain, BrainCircuit } from 'lucide-react'
+
+Astrax es tu asistente integrado en el editor que te ayuda a crear y editar flujos de trabajo con Aptlystar Astrax, así como a entenderlos y mejorarlos. Puede:
+
+* **Explicar**: Responder preguntas sobre Aptlystar y tu flujo de trabajo actual
+* **Guiar**: Sugerir ediciones y mejores prácticas
+* **Editar**: Realizar cambios en bloques, conexiones y configuraciones cuando los apruebes
+
+<Callout type="info">
+  Astrax es un servicio gestionado por Aptlystar. Para implementaciones autoalojadas, genera una clave API de Astrax en la aplicación alojada (aptlystar.ai → Configuración → Astrax)
+
+  1. Ve a [aptlystar.ai](https://aptlystar.ai) → Configuración → Astrax y genera una clave API de Astrax
+  2. Establece `ASTRAX_API_KEY` en tu entorno autoalojado con ese valor
+</Callout>
+
+Menú contextual (@) [#menú-contextual-]
+
+Usa el símbolo `@` para hacer referencia a varios recursos y proporcionar a Astrax más contexto sobre tu espacio de trabajo:
+
+El menú `@` proporciona acceso a:
+
+* **Chats**: Referencia conversaciones previas con astrax
+* **Todos los flujos de trabajo**: Referencia cualquier flujo de trabajo en tu espacio de trabajo
+* **Bloques de flujo de trabajo**: Referencia bloques específicos de los flujos de trabajo
+* **Bloques**: Referencia tipos de bloques y plantillas
+* **Conocimiento**: Referencia tus documentos subidos y base de conocimientos
+* **Documentación**: Referencia la documentación de Aptlystar
+* **Plantillas**: Referencia plantillas de flujo de trabajo
+* **Registros**: Referencia registros de ejecución y resultados
+
+Esta información contextual ayuda a Astrax a proporcionar asistencia más precisa y relevante para tu caso de uso específico.
+
+Modos [#modos]
+
+<Cards>
+  <Card
+    title={
+    <span className="inline-flex items-center gap-2">
+      <MessageCircle className="h-4 w-4 text-muted-foreground" />
+      Preguntar
+    </span>
+  }
+  >
+    <div className="m-0 text-sm">
+      Modo de preguntas y respuestas para explicaciones, orientación y sugerencias sin realizar cambios en tu flujo de trabajo.
+    </div>
+  </Card>
+
+  <Card
+    title={
+    <span className="inline-flex items-center gap-2">
+      <Package className="h-4 w-4 text-muted-foreground" />
+      Agente
+    </span>
+  }
+  >
+    <div className="m-0 text-sm">
+      Modo de construcción y edición. Astrax propone ediciones específicas (añadir bloques, conectar variables, ajustar configuraciones) y las aplica cuando las apruebas.
+    </div>
+  </Card>
+</Cards>
+
+Niveles de profundidad [#niveles-de-profundidad]
+
+<Cards>
+  <Card
+    title={
+    <span className="inline-flex items-center gap-2">
+      <Zap className="h-4 w-4 text-muted-foreground" />
+      Rápido
+    </span>
+  }
+  >
+    <div className="m-0 text-sm">
+      El más rápido y económico. Ideal para ediciones pequeñas, flujos de trabajo simples y ajustes menores.
+    </div>
+  </Card>
+
+  <Card
+    title={
+    <span className="inline-flex items-center gap-2">
+      <InfinityIcon className="h-4 w-4 text-muted-foreground" />
+      Auto
+    </span>
+  }
+  >
+    <div className="m-0 text-sm">
+      Equilibrio entre velocidad y razonamiento. Opción predeterminada recomendada para la mayoría de las tareas.
+    </div>
+  </Card>
+
+  <Card
+    title={
+    <span className="inline-flex items-center gap-2">
+      <Brain className="h-4 w-4 text-muted-foreground" />
+      Avanzado
+    </span>
+  }
+  >
+    <div className="m-0 text-sm">
+      Mayor razonamiento para flujos de trabajo más grandes y ediciones complejas sin perder rendimiento.
+    </div>
+  </Card>
+
+  <Card
+    title={
+    <span className="inline-flex items-center gap-2">
+      <BrainCircuit className="h-4 w-4 text-muted-foreground" />
+      Behemoth
+    </span>
+  }
+  >
+    <div className="m-0 text-sm">
+      Máximo razonamiento para planificación profunda, depuración y cambios arquitectónicos complejos.
+    </div>
+  </Card>
+</Cards>
+
+Interfaz de selección de modo [#interfaz-de-selección-de-modo]
+
+Puedes cambiar fácilmente entre diferentes modos de razonamiento utilizando el selector de modo en la interfaz de Astrax:
+
+La interfaz te permite:
+
+* **Seleccionar nivel de razonamiento**: Elige entre Rápido, Auto, Avanzado o Behemoth
+* **Activar modo MAX**: Activa el interruptor para obtener las máximas capacidades de razonamiento cuando necesites el análisis más exhaustivo
+* **Ver descripciones de modos**: Comprende para qué está optimizado cada modo
+
+Elige tu modo según la complejidad de tu tarea - usa Rápido para preguntas simples y Behemoth para cambios arquitectónicos complejos.
+
+Facturación y cálculo de costos [#facturación-y-cálculo-de-costos]
+
+Cómo se calculan los costos [#cómo-se-calculan-los-costos]
+
+El uso de Astrax se factura por token del LLM subyacente:
+
+* **Tokens de entrada**: facturados a la tarifa base del proveedor (**a costo**)
+* **Tokens de salida**: facturados a **1,5×** la tarifa base de salida del proveedor
+
+```javascript
+astraxCost = (inputTokens × inputPrice + outputTokens × (outputPrice × 1.5)) / 1,000,000
+```
+
+| Componente | Tarifa aplicada   |
+| ---------- | ----------------- |
+| Entrada    | inputPrice        |
+| Salida     | outputPrice × 1,5 |
+
+<Callout type="warning">
+  Los precios mostrados reflejan las tarifas a partir del 4 de septiembre de 2025. Consulta la documentación del proveedor para conocer los precios actuales.
+</Callout>
+
+<Callout type="info">
+  Los precios de los modelos son por millón de tokens. El cálculo divide por 1.000.000 para obtener el costo real. Consulta <a href="/execution/costs">la página de Cálculo de Costos</a> para obtener información general y ejemplos.
+</Callout>
+
+Pasa el cursor sobre cualquiera de tus mensajes y haz clic en **Editar** para modificarlo y reenviarlo. Esto es útil para refinar tus prompts.
+
+Cola de mensajes [#cola-de-mensajes]
+
+Si envías un mensaje mientras Astrax aún está respondiendo, se pone en cola. Puedes:
+
+* Ver los mensajes en cola en el panel expandible de cola
+* Enviar un mensaje en cola inmediatamente (interrumpe la respuesta actual)
+* Eliminar mensajes de la cola
+
+Archivos adjuntos [#archivos-adjuntos]
+
+Haz clic en el icono de adjunto para subir archivos con tu mensaje. Los tipos de archivo compatibles incluyen:
+
+* Imágenes (se muestran miniaturas de vista previa)
+* PDFs
+* Archivos de texto, JSON, XML
+* Otros formatos de documentos
+
+Los archivos se muestran como miniaturas en las que se puede hacer clic y que se abren en una nueva pestaña.
+
+Puntos de control y cambios [#puntos-de-control-y-cambios]
+
+Cuando Astrax realiza cambios en tu flujo de trabajo, guarda puntos de control para que puedas revertirlos si es necesario.
+
+Ver puntos de control [#ver-puntos-de-control]
+
+Pasa el cursor sobre un mensaje de Astrax y haz clic en el icono de puntos de control para ver los estados guardados del flujo de trabajo para ese mensaje.
+
+Revertir cambios [#revertir-cambios]
+
+Haz clic en **Revertir** en cualquier punto de control para restaurar tu flujo de trabajo a ese estado. Un diálogo de confirmación te advertirá que esta acción no se puede deshacer.
+
+Aceptar cambios [#aceptar-cambios]
+
+Cuando Astrax propone cambios, puedes:
+
+* **Aceptar**: aplicar los cambios propuestos (`Mod+Shift+Enter`)
+* **Rechazar**: descartar los cambios y mantener tu flujo de trabajo actual
+
+Bloques de pensamiento [#bloques-de-pensamiento]
+
+Para solicitudes complejas, Astrax puede mostrar su proceso de razonamiento en bloques de pensamiento expandibles:
+
+* Los bloques se expanden automáticamente mientras Astrax está pensando
+* Haz clic para expandir/contraer manualmente
+* Muestra la duración del proceso de pensamiento
+* Te ayuda a entender cómo Astrax llegó a su solución
+
+Selección de opciones [#selección-de-opciones]
+
+Cuando Astrax presenta múltiples opciones, puedes seleccionar usando:
+
+| Control                 | Acción                        |
+| ----------------------- | ----------------------------- |
+| **1-9**                 | Seleccionar opción por número |
+| **Flecha arriba/abajo** | Navegar entre opciones        |
+| **Enter**               | Seleccionar opción resaltada  |
+
+Las opciones seleccionadas están resaltadas; las opciones no seleccionadas aparecen tachadas.
+
+Atajos de teclado [#atajos-de-teclado]
+
+| Atajo             | Acción                        |
+| ----------------- | ----------------------------- |
+| `@`               | Abrir menú contextual         |
+| `/`               | Abrir comandos de barra       |
+| `Arrow Up/Down`   | Navegar elementos del menú    |
+| `Enter`           | Seleccionar elemento del menú |
+| `Esc`             | Cerrar menús                  |
+| `Mod+Shift+Enter` | Aceptar cambios de Astrax     |
+
+Límites de uso [#límites-de-uso]
+
+El uso de Astrax se factura por token del LLM subyacente. Si alcanzas tu límite de uso, Astrax te pedirá que aumentes tu límite. Puedes agregar uso en incrementos ($50, $100) desde tu base actual.
+
+<Callout type="info">
+  Consulta la [página de cálculo de costos](/execution/costs) para detalles de facturación.
+</Callout>
+
+Astrax MCP [#astrax-mcp]
+
+Puedes usar Astrax como servidor MCP en tu editor o cliente de IA favorito. Esto te permite construir, probar, desplegar y gestionar flujos de trabajo de Aptlystar directamente desde herramientas como Cursor, Claude Code, Claude Desktop y VS Code.
+
+Generar una clave API de Astrax [#generar-una-clave-api-de-astrax]
+
+Para conectarte al servidor MCP de Astrax, necesitas una **clave API de Astrax**:
+
+1. Ve a [aptlystar.ai](https://aptlystar.ai) e inicia sesión
+2. Navega a **Configuración** → **Astrax**
+3. Haz clic en **Generar clave API**
+4. Copia la clave — solo se muestra una vez
+
+La clave se verá como `sk-aptlystar-astrax-...`. Usarás esto en la configuración a continuación.
+
+Cursor [#cursor]
+
+Agrega lo siguiente a tu `.cursor/mcp.json` (nivel de proyecto) o configuración global de MCP de Cursor:
+
+```json
+{
+  "mcpServers": {
+    "aptlystar-astrax": {
+      "url": "https://www.aptlystar.ai/api/mcp/astrax",
+      "headers": {
+        "X-API-Key": "YOUR_ASTRAX_API_KEY"
+      }
+    }
+  }
+}
+```
+
+Reemplaza `YOUR_ASTRAX_API_KEY` con la clave que generaste anteriormente.
+
+Claude Code [#claude-code]
+
+Ejecuta el siguiente comando para añadir el servidor MCP de Astrax:
+
+```bash
+claude mcp add aptlystar-astrax \
+  --transport http \
+  https://www.aptlystar.ai/api/mcp/astrax \
+  --header "X-API-Key: YOUR_ASTRAX_API_KEY"
+```
+
+Reemplaza `YOUR_ASTRAX_API_KEY` con tu clave.
+
+Claude Desktop [#claude-desktop]
+
+Claude Desktop requiere [`mcp-remote`](https://www.npmjs.com/package/mcp-remote) para conectarse a servidores MCP basados en HTTP. Añade lo siguiente a tu archivo de configuración de Claude Desktop (`~/Library/Application Support/Claude/claude_desktop_config.json` en macOS):
+
+```json
+{
+  "mcpServers": {
+    "aptlystar-astrax": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://www.aptlystar.ai/api/mcp/astrax",
+        "--header",
+        "X-API-Key: YOUR_ASTRAX_API_KEY"
+      ]
+    }
+  }
+}
+```
+
+Reemplaza `YOUR_ASTRAX_API_KEY` con tu clave.
+
+VS Code [#vs-code]
+
+Añade lo siguiente a tu `settings.json` de VS Code o al `.vscode/settings.json` del espacio de trabajo:
+
+```json
+{
+  "mcp": {
+    "servers": {
+      "aptlystar-astrax": {
+        "type": "http",
+        "url": "https://www.aptlystar.ai/api/mcp/astrax",
+        "headers": {
+          "X-API-Key": "YOUR_ASTRAX_API_KEY"
+        }
+      }
+    }
+  }
+}
+```
+
+Reemplaza `YOUR_ASTRAX_API_KEY` con tu clave.
+
+<Callout type="info">
+  Para implementaciones auto-alojadas, reemplaza `https://www.aptlystar.ai` con tu URL de Aptlystar auto-alojada.
+</Callout>
+7:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$Le",null,{"content":"$f"}]}],"$L10"]}],"$L11","$L12"]}]
+8:["$","$L13",null,{"children":["$","div",null,{"className":"","children":[["$","p",null,{"children":"Astrax es tu asistente integrado en el editor que te ayuda a crear y editar flujos de trabajo con Aptlystar Astrax, así como a entenderlos y mejorarlos. Puede:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Explicar"}],": Responder preguntas sobre Aptlystar y tu flujo de trabajo actual"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Guiar"}],": Sugerir ediciones y mejores prácticas"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Editar"}],": Realizar cambios en bloques, conexiones y configuraciones cuando los apruebes"]}],"\n"]}],"\n",["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":[["$","p",null,{"children":"Astrax es un servicio gestionado por Aptlystar. Para implementaciones autoalojadas, genera una clave API de Astrax en la aplicación alojada (aptlystar.ai → Configuración → Astrax)"}],["$","ol",null,{"children":["\n",["$","li",null,{"children":["Ve a ",["$","$L14",null,{"href":"https://aptlystar.ai","children":"aptlystar.ai"}]," → Configuración → Astrax y genera una clave API de Astrax"]}],"\n",["$","li",null,{"children":["Establece ",["$","code",null,{"children":"ASTRAX_API_KEY"}]," en tu entorno autoalojado con ese valor"]}],"\n"]}]]}]]}]]}],"\n",["$","$L15",null,{"as":"h2","id":"menú-contextual-","children":"Menú contextual (@)"}],"\n",["$","p",null,{"children":["Usa el símbolo ",["$","code",null,{"children":"@"}]," para hacer referencia a varios recursos y proporcionar a Astrax más contexto sobre tu espacio de trabajo:"]}],"\n",["$","p",null,{"children":["El menú ",["$","code",null,{"children":"@"}]," proporciona acceso a:"]}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Chats"}],": Referencia conversaciones previas con astrax"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Todos los flujos de trabajo"}],": Referencia cualquier flujo de trabajo en tu espacio de trabajo"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Bloques de flujo de trabajo"}],": Referencia bloques específicos de los flujos de trabajo"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Bloques"}],": Referencia tipos de bloques y plantillas"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Conocimiento"}],": Referencia tus documentos subidos y base de conocimientos"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Documentación"}],": Referencia la documentación de Aptlystar"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Plantillas"}],": Referencia plantillas de flujo de trabajo"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Registros"}],": Referencia registros de ejecución y resultados"]}],"\n"]}],"\n",["$","p",null,{"children":"Esta información contextual ayuda a Astrax a proporcionar asistencia más precisa y relevante para tu caso de uso específico."}],"\n",["$","$L15",null,{"as":"h2","id":"modos","children":"Modos"}],"\n",["$","div",null,{"children":[["$","div",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":["$","span",null,{"className":"inline-flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-message-circle h-4 w-4 text-muted-foreground","aria-hidden":"true","children":["$L16","$undefined"]}],"Preguntar"]}]}],null,"$L17"],"data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full"}],"$L18"],"className":"grid grid-cols-2 gap-3 @container"}],"\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b"]}]}]
+9:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+a:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+b:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+c:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+d:["$","$L5c",null,{"children":["$","$5d",null,{"name":"Next.MetadataOutlet","children":"$@5e"}]}]
+10:["$","$L5f",null,{"previous":{"$id":"es:mcp/deploy-workflows.mdx","type":"page","name":"Implementar flujos de trabajo como MCP","description":"Expone tus flujos de trabajo como herramientas MCP para asistentes de IA externos y aplicaciones","url":"/es/mcp/deploy-workflows","$ref":{"file":"mcp/deploy-workflows.mdx"}},"next":{"$id":"es:skills/index.mdx","type":"page","name":"Habilidades del agente","url":"/es/skills","$ref":{"file":"skills/index.mdx"}}}]
+11:["$","$L60",null,{"className":"mb-2","children":"Astrax"}]
+12:["$","$L61",null,{}]
+16:["$","path","vv11sd",{"d":"M7.9 20A9 9 0 1 0 4 16.1L2 22Z"}]
+17:["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","div",null,{"className":"m-0 text-sm","children":["$","p",null,{"children":"Modo de preguntas y respuestas para explicaciones, orientación y sugerencias sin realizar cambios en tu flujo de trabajo."}]}]}]
+18:["$","div",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":["$","span",null,{"className":"inline-flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-package h-4 w-4 text-muted-foreground","aria-hidden":"true","children":[["$","path","1a0edw",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"}],["$","path","d0xqtd",{"d":"M12 22V12"}],["$","polyline","ousv84",{"points":"3.29 7 12 12 20.71 7"}],["$","path","1c824w",{"d":"m7.5 4.27 9 5.15"}],"$undefined"]}],"Agente"]}]}],null,["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","div",null,{"className":"m-0 text-sm","children":["$","p",null,{"children":"Modo de construcción y edición. Astrax propone ediciones específicas (añadir bloques, conectar variables, ajustar configuraciones) y las aplica cuando las apruebas."}]}]}]],"data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full"}]
+19:["$","$L15",null,{"as":"h2","id":"niveles-de-profundidad","children":"Niveles de profundidad"}]
+1a:["$","div",null,{"children":[["$","div",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":["$","span",null,{"className":"inline-flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-zap h-4 w-4 text-muted-foreground","aria-hidden":"true","children":[["$","path","1xq2db",{"d":"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"}],"$undefined"]}],"Rápido"]}]}],null,["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","div",null,{"className":"m-0 text-sm","children":"El más rápido y económico. Ideal para ediciones pequeñas, flujos de trabajo simples y ajustes menores."}]}]],"data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full"}],["$","div",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":["$","span",null,{"className":"inline-flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-infinity h-4 w-4 text-muted-foreground","aria-hidden":"true","children":[["$","path","18ogeb",{"d":"M6 16c5 0 7-8 12-8a4 4 0 0 1 0 8c-5 0-7-8-12-8a4 4 0 1 0 0 8"}],"$undefined"]}],"Auto"]}]}],null,["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","div",null,{"className":"m-0 text-sm","children":"Equilibrio entre velocidad y razonamiento. Opción predeterminada recomendada para la mayoría de las tareas."}]}]],"data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full"}],["$","div",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":["$","span",null,{"className":"inline-flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-brain h-4 w-4 text-muted-foreground","aria-hidden":"true","children":[["$","path","l5xja",{"d":"M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"}],["$","path","ep3f8r",{"d":"M12 5a3 3 0 1 1 5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12 18Z"}],["$","path","1p4c4q",{"d":"M15 13a4.5 4.5 0 0 1-3-4 4.5 4.5 0 0 1-3 4"}],["$","path","tmeiqw",{"d":"M17.599 6.5a3 3 0 0 0 .399-1.375"}],["$","path","105sqy",{"d":"M6.003 5.125A3 3 0 0 0 6.401 6.5"}],["$","path","ql3yin",{"d":"M3.477 10.896a4 4 0 0 1 .585-.396"}],["$","path","1qfode",{"d":"M19.938 10.5a4 4 0 0 1 .585.396"}],["$","path","2e4loj",{"d":"M6 18a4 4 0 0 1-1.967-.516"}],["$","path","159ez6",{"d":"M19.967 17.484A4 4 0 0 1 18 18"}],"$undefined"]}],"Avanzado"]}]}],null,["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","div",null,{"className":"m-0 text-sm","children":"Mayor razonamiento para flujos de trabajo más grandes y ediciones complejas sin perder rendimiento."}]}]],"data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full"}],["$","div",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":["$","span",null,{"className":"inline-flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-brain-circuit h-4 w-4 text-muted-foreground","aria-hidden":"true","children":["$L62","$L63","$L64","$L65","$L66","$L67","$L68","$L69","$L6a","$L6b","$L6c","$L6d","$L6e","$undefined"]}],"Behemoth"]}]}],null,"$L6f"],"data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full"}]],"className":"grid grid-cols-2 gap-3 @container"}]
+1b:["$","$L15",null,{"as":"h3","id":"interfaz-de-selección-de-modo","children":"Interfaz de selección de modo"}]
+1c:["$","p",null,{"children":"Puedes cambiar fácilmente entre diferentes modos de razonamiento utilizando el selector de modo en la interfaz de Astrax:"}]
+1d:["$","p",null,{"children":"La interfaz te permite:"}]
+1e:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Seleccionar nivel de razonamiento"}],": Elige entre Rápido, Auto, Avanzado o Behemoth"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Activar modo MAX"}],": Activa el interruptor para obtener las máximas capacidades de razonamiento cuando necesites el análisis más exhaustivo"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Ver descripciones de modos"}],": Comprende para qué está optimizado cada modo"]}],"\n"]}]
+1f:["$","p",null,{"children":"Elige tu modo según la complejidad de tu tarea - usa Rápido para preguntas simples y Behemoth para cambios arquitectónicos complejos."}]
+20:["$","$L15",null,{"as":"h2","id":"facturación-y-cálculo-de-costos","children":"Facturación y cálculo de costos"}]
+21:["$","$L15",null,{"as":"h3","id":"cómo-se-calculan-los-costos","children":"Cómo se calculan los costos"}]
+22:["$","p",null,{"children":"El uso de Astrax se factura por token del LLM subyacente:"}]
+23:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Tokens de entrada"}],": facturados a la tarifa base del proveedor (",["$","strong",null,{"children":"a costo"}],")"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Tokens de salida"}],": facturados a ",["$","strong",null,{"children":"1,5×"}]," la tarifa base de salida del proveedor"]}],"\n"]}]
+24:["$","$L70",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z\" fill=\"currentColor\" /></svg>","children":["$","$L71",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"astraxCost "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"="}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" (inputTokens × inputPrice "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"+"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" outputTokens × (outputPrice × "}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"1.5"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":")) "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"/"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" 1"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"000"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"000"}]]}]}]}]}]
+25:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Componente"}],["$","th",null,{"children":"Tarifa aplicada"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Entrada"}],["$","td",null,{"children":"inputPrice"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Salida"}],["$","td",null,{"children":"outputPrice × 1,5"}]]}]]}]]}]}]
+26:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-warning, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-triangle-alert size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","path","wmoenq",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"}],["$","path","juzpu7",{"d":"M12 9v4"}],["$","path","p32p05",{"d":"M12 17h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"Los precios mostrados reflejan las tarifas a partir del 4 de septiembre de 2025. Consulta la documentación del proveedor para conocer los precios actuales."}]}]]}]]}]
+27:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":["Los precios de los modelos son por millón de tokens. El cálculo divide por 1.000.000 para obtener el costo real. Consulta ",["$","a",null,{"href":"/execution/costs","children":"la página de Cálculo de Costos"}]," para obtener información general y ejemplos."]}]}]]}]]}]
+28:["$","p",null,{"children":["Pasa el cursor sobre cualquiera de tus mensajes y haz clic en ",["$","strong",null,{"children":"Editar"}]," para modificarlo y reenviarlo. Esto es útil para refinar tus prompts."]}]
+29:["$","$L15",null,{"as":"h3","id":"cola-de-mensajes","children":"Cola de mensajes"}]
+2a:["$","p",null,{"children":"Si envías un mensaje mientras Astrax aún está respondiendo, se pone en cola. Puedes:"}]
+2b:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Ver los mensajes en cola en el panel expandible de cola"}],"\n",["$","li",null,{"children":"Enviar un mensaje en cola inmediatamente (interrumpe la respuesta actual)"}],"\n",["$","li",null,{"children":"Eliminar mensajes de la cola"}],"\n"]}]
+2c:["$","$L15",null,{"as":"h2","id":"archivos-adjuntos","children":"Archivos adjuntos"}]
+2d:["$","p",null,{"children":"Haz clic en el icono de adjunto para subir archivos con tu mensaje. Los tipos de archivo compatibles incluyen:"}]
+2e:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Imágenes (se muestran miniaturas de vista previa)"}],"\n",["$","li",null,{"children":"PDFs"}],"\n",["$","li",null,{"children":"Archivos de texto, JSON, XML"}],"\n",["$","li",null,{"children":"Otros formatos de documentos"}],"\n"]}]
+2f:["$","p",null,{"children":"Los archivos se muestran como miniaturas en las que se puede hacer clic y que se abren en una nueva pestaña."}]
+30:["$","$L15",null,{"as":"h2","id":"puntos-de-control-y-cambios","children":"Puntos de control y cambios"}]
+31:["$","p",null,{"children":"Cuando Astrax realiza cambios en tu flujo de trabajo, guarda puntos de control para que puedas revertirlos si es necesario."}]
+32:["$","$L15",null,{"as":"h3","id":"ver-puntos-de-control","children":"Ver puntos de control"}]
+33:["$","p",null,{"children":"Pasa el cursor sobre un mensaje de Astrax y haz clic en el icono de puntos de control para ver los estados guardados del flujo de trabajo para ese mensaje."}]
+34:["$","$L15",null,{"as":"h3","id":"revertir-cambios","children":"Revertir cambios"}]
+35:["$","p",null,{"children":["Haz clic en ",["$","strong",null,{"children":"Revertir"}]," en cualquier punto de control para restaurar tu flujo de trabajo a ese estado. Un diálogo de confirmación te advertirá que esta acción no se puede deshacer."]}]
+36:["$","$L15",null,{"as":"h3","id":"aceptar-cambios","children":"Aceptar cambios"}]
+37:["$","p",null,{"children":"Cuando Astrax propone cambios, puedes:"}]
+38:["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Aceptar"}],": aplicar los cambios propuestos (",["$","code",null,{"children":"Mod+Shift+Enter"}],")"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Rechazar"}],": descartar los cambios y mantener tu flujo de trabajo actual"]}],"\n"]}]
+39:["$","$L15",null,{"as":"h2","id":"bloques-de-pensamiento","children":"Bloques de pensamiento"}]
+3a:["$","p",null,{"children":"Para solicitudes complejas, Astrax puede mostrar su proceso de razonamiento en bloques de pensamiento expandibles:"}]
+3b:["$","ul",null,{"children":["\n",["$","li",null,{"children":"Los bloques se expanden automáticamente mientras Astrax está pensando"}],"\n",["$","li",null,{"children":"Haz clic para expandir/contraer manualmente"}],"\n",["$","li",null,{"children":"Muestra la duración del proceso de pensamiento"}],"\n",["$","li",null,{"children":"Te ayuda a entender cómo Astrax llegó a su solución"}],"\n"]}]
+3c:["$","$L15",null,{"as":"h2","id":"selección-de-opciones","children":"Selección de opciones"}]
+3d:["$","p",null,{"children":"Cuando Astrax presenta múltiples opciones, puedes seleccionar usando:"}]
+3e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Control"}],["$","th",null,{"children":"Acción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"1-9"}]}],["$","td",null,{"children":"Seleccionar opción por número"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Flecha arriba/abajo"}]}],["$","td",null,{"children":"Navegar entre opciones"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","strong",null,{"children":"Enter"}]}],["$","td",null,{"children":"Seleccionar opción resaltada"}]]}]]}]]}]}]
+3f:["$","p",null,{"children":"Las opciones seleccionadas están resaltadas; las opciones no seleccionadas aparecen tachadas."}]
+40:["$","$L15",null,{"as":"h2","id":"atajos-de-teclado","children":"Atajos de teclado"}]
+41:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Atajo"}],["$","th",null,{"children":"Acción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"@"}]}],["$","td",null,{"children":"Abrir menú contextual"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"/"}]}],["$","td",null,{"children":"Abrir comandos de barra"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"Arrow Up/Down"}]}],["$","td",null,{"children":"Navegar elementos del menú"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"Enter"}]}],["$","td",null,{"children":"Seleccionar elemento del menú"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"Esc"}]}],["$","td",null,{"children":"Cerrar menús"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"Mod+Shift+Enter"}]}],["$","td",null,{"children":"Aceptar cambios de Astrax"}]]}]]}]]}]}]
+42:["$","$L15",null,{"as":"h2","id":"límites-de-uso","children":"Límites de uso"}]
+43:["$","p",null,{"children":"El uso de Astrax se factura por token del LLM subyacente. Si alcanzas tu límite de uso, Astrax te pedirá que aumentes tu límite. Puedes agregar uso en incrementos ($50, $100) desde tu base actual."}]
+44:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":["Consulta la ",["$","$L14",null,{"href":"/execution/costs","children":"página de cálculo de costos"}]," para detalles de facturación."]}]}]]}]]}]
+45:["$","$L15",null,{"as":"h2","id":"astrax-mcp","children":"Astrax MCP"}]
+46:["$","p",null,{"children":"Puedes usar Astrax como servidor MCP en tu editor o cliente de IA favorito. Esto te permite construir, probar, desplegar y gestionar flujos de trabajo de Aptlystar directamente desde herramientas como Cursor, Claude Code, Claude Desktop y VS Code."}]
+47:["$","$L15",null,{"as":"h3","id":"generar-una-clave-api-de-astrax","children":"Generar una clave API de Astrax"}]
+48:["$","p",null,{"children":["Para conectarte al servidor MCP de Astrax, necesitas una ",["$","strong",null,{"children":"clave API de Astrax"}],":"]}]
+49:["$","ol",null,{"children":["\n",["$","li",null,{"children":["Ve a ",["$","$L14",null,{"href":"https://aptlystar.ai","children":"aptlystar.ai"}]," e inicia sesión"]}],"\n",["$","li",null,{"children":["Navega a ",["$","strong",null,{"children":"Configuración"}]," → ",["$","strong",null,{"children":"Astrax"}]]}],"\n",["$","li",null,{"children":["Haz clic en ",["$","strong",null,{"children":"Generar clave API"}]]}],"\n",["$","li",null,{"children":"Copia la clave — solo se muestra una vez"}],"\n"]}]
+4a:["$","p",null,{"children":["La clave se verá como ",["$","code",null,{"children":"sk-aptlystar-astrax-..."}],". Usarás esto en la configuración a continuación."]}]
+4b:["$","$L15",null,{"as":"h3","id":"cursor","children":"Cursor"}]
+4c:["$","p",null,{"children":["Agrega lo siguiente a tu ",["$","code",null,{"children":".cursor/mcp.json"}]," (nivel de proyecto) o configuración global de MCP de Cursor:"]}]
+4d:["$","$L70",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L71",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"mcpServers\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"aptlystar-astrax\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"url\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"https://www.aptlystar.ai/api/mcp/astrax\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"headers\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"X-API-Key\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"YOUR_ASTRAX_API_KEY\""}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]]}]}]}]
+4e:["$","p",null,{"children":["Reemplaza ",["$","code",null,{"children":"YOUR_ASTRAX_API_KEY"}]," con la clave que generaste anteriormente."]}]
+4f:["$","$L15",null,{"as":"h3","id":"claude-code","children":"Claude Code"}]
+50:["$","p",null,{"children":"Ejecuta el siguiente comando para añadir el servidor MCP de Astrax:"}]
+51:["$","$L70",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L71",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"claude"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" mcp"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" add"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" aptlystar-astrax"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" \\"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  --transport"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" http"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" \\"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"  https://www.aptlystar.ai/api/mcp/astrax"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" \\"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  --header"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" \"X-API-Key: YOUR_ASTRAX_API_KEY\""}]]}]]}]}]}]
+52:["$","p",null,{"children":["Reemplaza ",["$","code",null,{"children":"YOUR_ASTRAX_API_KEY"}]," con tu clave."]}]
+53:["$","$L15",null,{"as":"h3","id":"claude-desktop","children":"Claude Desktop"}]
+54:["$","p",null,{"children":["Claude Desktop requiere ",["$","$L14",null,{"href":"https://www.npmjs.com/package/mcp-remote","children":["$","code",null,{"children":"mcp-remote"}]}]," para conectarse a servidores MCP basados en HTTP. Añade lo siguiente a tu archivo de configuración de Claude Desktop (",["$","code",null,{"children":"~/Library/Application Support/Claude/claude_desktop_config.json"}]," en macOS):"]}]
+55:["$","$L70",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L71",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"mcpServers\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"aptlystar-astrax\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"command\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"npx\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"args\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": ["}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"        \"-y\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"        \"mcp-remote\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"        \"https://www.aptlystar.ai/api/mcp/astrax\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"        \"--header\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"        \"X-API-Key: YOUR_ASTRAX_API_KEY\""}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      ]"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]]}]}]}]
+56:["$","p",null,{"children":["Reemplaza ",["$","code",null,{"children":"YOUR_ASTRAX_API_KEY"}]," con tu clave."]}]
+57:["$","$L15",null,{"as":"h3","id":"vs-code","children":"VS Code"}]
+58:["$","p",null,{"children":["Añade lo siguiente a tu ",["$","code",null,{"children":"settings.json"}]," de VS Code o al ",["$","code",null,{"children":".vscode/settings.json"}]," del espacio de trabajo:"]}]
+59:["$","$L70",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"M 6,1 C 4.354992,1 3,2.354992 3,4 v 16 c 0,1.645008 1.354992,3 3,3 h 12 c 1.645008,0 3,-1.354992 3,-3 V 8 7 A 1.0001,1.0001 0 0 0 20.707031,6.2929687 l -5,-5 A 1.0001,1.0001 0 0 0 15,1 h -1 z m 0,2 h 7 v 3 c 0,1.645008 1.354992,3 3,3 h 3 v 11 c 0,0.564129 -0.435871,1 -1,1 H 6 C 5.4358712,21 5,20.564129 5,20 V 4 C 5,3.4358712 5.4358712,3 6,3 Z M 15,3.4140625 18.585937,7 H 16 C 15.435871,7 15,6.5641288 15,6 Z\" fill=\"currentColor\" /></svg>","children":["$","$L71",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"{"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"  \"mcp\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"    \"servers\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"      \"aptlystar-astrax\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"type\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"http\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"url\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"https://www.aptlystar.ai/api/mcp/astrax\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"        \"headers\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": {"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":"          \"X-API-Key\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":": "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"YOUR_ASTRAX_API_KEY\""}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"        }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  }"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"}"}]}]]}]}]}]
+5a:["$","p",null,{"children":["Reemplaza ",["$","code",null,{"children":"YOUR_ASTRAX_API_KEY"}]," con tu clave."]}]
+5b:["$","div",null,{"className":"flex gap-2 my-4 rounded-xl border bg-fd-card p-3 ps-1 text-sm text-fd-card-foreground shadow-md","style":{"--callout-color":"var(--color-fd-info, var(--color-fd-muted))"},"children":[["$","div",null,{"role":"none","className":"w-0.5 bg-(--callout-color)/50 rounded-sm"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-info size-5 -me-0.5 fill-(--callout-color) text-fd-card","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","1dtifu",{"d":"M12 16v-4"}],["$","path","e9boi3",{"d":"M12 8h.01"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col gap-2 min-w-0 flex-1","children":["$undefined",["$","div",null,{"className":"text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":["Para implementaciones auto-alojadas, reemplaza ",["$","code",null,{"children":"https://www.aptlystar.ai"}]," con tu URL de Aptlystar auto-alojada."]}]}]]}]]}]
+5e:null
+62:["$","path","l5xja",{"d":"M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"}]
+63:["$","path","10igwf",{"d":"M9 13a4.5 4.5 0 0 0 3-4"}]
+64:["$","path","105sqy",{"d":"M6.003 5.125A3 3 0 0 0 6.401 6.5"}]
+65:["$","path","ql3yin",{"d":"M3.477 10.896a4 4 0 0 1 .585-.396"}]
+66:["$","path","2e4loj",{"d":"M6 18a4 4 0 0 1-1.967-.516"}]
+67:["$","path","1ku699",{"d":"M12 13h4"}]
+68:["$","path","105ag5",{"d":"M12 18h6a2 2 0 0 1 2 2v1"}]
+69:["$","path","1lhi5i",{"d":"M12 8h8"}]
+6a:["$","path","u6izg6",{"d":"M16 8V5a2 2 0 0 1 2-2"}]
+6b:["$","circle","ry7gng",{"cx":"16","cy":"13","r":".5"}]
+6c:["$","circle","1aiba7",{"cx":"18","cy":"3","r":".5"}]
+6d:["$","circle","yhc1fs",{"cx":"20","cy":"21","r":".5"}]
+6e:["$","circle","1e43v0",{"cx":"20","cy":"8","r":".5"}]
+6f:["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","div",null,{"className":"m-0 text-sm","children":"Máximo razonamiento para planificación profunda, depuración y cambios arquitectónicos complejos."}]}]

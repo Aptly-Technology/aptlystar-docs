@@ -1,0 +1,997 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+1a:I[522016,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],""]
+1b:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+20:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+21:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+22:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+23:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+8b:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+8c:"$Sreact.suspense"
+8e:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+8f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+90:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Google Drive\",\"description\":\"Manage files, folders, and permissions\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/google_drive\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/google_drive\"},\"inLanguage\":\"en\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/google_drive\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Google Drive\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/en/tools/google_drive\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#usage-instructions","title":"Usage Instructions"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#google_drive_list","title":["$","code",null,{"children":"google_drive_list"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#google_drive_get_file","title":["$","code",null,{"children":"google_drive_get_file"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#google_drive_get_content","title":["$","code",null,{"children":"google_drive_get_content"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#google_drive_create_folder","title":["$","code",null,{"children":"google_drive_create_folder"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#google_drive_upload","title":["$","code",null,{"children":"google_drive_upload"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#google_drive_download","title":["$","code",null,{"children":"google_drive_download"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#google_drive_copy","title":["$","code",null,{"children":"google_drive_copy"}]},{"depth":4,"url":"#input-6","title":"Input"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#google_drive_move","title":["$","code",null,{"children":"google_drive_move"}]},{"depth":4,"url":"#input-7","title":"Input"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#google_drive_search","title":["$","code",null,{"children":"google_drive_search"}]},{"depth":4,"url":"#input-8","title":"Input"},{"depth":4,"url":"#output-8","title":"Output"},{"depth":3,"url":"#google_drive_update","title":["$","code",null,{"children":"google_drive_update"}]},{"depth":4,"url":"#input-9","title":"Input"},{"depth":4,"url":"#output-9","title":"Output"},{"depth":3,"url":"#google_drive_trash","title":["$","code",null,{"children":"google_drive_trash"}]},{"depth":4,"url":"#input-10","title":"Input"},{"depth":4,"url":"#output-10","title":"Output"},{"depth":3,"url":"#google_drive_untrash","title":["$","code",null,{"children":"google_drive_untrash"}]},{"depth":4,"url":"#input-11","title":"Input"},{"depth":4,"url":"#output-11","title":"Output"},{"depth":3,"url":"#google_drive_delete","title":"$L3"},{"depth":4,"url":"#input-12","title":"$L4"},{"depth":4,"url":"#output-12","title":"$L5"},{"depth":3,"url":"#google_drive_share","title":"$L6"},{"depth":4,"url":"#input-13","title":"$L7"},{"depth":4,"url":"#output-13","title":"$L8"},{"depth":3,"url":"#google_drive_unshare","title":"$L9"},{"depth":4,"url":"#input-14","title":"$La"},{"depth":4,"url":"#output-14","title":"$Lb"},{"depth":3,"url":"#google_drive_list_permissions","title":"$Lc"},{"depth":4,"url":"#input-15","title":"$Ld"},{"depth":4,"url":"#output-15","title":"$Le"},{"depth":3,"url":"#google_drive_get_about","title":"$Lf"},{"depth":4,"url":"#input-16","title":"$L10"},{"depth":4,"url":"#output-16","title":"$L11"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L12"},"children":["$L13","$L14"]}]],["$L15","$L16","$L17","$L18"],"$L19"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"google_drive_delete"}]
+4:"Input"
+5:"Output"
+6:["$","code",null,{"children":"google_drive_share"}]
+7:"Input"
+8:"Output"
+9:["$","code",null,{"children":"google_drive_unshare"}]
+a:"Input"
+b:"Output"
+c:["$","code",null,{"children":"google_drive_list_permissions"}]
+d:"Input"
+e:"Output"
+f:["$","code",null,{"children":"google_drive_get_about"}]
+10:"Input"
+11:"Output"
+12:["$","div",null,{"className":"mt-12","children":[["$","div",null,{"className":"h-px w-full bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","div",null,{"className":"flex","children":[["$","$L1a",null,{"href":"/en/tools/google_docs","className":"group flex flex-1 flex-col gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Previous"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"Google Docs"]}]]}],["$","div",null,{"className":"w-px bg-[rgba(0,0,0,0.08)] dark:bg-[rgba(255,255,255,0.08)]"}],["$","$L1a",null,{"href":"/en/tools/google_forms","className":"group flex flex-1 flex-col items-end gap-1 px-6 py-5 transition-colors hover:bg-[rgba(0,0,0,0.02)] dark:hover:bg-[rgba(255,255,255,0.03)]","children":[["$","span",null,{"className":"text-[rgba(0,0,0,0.4)] text-xs dark:text-[rgba(255,255,255,0.35)]","children":"Next"}],["$","span",null,{"className":"flex items-center gap-1.5 font-[470] text-[rgba(0,0,0,0.7)] text-sm transition-colors group-hover:text-[rgba(0,0,0,0.88)] dark:text-[rgba(255,255,255,0.7)] dark:group-hover:text-[rgba(255,255,255,0.92)]","children":["Google Forms",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-3.5 w-3.5 shrink-0","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]]}]]}]]}]
+1c:Te2dd,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="google_drive" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[Google Drive](https://drive.google.com) is Google’s cloud-based file storage and synchronization service, making it easy to store, manage, share, and access files securely across devices and platforms. As a core element of Google Workspace, Google Drive offers robust tools for file organization, collaboration, and seamless integration with the broader productivity suite.
+
+Google Drive enables individuals and teams to:
+
+* **Store files in the cloud:** Access documents, images, videos, and more from anywhere with internet connectivity.
+* **Organize and manage content:** Create and arrange folders, use naming conventions, and leverage search for fast retrieval.
+* **Share and collaborate:** Control file and folder permissions, share with individuals or groups, and collaborate in real time.
+* **Leverage powerful search:** Quickly locate files using Google’s search technology.
+* **Access across devices:** Work with your files on desktop, mobile, or web with full synchronization.
+* **Integrate deeply across Google services:** Connect with Google Docs, Sheets, Slides, and partner applications in your workflows.
+
+In Aptlystar, the Google Drive integration allows your agents to read, upload, download, list, and organize your Drive files programmatically. Agents can automate file management, streamline content workflows, and enable no-code automation around document storage and retrieval. By connecting Aptlystar with Google Drive, you empower your agents to incorporate cloud file operations directly into intelligent business processes.
+
+{/* MANUAL-CONTENT-END */}
+
+Usage Instructions [#usage-instructions]
+
+Integrate Google Drive into the workflow. Can create, upload, download, copy, move, delete, share files and manage permissions.
+
+Tools [#tools]
+
+google_drive_list [#google_drive_list]
+
+List files and folders in Google Drive with complete metadata
+
+Input [#input]
+
+| Parameter        | Type   | Required | Description                                                                                                                                                              |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `folderSelector` | string | No       | Google Drive folder ID to list files from (e.g., 1ABCxyz...)                                                                                                             |
+| `folderId`       | string | No       | The ID of the folder to list files from (internal use)                                                                                                                   |
+| `query`          | string | No       | Search term to filter files by name (e.g. "budget" finds files with "budget" in the name). Do NOT use Google Drive query syntax here - just provide a plain search term. |
+| `pageSize`       | number | No       | The maximum number of files to return (default: 100)                                                                                                                     |
+| `pageToken`      | string | No       | The page token to use for pagination                                                                                                                                     |
+
+Output [#output]
+
+| Parameter                        | Type    | Description                                      |
+| -------------------------------- | ------- | ------------------------------------------------ |
+| `files`                          | array   | Array of file metadata objects from Google Drive |
+| ↳ `id`                           | string  | Google Drive file ID                             |
+| ↳ `kind`                         | string  | Resource type identifier                         |
+| ↳ `name`                         | string  | File name                                        |
+| ↳ `mimeType`                     | string  | MIME type                                        |
+| ↳ `description`                  | string  | File description                                 |
+| ↳ `originalFilename`             | string  | Original uploaded filename                       |
+| ↳ `fullFileExtension`            | string  | Full file extension                              |
+| ↳ `fileExtension`                | string  | File extension                                   |
+| ↳ `owners`                       | json    | List of file owners                              |
+| ↳ `permissions`                  | json    | File permissions                                 |
+| ↳ `permissionIds`                | json    | Permission IDs                                   |
+| ↳ `shared`                       | boolean | Whether file is shared                           |
+| ↳ `ownedByMe`                    | boolean | Whether owned by current user                    |
+| ↳ `writersCanShare`              | boolean | Whether writers can share                        |
+| ↳ `viewersCanCopyContent`        | boolean | Whether viewers can copy                         |
+| ↳ `copyRequiresWriterPermission` | boolean | Whether copy requires writer permission          |
+| ↳ `sharingUser`                  | json    | User who shared the file                         |
+| ↳ `starred`                      | boolean | Whether file is starred                          |
+| ↳ `trashed`                      | boolean | Whether file is in trash                         |
+| ↳ `explicitlyTrashed`            | boolean | Whether explicitly trashed                       |
+| ↳ `appProperties`                | json    | App-specific properties                          |
+| ↳ `createdTime`                  | string  | File creation time                               |
+| ↳ `modifiedTime`                 | string  | Last modification time                           |
+| ↳ `modifiedByMeTime`             | string  | When modified by current user                    |
+| ↳ `viewedByMeTime`               | string  | When last viewed by current user                 |
+| ↳ `sharedWithMeTime`             | string  | When shared with current user                    |
+| ↳ `lastModifyingUser`            | json    | User who last modified the file                  |
+| ↳ `viewedByMe`                   | boolean | Whether viewed by current user                   |
+| ↳ `modifiedByMe`                 | boolean | Whether modified by current user                 |
+| ↳ `webViewLink`                  | string  | URL to view in browser                           |
+| ↳ `webContentLink`               | string  | Direct download URL                              |
+| ↳ `iconLink`                     | string  | URL to file icon                                 |
+| ↳ `thumbnailLink`                | string  | URL to thumbnail                                 |
+| ↳ `exportLinks`                  | json    | Export format links                              |
+| ↳ `size`                         | string  | File size in bytes                               |
+| ↳ `quotaBytesUsed`               | string  | Storage quota used                               |
+| ↳ `md5Checksum`                  | string  | MD5 hash                                         |
+| ↳ `sha1Checksum`                 | string  | SHA-1 hash                                       |
+| ↳ `sha256Checksum`               | string  | SHA-256 hash                                     |
+| ↳ `parents`                      | json    | Parent folder IDs                                |
+| ↳ `spaces`                       | json    | Spaces containing file                           |
+| ↳ `driveId`                      | string  | Shared drive ID                                  |
+| ↳ `capabilities`                 | json    | User capabilities on file                        |
+| ↳ `version`                      | string  | Version number                                   |
+| ↳ `headRevisionId`               | string  | Head revision ID                                 |
+| ↳ `hasThumbnail`                 | boolean | Whether has thumbnail                            |
+| ↳ `thumbnailVersion`             | string  | Thumbnail version                                |
+| ↳ `imageMediaMetadata`           | json    | Image-specific metadata                          |
+| ↳ `videoMediaMetadata`           | json    | Video-specific metadata                          |
+| ↳ `isAppAuthorized`              | boolean | Whether created by requesting app                |
+| ↳ `contentRestrictions`          | json    | Content restrictions                             |
+| ↳ `linkShareMetadata`            | json    | Link share metadata                              |
+| `nextPageToken`                  | string  | Token for fetching the next page of results      |
+
+google_drive_get_file [#google_drive_get_file]
+
+Get metadata for a specific file in Google Drive by its ID
+
+Input [#input-1]
+
+| Parameter | Type   | Required | Description                    |
+| --------- | ------ | -------- | ------------------------------ |
+| `fileId`  | string | Yes      | The ID of the file to retrieve |
+
+Output [#output-1]
+
+| Parameter             | Type    | Description                     |
+| --------------------- | ------- | ------------------------------- |
+| `file`                | json    | The file metadata               |
+| ↳ `id`                | string  | Google Drive file ID            |
+| ↳ `kind`              | string  | Resource type identifier        |
+| ↳ `name`              | string  | File name                       |
+| ↳ `mimeType`          | string  | MIME type                       |
+| ↳ `description`       | string  | File description                |
+| ↳ `size`              | string  | File size in bytes              |
+| ↳ `starred`           | boolean | Whether file is starred         |
+| ↳ `trashed`           | boolean | Whether file is in trash        |
+| ↳ `webViewLink`       | string  | URL to view in browser          |
+| ↳ `webContentLink`    | string  | Direct download URL             |
+| ↳ `iconLink`          | string  | URL to file icon                |
+| ↳ `thumbnailLink`     | string  | URL to thumbnail                |
+| ↳ `parents`           | json    | Parent folder IDs               |
+| ↳ `owners`            | json    | List of file owners             |
+| ↳ `permissions`       | json    | File permissions                |
+| ↳ `createdTime`       | string  | File creation time              |
+| ↳ `modifiedTime`      | string  | Last modification time          |
+| ↳ `lastModifyingUser` | json    | User who last modified the file |
+| ↳ `shared`            | boolean | Whether file is shared          |
+| ↳ `ownedByMe`         | boolean | Whether owned by current user   |
+| ↳ `capabilities`      | json    | User capabilities on file       |
+| ↳ `md5Checksum`       | string  | MD5 hash                        |
+| ↳ `version`           | string  | Version number                  |
+
+google_drive_get_content [#google_drive_get_content]
+
+Get content from a file in Google Drive with complete metadata (exports Google Workspace files automatically)
+
+Input [#input-2]
+
+| Parameter          | Type    | Required | Description                                                                                      |
+| ------------------ | ------- | -------- | ------------------------------------------------------------------------------------------------ |
+| `fileId`           | string  | Yes      | The ID of the file to get content from                                                           |
+| `mimeType`         | string  | No       | The MIME type to export Google Workspace files to (optional)                                     |
+| `includeRevisions` | boolean | No       | Whether to include revision history in the metadata (default: true, returns first 100 revisions) |
+
+Output [#output-2]
+
+| Parameter                        | Type    | Description                                                |
+| -------------------------------- | ------- | ---------------------------------------------------------- |
+| `content`                        | string  | File content as text (Google Workspace files are exported) |
+| `metadata`                       | object  | Complete file metadata from Google Drive                   |
+| ↳ `id`                           | string  | Google Drive file ID                                       |
+| ↳ `kind`                         | string  | Resource type identifier                                   |
+| ↳ `name`                         | string  | File name                                                  |
+| ↳ `mimeType`                     | string  | MIME type                                                  |
+| ↳ `description`                  | string  | File description                                           |
+| ↳ `originalFilename`             | string  | Original uploaded filename                                 |
+| ↳ `fullFileExtension`            | string  | Full file extension                                        |
+| ↳ `fileExtension`                | string  | File extension                                             |
+| ↳ `owners`                       | json    | List of file owners                                        |
+| ↳ `permissions`                  | json    | File permissions                                           |
+| ↳ `permissionIds`                | json    | Permission IDs                                             |
+| ↳ `shared`                       | boolean | Whether file is shared                                     |
+| ↳ `ownedByMe`                    | boolean | Whether owned by current user                              |
+| ↳ `writersCanShare`              | boolean | Whether writers can share                                  |
+| ↳ `viewersCanCopyContent`        | boolean | Whether viewers can copy                                   |
+| ↳ `copyRequiresWriterPermission` | boolean | Whether copy requires writer permission                    |
+| ↳ `sharingUser`                  | json    | User who shared the file                                   |
+| ↳ `starred`                      | boolean | Whether file is starred                                    |
+| ↳ `trashed`                      | boolean | Whether file is in trash                                   |
+| ↳ `explicitlyTrashed`            | boolean | Whether explicitly trashed                                 |
+| ↳ `appProperties`                | json    | App-specific properties                                    |
+| ↳ `createdTime`                  | string  | File creation time                                         |
+| ↳ `modifiedTime`                 | string  | Last modification time                                     |
+| ↳ `modifiedByMeTime`             | string  | When modified by current user                              |
+| ↳ `viewedByMeTime`               | string  | When last viewed by current user                           |
+| ↳ `sharedWithMeTime`             | string  | When shared with current user                              |
+| ↳ `lastModifyingUser`            | json    | User who last modified the file                            |
+| ↳ `viewedByMe`                   | boolean | Whether viewed by current user                             |
+| ↳ `modifiedByMe`                 | boolean | Whether modified by current user                           |
+| ↳ `webViewLink`                  | string  | URL to view in browser                                     |
+| ↳ `webContentLink`               | string  | Direct download URL                                        |
+| ↳ `iconLink`                     | string  | URL to file icon                                           |
+| ↳ `thumbnailLink`                | string  | URL to thumbnail                                           |
+| ↳ `exportLinks`                  | json    | Export format links                                        |
+| ↳ `size`                         | string  | File size in bytes                                         |
+| ↳ `quotaBytesUsed`               | string  | Storage quota used                                         |
+| ↳ `md5Checksum`                  | string  | MD5 hash                                                   |
+| ↳ `sha1Checksum`                 | string  | SHA-1 hash                                                 |
+| ↳ `sha256Checksum`               | string  | SHA-256 hash                                               |
+| ↳ `parents`                      | json    | Parent folder IDs                                          |
+| ↳ `spaces`                       | json    | Spaces containing file                                     |
+| ↳ `driveId`                      | string  | Shared drive ID                                            |
+| ↳ `capabilities`                 | json    | User capabilities on file                                  |
+| ↳ `version`                      | string  | Version number                                             |
+| ↳ `headRevisionId`               | string  | Head revision ID                                           |
+| ↳ `hasThumbnail`                 | boolean | Whether has thumbnail                                      |
+| ↳ `thumbnailVersion`             | string  | Thumbnail version                                          |
+| ↳ `imageMediaMetadata`           | json    | Image-specific metadata                                    |
+| ↳ `videoMediaMetadata`           | json    | Video-specific metadata                                    |
+| ↳ `isAppAuthorized`              | boolean | Whether created by requesting app                          |
+| ↳ `contentRestrictions`          | json    | Content restrictions                                       |
+| ↳ `linkShareMetadata`            | json    | Link share metadata                                        |
+| ↳ `revisions`                    | json    | File revision history (first 100 revisions only)           |
+
+google_drive_create_folder [#google_drive_create_folder]
+
+Create a new folder in Google Drive with complete metadata returned
+
+Input [#input-3]
+
+| Parameter        | Type   | Required | Description                                                              |
+| ---------------- | ------ | -------- | ------------------------------------------------------------------------ |
+| `fileName`       | string | Yes      | Name of the folder to create                                             |
+| `folderSelector` | string | No       | Google Drive parent folder ID to create the folder in (e.g., 1ABCxyz...) |
+| `folderId`       | string | No       | ID of the parent folder (internal use)                                   |
+
+Output [#output-3]
+
+| Parameter                        | Type    | Description                                        |
+| -------------------------------- | ------- | -------------------------------------------------- |
+| `file`                           | object  | Complete created folder metadata from Google Drive |
+| ↳ `id`                           | string  | Google Drive folder ID                             |
+| ↳ `kind`                         | string  | Resource type identifier                           |
+| ↳ `name`                         | string  | Folder name                                        |
+| ↳ `mimeType`                     | string  | MIME type (application/vnd.google-apps.folder)     |
+| ↳ `description`                  | string  | Folder description                                 |
+| ↳ `owners`                       | json    | List of folder owners                              |
+| ↳ `permissions`                  | json    | Folder permissions                                 |
+| ↳ `permissionIds`                | json    | Permission IDs                                     |
+| ↳ `shared`                       | boolean | Whether folder is shared                           |
+| ↳ `ownedByMe`                    | boolean | Whether owned by current user                      |
+| ↳ `writersCanShare`              | boolean | Whether writers can share                          |
+| ↳ `viewersCanCopyContent`        | boolean | Whether viewers can copy                           |
+| ↳ `copyRequiresWriterPermission` | boolean | Whether copy requires writer permission            |
+| ↳ `sharingUser`                  | json    | User who shared the folder                         |
+| ↳ `starred`                      | boolean | Whether folder is starred                          |
+| ↳ `trashed`                      | boolean | Whether folder is in trash                         |
+| ↳ `explicitlyTrashed`            | boolean | Whether explicitly trashed                         |
+| ↳ `appProperties`                | json    | App-specific properties                            |
+| ↳ `folderColorRgb`               | string  | Folder color                                       |
+| ↳ `createdTime`                  | string  | Folder creation time                               |
+| ↳ `modifiedTime`                 | string  | Last modification time                             |
+| ↳ `modifiedByMeTime`             | string  | When modified by current user                      |
+| ↳ `viewedByMeTime`               | string  | When last viewed by current user                   |
+| ↳ `sharedWithMeTime`             | string  | When shared with current user                      |
+| ↳ `lastModifyingUser`            | json    | User who last modified the folder                  |
+| ↳ `viewedByMe`                   | boolean | Whether viewed by current user                     |
+| ↳ `modifiedByMe`                 | boolean | Whether modified by current user                   |
+| ↳ `webViewLink`                  | string  | URL to view in browser                             |
+| ↳ `iconLink`                     | string  | URL to folder icon                                 |
+| ↳ `parents`                      | json    | Parent folder IDs                                  |
+| ↳ `spaces`                       | json    | Spaces containing folder                           |
+| ↳ `driveId`                      | string  | Shared drive ID                                    |
+| ↳ `capabilities`                 | json    | User capabilities on folder                        |
+| ↳ `version`                      | string  | Version number                                     |
+| ↳ `isAppAuthorized`              | boolean | Whether created by requesting app                  |
+| ↳ `contentRestrictions`          | json    | Content restrictions                               |
+| ↳ `linkShareMetadata`            | json    | Link share metadata                                |
+
+google_drive_upload [#google_drive_upload]
+
+Upload a file to Google Drive with complete metadata returned
+
+Input [#input-4]
+
+| Parameter        | Type   | Required | Description                                                                   |
+| ---------------- | ------ | -------- | ----------------------------------------------------------------------------- |
+| `fileName`       | string | Yes      | The name of the file to upload                                                |
+| `file`           | file   | No       | Binary file to upload (UserFile object)                                       |
+| `content`        | string | No       | Text content to upload (use this OR file, not both)                           |
+| `mimeType`       | string | No       | The MIME type of the file to upload (auto-detected from file if not provided) |
+| `folderSelector` | string | No       | Google Drive folder ID to upload the file to (e.g., 1ABCxyz...)               |
+| `folderId`       | string | No       | The ID of the folder to upload the file to (internal use)                     |
+
+Output [#output-4]
+
+| Parameter                        | Type    | Description                                       |
+| -------------------------------- | ------- | ------------------------------------------------- |
+| `file`                           | object  | Complete uploaded file metadata from Google Drive |
+| ↳ `id`                           | string  | Google Drive file ID                              |
+| ↳ `kind`                         | string  | Resource type identifier                          |
+| ↳ `name`                         | string  | File name                                         |
+| ↳ `mimeType`                     | string  | MIME type                                         |
+| ↳ `description`                  | string  | File description                                  |
+| ↳ `originalFilename`             | string  | Original uploaded filename                        |
+| ↳ `fullFileExtension`            | string  | Full file extension                               |
+| ↳ `fileExtension`                | string  | File extension                                    |
+| ↳ `owners`                       | json    | List of file owners                               |
+| ↳ `permissions`                  | json    | File permissions                                  |
+| ↳ `permissionIds`                | json    | Permission IDs                                    |
+| ↳ `shared`                       | boolean | Whether file is shared                            |
+| ↳ `ownedByMe`                    | boolean | Whether owned by current user                     |
+| ↳ `writersCanShare`              | boolean | Whether writers can share                         |
+| ↳ `viewersCanCopyContent`        | boolean | Whether viewers can copy                          |
+| ↳ `copyRequiresWriterPermission` | boolean | Whether copy requires writer permission           |
+| ↳ `sharingUser`                  | json    | User who shared the file                          |
+| ↳ `starred`                      | boolean | Whether file is starred                           |
+| ↳ `trashed`                      | boolean | Whether file is in trash                          |
+| ↳ `explicitlyTrashed`            | boolean | Whether explicitly trashed                        |
+| ↳ `appProperties`                | json    | App-specific properties                           |
+| ↳ `createdTime`                  | string  | File creation time                                |
+| ↳ `modifiedTime`                 | string  | Last modification time                            |
+| ↳ `modifiedByMeTime`             | string  | When modified by current user                     |
+| ↳ `viewedByMeTime`               | string  | When last viewed by current user                  |
+| ↳ `sharedWithMeTime`             | string  | When shared with current user                     |
+| ↳ `lastModifyingUser`            | json    | User who last modified the file                   |
+| ↳ `viewedByMe`                   | boolean | Whether viewed by current user                    |
+| ↳ `modifiedByMe`                 | boolean | Whether modified by current user                  |
+| ↳ `webViewLink`                  | string  | URL to view in browser                            |
+| ↳ `webContentLink`               | string  | Direct download URL                               |
+| ↳ `iconLink`                     | string  | URL to file icon                                  |
+| ↳ `thumbnailLink`                | string  | URL to thumbnail                                  |
+| ↳ `exportLinks`                  | json    | Export format links                               |
+| ↳ `size`                         | string  | File size in bytes                                |
+| ↳ `quotaBytesUsed`               | string  | Storage quota used                                |
+| ↳ `md5Checksum`                  | string  | MD5 hash                                          |
+| ↳ `sha1Checksum`                 | string  | SHA-1 hash                                        |
+| ↳ `sha256Checksum`               | string  | SHA-256 hash                                      |
+| ↳ `parents`                      | json    | Parent folder IDs                                 |
+| ↳ `spaces`                       | json    | Spaces containing file                            |
+| ↳ `driveId`                      | string  | Shared drive ID                                   |
+| ↳ `capabilities`                 | json    | User capabilities on file                         |
+| ↳ `version`                      | string  | Version number                                    |
+| ↳ `headRevisionId`               | string  | Head revision ID                                  |
+| ↳ `hasThumbnail`                 | boolean | Whether has thumbnail                             |
+| ↳ `thumbnailVersion`             | string  | Thumbnail version                                 |
+| ↳ `imageMediaMetadata`           | json    | Image-specific metadata                           |
+| ↳ `videoMediaMetadata`           | json    | Video-specific metadata                           |
+| ↳ `isAppAuthorized`              | boolean | Whether created by requesting app                 |
+| ↳ `contentRestrictions`          | json    | Content restrictions                              |
+| ↳ `linkShareMetadata`            | json    | Link share metadata                               |
+
+google_drive_download [#google_drive_download]
+
+Download a file from Google Drive with complete metadata (exports Google Workspace files automatically)
+
+Input [#input-5]
+
+| Parameter          | Type    | Required | Description                                                                                      |
+| ------------------ | ------- | -------- | ------------------------------------------------------------------------------------------------ |
+| `fileId`           | string  | Yes      | The ID of the file to download                                                                   |
+| `mimeType`         | string  | No       | The MIME type to export Google Workspace files to (optional)                                     |
+| `fileName`         | string  | No       | Optional filename override                                                                       |
+| `includeRevisions` | boolean | No       | Whether to include revision history in the metadata (default: true, returns first 100 revisions) |
+
+Output [#output-5]
+
+| Parameter                        | Type    | Description                                      |
+| -------------------------------- | ------- | ------------------------------------------------ |
+| `file`                           | file    | Downloaded file stored in execution files        |
+| `metadata`                       | object  | Complete file metadata from Google Drive         |
+| ↳ `id`                           | string  | Google Drive file ID                             |
+| ↳ `kind`                         | string  | Resource type identifier                         |
+| ↳ `name`                         | string  | File name                                        |
+| ↳ `mimeType`                     | string  | MIME type                                        |
+| ↳ `description`                  | string  | File description                                 |
+| ↳ `originalFilename`             | string  | Original uploaded filename                       |
+| ↳ `fullFileExtension`            | string  | Full file extension                              |
+| ↳ `fileExtension`                | string  | File extension                                   |
+| ↳ `owners`                       | json    | List of file owners                              |
+| ↳ `permissions`                  | json    | File permissions                                 |
+| ↳ `permissionIds`                | json    | Permission IDs                                   |
+| ↳ `shared`                       | boolean | Whether file is shared                           |
+| ↳ `ownedByMe`                    | boolean | Whether owned by current user                    |
+| ↳ `writersCanShare`              | boolean | Whether writers can share                        |
+| ↳ `viewersCanCopyContent`        | boolean | Whether viewers can copy                         |
+| ↳ `copyRequiresWriterPermission` | boolean | Whether copy requires writer permission          |
+| ↳ `sharingUser`                  | json    | User who shared the file                         |
+| ↳ `starred`                      | boolean | Whether file is starred                          |
+| ↳ `trashed`                      | boolean | Whether file is in trash                         |
+| ↳ `explicitlyTrashed`            | boolean | Whether explicitly trashed                       |
+| ↳ `appProperties`                | json    | App-specific properties                          |
+| ↳ `createdTime`                  | string  | File creation time                               |
+| ↳ `modifiedTime`                 | string  | Last modification time                           |
+| ↳ `modifiedByMeTime`             | string  | When modified by current user                    |
+| ↳ `viewedByMeTime`               | string  | When last viewed by current user                 |
+| ↳ `sharedWithMeTime`             | string  | When shared with current user                    |
+| ↳ `lastModifyingUser`            | json    | User who last modified the file                  |
+| ↳ `viewedByMe`                   | boolean | Whether viewed by current user                   |
+| ↳ `modifiedByMe`                 | boolean | Whether modified by current user                 |
+| ↳ `webViewLink`                  | string  | URL to view in browser                           |
+| ↳ `webContentLink`               | string  | Direct download URL                              |
+| ↳ `iconLink`                     | string  | URL to file icon                                 |
+| ↳ `thumbnailLink`                | string  | URL to thumbnail                                 |
+| ↳ `exportLinks`                  | json    | Export format links                              |
+| ↳ `size`                         | string  | File size in bytes                               |
+| ↳ `quotaBytesUsed`               | string  | Storage quota used                               |
+| ↳ `md5Checksum`                  | string  | MD5 hash                                         |
+| ↳ `sha1Checksum`                 | string  | SHA-1 hash                                       |
+| ↳ `sha256Checksum`               | string  | SHA-256 hash                                     |
+| ↳ `parents`                      | json    | Parent folder IDs                                |
+| ↳ `spaces`                       | json    | Spaces containing file                           |
+| ↳ `driveId`                      | string  | Shared drive ID                                  |
+| ↳ `capabilities`                 | json    | User capabilities on file                        |
+| ↳ `version`                      | string  | Version number                                   |
+| ↳ `headRevisionId`               | string  | Head revision ID                                 |
+| ↳ `hasThumbnail`                 | boolean | Whether has thumbnail                            |
+| ↳ `thumbnailVersion`             | string  | Thumbnail version                                |
+| ↳ `imageMediaMetadata`           | json    | Image-specific metadata                          |
+| ↳ `videoMediaMetadata`           | json    | Video-specific metadata                          |
+| ↳ `isAppAuthorized`              | boolean | Whether created by requesting app                |
+| ↳ `contentRestrictions`          | json    | Content restrictions                             |
+| ↳ `linkShareMetadata`            | json    | Link share metadata                              |
+| ↳ `revisions`                    | json    | File revision history (first 100 revisions only) |
+
+google_drive_copy [#google_drive_copy]
+
+Create a copy of a file in Google Drive
+
+Input [#input-6]
+
+| Parameter             | Type   | Required | Description                                                                   |
+| --------------------- | ------ | -------- | ----------------------------------------------------------------------------- |
+| `fileId`              | string | Yes      | The ID of the file to copy                                                    |
+| `newName`             | string | No       | Name for the copied file (defaults to "Copy of \[original name]")             |
+| `destinationFolderId` | string | No       | ID of the folder to place the copy in (defaults to same location as original) |
+
+Output [#output-6]
+
+| Parameter        | Type   | Description                      |
+| ---------------- | ------ | -------------------------------- |
+| `file`           | json   | The copied file metadata         |
+| ↳ `id`           | string | Google Drive file ID of the copy |
+| ↳ `kind`         | string | Resource type identifier         |
+| ↳ `name`         | string | File name                        |
+| ↳ `mimeType`     | string | MIME type                        |
+| ↳ `webViewLink`  | string | URL to view in browser           |
+| ↳ `parents`      | json   | Parent folder IDs                |
+| ↳ `createdTime`  | string | File creation time               |
+| ↳ `modifiedTime` | string | Last modification time           |
+| ↳ `owners`       | json   | List of file owners              |
+| ↳ `size`         | string | File size in bytes               |
+
+google_drive_move [#google_drive_move]
+
+Move a file or folder to a different folder in Google Drive
+
+Input [#input-7]
+
+| Parameter             | Type    | Required | Description                                                                                                                                                               |
+| --------------------- | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `fileId`              | string  | Yes      | The ID of the file or folder to move                                                                                                                                      |
+| `destinationFolderId` | string  | Yes      | The ID of the destination folder                                                                                                                                          |
+| `removeFromCurrent`   | boolean | No       | Whether to remove the file from its current parent folder (default: true). Set to false to add the file to the destination without removing it from the current location. |
+
+Output [#output-7]
+
+| Parameter        | Type   | Description              |
+| ---------------- | ------ | ------------------------ |
+| `file`           | json   | The moved file metadata  |
+| ↳ `id`           | string | Google Drive file ID     |
+| ↳ `kind`         | string | Resource type identifier |
+| ↳ `name`         | string | File name                |
+| ↳ `mimeType`     | string | MIME type                |
+| ↳ `webViewLink`  | string | URL to view in browser   |
+| ↳ `parents`      | json   | Parent folder IDs        |
+| ↳ `createdTime`  | string | File creation time       |
+| ↳ `modifiedTime` | string | Last modification time   |
+| ↳ `owners`       | json   | List of file owners      |
+| ↳ `size`         | string | File size in bytes       |
+
+google_drive_search [#google_drive_search]
+
+Search for files in Google Drive using advanced query syntax (e.g., fullText contains, mimeType, modifiedTime, etc.)
+
+Input [#input-8]
+
+| Parameter   | Type   | Required | Description                                                                                                                                                |
+| ----------- | ------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `query`     | string | Yes      | Google Drive query string using advanced search syntax (e.g., "fullText contains 'budget'", "mimeType = 'application/pdf'", "modifiedTime > '2024-01-01'") |
+| `pageSize`  | number | No       | Maximum number of files to return (default: 100)                                                                                                           |
+| `pageToken` | string | No       | Token for fetching the next page of results                                                                                                                |
+
+Output [#output-8]
+
+| Parameter             | Type    | Description                                              |
+| --------------------- | ------- | -------------------------------------------------------- |
+| `files`               | array   | Array of file metadata objects matching the search query |
+| ↳ `id`                | string  | Google Drive file ID                                     |
+| ↳ `kind`              | string  | Resource type identifier                                 |
+| ↳ `name`              | string  | File name                                                |
+| ↳ `mimeType`          | string  | MIME type                                                |
+| ↳ `description`       | string  | File description                                         |
+| ↳ `originalFilename`  | string  | Original uploaded filename                               |
+| ↳ `fullFileExtension` | string  | Full file extension                                      |
+| ↳ `fileExtension`     | string  | File extension                                           |
+| ↳ `owners`            | json    | List of file owners                                      |
+| ↳ `permissions`       | json    | File permissions                                         |
+| ↳ `shared`            | boolean | Whether file is shared                                   |
+| ↳ `ownedByMe`         | boolean | Whether owned by current user                            |
+| ↳ `starred`           | boolean | Whether file is starred                                  |
+| ↳ `trashed`           | boolean | Whether file is in trash                                 |
+| ↳ `createdTime`       | string  | File creation time                                       |
+| ↳ `modifiedTime`      | string  | Last modification time                                   |
+| ↳ `lastModifyingUser` | json    | User who last modified the file                          |
+| ↳ `webViewLink`       | string  | URL to view in browser                                   |
+| ↳ `webContentLink`    | string  | Direct download URL                                      |
+| ↳ `iconLink`          | string  | URL to file icon                                         |
+| ↳ `thumbnailLink`     | string  | URL to thumbnail                                         |
+| ↳ `size`              | string  | File size in bytes                                       |
+| ↳ `parents`           | json    | Parent folder IDs                                        |
+| ↳ `driveId`           | string  | Shared drive ID                                          |
+| ↳ `capabilities`      | json    | User capabilities on file                                |
+| ↳ `version`           | string  | Version number                                           |
+| `nextPageToken`       | string  | Token for fetching the next page of results              |
+
+google_drive_update [#google_drive_update]
+
+Update file metadata in Google Drive (rename, move, star, add description)
+
+Input [#input-9]
+
+| Parameter       | Type    | Required | Description                                                                    |
+| --------------- | ------- | -------- | ------------------------------------------------------------------------------ |
+| `fileId`        | string  | Yes      | The ID of the file to update                                                   |
+| `name`          | string  | No       | New name for the file                                                          |
+| `description`   | string  | No       | New description for the file                                                   |
+| `addParents`    | string  | No       | Comma-separated list of parent folder IDs to add (moves file to these folders) |
+| `removeParents` | string  | No       | Comma-separated list of parent folder IDs to remove                            |
+| `starred`       | boolean | No       | Whether to star or unstar the file                                             |
+
+Output [#output-9]
+
+| Parameter        | Type    | Description               |
+| ---------------- | ------- | ------------------------- |
+| `file`           | json    | The updated file metadata |
+| ↳ `id`           | string  | Google Drive file ID      |
+| ↳ `kind`         | string  | Resource type identifier  |
+| ↳ `name`         | string  | File name                 |
+| ↳ `mimeType`     | string  | MIME type                 |
+| ↳ `description`  | string  | File description          |
+| ↳ `starred`      | boolean | Whether file is starred   |
+| ↳ `webViewLink`  | string  | URL to view in browser    |
+| ↳ `parents`      | json    | Parent folder IDs         |
+| ↳ `modifiedTime` | string  | Last modification time    |
+
+google_drive_trash [#google_drive_trash]
+
+Move a file to the trash in Google Drive (can be restored later)
+
+Input [#input-10]
+
+| Parameter | Type   | Required | Description                         |
+| --------- | ------ | -------- | ----------------------------------- |
+| `fileId`  | string | Yes      | The ID of the file to move to trash |
+
+Output [#output-10]
+
+| Parameter       | Type    | Description                               |
+| --------------- | ------- | ----------------------------------------- |
+| `file`          | json    | The trashed file metadata                 |
+| ↳ `id`          | string  | Google Drive file ID                      |
+| ↳ `kind`        | string  | Resource type identifier                  |
+| ↳ `name`        | string  | File name                                 |
+| ↳ `mimeType`    | string  | MIME type                                 |
+| ↳ `trashed`     | boolean | Whether file is in trash (should be true) |
+| ↳ `trashedTime` | string  | When file was trashed                     |
+| ↳ `webViewLink` | string  | URL to view in browser                    |
+
+google_drive_untrash [#google_drive_untrash]
+
+Restore a file from the trash in Google Drive
+
+Input [#input-11]
+
+| Parameter | Type   | Required | Description                              |
+| --------- | ------ | -------- | ---------------------------------------- |
+| `fileId`  | string | Yes      | The ID of the file to restore from trash |
+
+Output [#output-11]
+
+| Parameter       | Type    | Description                                |
+| --------------- | ------- | ------------------------------------------ |
+| `file`          | json    | The restored file metadata                 |
+| ↳ `id`          | string  | Google Drive file ID                       |
+| ↳ `kind`        | string  | Resource type identifier                   |
+| ↳ `name`        | string  | File name                                  |
+| ↳ `mimeType`    | string  | MIME type                                  |
+| ↳ `trashed`     | boolean | Whether file is in trash (should be false) |
+| ↳ `webViewLink` | string  | URL to view in browser                     |
+| ↳ `parents`     | json    | Parent folder IDs                          |
+
+google_drive_delete [#google_drive_delete]
+
+Permanently delete a file from Google Drive (bypasses trash)
+
+Input [#input-12]
+
+| Parameter | Type   | Required | Description                              |
+| --------- | ------ | -------- | ---------------------------------------- |
+| `fileId`  | string | Yes      | The ID of the file to permanently delete |
+
+Output [#output-12]
+
+| Parameter | Type    | Description                               |
+| --------- | ------- | ----------------------------------------- |
+| `deleted` | boolean | Whether the file was successfully deleted |
+| `fileId`  | string  | The ID of the deleted file                |
+
+google_drive_share [#google_drive_share]
+
+Share a file with a user, group, domain, or make it public
+
+Input [#input-13]
+
+| Parameter             | Type    | Required | Description                                                                                                                                                                    |
+| --------------------- | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `fileId`              | string  | Yes      | The ID of the file to share                                                                                                                                                    |
+| `type`                | string  | Yes      | Type of grantee: user, group, domain, or anyone                                                                                                                                |
+| `role`                | string  | Yes      | Permission role: owner (transfer ownership), organizer (shared drive only), fileOrganizer (shared drive only), writer (edit), commenter (view and comment), reader (view only) |
+| `email`               | string  | No       | Email address of the user or group (required for type=user or type=group)                                                                                                      |
+| `domain`              | string  | No       | Domain to share with (required for type=domain)                                                                                                                                |
+| `transferOwnership`   | boolean | No       | Required when role is owner. Transfers ownership to the specified user.                                                                                                        |
+| `moveToNewOwnersRoot` | boolean | No       | When transferring ownership, move the file to the new owner's My Drive root folder.                                                                                            |
+| `sendNotification`    | boolean | No       | Whether to send an email notification (default: true)                                                                                                                          |
+| `emailMessage`        | string  | No       | Custom message to include in the notification email                                                                                                                            |
+
+Output [#output-13]
+
+| Parameter          | Type    | Description                                |
+| ------------------ | ------- | ------------------------------------------ |
+| `permission`       | json    | The created permission details             |
+| ↳ `id`             | string  | Permission ID                              |
+| ↳ `type`           | string  | Grantee type (user, group, domain, anyone) |
+| ↳ `role`           | string  | Permission role                            |
+| ↳ `emailAddress`   | string  | Email of the grantee                       |
+| ↳ `displayName`    | string  | Display name of the grantee                |
+| ↳ `domain`         | string  | Domain of the grantee                      |
+| ↳ `expirationTime` | string  | Expiration time                            |
+| ↳ `deleted`        | boolean | Whether grantee is deleted                 |
+
+google_drive_unshare [#google_drive_unshare]
+
+Remove a permission from a file (revoke access)
+
+Input [#input-14]
+
+| Parameter      | Type   | Required | Description                                                             |
+| -------------- | ------ | -------- | ----------------------------------------------------------------------- |
+| `fileId`       | string | Yes      | The ID of the file to modify permissions on                             |
+| `permissionId` | string | Yes      | The ID of the permission to remove (use list\_permissions to find this) |
+
+Output [#output-14]
+
+| Parameter      | Type    | Description                                     |
+| -------------- | ------- | ----------------------------------------------- |
+| `removed`      | boolean | Whether the permission was successfully removed |
+| `fileId`       | string  | The ID of the file                              |
+| `permissionId` | string  | The ID of the removed permission                |
+
+google_drive_list_permissions [#google_drive_list_permissions]
+
+List all permissions (who has access) for a file in Google Drive
+
+Input [#input-15]
+
+| Parameter   | Type   | Required | Description                                |
+| ----------- | ------ | -------- | ------------------------------------------ |
+| `fileId`    | string | Yes      | The ID of the file to list permissions for |
+| `pageToken` | string | No       | The page token to use for pagination       |
+
+Output [#output-15]
+
+| Parameter              | Type    | Description                                                                  |
+| ---------------------- | ------- | ---------------------------------------------------------------------------- |
+| `permissions`          | array   | List of permissions on the file                                              |
+| ↳ `id`                 | string  | Permission ID (use to remove permission)                                     |
+| ↳ `type`               | string  | Grantee type (user, group, domain, anyone)                                   |
+| ↳ `role`               | string  | Permission role (owner, organizer, fileOrganizer, writer, commenter, reader) |
+| ↳ `emailAddress`       | string  | Email of the grantee                                                         |
+| ↳ `displayName`        | string  | Display name of the grantee                                                  |
+| ↳ `photoLink`          | string  | Photo URL of the grantee                                                     |
+| ↳ `domain`             | string  | Domain of the grantee                                                        |
+| ↳ `expirationTime`     | string  | When permission expires                                                      |
+| ↳ `deleted`            | boolean | Whether grantee account is deleted                                           |
+| ↳ `allowFileDiscovery` | boolean | Whether file is discoverable by grantee                                      |
+| ↳ `pendingOwner`       | boolean | Whether ownership transfer is pending                                        |
+| ↳ `permissionDetails`  | json    | Details about inherited permissions                                          |
+| `nextPageToken`        | string  | Token for fetching the next page of permissions                              |
+
+google_drive_get_about [#google_drive_get_about]
+
+Get information about the user and their Google Drive (storage quota, capabilities)
+
+Input [#input-16]
+
+| Parameter | Type | Required | Description |
+| --------- | ---- | -------- | ----------- |
+
+Output [#output-16]
+
+| Parameter             | Type    | Description                                                     |
+| --------------------- | ------- | --------------------------------------------------------------- |
+| `user`                | json    | Information about the authenticated user                        |
+| ↳ `displayName`       | string  | User display name                                               |
+| ↳ `emailAddress`      | string  | User email address                                              |
+| ↳ `photoLink`         | string  | URL to user profile photo                                       |
+| ↳ `permissionId`      | string  | User permission ID                                              |
+| ↳ `me`                | boolean | Whether this is the authenticated user                          |
+| `storageQuota`        | json    | Storage quota information in bytes                              |
+| ↳ `limit`             | string  | Total storage limit in bytes (null for unlimited)               |
+| ↳ `usage`             | string  | Total storage used in bytes                                     |
+| ↳ `usageInDrive`      | string  | Storage used by Drive files in bytes                            |
+| ↳ `usageInDriveTrash` | string  | Storage used by trashed files in bytes                          |
+| `canCreateDrives`     | boolean | Whether user can create shared drives                           |
+| `importFormats`       | json    | Map of MIME types that can be imported and their target formats |
+| `exportFormats`       | json    | Map of Google Workspace MIME types and their exportable formats |
+| `maxUploadSize`       | string  | Maximum upload size in bytes                                    |
+13:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L1b",null,{"content":"$1c"}]}],"$L1d"]}],"$L1e","$L1f"]}]
+14:["$","$L20",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L21",null,{"type":"google_drive","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L22",null,{"href":"https://drive.google.com","children":"Google Drive"}]," is Google’s cloud-based file storage and synchronization service, making it easy to store, manage, share, and access files securely across devices and platforms. As a core element of Google Workspace, Google Drive offers robust tools for file organization, collaboration, and seamless integration with the broader productivity suite."]}],"\n",["$","p",null,{"children":"Google Drive enables individuals and teams to:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Store files in the cloud:"}]," Access documents, images, videos, and more from anywhere with internet connectivity."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Organize and manage content:"}]," Create and arrange folders, use naming conventions, and leverage search for fast retrieval."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Share and collaborate:"}]," Control file and folder permissions, share with individuals or groups, and collaborate in real time."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Leverage powerful search:"}]," Quickly locate files using Google’s search technology."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Access across devices:"}]," Work with your files on desktop, mobile, or web with full synchronization."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Integrate deeply across Google services:"}]," Connect with Google Docs, Sheets, Slides, and partner applications in your workflows."]}],"\n"]}],"\n",["$","p",null,{"children":"In Aptlystar, the Google Drive integration allows your agents to read, upload, download, list, and organize your Drive files programmatically. Agents can automate file management, streamline content workflows, and enable no-code automation around document storage and retrieval. By connecting Aptlystar with Google Drive, you empower your agents to incorporate cloud file operations directly into intelligent business processes."}],"\n","\n",["$","$L23",null,{"as":"h2","id":"usage-instructions","children":"Usage Instructions"}],"\n",["$","p",null,{"children":"Integrate Google Drive into the workflow. Can create, upload, download, copy, move, delete, share files and manage permissions."}],"\n",["$","$L23",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L23",null,{"as":"h3","id":"google_drive_list","children":["$","code",null,{"children":"google_drive_list"}]}],"\n",["$","p",null,{"children":"List files and folders in Google Drive with complete metadata"}],"\n",["$","$L23",null,{"as":"h4","id":"input","children":"Input"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderSelector"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Google Drive folder ID to list files from (e.g., 1ABCxyz...)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The ID of the folder to list files from (internal use)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Search term to filter files by name (e.g. \"budget\" finds files with \"budget\" in the name). Do NOT use Google Drive query syntax here - just provide a plain search term."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"$L24"}],"$L25","$L26","$L27"]}],"$L28"]}]]}]}],"\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a"]}]}]
+15:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+16:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+17:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+18:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+19:["$","$L8b",null,{"children":["$","$8c",null,{"name":"Next.MetadataOutlet","children":"$@8d"}]}]
+1d:["$","$L8e",null,{"previous":{"$id":"en:tools/google_docs.mdx","type":"page","name":"Google Docs","description":"Read, write, create, and edit documents","url":"/en/tools/google_docs","$ref":{"file":"tools/google_docs.mdx"}},"next":{"$id":"en:tools/google_forms.mdx","type":"page","name":"Google Forms","description":"Manage Google Forms and responses","url":"/en/tools/google_forms","$ref":{"file":"tools/google_forms.mdx"}}}]
+1e:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 87.3 78","width":"1em","height":"1em","className":"size-7","children":[["$","path",null,{"d":"m6.6 66.85 3.85 6.65c.8 1.4 1.95 2.5 3.3 3.3l13.75-23.8h-27.5c0 1.55.4 3.1 1.2 4.5z","fill":"#0066da"}],["$","path",null,{"d":"m43.65 25-13.75-23.8c-1.35.8-2.5 1.9-3.3 3.3l-25.4 44a9.06 9.06 0 0 0 -1.2 4.5h27.5z","fill":"#00ac47"}],["$","path",null,{"d":"m73.55 76.8c1.35-.8 2.5-1.9 3.3-3.3l1.6-2.75 7.65-13.25c.8-1.4 1.2-2.95 1.2-4.5h-27.5l5.85 11.5z","fill":"#ea4335"}],["$","path",null,{"d":"m43.65 25 13.75-23.8c-1.35-.8-2.9-1.2-4.5-1.2h-18.5c-1.6 0-3.15.45-4.5 1.2z","fill":"#00832d"}],["$","path",null,{"d":"m59.8 53h-32.3l-13.75 23.8c1.35.8 2.9 1.2 4.5 1.2h50.8c1.6 0 3.15-.45 4.5-1.2z","fill":"#2684fc"}],["$","path",null,{"d":"m73.4 26.5-12.7-22c-.8-1.4-1.95-2.5-3.3-3.3l-13.75 23.8 16.15 28h27.45c0-1.55-.4-3.1-1.2-4.5z","fill":"#ffba00"}]]}]}],["$","$L8f",null,{"className":"mb-0 min-w-0 flex-1","children":"Google Drive"}]]}]
+1f:["$","$L90",null,{"children":"Manage files, folders, and permissions"}]
+24:["$","code",null,{"children":"pageSize"}]
+25:["$","td",null,{"children":"number"}]
+26:["$","td",null,{"children":"No"}]
+27:["$","td",null,{"children":"The maximum number of files to return (default: 100)"}]
+28:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The page token to use for pagination"}]]}]
+29:["$","$L23",null,{"as":"h4","id":"output","children":"Output"}]
+2a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"files"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of file metadata objects from Google Drive"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalFilename"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Original uploaded filename"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fullFileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Full file extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionIds"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Permission IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"writersCanShare"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether writers can share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewersCanCopyContent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewers can copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"copyRequiresWriterPermission"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether copy requires writer permission"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who shared the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"explicitlyTrashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether explicitly trashed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"appProperties"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"App-specific properties"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When modified by current user"}]]}],"$L91","$L92","$L93","$L94","$L95","$L96","$L97","$L98","$L99","$L9a","$L9b","$L9c","$L9d","$L9e","$L9f","$La0","$La1","$La2","$La3","$La4","$La5","$La6","$La7","$La8","$La9","$Laa","$Lab","$Lac","$Lad"]}]]}]}]
+2b:["$","$L23",null,{"as":"h3","id":"google_drive_get_file","children":["$","code",null,{"children":"google_drive_get_file"}]}]
+2c:["$","p",null,{"children":"Get metadata for a specific file in Google Drive by its ID"}]
+2d:["$","$L23",null,{"as":"h4","id":"input-1","children":"Input"}]
+2e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to retrieve"}]]}]}]]}]}]
+2f:["$","$L23",null,{"as":"h4","id":"output-1","children":"Output"}]
+30:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The file metadata"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webContentLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Direct download URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to file icon"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to thumbnail"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"md5Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MD5 hash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]]}]]}]}]
+31:["$","$L23",null,{"as":"h3","id":"google_drive_get_content","children":["$","code",null,{"children":"google_drive_get_content"}]}]
+32:["$","p",null,{"children":"Get content from a file in Google Drive with complete metadata (exports Google Workspace files automatically)"}]
+33:["$","$L23",null,{"as":"h4","id":"input-2","children":"Input"}]
+34:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to get content from"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mimeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The MIME type to export Google Workspace files to (optional)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeRevisions"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to include revision history in the metadata (default: true, returns first 100 revisions)"}]]}]]}]]}]}]
+35:["$","$L23",null,{"as":"h4","id":"output-2","children":"Output"}]
+36:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File content as text (Google Workspace files are exported)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Complete file metadata from Google Drive"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalFilename"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Original uploaded filename"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fullFileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Full file extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionIds"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Permission IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"writersCanShare"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether writers can share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewersCanCopyContent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewers can copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"copyRequiresWriterPermission"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether copy requires writer permission"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who shared the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"explicitlyTrashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether explicitly trashed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"appProperties"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"App-specific properties"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],"$Lae","$Laf","$Lb0","$Lb1","$Lb2","$Lb3","$Lb4","$Lb5","$Lb6","$Lb7","$Lb8","$Lb9","$Lba","$Lbb","$Lbc","$Lbd","$Lbe","$Lbf","$Lc0","$Lc1","$Lc2","$Lc3","$Lc4","$Lc5","$Lc6","$Lc7","$Lc8","$Lc9","$Lca","$Lcb"]}]]}]}]
+37:["$","$L23",null,{"as":"h3","id":"google_drive_create_folder","children":["$","code",null,{"children":"google_drive_create_folder"}]}]
+38:["$","p",null,{"children":"Create a new folder in Google Drive with complete metadata returned"}]
+39:["$","$L23",null,{"as":"h4","id":"input-3","children":"Input"}]
+3a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Name of the folder to create"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderSelector"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Google Drive parent folder ID to create the folder in (e.g., 1ABCxyz...)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID of the parent folder (internal use)"}]]}]]}]]}]}]
+3b:["$","$L23",null,{"as":"h4","id":"output-3","children":"Output"}]
+3c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Complete created folder metadata from Google Drive"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive folder ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Folder name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type (application/vnd.google-apps.folder)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Folder description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of folder owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Folder permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionIds"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Permission IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether folder is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"writersCanShare"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether writers can share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewersCanCopyContent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewers can copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"copyRequiresWriterPermission"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether copy requires writer permission"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who shared the folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether folder is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether folder is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"explicitlyTrashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether explicitly trashed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"appProperties"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"App-specific properties"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"folderColorRgb"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Folder color"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Folder creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When modified by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When last viewed by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharedWithMeTime"}]]}],"$Lcc","$Lcd"]}],"$Lce","$Lcf","$Ld0","$Ld1","$Ld2","$Ld3","$Ld4","$Ld5","$Ld6","$Ld7","$Ld8","$Ld9","$Lda"]}]]}]}]
+3d:["$","$L23",null,{"as":"h3","id":"google_drive_upload","children":["$","code",null,{"children":"google_drive_upload"}]}]
+3e:["$","p",null,{"children":"Upload a file to Google Drive with complete metadata returned"}]
+3f:["$","$L23",null,{"as":"h4","id":"input-4","children":"Input"}]
+40:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The name of the file to upload"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Binary file to upload (UserFile object)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Text content to upload (use this OR file, not both)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mimeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The MIME type of the file to upload (auto-detected from file if not provided)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderSelector"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Google Drive folder ID to upload the file to (e.g., 1ABCxyz...)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"folderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The ID of the folder to upload the file to (internal use)"}]]}]]}]]}]}]
+41:["$","$L23",null,{"as":"h4","id":"output-4","children":"Output"}]
+42:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Complete uploaded file metadata from Google Drive"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalFilename"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Original uploaded filename"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fullFileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Full file extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionIds"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Permission IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"writersCanShare"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether writers can share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewersCanCopyContent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewers can copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"copyRequiresWriterPermission"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether copy requires writer permission"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who shared the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"explicitlyTrashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether explicitly trashed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"appProperties"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"App-specific properties"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When modified by current user"}]]}],"$Ldb","$Ldc","$Ldd","$Lde","$Ldf","$Le0","$Le1","$Le2","$Le3","$Le4","$Le5","$Le6","$Le7","$Le8","$Le9","$Lea","$Leb","$Lec","$Led","$Lee","$Lef","$Lf0","$Lf1","$Lf2","$Lf3","$Lf4","$Lf5","$Lf6"]}]]}]}]
+43:["$","$L23",null,{"as":"h3","id":"google_drive_download","children":["$","code",null,{"children":"google_drive_download"}]}]
+44:["$","p",null,{"children":"Download a file from Google Drive with complete metadata (exports Google Workspace files automatically)"}]
+45:["$","$L23",null,{"as":"h4","id":"input-5","children":"Input"}]
+46:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to download"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mimeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The MIME type to export Google Workspace files to (optional)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Optional filename override"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"includeRevisions"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to include revision history in the metadata (default: true, returns first 100 revisions)"}]]}]]}]]}]}]
+47:["$","$L23",null,{"as":"h4","id":"output-5","children":"Output"}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"Downloaded file stored in execution files"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"metadata"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Complete file metadata from Google Drive"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalFilename"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Original uploaded filename"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fullFileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Full file extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionIds"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Permission IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"writersCanShare"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether writers can share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewersCanCopyContent"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewers can copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"copyRequiresWriterPermission"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether copy requires writer permission"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who shared the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"explicitlyTrashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether explicitly trashed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"appProperties"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"App-specific properties"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":["$Lf7","$Lf8","$Lf9"]}],"$Lfa","$Lfb","$Lfc","$Lfd","$Lfe","$Lff","$L100","$L101","$L102","$L103","$L104","$L105","$L106","$L107","$L108","$L109","$L10a","$L10b","$L10c","$L10d","$L10e","$L10f","$L110","$L111","$L112","$L113","$L114","$L115","$L116"]}]]}]}]
+49:["$","$L23",null,{"as":"h3","id":"google_drive_copy","children":["$","code",null,{"children":"google_drive_copy"}]}]
+4a:["$","p",null,{"children":"Create a copy of a file in Google Drive"}]
+4b:["$","$L23",null,{"as":"h4","id":"input-6","children":"Input"}]
+4c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"newName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Name for the copied file (defaults to \"Copy of [original name]\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destinationFolderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID of the folder to place the copy in (defaults to same location as original)"}]]}]]}]]}]}]
+4d:["$","$L23",null,{"as":"h4","id":"output-6","children":"Output"}]
+4e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The copied file metadata"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID of the copy"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}]]}]]}]}]
+4f:["$","$L23",null,{"as":"h3","id":"google_drive_move","children":["$","code",null,{"children":"google_drive_move"}]}]
+50:["$","p",null,{"children":"Move a file or folder to a different folder in Google Drive"}]
+51:["$","$L23",null,{"as":"h4","id":"input-7","children":"Input"}]
+52:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file or folder to move"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"destinationFolderId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the destination folder"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeFromCurrent"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to remove the file from its current parent folder (default: true). Set to false to add the file to the destination without removing it from the current location."}]]}]]}]]}]}]
+53:["$","$L23",null,{"as":"h4","id":"output-7","children":"Output"}]
+54:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The moved file metadata"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}]]}]]}]}]
+55:["$","$L23",null,{"as":"h3","id":"google_drive_search","children":["$","code",null,{"children":"google_drive_search"}]}]
+56:["$","p",null,{"children":"Search for files in Google Drive using advanced query syntax (e.g., fullText contains, mimeType, modifiedTime, etc.)"}]
+57:["$","$L23",null,{"as":"h4","id":"input-8","children":"Input"}]
+58:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Google Drive query string using advanced search syntax (e.g., \"fullText contains 'budget'\", \"mimeType = 'application/pdf'\", \"modifiedTime > '2024-01-01'\")"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageSize"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Maximum number of files to return (default: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Token for fetching the next page of results"}]]}]]}]]}]}]
+59:["$","$L23",null,{"as":"h4","id":"output-8","children":"Output"}]
+5a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"files"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Array of file metadata objects matching the search query"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"originalFilename"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Original uploaded filename"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fullFileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Full file extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"fileExtension"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File extension"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"owners"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"List of file owners"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"shared"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is shared"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"ownedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether owned by current user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"createdTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File creation time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webContentLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Direct download URL"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to file icon"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to thumbnail"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"driveId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shared drive ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on file"}]]}],"$L117","$L118"]}]]}]}]
+5b:["$","$L23",null,{"as":"h3","id":"google_drive_update","children":["$","code",null,{"children":"google_drive_update"}]}]
+5c:["$","p",null,{"children":"Update file metadata in Google Drive (rename, move, star, add description)"}]
+5d:["$","$L23",null,{"as":"h4","id":"input-9","children":"Input"}]
+5e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to update"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New name for the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"New description for the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"addParents"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of parent folder IDs to add (moves file to these folders)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeParents"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Comma-separated list of parent folder IDs to remove"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"starred"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to star or unstar the file"}]]}]]}]]}]}]
+5f:["$","$L23",null,{"as":"h4","id":"output-9","children":"Output"}]
+60:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The updated file metadata"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"description"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File description"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"starred"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is starred"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Last modification time"}]]}]]}]]}]}]
+61:["$","$L23",null,{"as":"h3","id":"google_drive_trash","children":["$","code",null,{"children":"google_drive_trash"}]}]
+62:["$","p",null,{"children":"Move a file to the trash in Google Drive (can be restored later)"}]
+63:["$","$L23",null,{"as":"h4","id":"input-10","children":"Input"}]
+64:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to move to trash"}]]}]}]]}]}]
+65:["$","$L23",null,{"as":"h4","id":"output-10","children":"Output"}]
+66:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The trashed file metadata"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash (should be true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashedTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When file was trashed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}]]}]]}]}]
+67:["$","$L23",null,{"as":"h3","id":"google_drive_untrash","children":["$","code",null,{"children":"google_drive_untrash"}]}]
+68:["$","p",null,{"children":"Restore a file from the trash in Google Drive"}]
+69:["$","$L23",null,{"as":"h4","id":"input-11","children":"Input"}]
+6a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to restore from trash"}]]}]}]]}]}]
+6b:["$","$L23",null,{"as":"h4","id":"output-11","children":"Output"}]
+6c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The restored file metadata"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Google Drive file ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"kind"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Resource type identifier"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"name"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"mimeType"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MIME type"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"trashed"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is in trash (should be false)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}]]}]]}]}]
+6d:["$","$L23",null,{"as":"h3","id":"google_drive_delete","children":["$","code",null,{"children":"google_drive_delete"}]}]
+6e:["$","p",null,{"children":"Permanently delete a file from Google Drive (bypasses trash)"}]
+6f:["$","$L23",null,{"as":"h4","id":"input-12","children":"Input"}]
+70:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to permanently delete"}]]}]}]]}]}]
+71:["$","$L23",null,{"as":"h4","id":"output-12","children":"Output"}]
+72:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the file was successfully deleted"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The ID of the deleted file"}]]}]]}]]}]}]
+73:["$","$L23",null,{"as":"h3","id":"google_drive_share","children":["$","code",null,{"children":"google_drive_share"}]}]
+74:["$","p",null,{"children":"Share a file with a user, group, domain, or make it public"}]
+75:["$","$L23",null,{"as":"h4","id":"input-13","children":"Input"}]
+76:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to share"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Type of grantee: user, group, domain, or anyone"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"role"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Permission role: owner (transfer ownership), organizer (shared drive only), fileOrganizer (shared drive only), writer (edit), commenter (view and comment), reader (view only)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"email"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Email address of the user or group (required for type=user or type=group)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"domain"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Domain to share with (required for type=domain)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"transferOwnership"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Required when role is owner. Transfers ownership to the specified user."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"moveToNewOwnersRoot"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"When transferring ownership, move the file to the new owner's My Drive root folder."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sendNotification"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Whether to send an email notification (default: true)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"emailMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Custom message to include in the notification email"}]]}]]}]]}]}]
+77:["$","$L23",null,{"as":"h4","id":"output-13","children":"Output"}]
+78:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permission"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"The created permission details"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permission ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Grantee type (user, group, domain, anyone)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"role"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permission role"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"emailAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Email of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Display name of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"domain"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Domain of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"expirationTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Expiration time"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"deleted"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether grantee is deleted"}]]}]]}]]}]}]
+79:["$","$L23",null,{"as":"h3","id":"google_drive_unshare","children":["$","code",null,{"children":"google_drive_unshare"}]}]
+7a:["$","p",null,{"children":"Remove a permission from a file (revoke access)"}]
+7b:["$","$L23",null,{"as":"h4","id":"input-14","children":"Input"}]
+7c:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to modify permissions on"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the permission to remove (use list_permissions to find this)"}]]}]]}]]}]}]
+7d:["$","$L23",null,{"as":"h4","id":"output-14","children":"Output"}]
+7e:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removed"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether the permission was successfully removed"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The ID of the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissionId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"The ID of the removed permission"}]]}]]}]]}]}]
+7f:["$","$L23",null,{"as":"h3","id":"google_drive_list_permissions","children":["$","code",null,{"children":"google_drive_list_permissions"}]}]
+80:["$","p",null,{"children":"List all permissions (who has access) for a file in Google Drive"}]
+81:["$","$L23",null,{"as":"h4","id":"input-15","children":"Input"}]
+82:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"fileId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"The ID of the file to list permissions for"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"The page token to use for pagination"}]]}]]}]]}]}]
+83:["$","$L23",null,{"as":"h4","id":"output-15","children":"Output"}]
+84:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"permissions"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"List of permissions on the file"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"id"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permission ID (use to remove permission)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"type"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Grantee type (user, group, domain, anyone)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"role"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Permission role (owner, organizer, fileOrganizer, writer, commenter, reader)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"emailAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Email of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Display name of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"photoLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Photo URL of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"domain"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Domain of the grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"expirationTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When permission expires"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"deleted"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether grantee account is deleted"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"allowFileDiscovery"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether file is discoverable by grantee"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"pendingOwner"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether ownership transfer is pending"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionDetails"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Details about inherited permissions"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextPageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Token for fetching the next page of permissions"}]]}]]}]]}]}]
+85:["$","$L23",null,{"as":"h3","id":"google_drive_get_about","children":["$","code",null,{"children":"google_drive_get_about"}]}]
+86:["$","p",null,{"children":"Get information about the user and their Google Drive (storage quota, capabilities)"}]
+87:["$","$L23",null,{"as":"h4","id":"input-16","children":"Input"}]
+88:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Description"}]]}]}]}]}]
+89:["$","$L23",null,{"as":"h4","id":"output-16","children":"Output"}]
+8a:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Information about the authenticated user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"displayName"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"User display name"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"emailAddress"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"User email address"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"photoLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to user profile photo"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"permissionId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"User permission ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"me"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether this is the authenticated user"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"storageQuota"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Storage quota information in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"limit"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Total storage limit in bytes (null for unlimited)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"usage"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Total storage used in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"usageInDrive"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Storage used by Drive files in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"usageInDriveTrash"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Storage used by trashed files in bytes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"canCreateDrives"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether user can create shared drives"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"importFormats"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Map of MIME types that can be imported and their target formats"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"exportFormats"}]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Map of Google Workspace MIME types and their exportable formats"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"maxUploadSize"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Maximum upload size in bytes"}]]}]]}]]}]}]
+8d:null
+91:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When last viewed by current user"}]]}]
+92:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharedWithMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When shared with current user"}]]}]
+93:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the file"}]]}]
+94:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewed by current user"}]]}]
+95:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether modified by current user"}]]}]
+96:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}]
+97:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webContentLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Direct download URL"}]]}]
+98:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to file icon"}]]}]
+99:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to thumbnail"}]]}]
+9a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"exportLinks"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Export format links"}]]}]
+9b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}]
+9c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"quotaBytesUsed"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Storage quota used"}]]}]
+9d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"md5Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MD5 hash"}]]}]
+9e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha1Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-1 hash"}]]}]
+9f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha256Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-256 hash"}]]}]
+a0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}]
+a1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"spaces"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Spaces containing file"}]]}]
+a2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"driveId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shared drive ID"}]]}]
+a3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on file"}]]}]
+a4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]
+a5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headRevisionId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Head revision ID"}]]}]
+a6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasThumbnail"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether has thumbnail"}]]}]
+a7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailVersion"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Thumbnail version"}]]}]
+a8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"imageMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Image-specific metadata"}]]}]
+a9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"videoMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Video-specific metadata"}]]}]
+aa:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isAppAuthorized"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether created by requesting app"}]]}]
+ab:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"contentRestrictions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Content restrictions"}]]}]
+ac:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkShareMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Link share metadata"}]]}]
+ad:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextPageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Token for fetching the next page of results"}]]}]
+ae:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When modified by current user"}]]}]
+af:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When last viewed by current user"}]]}]
+b0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharedWithMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When shared with current user"}]]}]
+b1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the file"}]]}]
+b2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewed by current user"}]]}]
+b3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether modified by current user"}]]}]
+b4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}]
+b5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webContentLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Direct download URL"}]]}]
+b6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to file icon"}]]}]
+b7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to thumbnail"}]]}]
+b8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"exportLinks"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Export format links"}]]}]
+b9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}]
+ba:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"quotaBytesUsed"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Storage quota used"}]]}]
+bb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"md5Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MD5 hash"}]]}]
+bc:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha1Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-1 hash"}]]}]
+bd:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha256Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-256 hash"}]]}]
+be:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}]
+bf:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"spaces"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Spaces containing file"}]]}]
+c0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"driveId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shared drive ID"}]]}]
+c1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on file"}]]}]
+c2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]
+c3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headRevisionId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Head revision ID"}]]}]
+c4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasThumbnail"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether has thumbnail"}]]}]
+c5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailVersion"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Thumbnail version"}]]}]
+c6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"imageMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Image-specific metadata"}]]}]
+c7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"videoMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Video-specific metadata"}]]}]
+c8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isAppAuthorized"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether created by requesting app"}]]}]
+c9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"contentRestrictions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Content restrictions"}]]}]
+ca:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkShareMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Link share metadata"}]]}]
+cb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"revisions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File revision history (first 100 revisions only)"}]]}]
+cc:["$","td",null,{"children":"string"}]
+cd:["$","td",null,{"children":"When shared with current user"}]
+ce:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the folder"}]]}]
+cf:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewed by current user"}]]}]
+d0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether modified by current user"}]]}]
+d1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}]
+d2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to folder icon"}]]}]
+d3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}]
+d4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"spaces"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Spaces containing folder"}]]}]
+d5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"driveId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shared drive ID"}]]}]
+d6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on folder"}]]}]
+d7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]
+d8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isAppAuthorized"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether created by requesting app"}]]}]
+d9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"contentRestrictions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Content restrictions"}]]}]
+da:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkShareMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Link share metadata"}]]}]
+db:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When last viewed by current user"}]]}]
+dc:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharedWithMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When shared with current user"}]]}]
+dd:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the file"}]]}]
+de:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewed by current user"}]]}]
+df:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether modified by current user"}]]}]
+e0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}]
+e1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webContentLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Direct download URL"}]]}]
+e2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to file icon"}]]}]
+e3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to thumbnail"}]]}]
+e4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"exportLinks"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Export format links"}]]}]
+e5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}]
+e6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"quotaBytesUsed"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Storage quota used"}]]}]
+e7:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"md5Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MD5 hash"}]]}]
+e8:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha1Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-1 hash"}]]}]
+e9:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha256Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-256 hash"}]]}]
+ea:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}]
+eb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"spaces"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Spaces containing file"}]]}]
+ec:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"driveId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shared drive ID"}]]}]
+ed:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on file"}]]}]
+ee:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]
+ef:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headRevisionId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Head revision ID"}]]}]
+f0:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasThumbnail"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether has thumbnail"}]]}]
+f1:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailVersion"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Thumbnail version"}]]}]
+f2:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"imageMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Image-specific metadata"}]]}]
+f3:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"videoMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Video-specific metadata"}]]}]
+f4:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isAppAuthorized"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether created by requesting app"}]]}]
+f5:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"contentRestrictions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Content restrictions"}]]}]
+f6:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkShareMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Link share metadata"}]]}]
+f7:["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMeTime"}]]}]
+f8:["$","td",null,{"children":"string"}]
+f9:["$","td",null,{"children":"When modified by current user"}]
+fa:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When last viewed by current user"}]]}]
+fb:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sharedWithMeTime"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"When shared with current user"}]]}]
+fc:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"lastModifyingUser"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User who last modified the file"}]]}]
+fd:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"viewedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether viewed by current user"}]]}]
+fe:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"modifiedByMe"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether modified by current user"}]]}]
+ff:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webViewLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to view in browser"}]]}]
+100:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"webContentLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Direct download URL"}]]}]
+101:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"iconLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to file icon"}]]}]
+102:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailLink"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"URL to thumbnail"}]]}]
+103:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"exportLinks"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Export format links"}]]}]
+104:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"size"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"File size in bytes"}]]}]
+105:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"quotaBytesUsed"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Storage quota used"}]]}]
+106:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"md5Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"MD5 hash"}]]}]
+107:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha1Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-1 hash"}]]}]
+108:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"sha256Checksum"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"SHA-256 hash"}]]}]
+109:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"parents"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Parent folder IDs"}]]}]
+10a:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"spaces"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Spaces containing file"}]]}]
+10b:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"driveId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Shared drive ID"}]]}]
+10c:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"capabilities"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"User capabilities on file"}]]}]
+10d:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]
+10e:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"headRevisionId"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Head revision ID"}]]}]
+10f:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"hasThumbnail"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether has thumbnail"}]]}]
+110:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"thumbnailVersion"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Thumbnail version"}]]}]
+111:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"imageMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Image-specific metadata"}]]}]
+112:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"videoMediaMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Video-specific metadata"}]]}]
+113:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"isAppAuthorized"}]]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Whether created by requesting app"}]]}]
+114:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"contentRestrictions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Content restrictions"}]]}]
+115:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"linkShareMetadata"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"Link share metadata"}]]}]
+116:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"revisions"}]]}],["$","td",null,{"children":"json"}],["$","td",null,{"children":"File revision history (first 100 revisions only)"}]]}]
+117:["$","tr",null,{"children":[["$","td",null,{"children":["↳ ",["$","code",null,{"children":"version"}]]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Version number"}]]}]
+118:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"nextPageToken"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Token for fetching the next page of results"}]]}]

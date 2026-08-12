@@ -1,0 +1,579 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+20:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+25:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+26:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+27:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+28:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+9a:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9b:"$Sreact.suspense"
+9d:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+9e:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+9f:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"GitLab\",\"description\":\"Interagiere mit GitLab-Projekten, Issues, Merge Requests und Pipelines\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/gitlab\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/gitlab\"},\"inLanguage\":\"de\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/gitlab\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"GitLab\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/de/tools/gitlab\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#nutzungsanleitung","title":"Nutzungsanleitung"},{"depth":2,"url":"#tools","title":"Tools"},{"depth":3,"url":"#gitlab_list_projects","title":["$","code",null,{"children":"gitlab_list_projects"}]},{"depth":4,"url":"#eingabe","title":"Eingabe"},{"depth":4,"url":"#ausgabe","title":"Ausgabe"},{"depth":3,"url":"#gitlab_get_project","title":["$","code",null,{"children":"gitlab_get_project"}]},{"depth":4,"url":"#eingabe-1","title":"Eingabe"},{"depth":4,"url":"#ausgabe-1","title":"Ausgabe"},{"depth":3,"url":"#gitlab_list_issues","title":["$","code",null,{"children":"gitlab_list_issues"}]},{"depth":4,"url":"#eingabe-2","title":"Eingabe"},{"depth":4,"url":"#output","title":"Output"},{"depth":3,"url":"#gitlab_get_issue","title":["$","code",null,{"children":"gitlab_get_issue"}]},{"depth":4,"url":"#input","title":"Input"},{"depth":4,"url":"#output-1","title":"Output"},{"depth":3,"url":"#gitlab_create_issue","title":["$","code",null,{"children":"gitlab_create_issue"}]},{"depth":4,"url":"#input-1","title":"Input"},{"depth":4,"url":"#ausgabe-2","title":"Ausgabe"},{"depth":3,"url":"#gitlab_update_issue","title":["$","code",null,{"children":"gitlab_update_issue"}]},{"depth":4,"url":"#eingabe-3","title":"Eingabe"},{"depth":4,"url":"#ausgabe-3","title":"Ausgabe"},{"depth":3,"url":"#gitlab_delete_issue","title":["$","code",null,{"children":"gitlab_delete_issue"}]},{"depth":4,"url":"#eingabe-4","title":"Eingabe"},{"depth":4,"url":"#output-2","title":"Output"},{"depth":3,"url":"#gitlab_create_issue_note","title":["$","code",null,{"children":"gitlab_create_issue_note"}]},{"depth":4,"url":"#input-2","title":"Input"},{"depth":4,"url":"#output-3","title":"Output"},{"depth":3,"url":"#gitlab_list_merge_requests","title":["$","code",null,{"children":"gitlab_list_merge_requests"}]},{"depth":4,"url":"#input-3","title":"Input"},{"depth":4,"url":"#output-4","title":"Output"},{"depth":3,"url":"#gitlab_get_merge_request","title":["$","code",null,{"children":"gitlab_get_merge_request"}]},{"depth":4,"url":"#input-4","title":"Input"},{"depth":4,"url":"#output-5","title":"Output"},{"depth":3,"url":"#gitlab_create_merge_request","title":["$","code",null,{"children":"gitlab_create_merge_request"}]},{"depth":4,"url":"#input-5","title":"Input"},{"depth":4,"url":"#output-6","title":"Output"},{"depth":3,"url":"#gitlab_update_merge_request","title":["$","code",null,{"children":"gitlab_update_merge_request"}]},{"depth":4,"url":"#input-6","title":"Input"},{"depth":4,"url":"#output-7","title":"Output"},{"depth":3,"url":"#gitlab_merge_merge_request","title":"$L3"},{"depth":4,"url":"#input-7","title":"$L4"},{"depth":4,"url":"#output-8","title":"$L5"},{"depth":3,"url":"#gitlab_create_merge_request_note","title":"$L6"},{"depth":4,"url":"#input-8","title":"$L7"},{"depth":4,"url":"#output-9","title":"$L8"},{"depth":3,"url":"#gitlab_list_pipelines","title":"$L9"},{"depth":4,"url":"#input-9","title":"$La"},{"depth":4,"url":"#ausgabe-4","title":"$Lb"},{"depth":3,"url":"#gitlab_get_pipeline","title":"$Lc"},{"depth":4,"url":"#eingabe-5","title":"$Ld"},{"depth":4,"url":"#ausgabe-5","title":"$Le"},{"depth":3,"url":"#gitlab_create_pipeline","title":"$Lf"},{"depth":4,"url":"#eingabe-6","title":"$L10"},{"depth":4,"url":"#ausgabe-6","title":"$L11"},{"depth":3,"url":"#gitlab_retry_pipeline","title":"$L12"},{"depth":4,"url":"#eingabe-7","title":"$L13"},{"depth":4,"url":"#ausgabe-7","title":"$L14"},{"depth":3,"url":"#gitlab_cancel_pipeline","title":"$L15"},{"depth":4,"url":"#eingabe-8","title":"$L16"},{"depth":4,"url":"#ausgabe-8","title":"$L17"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L18"},"children":["$L19","$L1a"]}]],["$L1b","$L1c","$L1d","$L1e"],"$L1f"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"gitlab_merge_merge_request"}]
+4:"Input"
+5:"Output"
+6:["$","code",null,{"children":"gitlab_create_merge_request_note"}]
+7:"Input"
+8:"Output"
+9:["$","code",null,{"children":"gitlab_list_pipelines"}]
+a:"Input"
+b:"Ausgabe"
+c:["$","code",null,{"children":"gitlab_get_pipeline"}]
+d:"Eingabe"
+e:"Ausgabe"
+f:["$","code",null,{"children":"gitlab_create_pipeline"}]
+10:"Eingabe"
+11:"Ausgabe"
+12:["$","code",null,{"children":"gitlab_retry_pipeline"}]
+13:"Eingabe"
+14:"Ausgabe"
+15:["$","code",null,{"children":"gitlab_cancel_pipeline"}]
+16:"Eingabe"
+17:"Ausgabe"
+18:null
+21:T58b2,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="gitlab" color="#E0E0E0" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[GitLab](https://gitlab.com/) ist eine umfassende DevOps-Plattform, die Teams ermöglicht, ihren Software-Entwicklungszyklus zu verwalten, zusammenzuarbeiten und zu automatisieren. Mit GitLab kannst du mühelos Quellcodeverwaltung, CI/CD, Reviews und Zusammenarbeit in einer einzigen Anwendung handhaben.
+
+Mit GitLab in Aptlystar kannst du:
+
+* **Projekte und Repositories verwalten**: Liste und rufe deine GitLab-Projekte ab, greife auf Details zu und organisiere deine Repositories
+* **Mit Issues arbeiten**: Issues auflisten, erstellen und kommentieren, um Arbeit zu verfolgen und effektiv zusammenzuarbeiten
+* **Merge Requests bearbeiten**: Überprüfe, erstelle und verwalte Merge Requests für Codeänderungen und Peer-Reviews
+* **CI/CD-Pipelines automatisieren**: Starte, überwache und interagiere mit GitLab-Pipelines als Teil deiner Automatisierungsabläufe
+* **Mit Kommentaren zusammenarbeiten**: Füge Kommentare zu Issues oder Merge Requests hinzu für eine effiziente Kommunikation innerhalb deines Teams
+
+Mit Aptlystars GitLab-Integration können deine Agenten programmatisch mit deinen GitLab-Projekten interagieren. Automatisiere Projektverwaltung, Issue-Tracking, Code-Reviews und Pipeline-Operationen nahtlos in deinen Workflows, optimiere deinen Software-Entwicklungsprozess und verbessere die Zusammenarbeit in deinem Team.
+
+{/* MANUAL-CONTENT-END */}
+
+Nutzungsanleitung [#nutzungsanleitung]
+
+Integriere GitLab in den Workflow. Kann Projekte, Issues, Merge Requests, Pipelines verwalten und Kommentare hinzufügen. Unterstützt alle grundlegenden GitLab DevOps-Operationen.
+
+Tools [#tools]
+
+gitlab_list_projects [#gitlab_list_projects]
+
+GitLab-Projekte auflisten, auf die der authentifizierte Benutzer Zugriff hat
+
+Eingabe [#eingabe]
+
+| Parameter    | Typ     | Erforderlich | Beschreibung                                                                       |
+| ------------ | ------- | ------------ | ---------------------------------------------------------------------------------- |
+| `owned`      | boolean | Nein         | Beschränkung auf Projekte, die dem aktuellen Benutzer gehören                      |
+| `membership` | boolean | Nein         | Beschränkung auf Projekte, in denen der aktuelle Benutzer Mitglied ist             |
+| `search`     | string  | Nein         | Projekte nach Namen durchsuchen                                                    |
+| `visibility` | string  | Nein         | Nach Sichtbarkeit filtern (public, internal, private)                              |
+| `orderBy`    | string  | Nein         | Nach Feld sortieren (id, name, path, created\_at, updated\_at, last\_activity\_at) |
+| `sort`       | string  | Nein         | Sortierrichtung (asc, desc)                                                        |
+| `perPage`    | number  | Nein         | Anzahl der Ergebnisse pro Seite (Standard 20, max 100)                             |
+| `page`       | number  | Nein         | Seitennummer für Paginierung                                                       |
+
+Ausgabe [#ausgabe]
+
+| Parameter  | Typ    | Beschreibung              |
+| ---------- | ------ | ------------------------- |
+| `projects` | array  | Liste der GitLab-Projekte |
+| `total`    | number | Gesamtanzahl der Projekte |
+
+gitlab_get_project [#gitlab_get_project]
+
+Details zu einem bestimmten GitLab-Projekt abrufen
+
+Eingabe [#eingabe-1]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                  |
+| ----------- | ------ | ------------ | ------------------------------------------------------------- |
+| `projectId` | string | Ja           | Projekt-ID oder URL-codierter Pfad (z.B. "namespace/project") |
+
+Ausgabe [#ausgabe-1]
+
+| Parameter | Typ    | Beschreibung              |
+| --------- | ------ | ------------------------- |
+| `project` | object | Die GitLab-Projektdetails |
+
+gitlab_list_issues [#gitlab_list_issues]
+
+Issues in einem GitLab-Projekt auflisten
+
+Eingabe [#eingabe-2]
+
+| Parameter        | Typ    | Erforderlich | Beschreibung                                           |
+| ---------------- | ------ | ------------ | ------------------------------------------------------ |
+| `projectId`      | string | Ja           | Projekt-ID oder URL-codierter Pfad                     |
+| `state`          | string | Nein         | Nach Status filtern (opened, closed, all)              |
+| `labels`         | string | Nein         | Kommagetrennte Liste von Label-Namen                   |
+| `assigneeId`     | number | Nein         | Nach Bearbeiter-Benutzer-ID filtern                    |
+| `milestoneTitle` | string | Nein         | Nach Meilenstein-Titel filtern                         |
+| `search`         | string | Nein         | Issues nach Titel und Beschreibung durchsuchen         |
+| `orderBy`        | string | Nein         | Sortieren nach Feld (created\_at, updated\_at)         |
+| `sort`           | string | Nein         | Sortierrichtung (asc, desc)                            |
+| `perPage`        | number | Nein         | Anzahl der Ergebnisse pro Seite (Standard 20, max 100) |
+| `page`           | number | Nein         | Seitennummer für Paginierung                           |
+
+Output [#output]
+
+| Parameter | Type   | Beschreibung            |
+| --------- | ------ | ----------------------- |
+| `issues`  | array  | Liste der GitLab-Issues |
+| `total`   | number | Gesamtanzahl der Issues |
+
+gitlab_get_issue [#gitlab_get_issue]
+
+Details zu einem bestimmten GitLab-Issue abrufen
+
+Input [#input]
+
+| Parameter   | Type   | Erforderlich | Beschreibung                                                           |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------- |
+| `projectId` | string | Ja           | Projekt-ID oder URL-codierter Pfad                                     |
+| `issueIid`  | number | Ja           | Issue-Nummer innerhalb des Projekts (die # in der GitLab-UI angezeigt) |
+
+Output [#output-1]
+
+| Parameter | Type   | Beschreibung             |
+| --------- | ------ | ------------------------ |
+| `issue`   | object | Die GitLab-Issue-Details |
+
+gitlab_create_issue [#gitlab_create_issue]
+
+Ein neues Issue in einem GitLab-Projekt erstellen
+
+Input [#input-1]
+
+| Parameter      | Type    | Erforderlich | Beschreibung                              |
+| -------------- | ------- | ------------ | ----------------------------------------- |
+| `projectId`    | string  | Ja           | Projekt-ID oder URL-codierter Pfad        |
+| `title`        | string  | Ja           | Issue-Titel                               |
+| `description`  | string  | Nein         | Issue-Beschreibung (Markdown unterstützt) |
+| `labels`       | string  | Nein         | Kommagetrennte Liste von Label-Namen      |
+| `assigneeIds`  | array   | Nein         | Array von Benutzer-IDs für die Zuweisung  |
+| `milestoneId`  | number  | Nein         | Meilenstein-ID für die Zuweisung          |
+| `dueDate`      | string  | Nein         | Fälligkeitsdatum im Format JJJJ-MM-TT     |
+| `confidential` | boolean | Nein         | Ob das Issue vertraulich ist              |
+
+Ausgabe [#ausgabe-2]
+
+| Parameter | Typ    | Beschreibung               |
+| --------- | ------ | -------------------------- |
+| `issue`   | object | Das erstellte GitLab-Issue |
+
+gitlab_update_issue [#gitlab_update_issue]
+
+Ein bestehendes Issue in einem GitLab-Projekt aktualisieren
+
+Eingabe [#eingabe-3]
+
+| Parameter      | Typ     | Erforderlich | Beschreibung                                   |
+| -------------- | ------- | ------------ | ---------------------------------------------- |
+| `projectId`    | string  | Ja           | Projekt-ID oder URL-codierter Pfad             |
+| `issueIid`     | number  | Ja           | Interne Issue-ID (IID)                         |
+| `title`        | string  | Nein         | Neuer Issue-Titel                              |
+| `description`  | string  | Nein         | Neue Issue-Beschreibung (Markdown unterstützt) |
+| `stateEvent`   | string  | Nein         | Status-Event (close oder reopen)               |
+| `labels`       | string  | Nein         | Kommagetrennte Liste von Label-Namen           |
+| `assigneeIds`  | array   | Nein         | Array von Benutzer-IDs für die Zuweisung       |
+| `milestoneId`  | number  | Nein         | Meilenstein-ID für die Zuweisung               |
+| `dueDate`      | string  | Nein         | Fälligkeitsdatum im Format JJJJ-MM-TT          |
+| `confidential` | boolean | Nein         | Ob das Issue vertraulich ist                   |
+
+Ausgabe [#ausgabe-3]
+
+| Parameter | Typ    | Beschreibung                   |
+| --------- | ------ | ------------------------------ |
+| `issue`   | object | Das aktualisierte GitLab-Issue |
+
+gitlab_delete_issue [#gitlab_delete_issue]
+
+Ein Issue aus einem GitLab-Projekt löschen
+
+Eingabe [#eingabe-4]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                       |
+| ----------- | ------ | ------------ | ---------------------------------- |
+| `projectId` | string | Ja           | Projekt-ID oder URL-codierter Pfad |
+| `issueIid`  | number | Ja           | Interne Issue-ID (IID)             |
+
+Output [#output-2]
+
+| Parameter | Type    | Beschreibung                            |
+| --------- | ------- | --------------------------------------- |
+| `success` | boolean | Ob das Issue erfolgreich gelöscht wurde |
+
+gitlab_create_issue_note [#gitlab_create_issue_note]
+
+Einen Kommentar zu einem GitLab-Issue hinzufügen
+
+Input [#input-2]
+
+| Parameter   | Type   | Erforderlich | Beschreibung                         |
+| ----------- | ------ | ------------ | ------------------------------------ |
+| `projectId` | string | Ja           | Projekt-ID oder URL-codierter Pfad   |
+| `issueIid`  | number | Ja           | Interne Issue-ID (IID)               |
+| `body`      | string | Ja           | Kommentartext (Markdown unterstützt) |
+
+Output [#output-3]
+
+| Parameter | Type   | Beschreibung            |
+| --------- | ------ | ----------------------- |
+| `note`    | object | Der erstellte Kommentar |
+
+gitlab_list_merge_requests [#gitlab_list_merge_requests]
+
+Merge-Requests in einem GitLab-Projekt auflisten
+
+Input [#input-3]
+
+| Parameter      | Type   | Erforderlich | Beschreibung                                           |
+| -------------- | ------ | ------------ | ------------------------------------------------------ |
+| `projectId`    | string | Ja           | Projekt-ID oder URL-codierter Pfad                     |
+| `state`        | string | Nein         | Nach Status filtern (opened, closed, merged, all)      |
+| `labels`       | string | Nein         | Kommagetrennte Liste von Label-Namen                   |
+| `sourceBranch` | string | Nein         | Nach Quell-Branch filtern                              |
+| `targetBranch` | string | Nein         | Nach Ziel-Branch filtern                               |
+| `orderBy`      | string | Nein         | Sortieren nach Feld (created\_at, updated\_at)         |
+| `sort`         | string | Nein         | Sortierrichtung (asc, desc)                            |
+| `perPage`      | number | Nein         | Anzahl der Ergebnisse pro Seite (Standard 20, max 100) |
+| `page`         | number | Nein         | Seitennummer für Paginierung                           |
+
+Output [#output-4]
+
+| Parameter       | Type   | Beschreibung                    |
+| --------------- | ------ | ------------------------------- |
+| `mergeRequests` | array  | Liste der GitLab Merge-Requests |
+| `total`         | number | Gesamtanzahl der Merge-Requests |
+
+gitlab_get_merge_request [#gitlab_get_merge_request]
+
+Details zu einem bestimmten GitLab Merge-Request abrufen
+
+Input [#input-4]
+
+| Parameter         | Type   | Erforderlich | Beschreibung                        |
+| ----------------- | ------ | ------------ | ----------------------------------- |
+| `projectId`       | string | Ja           | Projekt-ID oder URL-codierter Pfad  |
+| `mergeRequestIid` | number | Ja           | Interne ID des Merge-Requests (IID) |
+
+Output [#output-5]
+
+| Parameter      | Type   | Beschreibung                          |
+| -------------- | ------ | ------------------------------------- |
+| `mergeRequest` | object | Die Details des GitLab Merge-Requests |
+
+gitlab_create_merge_request [#gitlab_create_merge_request]
+
+Einen neuen Merge-Request in einem GitLab-Projekt erstellen
+
+Input [#input-5]
+
+| Parameter            | Type    | Erforderlich | Beschreibung                                           |
+| -------------------- | ------- | ------------ | ------------------------------------------------------ |
+| `projectId`          | string  | Ja           | Projekt-ID oder URL-codierter Pfad                     |
+| `sourceBranch`       | string  | Ja           | Name des Quellbranches                                 |
+| `targetBranch`       | string  | Ja           | Name des Zielbranches                                  |
+| `title`              | string  | Ja           | Titel des Merge-Requests                               |
+| `description`        | string  | Nein         | Beschreibung des Merge-Requests (Markdown unterstützt) |
+| `labels`             | string  | Nein         | Kommagetrennte Liste von Label-Namen                   |
+| `assigneeIds`        | array   | Nein         | Array von Benutzer-IDs für die Zuweisung               |
+| `milestoneId`        | number  | Nein         | Meilenstein-ID für die Zuweisung                       |
+| `removeSourceBranch` | boolean | Nein         | Quellbranch nach dem Merge löschen                     |
+| `squash`             | boolean | Nein         | Commits beim Merge zusammenfassen                      |
+| `draft`              | boolean | Nein         | Als Entwurf markieren (in Bearbeitung)                 |
+
+Output [#output-6]
+
+| Parameter      | Type   | Beschreibung                       |
+| -------------- | ------ | ---------------------------------- |
+| `mergeRequest` | object | Der erstellte GitLab Merge Request |
+
+gitlab_update_merge_request [#gitlab_update_merge_request]
+
+Einen bestehenden Merge Request in einem GitLab-Projekt aktualisieren
+
+Input [#input-6]
+
+| Parameter            | Type    | Required | Beschreibung                             |
+| -------------------- | ------- | -------- | ---------------------------------------- |
+| `projectId`          | string  | Yes      | Projekt-ID oder URL-kodierter Pfad       |
+| `mergeRequestIid`    | number  | Yes      | Interne ID des Merge Requests (IID)      |
+| `title`              | string  | No       | Neuer Titel des Merge Requests           |
+| `description`        | string  | No       | Neue Beschreibung des Merge Requests     |
+| `stateEvent`         | string  | No       | Status-Event (close oder reopen)         |
+| `labels`             | string  | No       | Kommagetrennte Liste von Label-Namen     |
+| `assigneeIds`        | array   | No       | Array von Benutzer-IDs für die Zuweisung |
+| `milestoneId`        | number  | No       | Meilenstein-ID für die Zuweisung         |
+| `targetBranch`       | string  | No       | Neuer Ziel-Branch                        |
+| `removeSourceBranch` | boolean | No       | Quell-Branch nach dem Merge löschen      |
+| `squash`             | boolean | No       | Commits beim Merge zusammenfassen        |
+| `draft`              | boolean | No       | Als Entwurf markieren (work in progress) |
+
+Output [#output-7]
+
+| Parameter      | Type   | Beschreibung                           |
+| -------------- | ------ | -------------------------------------- |
+| `mergeRequest` | object | Der aktualisierte GitLab Merge Request |
+
+gitlab_merge_merge_request [#gitlab_merge_merge_request]
+
+Einen Merge Request in einem GitLab-Projekt zusammenführen
+
+Input [#input-7]
+
+| Parameter                   | Type    | Required | Beschreibung                                     |
+| --------------------------- | ------- | -------- | ------------------------------------------------ |
+| `projectId`                 | string  | Yes      | Projekt-ID oder URL-kodierter Pfad               |
+| `mergeRequestIid`           | number  | Yes      | Interne ID des Merge Requests (IID)              |
+| `mergeCommitMessage`        | string  | No       | Benutzerdefinierte Merge-Commit-Nachricht        |
+| `squashCommitMessage`       | string  | No       | Benutzerdefinierte Squash-Commit-Nachricht       |
+| `squash`                    | boolean | No       | Commits vor dem Merge zusammenfassen             |
+| `shouldRemoveSourceBranch`  | boolean | No       | Quell-Branch nach dem Merge löschen              |
+| `mergeWhenPipelineSucceeds` | boolean | No       | Merge durchführen, wenn Pipeline erfolgreich ist |
+
+Output [#output-8]
+
+| Parameter      | Type   | Beschreibung                              |
+| -------------- | ------ | ----------------------------------------- |
+| `mergeRequest` | object | Der zusammengeführte GitLab Merge Request |
+
+gitlab_create_merge_request_note [#gitlab_create_merge_request_note]
+
+Einen Kommentar zu einem GitLab Merge Request hinzufügen
+
+Input [#input-8]
+
+| Parameter         | Type   | Erforderlich | Beschreibung                              |
+| ----------------- | ------ | ------------ | ----------------------------------------- |
+| `projectId`       | string | Ja           | Projekt-ID oder URL-kodierter Pfad        |
+| `mergeRequestIid` | number | Ja           | Interne ID des Merge Requests (IID)       |
+| `body`            | string | Ja           | Kommentartext (Markdown wird unterstützt) |
+
+Output [#output-9]
+
+| Parameter | Type   | Beschreibung            |
+| --------- | ------ | ----------------------- |
+| `note`    | object | Der erstellte Kommentar |
+
+gitlab_list_pipelines [#gitlab_list_pipelines]
+
+Pipelines in einem GitLab-Projekt auflisten
+
+Input [#input-9]
+
+| Parameter   | Type   | Erforderlich | Beschreibung                                                                                                                              |
+| ----------- | ------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `projectId` | string | Ja           | Projekt-ID oder URL-kodierter Pfad                                                                                                        |
+| `ref`       | string | Nein         | Nach Ref filtern (Branch oder Tag)                                                                                                        |
+| `status`    | string | Nein         | Nach Status filtern (created, waiting\_for\_resource, preparing, pending, running, success, failed, canceled, skipped, manual, scheduled) |
+| `orderBy`   | string | Nein         | Sortieren nach Feld (id, status, ref, updated\_at, user\_id)                                                                              |
+| `sort`      | string | Nein         | Sortierrichtung (asc, desc)                                                                                                               |
+| `perPage`   | number | Nein         | Anzahl der Ergebnisse pro Seite (Standard 20, max 100)                                                                                    |
+| `page`      | number | Nein         | Seitennummer für Paginierung                                                                                                              |
+
+Ausgabe [#ausgabe-4]
+
+| Parameter   | Typ    | Beschreibung               |
+| ----------- | ------ | -------------------------- |
+| `pipelines` | array  | Liste der GitLab-Pipelines |
+| `total`     | number | Gesamtanzahl der Pipelines |
+
+gitlab_get_pipeline [#gitlab_get_pipeline]
+
+Details zu einer bestimmten GitLab-Pipeline abrufen
+
+Eingabe [#eingabe-5]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                       |
+| ------------ | ------ | ------------ | ---------------------------------- |
+| `projectId`  | string | Ja           | Projekt-ID oder URL-codierter Pfad |
+| `pipelineId` | number | Ja           | Pipeline-ID                        |
+
+Ausgabe [#ausgabe-5]
+
+| Parameter  | Typ    | Beschreibung                |
+| ---------- | ------ | --------------------------- |
+| `pipeline` | object | Die GitLab-Pipeline-Details |
+
+gitlab_create_pipeline [#gitlab_create_pipeline]
+
+Eine neue Pipeline in einem GitLab-Projekt auslösen
+
+Eingabe [#eingabe-6]
+
+| Parameter   | Typ    | Erforderlich | Beschreibung                                                                             |
+| ----------- | ------ | ------------ | ---------------------------------------------------------------------------------------- |
+| `projectId` | string | Ja           | Projekt-ID oder URL-codierter Pfad                                                       |
+| `ref`       | string | Ja           | Branch oder Tag, auf dem die Pipeline ausgeführt werden soll                             |
+| `variables` | array  | Nein         | Array von Variablen für die Pipeline (jede mit key, value und optionalem variable\_type) |
+
+Ausgabe [#ausgabe-6]
+
+| Parameter  | Typ    | Beschreibung                  |
+| ---------- | ------ | ----------------------------- |
+| `pipeline` | object | Die erstellte GitLab-Pipeline |
+
+gitlab_retry_pipeline [#gitlab_retry_pipeline]
+
+Eine fehlgeschlagene GitLab-Pipeline wiederholen
+
+Eingabe [#eingabe-7]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                       |
+| ------------ | ------ | ------------ | ---------------------------------- |
+| `projectId`  | string | Ja           | Projekt-ID oder URL-codierter Pfad |
+| `pipelineId` | number | Ja           | Pipeline-ID                        |
+
+Ausgabe [#ausgabe-7]
+
+| Parameter  | Typ    | Beschreibung                    |
+| ---------- | ------ | ------------------------------- |
+| `pipeline` | object | Die wiederholte GitLab-Pipeline |
+
+gitlab_cancel_pipeline [#gitlab_cancel_pipeline]
+
+Eine laufende GitLab-Pipeline abbrechen
+
+Eingabe [#eingabe-8]
+
+| Parameter    | Typ    | Erforderlich | Beschreibung                       |
+| ------------ | ------ | ------------ | ---------------------------------- |
+| `projectId`  | string | Ja           | Projekt-ID oder URL-codierter Pfad |
+| `pipelineId` | number | Ja           | Pipeline-ID                        |
+
+Ausgabe [#ausgabe-8]
+
+| Parameter  | Typ    | Beschreibung                     |
+| ---------- | ------ | -------------------------------- |
+| `pipeline` | object | Die abgebrochene GitLab-Pipeline |
+19:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L20",null,{"content":"$21"}]}],"$L22"]}],"$L23","$L24"]}]
+1a:["$","$L25",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L26",null,{"type":"gitlab","color":"#E0E0E0"}],"\n","\n",["$","p",null,{"children":[["$","$L27",null,{"href":"https://gitlab.com/","children":"GitLab"}]," ist eine umfassende DevOps-Plattform, die Teams ermöglicht, ihren Software-Entwicklungszyklus zu verwalten, zusammenzuarbeiten und zu automatisieren. Mit GitLab kannst du mühelos Quellcodeverwaltung, CI/CD, Reviews und Zusammenarbeit in einer einzigen Anwendung handhaben."]}],"\n",["$","p",null,{"children":"Mit GitLab in Aptlystar kannst du:"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Projekte und Repositories verwalten"}],": Liste und rufe deine GitLab-Projekte ab, greife auf Details zu und organisiere deine Repositories"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Mit Issues arbeiten"}],": Issues auflisten, erstellen und kommentieren, um Arbeit zu verfolgen und effektiv zusammenzuarbeiten"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Merge Requests bearbeiten"}],": Überprüfe, erstelle und verwalte Merge Requests für Codeänderungen und Peer-Reviews"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"CI/CD-Pipelines automatisieren"}],": Starte, überwache und interagiere mit GitLab-Pipelines als Teil deiner Automatisierungsabläufe"]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"Mit Kommentaren zusammenarbeiten"}],": Füge Kommentare zu Issues oder Merge Requests hinzu für eine effiziente Kommunikation innerhalb deines Teams"]}],"\n"]}],"\n",["$","p",null,{"children":"Mit Aptlystars GitLab-Integration können deine Agenten programmatisch mit deinen GitLab-Projekten interagieren. Automatisiere Projektverwaltung, Issue-Tracking, Code-Reviews und Pipeline-Operationen nahtlos in deinen Workflows, optimiere deinen Software-Entwicklungsprozess und verbessere die Zusammenarbeit in deinem Team."}],"\n","\n",["$","$L28",null,{"as":"h2","id":"nutzungsanleitung","children":"Nutzungsanleitung"}],"\n",["$","p",null,{"children":"Integriere GitLab in den Workflow. Kann Projekte, Issues, Merge Requests, Pipelines verwalten und Kommentare hinzufügen. Unterstützt alle grundlegenden GitLab DevOps-Operationen."}],"\n",["$","$L28",null,{"as":"h2","id":"tools","children":"Tools"}],"\n",["$","$L28",null,{"as":"h3","id":"gitlab_list_projects","children":["$","code",null,{"children":"gitlab_list_projects"}]}],"\n",["$","p",null,{"children":"GitLab-Projekte auflisten, auf die der authentifizierte Benutzer Zugriff hat"}],"\n",["$","$L28",null,{"as":"h4","id":"eingabe","children":"Eingabe"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"owned"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beschränkung auf Projekte, die dem aktuellen Benutzer gehören"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"membership"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beschränkung auf Projekte, in denen der aktuelle Benutzer Mitglied ist"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Projekte nach Namen durchsuchen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"visibility"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Sichtbarkeit filtern (public, internal, private)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Feld sortieren (id, name, path, created_at, updated_at, last_activity_at)"}]]}],"$L29","$L2a","$L2b"]}]]}]}],"\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99"]}]}]
+1b:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+1c:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+1d:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+1e:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+1f:["$","$L9a",null,{"children":["$","$9b",null,{"name":"Next.MetadataOutlet","children":"$@9c"}]}]
+22:["$","$L9d",null,{}]
+23:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","width":"24","height":"24","viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z","fill":"#FC6D26"}],["$","path",null,{"d":"M12 22.13L16.05 9.67H7.95L12 22.13z","fill":"#E24329"}],["$","path",null,{"d":"M12 22.13L7.95 9.67H1.69L12 22.13z","fill":"#FC6D26"}],["$","path",null,{"d":"M1.69 9.67L.47 13.45a.84.84 0 0 0 .3.94L12 22.13 1.69 9.67z","fill":"#FCA326"}],["$","path",null,{"d":"M1.69 9.67H7.95L5.51 2.16A.42.42 0 0 0 4.93 2a.42.42 0 0 0-.11.18L1.69 9.67z","fill":"#E24329"}],["$","path",null,{"d":"M12 22.13L16.05 9.67H22.31L12 22.13z","fill":"#FC6D26"}],["$","path",null,{"d":"M22.31 9.67L23.53 13.45a.84.84 0 0 1-.3.94L12 22.13 22.31 9.67z","fill":"#FCA326"}],["$","path",null,{"d":"M22.31 9.67H16.05l2.44-7.51A.42.42 0 0 1 19.07 2a.42.42 0 0 1 .11.18l3.13 7.49z","fill":"#E24329"}]]}]}],["$","$L9e",null,{"className":"mb-0 min-w-0 flex-1","children":"GitLab"}]]}]
+24:["$","$L9f",null,{"children":"Interagiere mit GitLab-Projekten, Issues, Merge Requests und Pipelines"}]
+29:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung (asc, desc)"}]]}]
+2a:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (Standard 20, max 100)"}]]}]
+2b:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}]
+2c:["$","$L28",null,{"as":"h4","id":"ausgabe","children":"Ausgabe"}]
+2d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projects"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste der GitLab-Projekte"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Projekte"}]]}]]}]]}]}]
+2e:["$","$L28",null,{"as":"h3","id":"gitlab_get_project","children":["$","code",null,{"children":"gitlab_get_project"}]}]
+2f:["$","p",null,{"children":"Details zu einem bestimmten GitLab-Projekt abrufen"}]
+30:["$","$L28",null,{"as":"h4","id":"eingabe-1","children":"Eingabe"}]
+31:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad (z.B. \"namespace/project\")"}]]}]}]]}]}]
+32:["$","$L28",null,{"as":"h4","id":"ausgabe-1","children":"Ausgabe"}]
+33:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"project"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die GitLab-Projektdetails"}]]}]}]]}]}]
+34:["$","$L28",null,{"as":"h3","id":"gitlab_list_issues","children":["$","code",null,{"children":"gitlab_list_issues"}]}]
+35:["$","p",null,{"children":"Issues in einem GitLab-Projekt auflisten"}]
+36:["$","$L28",null,{"as":"h4","id":"eingabe-2","children":"Eingabe"}]
+37:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Status filtern (opened, closed, all)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kommagetrennte Liste von Label-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Bearbeiter-Benutzer-ID filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneTitle"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Meilenstein-Titel filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Issues nach Titel und Beschreibung durchsuchen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortieren nach Feld (created_at, updated_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (Standard 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}]]}]]}]}]
+38:["$","$L28",null,{"as":"h4","id":"output","children":"Output"}]
+39:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issues"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste der GitLab-Issues"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Issues"}]]}]]}]]}]}]
+3a:["$","$L28",null,{"as":"h3","id":"gitlab_get_issue","children":["$","code",null,{"children":"gitlab_get_issue"}]}]
+3b:["$","p",null,{"children":"Details zu einem bestimmten GitLab-Issue abrufen"}]
+3c:["$","$L28",null,{"as":"h4","id":"input","children":"Input"}]
+3d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Issue-Nummer innerhalb des Projekts (die # in der GitLab-UI angezeigt)"}]]}]]}]]}]}]
+3e:["$","$L28",null,{"as":"h4","id":"output-1","children":"Output"}]
+3f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die GitLab-Issue-Details"}]]}]}]]}]}]
+40:["$","$L28",null,{"as":"h3","id":"gitlab_create_issue","children":["$","code",null,{"children":"gitlab_create_issue"}]}]
+41:["$","p",null,{"children":"Ein neues Issue in einem GitLab-Projekt erstellen"}]
+42:["$","$L28",null,{"as":"h4","id":"input-1","children":"Input"}]
+43:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Issue-Titel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Issue-Beschreibung (Markdown unterstützt)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kommagetrennte Liste von Label-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Array von Benutzer-IDs für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Meilenstein-ID für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dueDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Fälligkeitsdatum im Format JJJJ-MM-TT"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidential"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ob das Issue vertraulich ist"}]]}]]}]]}]}]
+44:["$","$L28",null,{"as":"h4","id":"ausgabe-2","children":"Ausgabe"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Das erstellte GitLab-Issue"}]]}]}]]}]}]
+46:["$","$L28",null,{"as":"h3","id":"gitlab_update_issue","children":["$","code",null,{"children":"gitlab_update_issue"}]}]
+47:["$","p",null,{"children":"Ein bestehendes Issue in einem GitLab-Projekt aktualisieren"}]
+48:["$","$L28",null,{"as":"h4","id":"eingabe-3","children":"Eingabe"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Interne Issue-ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neuer Issue-Titel"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Neue Issue-Beschreibung (Markdown unterstützt)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stateEvent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Status-Event (close oder reopen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kommagetrennte Liste von Label-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Array von Benutzer-IDs für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Meilenstein-ID für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"dueDate"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Fälligkeitsdatum im Format JJJJ-MM-TT"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"confidential"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Ob das Issue vertraulich ist"}]]}]]}]]}]}]
+4a:["$","$L28",null,{"as":"h4","id":"ausgabe-3","children":"Ausgabe"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issue"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Das aktualisierte GitLab-Issue"}]]}]}]]}]}]
+4c:["$","$L28",null,{"as":"h3","id":"gitlab_delete_issue","children":["$","code",null,{"children":"gitlab_delete_issue"}]}]
+4d:["$","p",null,{"children":"Ein Issue aus einem GitLab-Projekt löschen"}]
+4e:["$","$L28",null,{"as":"h4","id":"eingabe-4","children":"Eingabe"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Interne Issue-ID (IID)"}]]}]]}]]}]}]
+50:["$","$L28",null,{"as":"h4","id":"output-2","children":"Output"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"success"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Ob das Issue erfolgreich gelöscht wurde"}]]}]}]]}]}]
+52:["$","$L28",null,{"as":"h3","id":"gitlab_create_issue_note","children":["$","code",null,{"children":"gitlab_create_issue_note"}]}]
+53:["$","p",null,{"children":"Einen Kommentar zu einem GitLab-Issue hinzufügen"}]
+54:["$","$L28",null,{"as":"h4","id":"input-2","children":"Input"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"issueIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Interne Issue-ID (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kommentartext (Markdown unterstützt)"}]]}]]}]]}]}]
+56:["$","$L28",null,{"as":"h4","id":"output-3","children":"Output"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Der erstellte Kommentar"}]]}]}]]}]}]
+58:["$","$L28",null,{"as":"h3","id":"gitlab_list_merge_requests","children":["$","code",null,{"children":"gitlab_list_merge_requests"}]}]
+59:["$","p",null,{"children":"Merge-Requests in einem GitLab-Projekt auflisten"}]
+5a:["$","$L28",null,{"as":"h4","id":"input-3","children":"Input"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"state"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Status filtern (opened, closed, merged, all)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kommagetrennte Liste von Label-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Quell-Branch filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Ziel-Branch filtern"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortieren nach Feld (created_at, updated_at)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (Standard 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}]]}]]}]}]
+5c:["$","$L28",null,{"as":"h4","id":"output-4","children":"Output"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequests"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste der GitLab Merge-Requests"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Merge-Requests"}]]}]]}]]}]}]
+5e:["$","$L28",null,{"as":"h3","id":"gitlab_get_merge_request","children":["$","code",null,{"children":"gitlab_get_merge_request"}]}]
+5f:["$","p",null,{"children":"Details zu einem bestimmten GitLab Merge-Request abrufen"}]
+60:["$","$L28",null,{"as":"h4","id":"input-4","children":"Input"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Interne ID des Merge-Requests (IID)"}]]}]]}]]}]}]
+62:["$","$L28",null,{"as":"h4","id":"output-5","children":"Output"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die Details des GitLab Merge-Requests"}]]}]}]]}]}]
+64:["$","$L28",null,{"as":"h3","id":"gitlab_create_merge_request","children":["$","code",null,{"children":"gitlab_create_merge_request"}]}]
+65:["$","p",null,{"children":"Einen neuen Merge-Request in einem GitLab-Projekt erstellen"}]
+66:["$","$L28",null,{"as":"h4","id":"input-5","children":"Input"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sourceBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Name des Quellbranches"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Name des Zielbranches"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Titel des Merge-Requests"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Beschreibung des Merge-Requests (Markdown unterstützt)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Kommagetrennte Liste von Label-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Array von Benutzer-IDs für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Meilenstein-ID für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Quellbranch nach dem Merge löschen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Commits beim Merge zusammenfassen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Als Entwurf markieren (in Bearbeitung)"}]]}]]}]]}]}]
+68:["$","$L28",null,{"as":"h4","id":"output-6","children":"Output"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Der erstellte GitLab Merge Request"}]]}]}]]}]}]
+6a:["$","$L28",null,{"as":"h3","id":"gitlab_update_merge_request","children":["$","code",null,{"children":"gitlab_update_merge_request"}]}]
+6b:["$","p",null,{"children":"Einen bestehenden Merge Request in einem GitLab-Projekt aktualisieren"}]
+6c:["$","$L28",null,{"as":"h4","id":"input-6","children":"Input"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Projekt-ID oder URL-kodierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Interne ID des Merge Requests (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Neuer Titel des Merge Requests"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Neue Beschreibung des Merge Requests"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"stateEvent"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Status-Event (close oder reopen)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"labels"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Kommagetrennte Liste von Label-Namen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"assigneeIds"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Array von Benutzer-IDs für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"milestoneId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Meilenstein-ID für die Zuweisung"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"targetBranch"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Neuer Ziel-Branch"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"removeSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Quell-Branch nach dem Merge löschen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Commits beim Merge zusammenfassen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Als Entwurf markieren (work in progress)"}]]}]]}]]}]}]
+6e:["$","$L28",null,{"as":"h4","id":"output-7","children":"Output"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Der aktualisierte GitLab Merge Request"}]]}]}]]}]}]
+70:["$","$L28",null,{"as":"h3","id":"gitlab_merge_merge_request","children":["$","code",null,{"children":"gitlab_merge_merge_request"}]}]
+71:["$","p",null,{"children":"Einen Merge Request in einem GitLab-Projekt zusammenführen"}]
+72:["$","$L28",null,{"as":"h4","id":"input-7","children":"Input"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Projekt-ID oder URL-kodierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"Interne ID des Merge Requests (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeCommitMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Benutzerdefinierte Merge-Commit-Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squashCommitMessage"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Benutzerdefinierte Squash-Commit-Nachricht"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"squash"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Commits vor dem Merge zusammenfassen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"shouldRemoveSourceBranch"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Quell-Branch nach dem Merge löschen"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeWhenPipelineSucceeds"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Merge durchführen, wenn Pipeline erfolgreich ist"}]]}]]}]]}]}]
+74:["$","$L28",null,{"as":"h4","id":"output-8","children":"Output"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequest"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Der zusammengeführte GitLab Merge Request"}]]}]}]]}]}]
+76:["$","$L28",null,{"as":"h3","id":"gitlab_create_merge_request_note","children":["$","code",null,{"children":"gitlab_create_merge_request_note"}]}]
+77:["$","p",null,{"children":"Einen Kommentar zu einem GitLab Merge Request hinzufügen"}]
+78:["$","$L28",null,{"as":"h4","id":"input-8","children":"Input"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-kodierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mergeRequestIid"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Interne ID des Merge Requests (IID)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Kommentartext (Markdown wird unterstützt)"}]]}]]}]]}]}]
+7a:["$","$L28",null,{"as":"h4","id":"output-9","children":"Output"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"note"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Der erstellte Kommentar"}]]}]}]]}]}]
+7c:["$","$L28",null,{"as":"h3","id":"gitlab_list_pipelines","children":["$","code",null,{"children":"gitlab_list_pipelines"}]}]
+7d:["$","p",null,{"children":"Pipelines in einem GitLab-Projekt auflisten"}]
+7e:["$","$L28",null,{"as":"h4","id":"input-9","children":"Input"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-kodierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Ref filtern (Branch oder Tag)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Nach Status filtern (created, waiting_for_resource, preparing, pending, running, success, failed, canceled, skipped, manual, scheduled)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortieren nach Feld (id, status, ref, updated_at, user_id)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sort"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Sortierrichtung (asc, desc)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Anzahl der Ergebnisse pro Seite (Standard 20, max 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Seitennummer für Paginierung"}]]}]]}]]}]}]
+80:["$","$L28",null,{"as":"h4","id":"ausgabe-4","children":"Ausgabe"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelines"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Liste der GitLab-Pipelines"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"total"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Gesamtanzahl der Pipelines"}]]}]]}]]}]}]
+82:["$","$L28",null,{"as":"h3","id":"gitlab_get_pipeline","children":["$","code",null,{"children":"gitlab_get_pipeline"}]}]
+83:["$","p",null,{"children":"Details zu einer bestimmten GitLab-Pipeline abrufen"}]
+84:["$","$L28",null,{"as":"h4","id":"eingabe-5","children":"Eingabe"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Pipeline-ID"}]]}]]}]]}]}]
+86:["$","$L28",null,{"as":"h4","id":"ausgabe-5","children":"Ausgabe"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die GitLab-Pipeline-Details"}]]}]}]]}]}]
+88:["$","$L28",null,{"as":"h3","id":"gitlab_create_pipeline","children":["$","code",null,{"children":"gitlab_create_pipeline"}]}]
+89:["$","p",null,{"children":"Eine neue Pipeline in einem GitLab-Projekt auslösen"}]
+8a:["$","$L28",null,{"as":"h4","id":"eingabe-6","children":"Eingabe"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"ref"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Branch oder Tag, auf dem die Pipeline ausgeführt werden soll"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"variables"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Nein"}],["$","td",null,{"children":"Array von Variablen für die Pipeline (jede mit key, value und optionalem variable_type)"}]]}]]}]]}]}]
+8c:["$","$L28",null,{"as":"h4","id":"ausgabe-6","children":"Ausgabe"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die erstellte GitLab-Pipeline"}]]}]}]]}]}]
+8e:["$","$L28",null,{"as":"h3","id":"gitlab_retry_pipeline","children":["$","code",null,{"children":"gitlab_retry_pipeline"}]}]
+8f:["$","p",null,{"children":"Eine fehlgeschlagene GitLab-Pipeline wiederholen"}]
+90:["$","$L28",null,{"as":"h4","id":"eingabe-7","children":"Eingabe"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Pipeline-ID"}]]}]]}]]}]}]
+92:["$","$L28",null,{"as":"h4","id":"ausgabe-7","children":"Ausgabe"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die wiederholte GitLab-Pipeline"}]]}]}]]}]}]
+94:["$","$L28",null,{"as":"h3","id":"gitlab_cancel_pipeline","children":["$","code",null,{"children":"gitlab_cancel_pipeline"}]}]
+95:["$","p",null,{"children":"Eine laufende GitLab-Pipeline abbrechen"}]
+96:["$","$L28",null,{"as":"h4","id":"eingabe-8","children":"Eingabe"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Erforderlich"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"projectId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Projekt-ID oder URL-codierter Pfad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipelineId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Ja"}],["$","td",null,{"children":"Pipeline-ID"}]]}]]}]]}]}]
+98:["$","$L28",null,{"as":"h4","id":"ausgabe-8","children":"Ausgabe"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parameter"}],["$","th",null,{"children":"Typ"}],["$","th",null,{"children":"Beschreibung"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pipeline"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Die abgebrochene GitLab-Pipeline"}]]}]}]]}]}]
+9c:null

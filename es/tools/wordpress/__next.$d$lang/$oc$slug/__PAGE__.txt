@@ -1,0 +1,782 @@
+1:"$Sreact.fragment"
+2:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsPage"]
+35:I[501637,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"LLMCopyButton"]
+3a:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsBody"]
+3b:I[676579,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"BlockInfoCard"]
+3c:I[647873,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"default"]
+3d:I[518011,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"Heading"]
+dc:I[897367,["/aptlystar-docs/_next/static/chunks/d96012bcfc98706a.js","/aptlystar-docs/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+dd:"$Sreact.suspense"
+df:I[576262,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"PageNavigationArrows"]
+e0:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsTitle"]
+e1:I[353266,["/aptlystar-docs/_next/static/chunks/02933180c3cb9ceb.js","/aptlystar-docs/_next/static/chunks/1733236f171ebbd7.js","/aptlystar-docs/_next/static/chunks/48204eb096df7151.js","/aptlystar-docs/_next/static/chunks/77f20532a8e0197c.js","/aptlystar-docs/_next/static/chunks/54a3c7d40487d539.js","/aptlystar-docs/_next/static/chunks/e4e1b6fb6010dea2.js","/aptlystar-docs/_next/static/chunks/2c3ba01e76147593.js","/aptlystar-docs/_next/static/chunks/673a0334eca1f38a.js","/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js"],"DocsDescription"]
+0:{"buildId":"OIJEaklWDf2QTDKWV8fuN","rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"WordPress\",\"description\":\"Gestionar contenido de WordPress\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/wordpress\",\"author\":{\"@type\":\"Organization\",\"name\":\"Aptly Technology Corporation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AptlyStar\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs/logo/wordmark.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/wordpress\"},\"inLanguage\":\"es\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"AptlyStar Documentation\",\"url\":\"https://aptly-technology.github.io/aptlystar-docs\"},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/wordpress\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"WordPress\",\"item\":\"https://aptly-technology.github.io/aptlystar-docs/es/tools/wordpress\"}]}"}}],false],["$","$L2",null,{"toc":[{"depth":2,"url":"#instrucciones-de-uso","title":"Instrucciones de uso"},{"depth":2,"url":"#herramientas","title":"Herramientas"},{"depth":3,"url":"#wordpress_create_post","title":["$","code",null,{"children":"wordpress_create_post"}]},{"depth":4,"url":"#entrada","title":"Entrada"},{"depth":4,"url":"#salida","title":"Salida"},{"depth":3,"url":"#wordpress_update_post","title":["$","code",null,{"children":"wordpress_update_post"}]},{"depth":4,"url":"#entrada-1","title":"Entrada"},{"depth":4,"url":"#salida-1","title":"Salida"},{"depth":3,"url":"#wordpress_delete_post","title":["$","code",null,{"children":"wordpress_delete_post"}]},{"depth":4,"url":"#entrada-2","title":"Entrada"},{"depth":4,"url":"#salida-2","title":"Salida"},{"depth":3,"url":"#wordpress_get_post","title":["$","code",null,{"children":"wordpress_get_post"}]},{"depth":4,"url":"#entrada-3","title":"Entrada"},{"depth":4,"url":"#salida-3","title":"Salida"},{"depth":3,"url":"#wordpress_list_posts","title":["$","code",null,{"children":"wordpress_list_posts"}]},{"depth":4,"url":"#entrada-4","title":"Entrada"},{"depth":4,"url":"#salida-4","title":"Salida"},{"depth":3,"url":"#wordpress_create_page","title":["$","code",null,{"children":"wordpress_create_page"}]},{"depth":4,"url":"#entrada-5","title":"Entrada"},{"depth":4,"url":"#salida-5","title":"Salida"},{"depth":3,"url":"#wordpress_update_page","title":["$","code",null,{"children":"wordpress_update_page"}]},{"depth":4,"url":"#entrada-6","title":"Entrada"},{"depth":4,"url":"#salida-6","title":"Salida"},{"depth":3,"url":"#wordpress_delete_page","title":["$","code",null,{"children":"wordpress_delete_page"}]},{"depth":4,"url":"#entrada-7","title":"Entrada"},{"depth":4,"url":"#salida-7","title":"Salida"},{"depth":3,"url":"#wordpress_get_page","title":["$","code",null,{"children":"wordpress_get_page"}]},{"depth":4,"url":"#entrada-8","title":"Entrada"},{"depth":4,"url":"#salida-8","title":"Salida"},{"depth":3,"url":"#wordpress_list_pages","title":["$","code",null,{"children":"wordpress_list_pages"}]},{"depth":4,"url":"#entrada-9","title":"Entrada"},{"depth":4,"url":"#salida-9","title":"Salida"},{"depth":3,"url":"#wordpress_upload_media","title":["$","code",null,{"children":"wordpress_upload_media"}]},{"depth":4,"url":"#entrada-10","title":"Entrada"},{"depth":4,"url":"#salida-10","title":"Salida"},{"depth":3,"url":"#wordpress_get_media","title":["$","code",null,{"children":"wordpress_get_media"}]},{"depth":4,"url":"#entrada-11","title":"Entrada"},{"depth":4,"url":"#salida-11","title":"Salida"},{"depth":3,"url":"#wordpress_list_media","title":"$L3"},{"depth":4,"url":"#entrada-12","title":"$L4"},{"depth":4,"url":"#salida-12","title":"$L5"},{"depth":3,"url":"#wordpress_delete_media","title":"$L6"},{"depth":4,"url":"#entrada-13","title":"$L7"},{"depth":4,"url":"#salida-13","title":"$L8"},{"depth":3,"url":"#wordpress_create_comment","title":"$L9"},{"depth":4,"url":"#entrada-14","title":"$La"},{"depth":4,"url":"#salida-14","title":"$Lb"},{"depth":3,"url":"#wordpress_list_comments","title":"$Lc"},{"depth":4,"url":"#entrada-15","title":"$Ld"},{"depth":4,"url":"#salida-15","title":"$Le"},{"depth":3,"url":"#wordpress_update_comment","title":"$Lf"},{"depth":4,"url":"#entrada-16","title":"$L10"},{"depth":4,"url":"#salida-16","title":"$L11"},{"depth":3,"url":"#wordpress_delete_comment","title":"$L12"},{"depth":4,"url":"#entrada-17","title":"$L13"},{"depth":4,"url":"#salida-17","title":"$L14"},{"depth":3,"url":"#wordpress_create_category","title":"$L15"},{"depth":4,"url":"#entrada-18","title":"$L16"},{"depth":4,"url":"#salida-18","title":"$L17"},{"depth":3,"url":"#wordpress_list_categories","title":"$L18"},{"depth":4,"url":"#entrada-19","title":"$L19"},{"depth":4,"url":"#salida-19","title":"$L1a"},{"depth":3,"url":"#wordpress_create_tag","title":"$L1b"},{"depth":4,"url":"#entrada-20","title":"$L1c"},{"depth":4,"url":"#salida-20","title":"$L1d"},{"depth":3,"url":"#wordpress_list_tags","title":"$L1e"},{"depth":4,"url":"#entrada-21","title":"$L1f"},{"depth":4,"url":"#salida-21","title":"$L20"},{"depth":3,"url":"#wordpress_get_current_user","title":"$L21"},{"depth":4,"url":"#entrada-22","title":"$L22"},{"depth":4,"url":"#salida-22","title":"$L23"},{"depth":3,"url":"#wordpress_list_users","title":"$L24"},{"depth":4,"url":"#entrada-23","title":"$L25"},{"depth":4,"url":"#salida-23","title":"$L26"},{"depth":3,"url":"#wordpress_get_user","title":"$L27"},{"depth":4,"url":"#entrada-24","title":"$L28"},{"depth":4,"url":"#salida-24","title":"$L29"},{"depth":3,"url":"#wordpress_search_content","title":"$L2a"},{"depth":4,"url":"#entrada-25","title":"$L2b"},{"depth":4,"url":"#salida-25","title":"$L2c"}],"breadcrumb":{"enabled":false},"tableOfContent":{"style":"clerk","enabled":true,"single":false},"tableOfContentPopover":{"style":"clerk","enabled":true},"footer":{"enabled":true,"component":"$L2d"},"children":["$L2e","$L2f"]}]],["$L30","$L31","$L32","$L33"],"$L34"]}],"loading":null,"isPartial":false}
+3:["$","code",null,{"children":"wordpress_list_media"}]
+4:"Entrada"
+5:"Salida"
+6:["$","code",null,{"children":"wordpress_delete_media"}]
+7:"Entrada"
+8:"Salida"
+9:["$","code",null,{"children":"wordpress_create_comment"}]
+a:"Entrada"
+b:"Salida"
+c:["$","code",null,{"children":"wordpress_list_comments"}]
+d:"Entrada"
+e:"Salida"
+f:["$","code",null,{"children":"wordpress_update_comment"}]
+10:"Entrada"
+11:"Salida"
+12:["$","code",null,{"children":"wordpress_delete_comment"}]
+13:"Entrada"
+14:"Salida"
+15:["$","code",null,{"children":"wordpress_create_category"}]
+16:"Entrada"
+17:"Salida"
+18:["$","code",null,{"children":"wordpress_list_categories"}]
+19:"Entrada"
+1a:"Salida"
+1b:["$","code",null,{"children":"wordpress_create_tag"}]
+1c:"Entrada"
+1d:"Salida"
+1e:["$","code",null,{"children":"wordpress_list_tags"}]
+1f:"Entrada"
+20:"Salida"
+21:["$","code",null,{"children":"wordpress_get_current_user"}]
+22:"Entrada"
+23:"Salida"
+24:["$","code",null,{"children":"wordpress_list_users"}]
+25:"Entrada"
+26:"Salida"
+27:["$","code",null,{"children":"wordpress_get_user"}]
+28:"Entrada"
+29:"Salida"
+2a:["$","code",null,{"children":"wordpress_search_content"}]
+2b:"Entrada"
+2c:"Salida"
+2d:null
+36:T8664,
+
+import { BlockInfoCard } from "@/components/ui/block-info-card"
+
+<BlockInfoCard type="wordpress" color="#21759B" />
+
+{/* MANUAL-CONTENT-START:intro */}
+
+[WordPress](https://wordpress.org/) es el sistema de gestión de contenido líder en el mundo, que facilita la publicación y gestión de sitios web, blogs y todo tipo de contenido en línea. Con WordPress, puedes crear y actualizar entradas o páginas, organizar tu contenido con categorías y etiquetas, gestionar archivos multimedia, moderar comentarios y administrar cuentas de usuario, lo que te permite ejecutar desde blogs personales hasta sitios web empresariales complejos.
+
+La integración de Aptlystar con WordPress permite a tus agentes automatizar tareas esenciales del sitio web. Puedes crear programáticamente nuevas entradas de blog con títulos específicos, contenido, categorías, etiquetas e imágenes destacadas. Actualizar entradas existentes —como cambiar su contenido, título o estado de publicación— es sencillo. También puedes publicar o guardar contenido como borradores, gestionar páginas estáticas, trabajar con cargas multimedia, supervisar comentarios y asignar contenido a taxonomías organizativas relevantes.
+
+Al conectar WordPress con tus automatizaciones, Aptlystar permite a tus agentes agilizar la publicación de contenido, los flujos de trabajo editoriales y la gestión diaria del sitio, ayudándote a mantener tu sitio web actualizado, organizado y seguro sin esfuerzo manual.
+
+{/* MANUAL-CONTENT-END */}
+
+Instrucciones de uso [#instrucciones-de-uso]
+
+Intégrate con WordPress para crear, actualizar y gestionar entradas, páginas, multimedia, comentarios, categorías, etiquetas y usuarios. Compatible con sitios de WordPress.com mediante OAuth y sitios de WordPress autoalojados utilizando autenticación de Contraseñas de Aplicación.
+
+Herramientas [#herramientas]
+
+wordpress_create_post [#wordpress_create_post]
+
+Crear una nueva entrada de blog en WordPress.com
+
+Entrada [#entrada]
+
+| Parámetro       | Tipo   | Obligatorio | Descripción                                                                        |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`        | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `title`         | string | Sí          | Título de la entrada                                                               |
+| `content`       | string | No          | Contenido de la entrada (HTML o texto plano)                                       |
+| `status`        | string | No          | Estado de la entrada: publish, draft, pending, private o future                    |
+| `excerpt`       | string | No          | Extracto de la entrada                                                             |
+| `categories`    | string | No          | IDs de categorías separados por comas                                              |
+| `tags`          | string | No          | IDs de etiquetas separados por comas                                               |
+| `featuredMedia` | number | No          | ID del medio de la imagen destacada                                                |
+| `slug`          | string | No          | Slug de URL para la entrada                                                        |
+
+Salida [#salida]
+
+| Parámetro | Tipo   | Descripción       |
+| --------- | ------ | ----------------- |
+| `post`    | object | La entrada creada |
+
+wordpress_update_post [#wordpress_update_post]
+
+Actualizar una entrada de blog existente en WordPress.com
+
+Entrada [#entrada-1]
+
+| Parámetro       | Tipo   | Obligatorio | Descripción                                                                        |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`        | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `postId`        | number | Sí          | El ID de la entrada a actualizar                                                   |
+| `title`         | string | No          | Título de la entrada                                                               |
+| `content`       | string | No          | Contenido de la entrada (HTML o texto plano)                                       |
+| `status`        | string | No          | Estado de la entrada: publish, draft, pending, private, o future                   |
+| `excerpt`       | string | No          | Extracto de la entrada                                                             |
+| `categories`    | string | No          | IDs de categorías separados por comas                                              |
+| `tags`          | string | No          | IDs de etiquetas separados por comas                                               |
+| `featuredMedia` | number | No          | ID del archivo multimedia de la imagen destacada                                   |
+| `slug`          | string | No          | URL slug para la entrada                                                           |
+
+Salida [#salida-1]
+
+| Parámetro | Tipo   | Descripción            |
+| --------- | ------ | ---------------------- |
+| `post`    | object | La entrada actualizada |
+
+wordpress_delete_post [#wordpress_delete_post]
+
+Eliminar una entrada de blog de WordPress.com
+
+Entrada [#entrada-2]
+
+| Parámetro | Tipo    | Obligatorio | Descripción                                                                        |
+| --------- | ------- | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string  | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `postId`  | number  | Sí          | El ID de la entrada a eliminar                                                     |
+| `force`   | boolean | No          | Omitir la papelera y forzar la eliminación permanente                              |
+
+Salida [#salida-2]
+
+| Parámetro | Tipo    | Descripción                            |
+| --------- | ------- | -------------------------------------- |
+| `deleted` | boolean | Indica si la publicación fue eliminada |
+| `post`    | object  | La publicación eliminada               |
+
+wordpress_get_post [#wordpress_get_post]
+
+Obtener una sola publicación de blog de WordPress.com por ID
+
+Entrada [#entrada-3]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `postId`  | number | Sí          | El ID de la publicación a recuperar                                                |
+
+Salida [#salida-3]
+
+| Parámetro | Tipo   | Descripción               |
+| --------- | ------ | ------------------------- |
+| `post`    | object | La publicación recuperada |
+
+wordpress_list_posts [#wordpress_list_posts]
+
+Listar publicaciones de blog de WordPress.com con filtros opcionales
+
+Entrada [#entrada-4]
+
+| Parámetro    | Tipo   | Obligatorio | Descripción                                                                        |
+| ------------ | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`     | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage`    | number | No          | Número de publicaciones por página (predeterminado: 10, máx: 100)                  |
+| `page`       | number | No          | Número de página para paginación                                                   |
+| `status`     | string | No          | Filtro de estado de publicación: publish, draft, pending, private                  |
+| `author`     | number | No          | Filtrar por ID de autor                                                            |
+| `categories` | string | No          | IDs de categorías separados por comas para filtrar                                 |
+| `tags`       | string | No          | IDs de etiquetas separados por comas para filtrar                                  |
+| `search`     | string | No          | Término de búsqueda para filtrar publicaciones                                     |
+| `orderBy`    | string | No          | Ordenar por campo: date, id, title, slug, modified                                 |
+| `order`      | string | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-4]
+
+| Parámetro | Tipo  | Descripción            |
+| --------- | ----- | ---------------------- |
+| `posts`   | array | Lista de publicaciones |
+
+wordpress_create_page [#wordpress_create_page]
+
+Crear una nueva página en WordPress.com
+
+Entrada [#entrada-5]
+
+| Parámetro       | Tipo   | Obligatorio | Descripción                                                                        |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`        | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `title`         | string | Sí          | Título de la página                                                                |
+| `content`       | string | No          | Contenido de la página (HTML o texto plano)                                        |
+| `status`        | string | No          | Estado de la página: publish, draft, pending, private                              |
+| `excerpt`       | string | No          | Extracto de la página                                                              |
+| `parent`        | number | No          | ID de la página padre para páginas jerárquicas                                     |
+| `menuOrder`     | number | No          | Orden en el menú de páginas                                                        |
+| `featuredMedia` | number | No          | ID del medio de la imagen destacada                                                |
+| `slug`          | string | No          | Slug de URL para la página                                                         |
+
+Salida [#salida-5]
+
+| Parámetro | Tipo   | Descripción      |
+| --------- | ------ | ---------------- |
+| `page`    | object | La página creada |
+
+wordpress_update_page [#wordpress_update_page]
+
+Actualizar una página existente en WordPress.com
+
+Entrada [#entrada-6]
+
+| Parámetro       | Tipo   | Obligatorio | Descripción                                                                        |
+| --------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`        | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `pageId`        | number | Sí          | El ID de la página a actualizar                                                    |
+| `title`         | string | No          | Título de la página                                                                |
+| `content`       | string | No          | Contenido de la página (HTML o texto plano)                                        |
+| `status`        | string | No          | Estado de la página: publish, draft, pending, private                              |
+| `excerpt`       | string | No          | Extracto de la página                                                              |
+| `parent`        | number | No          | ID de la página padre para páginas jerárquicas                                     |
+| `menuOrder`     | number | No          | Orden en el menú de páginas                                                        |
+| `featuredMedia` | number | No          | ID del medio de la imagen destacada                                                |
+| `slug`          | string | No          | Slug de URL para la página                                                         |
+
+Salida [#salida-6]
+
+| Parámetro | Tipo   | Descripción           |
+| --------- | ------ | --------------------- |
+| `page`    | objeto | La página actualizada |
+
+wordpress_delete_page [#wordpress_delete_page]
+
+Eliminar una página de WordPress.com
+
+Entrada [#entrada-7]
+
+| Parámetro | Tipo     | Obligatorio | Descripción                                                                        |
+| --------- | -------- | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | cadena   | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `pageId`  | número   | Sí          | El ID de la página a eliminar                                                      |
+| `force`   | booleano | No          | Omitir la papelera y forzar la eliminación permanente                              |
+
+Salida [#salida-7]
+
+| Parámetro | Tipo     | Descripción                |
+| --------- | -------- | -------------------------- |
+| `deleted` | booleano | Si la página fue eliminada |
+| `page`    | objeto   | La página eliminada        |
+
+wordpress_get_page [#wordpress_get_page]
+
+Obtener una sola página de WordPress.com por ID
+
+Entrada [#entrada-8]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | cadena | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `pageId`  | número | Sí          | El ID de la página a recuperar                                                     |
+
+Salida [#salida-8]
+
+| Parámetro | Tipo   | Descripción          |
+| --------- | ------ | -------------------- |
+| `page`    | objeto | La página recuperada |
+
+wordpress_list_pages [#wordpress_list_pages]
+
+Listar páginas de WordPress.com con filtros opcionales
+
+Entrada [#entrada-9]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | cadena | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage` | número | No          | Número de páginas por solicitud (predeterminado: 10, máx: 100)                     |
+| `page`    | número | No          | Número de página para paginación                                                   |
+| `status`  | cadena | No          | Filtro de estado de página: publish, draft, pending, private                       |
+| `parent`  | número | No          | Filtrar por ID de página padre                                                     |
+| `search`  | cadena | No          | Término de búsqueda para filtrar páginas                                           |
+| `orderBy` | cadena | No          | Ordenar por campo: date, id, title, slug, modified, menu\_order                    |
+| `order`   | cadena | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-9]
+
+| Parámetro | Tipo  | Descripción      |
+| --------- | ----- | ---------------- |
+| `pages`   | array | Lista de páginas |
+
+wordpress_upload_media [#wordpress_upload_media]
+
+Subir un archivo multimedia (imagen, video, documento) a WordPress.com
+
+Entrada [#entrada-10]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                        |
+| ------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`      | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `file`        | file   | No          | Archivo para subir (objeto UserFile)                                               |
+| `filename`    | string | No          | Anulación opcional del nombre de archivo (p. ej., imagen.jpg)                      |
+| `title`       | string | No          | Título del medio                                                                   |
+| `caption`     | string | No          | Leyenda del medio                                                                  |
+| `altText`     | string | No          | Texto alternativo para accesibilidad                                               |
+| `description` | string | No          | Descripción del medio                                                              |
+
+Salida [#salida-10]
+
+| Parámetro | Tipo   | Descripción                   |
+| --------- | ------ | ----------------------------- |
+| `media`   | object | El elemento multimedia subido |
+
+wordpress_get_media [#wordpress_get_media]
+
+Obtener un solo elemento multimedia de WordPress.com por ID
+
+Entrada [#entrada-11]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `mediaId` | number | Sí          | El ID del elemento multimedia a recuperar                                          |
+
+Salida [#salida-11]
+
+| Parámetro | Tipo   | Descripción                       |
+| --------- | ------ | --------------------------------- |
+| `media`   | object | El elemento multimedia recuperado |
+
+wordpress_list_media [#wordpress_list_media]
+
+Listar elementos multimedia de la biblioteca multimedia de WordPress.com
+
+Entrada [#entrada-12]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                        |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`    | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage`   | number | No          | Número de elementos multimedia por solicitud (predeterminado: 10, máx: 100)        |
+| `page`      | number | No          | Número de página para paginación                                                   |
+| `search`    | string | No          | Término de búsqueda para filtrar multimedia                                        |
+| `mediaType` | string | No          | Filtrar por tipo de multimedia: imagen, video, audio, aplicación                   |
+| `mimeType`  | string | No          | Filtrar por tipo MIME específico (p. ej., image/jpeg)                              |
+| `orderBy`   | string | No          | Ordenar por campo: fecha, id, título, slug                                         |
+| `order`     | string | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-12]
+
+| Parámetro | Tipo  | Descripción                   |
+| --------- | ----- | ----------------------------- |
+| `media`   | array | Lista de elementos multimedia |
+
+wordpress_delete_media [#wordpress_delete_media]
+
+Eliminar un elemento multimedia de WordPress.com
+
+Entrada [#entrada-13]
+
+| Parámetro | Tipo    | Obligatorio | Descripción                                                                                               |
+| --------- | ------- | ----------- | --------------------------------------------------------------------------------------------------------- |
+| `siteId`  | string  | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)                        |
+| `mediaId` | number  | Sí          | El ID del elemento multimedia a eliminar                                                                  |
+| `force`   | boolean | No          | Forzar eliminación (los elementos multimedia no tienen papelera, por lo que la eliminación es permanente) |
+
+Salida [#salida-13]
+
+| Parámetro | Tipo    | Descripción                      |
+| --------- | ------- | -------------------------------- |
+| `deleted` | boolean | Si el medio fue eliminado        |
+| `media`   | object  | El elemento multimedia eliminado |
+
+wordpress_create_comment [#wordpress_create_comment]
+
+Crear un nuevo comentario en una entrada de WordPress.com
+
+Entrada [#entrada-14]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                        |
+| ------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`      | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `postId`      | number | Sí          | El ID de la entrada en la que comentar                                             |
+| `content`     | string | Sí          | Contenido del comentario                                                           |
+| `parent`      | number | No          | ID del comentario padre para respuestas                                            |
+| `authorName`  | string | No          | Nombre visible del autor del comentario                                            |
+| `authorEmail` | string | No          | Correo electrónico del autor del comentario                                        |
+| `authorUrl`   | string | No          | URL del autor del comentario                                                       |
+
+Salida [#salida-14]
+
+| Parámetro | Tipo   | Descripción          |
+| --------- | ------ | -------------------- |
+| `comment` | object | El comentario creado |
+
+wordpress_list_comments [#wordpress_list_comments]
+
+Listar comentarios de WordPress.com con filtros opcionales
+
+Entrada [#entrada-15]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage` | number | No          | Número de comentarios por solicitud (predeterminado: 10, máx: 100)                 |
+| `page`    | number | No          | Número de página para paginación                                                   |
+| `postId`  | number | No          | Filtrar por ID de entrada                                                          |
+| `status`  | string | No          | Filtrar por estado del comentario: approved, hold, spam, trash                     |
+| `search`  | string | No          | Término de búsqueda para filtrar comentarios                                       |
+| `orderBy` | string | No          | Ordenar por campo: date, id, parent                                                |
+| `order`   | string | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-15]
+
+| Parámetro  | Tipo  | Descripción          |
+| ---------- | ----- | -------------------- |
+| `comments` | array | Lista de comentarios |
+
+wordpress_update_comment [#wordpress_update_comment]
+
+Actualizar un comentario en WordPress.com (contenido o estado)
+
+Entrada [#entrada-16]
+
+| Parámetro   | Tipo   | Obligatorio | Descripción                                                                        |
+| ----------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`    | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `commentId` | number | Sí          | El ID del comentario a actualizar                                                  |
+| `content`   | string | No          | Contenido actualizado del comentario                                               |
+| `status`    | string | No          | Estado del comentario: approved, hold, spam, trash                                 |
+
+Salida [#salida-16]
+
+| Parámetro | Tipo   | Descripción               |
+| --------- | ------ | ------------------------- |
+| `comment` | object | El comentario actualizado |
+
+wordpress_delete_comment [#wordpress_delete_comment]
+
+Eliminar un comentario de WordPress.com
+
+Entrada [#entrada-17]
+
+| Parámetro   | Tipo    | Obligatorio | Descripción                                                                        |
+| ----------- | ------- | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`    | string  | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `commentId` | number  | Sí          | El ID del comentario a eliminar                                                    |
+| `force`     | boolean | No          | Omitir la papelera y forzar la eliminación permanente                              |
+
+Salida [#salida-17]
+
+| Parámetro | Tipo    | Descripción                    |
+| --------- | ------- | ------------------------------ |
+| `deleted` | boolean | Si el comentario fue eliminado |
+| `comment` | object  | El comentario eliminado        |
+
+wordpress_create_category [#wordpress_create_category]
+
+Crear una nueva categoría en WordPress.com
+
+Entrada [#entrada-18]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                        |
+| ------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`      | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `name`        | string | Sí          | Nombre de la categoría                                                             |
+| `description` | string | No          | Descripción de la categoría                                                        |
+| `parent`      | number | No          | ID de la categoría padre para categorías jerárquicas                               |
+| `slug`        | string | No          | Slug de URL para la categoría                                                      |
+
+Salida [#salida-18]
+
+| Parámetro  | Tipo   | Descripción         |
+| ---------- | ------ | ------------------- |
+| `category` | object | La categoría creada |
+
+wordpress_list_categories [#wordpress_list_categories]
+
+Listar categorías de WordPress.com
+
+Entrada [#entrada-19]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage` | number | No          | Número de categorías por solicitud (predeterminado: 10, máx: 100)                  |
+| `page`    | number | No          | Número de página para paginación                                                   |
+| `search`  | string | No          | Término de búsqueda para filtrar categorías                                        |
+| `order`   | string | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-19]
+
+| Parámetro    | Tipo  | Descripción         |
+| ------------ | ----- | ------------------- |
+| `categories` | array | Lista de categorías |
+
+wordpress_create_tag [#wordpress_create_tag]
+
+Crear una nueva etiqueta en WordPress.com
+
+Entrada [#entrada-20]
+
+| Parámetro     | Tipo   | Obligatorio | Descripción                                                                        |
+| ------------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`      | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `name`        | string | Sí          | Nombre de la etiqueta                                                              |
+| `description` | string | No          | Descripción de la etiqueta                                                         |
+| `slug`        | string | No          | Slug de URL para la etiqueta                                                       |
+
+Salida [#salida-20]
+
+| Parámetro | Tipo   | Descripción        |
+| --------- | ------ | ------------------ |
+| `tag`     | object | La etiqueta creada |
+
+wordpress_list_tags [#wordpress_list_tags]
+
+Listar etiquetas de WordPress.com
+
+Entrada [#entrada-21]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage` | number | No          | Número de etiquetas por solicitud (predeterminado: 10, máx: 100)                   |
+| `page`    | number | No          | Número de página para paginación                                                   |
+| `search`  | string | No          | Término de búsqueda para filtrar etiquetas                                         |
+| `order`   | string | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-21]
+
+| Parámetro | Tipo  | Descripción        |
+| --------- | ----- | ------------------ |
+| `tags`    | array | Lista de etiquetas |
+
+wordpress_get_current_user [#wordpress_get_current_user]
+
+Obtener información sobre el usuario autenticado actualmente en WordPress.com
+
+Entrada [#entrada-22]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+
+Salida [#salida-22]
+
+| Parámetro | Tipo   | Descripción       |
+| --------- | ------ | ----------------- |
+| `user`    | object | El usuario actual |
+
+wordpress_list_users [#wordpress_list_users]
+
+Listar usuarios de WordPress.com (requiere privilegios de administrador)
+
+Entrada [#entrada-23]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `perPage` | number | No          | Número de usuarios por solicitud (predeterminado: 10, máx: 100)                    |
+| `page`    | number | No          | Número de página para paginación                                                   |
+| `search`  | string | No          | Término de búsqueda para filtrar usuarios                                          |
+| `roles`   | string | No          | Nombres de roles separados por comas para filtrar                                  |
+| `order`   | string | No          | Dirección de ordenamiento: asc o desc                                              |
+
+Salida [#salida-23]
+
+| Parámetro | Tipo  | Descripción       |
+| --------- | ----- | ----------------- |
+| `users`   | array | Lista de usuarios |
+
+wordpress_get_user [#wordpress_get_user]
+
+Obtener un usuario específico de WordPress.com por ID
+
+Entrada [#entrada-24]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `userId`  | number | Sí          | El ID del usuario a recuperar                                                      |
+
+Salida [#salida-24]
+
+| Parámetro | Tipo   | Descripción           |
+| --------- | ------ | --------------------- |
+| `user`    | object | El usuario recuperado |
+
+wordpress_search_content [#wordpress_search_content]
+
+Buscar en todos los tipos de contenido en WordPress.com (entradas, páginas, multimedia)
+
+Entrada [#entrada-25]
+
+| Parámetro | Tipo   | Obligatorio | Descripción                                                                        |
+| --------- | ------ | ----------- | ---------------------------------------------------------------------------------- |
+| `siteId`  | string | Sí          | ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com) |
+| `query`   | string | Sí          | Consulta de búsqueda                                                               |
+| `perPage` | number | No          | Número de resultados por solicitud (predeterminado: 10, máx: 100)                  |
+| `page`    | number | No          | Número de página para paginación                                                   |
+| `type`    | string | No          | Filtrar por tipo de contenido: post, page, attachment                              |
+| `subtype` | string | No          | Filtrar por slug de tipo de entrada (p. ej., post, page)                           |
+
+Salida [#salida-25]
+
+| Parámetro | Tipo  | Descripción            |
+| --------- | ----- | ---------------------- |
+| `results` | array | Resultados de búsqueda |
+2e:["$","div",null,{"className":"relative mt-6 sm:mt-0","children":[["$","div",null,{"className":"absolute top-1 right-0 flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:flex","children":["$","$L35",null,{"content":"$36"}]}],"$L37"]}],"$L38","$L39"]}]
+2f:["$","$L3a",null,{"children":["$","div",null,{"className":"[&_[data-block-info-card]]:hidden","children":[["$","$L3b",null,{"type":"wordpress","color":"#21759B"}],"\n","\n",["$","p",null,{"children":[["$","$L3c",null,{"href":"https://wordpress.org/","children":"WordPress"}]," es el sistema de gestión de contenido líder en el mundo, que facilita la publicación y gestión de sitios web, blogs y todo tipo de contenido en línea. Con WordPress, puedes crear y actualizar entradas o páginas, organizar tu contenido con categorías y etiquetas, gestionar archivos multimedia, moderar comentarios y administrar cuentas de usuario, lo que te permite ejecutar desde blogs personales hasta sitios web empresariales complejos."]}],"\n",["$","p",null,{"children":"La integración de Aptlystar con WordPress permite a tus agentes automatizar tareas esenciales del sitio web. Puedes crear programáticamente nuevas entradas de blog con títulos específicos, contenido, categorías, etiquetas e imágenes destacadas. Actualizar entradas existentes —como cambiar su contenido, título o estado de publicación— es sencillo. También puedes publicar o guardar contenido como borradores, gestionar páginas estáticas, trabajar con cargas multimedia, supervisar comentarios y asignar contenido a taxonomías organizativas relevantes."}],"\n",["$","p",null,{"children":"Al conectar WordPress con tus automatizaciones, Aptlystar permite a tus agentes agilizar la publicación de contenido, los flujos de trabajo editoriales y la gestión diaria del sitio, ayudándote a mantener tu sitio web actualizado, organizado y seguro sin esfuerzo manual."}],"\n","\n",["$","$L3d",null,{"as":"h2","id":"instrucciones-de-uso","children":"Instrucciones de uso"}],"\n",["$","p",null,{"children":"Intégrate con WordPress para crear, actualizar y gestionar entradas, páginas, multimedia, comentarios, categorías, etiquetas y usuarios. Compatible con sitios de WordPress.com mediante OAuth y sitios de WordPress autoalojados utilizando autenticación de Contraseñas de Aplicación."}],"\n",["$","$L3d",null,{"as":"h2","id":"herramientas","children":"Herramientas"}],"\n",["$","$L3d",null,{"as":"h3","id":"wordpress_create_post","children":["$","code",null,{"children":"wordpress_create_post"}]}],"\n",["$","p",null,{"children":"Crear una nueva entrada de blog en WordPress.com"}],"\n",["$","$L3d",null,{"as":"h4","id":"entrada","children":"Entrada"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Título de la entrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido de la entrada (HTML o texto plano)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Estado de la entrada: publish, draft, pending, private o future"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Extracto de la entrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"IDs de categorías separados por comas"}]]}],["$","tr",null,{"children":["$L3e","$L3f","$L40","$L41"]}],"$L42","$L43"]}]]}]}],"\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb"]}]}]
+30:["$","script","script-0",{"src":"/aptlystar-docs/_next/static/chunks/1e46f81cc39039a1.js","async":true}]
+31:["$","script","script-1",{"src":"/aptlystar-docs/_next/static/chunks/03f64a616325b936.js","async":true}]
+32:["$","script","script-2",{"src":"/aptlystar-docs/_next/static/chunks/6f70ce4c7e4b93e3.js","async":true}]
+33:["$","script","script-3",{"src":"/aptlystar-docs/_next/static/chunks/948f81e5cf8f9d24.js","async":true}]
+34:["$","$Ldc",null,{"children":["$","$dd",null,{"name":"Next.MetadataOutlet","children":"$@de"}]}]
+37:["$","$Ldf",null,{}]
+38:["$","div",null,{"className":"mb-2 flex items-center gap-3","children":[["$","span",null,{"aria-hidden":true,"className":"flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-fd-muted/80 text-fd-foreground ring-1 ring-fd-border","children":["$","svg",null,{"className":"size-7","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 25.93 25.93","children":["$","g",null,{"fill":"currentColor","children":[["$","path",null,{"d":"M1.84,12.96c0,4.4,2.56,8.21,6.27,10.01L2.81,8.44C2.19,9.82,1.84,11.35,1.84,12.96z M20.47,12.4c0-1.37-0.49-2.33-0.92-3.07c-0.56-0.92-1.09-1.69-1.09-2.61c0-1.02,0.78-1.97,1.87-1.97c0.05,0,0.1,0.01,0.14,0.01c-1.98-1.81-4.61-2.92-7.51-2.92c-3.88,0-7.3,1.99-9.29,5.01c0.26,0.01,0.51,0.01,0.72,0.01c1.16,0,2.96-0.14,2.96-0.14c0.6-0.04,0.67,0.85,0.07,0.92c0,0-0.6,0.07-1.27,0.11l4.05,12.05l2.43-7.3l-1.73-4.75c-0.6-0.04-1.17-0.1-1.17-0.1c-0.6-0.04-0.53-0.95,0.07-0.92c0,0,1.84,0.14,2.93,0.14c1.16,0,2.96-0.14,2.96-0.14c0.6-0.04,0.67,0.85,0.07,0.92c0,0-0.6,0.07-1.27,0.11l4.02,11.95l1.11-3.71C20.19,14.55,20.47,13.35,20.47,12.4z M13.16,13.94l-3.34,9.69c1,0.29,2.05,0.45,3.14,0.45c1.29,0,2.54-0.22,3.69-0.63c-0.03-0.05-0.06-0.1-0.08-0.15L13.16,13.94z M22.72,7.63c0.05,0.35,0.08,0.73,0.08,1.14c0,1.13-0.21,2.4-0.85,3.98l-3.4,9.82c3.31-1.93,5.53-5.51,5.53-9.61C24.08,11.03,23.59,9.21,22.72,7.63z"}],["$","path",null,{"d":"M0,12.96c0,7.15,5.82,12.96,12.96,12.96c7.15,0,12.96-5.82,12.96-12.96S20.11,0,12.96,0S0,5.81,0,12.96z M0.59,12.96c0-6.82,5.55-12.37,12.37-12.37s12.37,5.55,12.37,12.37S19.78,25.33,12.96,25.33S0.59,19.78,0.59,12.96z"}]]}]}]}],["$","$Le0",null,{"className":"mb-0 min-w-0 flex-1","children":"WordPress"}]]}]
+39:["$","$Le1",null,{"children":"Gestionar contenido de WordPress"}]
+3e:["$","td",null,{"children":["$","code",null,{"children":"tags"}]}]
+3f:["$","td",null,{"children":"string"}]
+40:["$","td",null,{"children":"No"}]
+41:["$","td",null,{"children":"IDs de etiquetas separados por comas"}]
+42:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del medio de la imagen destacada"}]]}]
+43:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Slug de URL para la entrada"}]]}]
+44:["$","$L3d",null,{"as":"h4","id":"salida","children":"Salida"}]
+45:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La entrada creada"}]]}]}]]}]}]
+46:["$","$L3d",null,{"as":"h3","id":"wordpress_update_post","children":["$","code",null,{"children":"wordpress_update_post"}]}]
+47:["$","p",null,{"children":"Actualizar una entrada de blog existente en WordPress.com"}]
+48:["$","$L3d",null,{"as":"h4","id":"entrada-1","children":"Entrada"}]
+49:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la entrada a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Título de la entrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido de la entrada (HTML o texto plano)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Estado de la entrada: publish, draft, pending, private, o future"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Extracto de la entrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"IDs de categorías separados por comas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"IDs de etiquetas separados por comas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del archivo multimedia de la imagen destacada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL slug para la entrada"}]]}]]}]]}]}]
+4a:["$","$L3d",null,{"as":"h4","id":"salida-1","children":"Salida"}]
+4b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La entrada actualizada"}]]}]}]]}]}]
+4c:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_post","children":["$","code",null,{"children":"wordpress_delete_post"}]}]
+4d:["$","p",null,{"children":"Eliminar una entrada de blog de WordPress.com"}]
+4e:["$","$L3d",null,{"as":"h4","id":"entrada-2","children":"Entrada"}]
+4f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la entrada a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Omitir la papelera y forzar la eliminación permanente"}]]}]]}]]}]}]
+50:["$","$L3d",null,{"as":"h4","id":"salida-2","children":"Salida"}]
+51:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Indica si la publicación fue eliminada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La publicación eliminada"}]]}]]}]]}]}]
+52:["$","$L3d",null,{"as":"h3","id":"wordpress_get_post","children":["$","code",null,{"children":"wordpress_get_post"}]}]
+53:["$","p",null,{"children":"Obtener una sola publicación de blog de WordPress.com por ID"}]
+54:["$","$L3d",null,{"as":"h4","id":"entrada-3","children":"Entrada"}]
+55:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la publicación a recuperar"}]]}]]}]]}]}]
+56:["$","$L3d",null,{"as":"h4","id":"salida-3","children":"Salida"}]
+57:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"post"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La publicación recuperada"}]]}]}]]}]}]
+58:["$","$L3d",null,{"as":"h3","id":"wordpress_list_posts","children":["$","code",null,{"children":"wordpress_list_posts"}]}]
+59:["$","p",null,{"children":"Listar publicaciones de blog de WordPress.com con filtros opcionales"}]
+5a:["$","$L3d",null,{"as":"h4","id":"entrada-4","children":"Entrada"}]
+5b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de publicaciones por página (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtro de estado de publicación: publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"author"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ID de autor"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"IDs de categorías separados por comas para filtrar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"IDs de etiquetas separados por comas para filtrar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar publicaciones"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Ordenar por campo: date, id, title, slug, modified"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+5c:["$","$L3d",null,{"as":"h4","id":"salida-4","children":"Salida"}]
+5d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"posts"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de publicaciones"}]]}]}]]}]}]
+5e:["$","$L3d",null,{"as":"h3","id":"wordpress_create_page","children":["$","code",null,{"children":"wordpress_create_page"}]}]
+5f:["$","p",null,{"children":"Crear una nueva página en WordPress.com"}]
+60:["$","$L3d",null,{"as":"h4","id":"entrada-5","children":"Entrada"}]
+61:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Título de la página"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido de la página (HTML o texto plano)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Estado de la página: publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Extracto de la página"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de la página padre para páginas jerárquicas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"menuOrder"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Orden en el menú de páginas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del medio de la imagen destacada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Slug de URL para la página"}]]}]]}]]}]}]
+62:["$","$L3d",null,{"as":"h4","id":"salida-5","children":"Salida"}]
+63:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La página creada"}]]}]}]]}]}]
+64:["$","$L3d",null,{"as":"h3","id":"wordpress_update_page","children":["$","code",null,{"children":"wordpress_update_page"}]}]
+65:["$","p",null,{"children":"Actualizar una página existente en WordPress.com"}]
+66:["$","$L3d",null,{"as":"h4","id":"entrada-6","children":"Entrada"}]
+67:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la página a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Título de la página"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido de la página (HTML o texto plano)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Estado de la página: publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"excerpt"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Extracto de la página"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de la página padre para páginas jerárquicas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"menuOrder"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Orden en el menú de páginas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"featuredMedia"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del medio de la imagen destacada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Slug de URL para la página"}]]}]]}]]}]}]
+68:["$","$L3d",null,{"as":"h4","id":"salida-6","children":"Salida"}]
+69:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"objeto"}],["$","td",null,{"children":"La página actualizada"}]]}]}]]}]}]
+6a:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_page","children":["$","code",null,{"children":"wordpress_delete_page"}]}]
+6b:["$","p",null,{"children":"Eliminar una página de WordPress.com"}]
+6c:["$","$L3d",null,{"as":"h4","id":"entrada-7","children":"Entrada"}]
+6d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageId"}]}],["$","td",null,{"children":"número"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la página a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"booleano"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Omitir la papelera y forzar la eliminación permanente"}]]}]]}]]}]}]
+6e:["$","$L3d",null,{"as":"h4","id":"salida-7","children":"Salida"}]
+6f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"booleano"}],["$","td",null,{"children":"Si la página fue eliminada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"objeto"}],["$","td",null,{"children":"La página eliminada"}]]}]]}]]}]}]
+70:["$","$L3d",null,{"as":"h3","id":"wordpress_get_page","children":["$","code",null,{"children":"wordpress_get_page"}]}]
+71:["$","p",null,{"children":"Obtener una sola página de WordPress.com por ID"}]
+72:["$","$L3d",null,{"as":"h4","id":"entrada-8","children":"Entrada"}]
+73:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pageId"}]}],["$","td",null,{"children":"número"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la página a recuperar"}]]}]]}]]}]}]
+74:["$","$L3d",null,{"as":"h4","id":"salida-8","children":"Salida"}]
+75:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"objeto"}],["$","td",null,{"children":"La página recuperada"}]]}]}]]}]}]
+76:["$","$L3d",null,{"as":"h3","id":"wordpress_list_pages","children":["$","code",null,{"children":"wordpress_list_pages"}]}]
+77:["$","p",null,{"children":"Listar páginas de WordPress.com con filtros opcionales"}]
+78:["$","$L3d",null,{"as":"h4","id":"entrada-9","children":"Entrada"}]
+79:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"número"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de páginas por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"número"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtro de estado de página: publish, draft, pending, private"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"número"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ID de página padre"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar páginas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Ordenar por campo: date, id, title, slug, modified, menu_order"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"cadena"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+7a:["$","$L3d",null,{"as":"h4","id":"salida-9","children":"Salida"}]
+7b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"pages"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de páginas"}]]}]}]]}]}]
+7c:["$","$L3d",null,{"as":"h3","id":"wordpress_upload_media","children":["$","code",null,{"children":"wordpress_upload_media"}]}]
+7d:["$","p",null,{"children":"Subir un archivo multimedia (imagen, video, documento) a WordPress.com"}]
+7e:["$","$L3d",null,{"as":"h4","id":"entrada-10","children":"Entrada"}]
+7f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"file"}]}],["$","td",null,{"children":"file"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Archivo para subir (objeto UserFile)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"filename"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Anulación opcional del nombre de archivo (p. ej., imagen.jpg)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Título del medio"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"caption"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Leyenda del medio"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"altText"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Texto alternativo para accesibilidad"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Descripción del medio"}]]}]]}]]}]}]
+80:["$","$L3d",null,{"as":"h4","id":"salida-10","children":"Salida"}]
+81:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El elemento multimedia subido"}]]}]}]]}]}]
+82:["$","$L3d",null,{"as":"h3","id":"wordpress_get_media","children":["$","code",null,{"children":"wordpress_get_media"}]}]
+83:["$","p",null,{"children":"Obtener un solo elemento multimedia de WordPress.com por ID"}]
+84:["$","$L3d",null,{"as":"h4","id":"entrada-11","children":"Entrada"}]
+85:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID del elemento multimedia a recuperar"}]]}]]}]]}]}]
+86:["$","$L3d",null,{"as":"h4","id":"salida-11","children":"Salida"}]
+87:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El elemento multimedia recuperado"}]]}]}]]}]}]
+88:["$","$L3d",null,{"as":"h3","id":"wordpress_list_media","children":["$","code",null,{"children":"wordpress_list_media"}]}]
+89:["$","p",null,{"children":"Listar elementos multimedia de la biblioteca multimedia de WordPress.com"}]
+8a:["$","$L3d",null,{"as":"h4","id":"entrada-12","children":"Entrada"}]
+8b:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de elementos multimedia por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar multimedia"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por tipo de multimedia: imagen, video, audio, aplicación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mimeType"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por tipo MIME específico (p. ej., image/jpeg)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Ordenar por campo: fecha, id, título, slug"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+8c:["$","$L3d",null,{"as":"h4","id":"salida-12","children":"Salida"}]
+8d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de elementos multimedia"}]]}]}]]}]}]
+8e:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_media","children":["$","code",null,{"children":"wordpress_delete_media"}]}]
+8f:["$","p",null,{"children":"Eliminar un elemento multimedia de WordPress.com"}]
+90:["$","$L3d",null,{"as":"h4","id":"entrada-13","children":"Entrada"}]
+91:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"mediaId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID del elemento multimedia a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Forzar eliminación (los elementos multimedia no tienen papelera, por lo que la eliminación es permanente)"}]]}]]}]]}]}]
+92:["$","$L3d",null,{"as":"h4","id":"salida-13","children":"Salida"}]
+93:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el medio fue eliminado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"media"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El elemento multimedia eliminado"}]]}]]}]]}]}]
+94:["$","$L3d",null,{"as":"h3","id":"wordpress_create_comment","children":["$","code",null,{"children":"wordpress_create_comment"}]}]
+95:["$","p",null,{"children":"Crear un nuevo comentario en una entrada de WordPress.com"}]
+96:["$","$L3d",null,{"as":"h4","id":"entrada-14","children":"Entrada"}]
+97:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID de la entrada en la que comentar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Contenido del comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID del comentario padre para respuestas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authorName"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombre visible del autor del comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authorEmail"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Correo electrónico del autor del comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"authorUrl"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"URL del autor del comentario"}]]}]]}]]}]}]
+98:["$","$L3d",null,{"as":"h4","id":"salida-14","children":"Salida"}]
+99:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El comentario creado"}]]}]}]]}]}]
+9a:["$","$L3d",null,{"as":"h3","id":"wordpress_list_comments","children":["$","code",null,{"children":"wordpress_list_comments"}]}]
+9b:["$","p",null,{"children":"Listar comentarios de WordPress.com con filtros opcionales"}]
+9c:["$","$L3d",null,{"as":"h4","id":"entrada-15","children":"Entrada"}]
+9d:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de comentarios por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"postId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por ID de entrada"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por estado del comentario: approved, hold, spam, trash"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar comentarios"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"orderBy"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Ordenar por campo: date, id, parent"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+9e:["$","$L3d",null,{"as":"h4","id":"salida-15","children":"Salida"}]
+9f:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comments"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de comentarios"}]]}]}]]}]}]
+a0:["$","$L3d",null,{"as":"h3","id":"wordpress_update_comment","children":["$","code",null,{"children":"wordpress_update_comment"}]}]
+a1:["$","p",null,{"children":"Actualizar un comentario en WordPress.com (contenido o estado)"}]
+a2:["$","$L3d",null,{"as":"h4","id":"entrada-16","children":"Entrada"}]
+a3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID del comentario a actualizar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Contenido actualizado del comentario"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"status"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Estado del comentario: approved, hold, spam, trash"}]]}]]}]]}]}]
+a4:["$","$L3d",null,{"as":"h4","id":"salida-16","children":"Salida"}]
+a5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El comentario actualizado"}]]}]}]]}]}]
+a6:["$","$L3d",null,{"as":"h3","id":"wordpress_delete_comment","children":["$","code",null,{"children":"wordpress_delete_comment"}]}]
+a7:["$","p",null,{"children":"Eliminar un comentario de WordPress.com"}]
+a8:["$","$L3d",null,{"as":"h4","id":"entrada-17","children":"Entrada"}]
+a9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"commentId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID del comentario a eliminar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"force"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Omitir la papelera y forzar la eliminación permanente"}]]}]]}]]}]}]
+aa:["$","$L3d",null,{"as":"h4","id":"salida-17","children":"Salida"}]
+ab:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"deleted"}]}],["$","td",null,{"children":"boolean"}],["$","td",null,{"children":"Si el comentario fue eliminado"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"comment"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El comentario eliminado"}]]}]]}]]}]}]
+ac:["$","$L3d",null,{"as":"h3","id":"wordpress_create_category","children":["$","code",null,{"children":"wordpress_create_category"}]}]
+ad:["$","p",null,{"children":"Crear una nueva categoría en WordPress.com"}]
+ae:["$","$L3d",null,{"as":"h4","id":"entrada-18","children":"Entrada"}]
+af:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la categoría"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Descripción de la categoría"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"parent"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"ID de la categoría padre para categorías jerárquicas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Slug de URL para la categoría"}]]}]]}]]}]}]
+b0:["$","$L3d",null,{"as":"h4","id":"salida-18","children":"Salida"}]
+b1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"category"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La categoría creada"}]]}]}]]}]}]
+b2:["$","$L3d",null,{"as":"h3","id":"wordpress_list_categories","children":["$","code",null,{"children":"wordpress_list_categories"}]}]
+b3:["$","p",null,{"children":"Listar categorías de WordPress.com"}]
+b4:["$","$L3d",null,{"as":"h4","id":"entrada-19","children":"Entrada"}]
+b5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de categorías por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar categorías"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+b6:["$","$L3d",null,{"as":"h4","id":"salida-19","children":"Salida"}]
+b7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"categories"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de categorías"}]]}]}]]}]}]
+b8:["$","$L3d",null,{"as":"h3","id":"wordpress_create_tag","children":["$","code",null,{"children":"wordpress_create_tag"}]}]
+b9:["$","p",null,{"children":"Crear una nueva etiqueta en WordPress.com"}]
+ba:["$","$L3d",null,{"as":"h4","id":"entrada-20","children":"Entrada"}]
+bb:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"name"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Nombre de la etiqueta"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"description"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Descripción de la etiqueta"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"slug"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Slug de URL para la etiqueta"}]]}]]}]]}]}]
+bc:["$","$L3d",null,{"as":"h4","id":"salida-20","children":"Salida"}]
+bd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tag"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"La etiqueta creada"}]]}]}]]}]}]
+be:["$","$L3d",null,{"as":"h3","id":"wordpress_list_tags","children":["$","code",null,{"children":"wordpress_list_tags"}]}]
+bf:["$","p",null,{"children":"Listar etiquetas de WordPress.com"}]
+c0:["$","$L3d",null,{"as":"h4","id":"entrada-21","children":"Entrada"}]
+c1:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de etiquetas por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar etiquetas"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+c2:["$","$L3d",null,{"as":"h4","id":"salida-21","children":"Salida"}]
+c3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tags"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de etiquetas"}]]}]}]]}]}]
+c4:["$","$L3d",null,{"as":"h3","id":"wordpress_get_current_user","children":["$","code",null,{"children":"wordpress_get_current_user"}]}]
+c5:["$","p",null,{"children":"Obtener información sobre el usuario autenticado actualmente en WordPress.com"}]
+c6:["$","$L3d",null,{"as":"h4","id":"entrada-22","children":"Entrada"}]
+c7:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}]}]]}]}]
+c8:["$","$L3d",null,{"as":"h4","id":"salida-22","children":"Salida"}]
+c9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El usuario actual"}]]}]}]]}]}]
+ca:["$","$L3d",null,{"as":"h3","id":"wordpress_list_users","children":["$","code",null,{"children":"wordpress_list_users"}]}]
+cb:["$","p",null,{"children":"Listar usuarios de WordPress.com (requiere privilegios de administrador)"}]
+cc:["$","$L3d",null,{"as":"h4","id":"entrada-23","children":"Entrada"}]
+cd:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de usuarios por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"search"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Término de búsqueda para filtrar usuarios"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"roles"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Nombres de roles separados por comas para filtrar"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"order"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Dirección de ordenamiento: asc o desc"}]]}]]}]]}]}]
+ce:["$","$L3d",null,{"as":"h4","id":"salida-23","children":"Salida"}]
+cf:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"users"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Lista de usuarios"}]]}]}]]}]}]
+d0:["$","$L3d",null,{"as":"h3","id":"wordpress_get_user","children":["$","code",null,{"children":"wordpress_get_user"}]}]
+d1:["$","p",null,{"children":"Obtener un usuario específico de WordPress.com por ID"}]
+d2:["$","$L3d",null,{"as":"h4","id":"entrada-24","children":"Entrada"}]
+d3:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"userId"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"El ID del usuario a recuperar"}]]}]]}]]}]}]
+d4:["$","$L3d",null,{"as":"h4","id":"salida-24","children":"Salida"}]
+d5:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"user"}]}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"El usuario recuperado"}]]}]}]]}]}]
+d6:["$","$L3d",null,{"as":"h3","id":"wordpress_search_content","children":["$","code",null,{"children":"wordpress_search_content"}]}]
+d7:["$","p",null,{"children":"Buscar en todos los tipos de contenido en WordPress.com (entradas, páginas, multimedia)"}]
+d8:["$","$L3d",null,{"as":"h4","id":"entrada-25","children":"Entrada"}]
+d9:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Obligatorio"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"siteId"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"ID del sitio o dominio de WordPress.com (p. ej., 12345678 o misitio.wordpress.com)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"query"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"Sí"}],["$","td",null,{"children":"Consulta de búsqueda"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"perPage"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de resultados por solicitud (predeterminado: 10, máx: 100)"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"page"}]}],["$","td",null,{"children":"number"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Número de página para paginación"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"type"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por tipo de contenido: post, page, attachment"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subtype"}]}],["$","td",null,{"children":"string"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"Filtrar por slug de tipo de entrada (p. ej., post, page)"}]]}]]}]]}]}]
+da:["$","$L3d",null,{"as":"h4","id":"salida-25","children":"Salida"}]
+db:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Parámetro"}],["$","th",null,{"children":"Tipo"}],["$","th",null,{"children":"Descripción"}]]}]}],["$","tbody",null,{"children":["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"results"}]}],["$","td",null,{"children":"array"}],["$","td",null,{"children":"Resultados de búsqueda"}]]}]}]]}]}]
+de:null

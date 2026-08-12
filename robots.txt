@@ -1,0 +1,22 @@
+# Robots.txt for Aptlystar Documentation
+
+User-agent: *
+Disallow: /.next/
+Disallow: /api/internal/
+Disallow: /_next/static/
+Disallow: /admin/
+Allow: /
+Allow: /api/search
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /llms.mdx/
+
+# Sitemaps
+Sitemap: https://aptly-technology.github.io/aptlystar-docs/sitemap.xml
+
+# Additional resources for AI indexing
+# See https://github.com/AnswerDotAI/llms-txt for more info
+# LLM-friendly content:
+#   Manifest: https://aptly-technology.github.io/aptlystar-docs/llms.txt
+#   Full content: https://aptly-technology.github.io/aptlystar-docs/llms-full.txt
+#   Individual pages: https://aptly-technology.github.io/aptlystar-docs/llms.mdx/[page-path]
