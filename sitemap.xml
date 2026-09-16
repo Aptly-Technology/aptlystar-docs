@@ -31,6 +31,56 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/agents/slack" />
 </url>
 <url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/authentication" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/authentication" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/authentication" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/authentication" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/authentication" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/getting-started" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/getting-started" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/getting-started" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/getting-started" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/getting-started" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/python" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/python" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/python" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/python" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/python" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/typescript" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/typescript" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/typescript" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/typescript" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/typescript" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript" />
+</url>
+<url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/astra/files</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/astra/files" />
 <xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/astra/files" />
@@ -101,46 +151,6 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/astra/workflows" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/authentication" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/authentication" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/authentication" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/authentication" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/authentication" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/getting-started" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/getting-started" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/getting-started" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/getting-started" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/getting-started" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/python" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/python" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/python" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/python" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/python" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/api-reference/typescript" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/api-reference/typescript" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/api-reference/typescript" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/api-reference/typescript" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/api-reference/typescript" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript" />
-</url>
-<url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/astrax</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/astrax" />
 <xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/astrax" />
@@ -149,56 +159,6 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/astrax" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/astrax" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/astrax" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/basics</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/basics" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/basics" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/basics" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/basics" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/basics" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/basics" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/basics" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/data-structure" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/data-structure" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/data-structure" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/data-structure" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/data-structure" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/tags</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/tags" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/tags" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/tags" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/tags" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/tags" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/tags" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/tags" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/credentials</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/credentials" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/credentials" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/credentials" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/credentials" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/credentials" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/credentials" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/credentials" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/blocks/agent</loc>
@@ -371,74 +331,74 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/blocks/workflow" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/access-control" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/access-control" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/access-control" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/access-control" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/access-control" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/accessing-data</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/accessing-data" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/accessing-data" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/accessing-data" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/accessing-data" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/accessing-data" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/accessing-data" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/accessing-data" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/audit-logs" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/audit-logs" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/audit-logs" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/audit-logs" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/audit-logs" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/basics</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/basics" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/basics" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/basics" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/basics" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/basics" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/basics" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/basics" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/data-retention" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/data-retention" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/data-retention" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/data-retention" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/data-retention" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/best-practices</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/best-practices" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/best-practices" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/best-practices" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/best-practices" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/best-practices" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/best-practices" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/best-practices" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/data-structure" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/data-structure" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/data-structure" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/data-structure" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/data-structure" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/sso" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/sso" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/sso" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/sso" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/sso" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/whitelabeling" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/whitelabeling" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/whitelabeling" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/whitelabeling" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/whitelabeling" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/connections/tags</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/tags" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/connections/tags" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/connections/tags" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/connections/tags" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/connections/tags" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/connections/tags" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/connections/tags" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/getting-started</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/getting-started" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/getting-started" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/getting-started" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/getting-started" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/getting-started" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/getting-started" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/getting-started" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/credentials</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/credentials" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/credentials" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/credentials" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/credentials" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/credentials" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/credentials" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/credentials" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/execution/api-deployment</loc>
@@ -531,44 +491,14 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/execution/logging" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations/google-service-account" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations/google-service-account" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations/google-service-account" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations/google-service-account" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations/google-service-account" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration-guide" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations/oauth-app-registration-guide" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations/oauth-app-registration-guide" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations/oauth-app-registration-guide" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations/oauth-app-registration-guide" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations/oauth-app-registration" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations/oauth-app-registration" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations/oauth-app-registration" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations/oauth-app-registration" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/getting-started</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/getting-started" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/getting-started" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/getting-started" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/getting-started" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/getting-started" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/getting-started" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/getting-started" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/introduction</loc>
@@ -581,14 +511,14 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/introduction" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/mailer</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/mailer" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/mailer" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/mailer" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/mailer" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/mailer" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/mailer" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/mailer" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/keyboard-shortcuts" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/keyboard-shortcuts" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/keyboard-shortcuts" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/keyboard-shortcuts" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/keyboard-shortcuts" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase/chunking-strategies</loc>
@@ -631,6 +561,56 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase/tags" />
 </url>
 <url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/mailer</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/mailer" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/mailer" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/mailer" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/mailer" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/mailer" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/mailer" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/mailer" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations/google-service-account" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations/google-service-account" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations/google-service-account" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations/google-service-account" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations/google-service-account" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration-guide" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations/oauth-app-registration-guide" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations/oauth-app-registration-guide" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations/oauth-app-registration-guide" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations/oauth-app-registration-guide" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/integrations/oauth-app-registration" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/integrations/oauth-app-registration" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/integrations/oauth-app-registration" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/integrations/oauth-app-registration" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/integrations/oauth-app-registration" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration" />
+</url>
+<url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/mcp/deploy-workflows</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/mcp/deploy-workflows" />
 <xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/mcp/deploy-workflows" />
@@ -651,24 +631,14 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/mcp" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/keyboard-shortcuts" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/keyboard-shortcuts" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/keyboard-shortcuts" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/keyboard-shortcuts" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/keyboard-shortcuts" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/quick-reference</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/quick-reference" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/quick-reference" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/quick-reference" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/quick-reference" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/quick-reference" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/quick-reference" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/quick-reference" />
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/permissions</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/permissions" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/permissions" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/permissions" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/permissions" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/permissions" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/permissions" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/permissions" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/permissions/roles-and-permissions</loc>
@@ -691,26 +661,6 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/skills" />
 </url>
 <url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/variables</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/variables" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/variables" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/variables" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/variables" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/variables" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/variables" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/variables" />
-</url>
-<url>
-<loc>https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables" />
-<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/variables/workflow-variables" />
-<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/variables/workflow-variables" />
-<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/variables/workflow-variables" />
-<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/variables/workflow-variables" />
-<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/variables/workflow-variables" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables" />
-</url>
-<url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/tables</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/tables" />
 <xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/tables" />
@@ -719,6 +669,16 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/tables" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/tables" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/tables" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/quick-reference</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/quick-reference" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/quick-reference" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/quick-reference" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/quick-reference" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/quick-reference" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/quick-reference" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/quick-reference" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/triggers/airtable</loc>
@@ -1349,6 +1309,66 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/triggers/zoom" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/triggers/zoom" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/triggers/zoom" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/access-control" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/access-control" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/access-control" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/access-control" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/access-control" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/audit-logs" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/audit-logs" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/audit-logs" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/audit-logs" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/audit-logs" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/data-retention" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/data-retention" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/data-retention" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/data-retention" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/data-retention" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/sso" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/sso" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/sso" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/sso" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/sso" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/enterprise/whitelabeling" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/enterprise/whitelabeling" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/enterprise/whitelabeling" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/enterprise/whitelabeling" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/enterprise/whitelabeling" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/tools/a2a</loc>
@@ -3779,6 +3799,26 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/tools/zoominfo" />
 <xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/tools/zoominfo" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/tools/zoominfo" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/variables</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/variables" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/variables" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/variables" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/variables" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/variables" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/variables" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/variables" />
+</url>
+<url>
+<loc>https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aptly-technology.github.io/aptlystar-docs/es/variables/workflow-variables" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aptly-technology.github.io/aptlystar-docs/fr/variables/workflow-variables" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aptly-technology.github.io/aptlystar-docs/de/variables/workflow-variables" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aptly-technology.github.io/aptlystar-docs/ja/variables/workflow-variables" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://aptly-technology.github.io/aptlystar-docs/zh/variables/workflow-variables" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables" />
 </url>
 <url>
 <loc>https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/executeWorkflow</loc>

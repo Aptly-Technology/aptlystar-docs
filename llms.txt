@@ -21,29 +21,14 @@ This file provides an overview of our documentation. For full content of all pag
 - Connect Slack to an agent: https://aptly-technology.github.io/aptlystar-docs/en/agents/slack
   Receive Slack messages in a product agent and reply from the same workflow
 
-### Astra
-
-- Files & Documents: https://aptly-technology.github.io/aptlystar-docs/en/astra/files
-  Upload, create, edit, and generate files — documents, presentations, images, and more.
-- Astra: https://aptly-technology.github.io/aptlystar-docs/en/astra
-  Your AI command center. Build and manage your entire workspace in natural language.
-- Knowledge Bases: https://aptly-technology.github.io/aptlystar-docs/en/astra/knowledge
-  Create, populate, and query knowledge bases from Astra.
-- Research: https://aptly-technology.github.io/aptlystar-docs/en/astra/research
-  Ask Astra to research anything — it searches, reads, and synthesizes from the web.
-- Tables: https://aptly-technology.github.io/aptlystar-docs/en/astra/tables
-  Create, query, and manage workspace tables from Astra.
-- Automation & Configuration: https://aptly-technology.github.io/aptlystar-docs/en/astra/tasks
-  Schedule recurring jobs, take immediate actions, connect integrations, and configure your workspace.
-- Workflows: https://aptly-technology.github.io/aptlystar-docs/en/astra/workflows
-  Create, edit, run, debug, deploy, and organize workflows from Astra.
-
 ### Api Reference
 
 - Authentication: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/authentication
   API key types, generation, and how to authenticate requests
 - Getting Started: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/getting-started
   Base URL, first API call, response format, error handling, and pagination
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/api-reference
+  Authenticate, execute workflows, and integrate AptlyStar with your applications
 - Python: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/python
 - TypeScript: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/typescript
 - Execute Workflow: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/workflows/executeWorkflow
@@ -139,23 +124,27 @@ This file provides an overview of our documentation. For full content of all pag
 - Search Knowledge Base: https://aptly-technology.github.io/aptlystar-docs/en/api-reference/knowledge-bases/searchKnowledgeBase
   Perform vector similarity search across one or more knowledge bases. Supports semantic search via query text, tag-based filtering, or a combination of both.
 
+### Astra
+
+- Files & Documents: https://aptly-technology.github.io/aptlystar-docs/en/astra/files
+  Upload, create, edit, and generate files — documents, presentations, images, and more.
+- Astra: https://aptly-technology.github.io/aptlystar-docs/en/astra
+  Your AI command center. Build and manage your entire workspace in natural language.
+- Knowledge Bases: https://aptly-technology.github.io/aptlystar-docs/en/astra/knowledge
+  Create, populate, and query knowledge bases from Astra.
+- Research: https://aptly-technology.github.io/aptlystar-docs/en/astra/research
+  Ask Astra to research anything — it searches, reads, and synthesizes from the web.
+- Tables: https://aptly-technology.github.io/aptlystar-docs/en/astra/tables
+  Create, query, and manage workspace tables from Astra.
+- Automation & Configuration: https://aptly-technology.github.io/aptlystar-docs/en/astra/tasks
+  Schedule recurring jobs, take immediate actions, connect integrations, and configure your workspace.
+- Workflows: https://aptly-technology.github.io/aptlystar-docs/en/astra/workflows
+  Create, edit, run, debug, deploy, and organize workflows from Astra.
+
 ### Astrax
 
 - Astrax: https://aptly-technology.github.io/aptlystar-docs/en/astrax
   Your per-workflow AI assistant for building and editing workflows.
-
-### Connections
-
-- Basics: https://aptly-technology.github.io/aptlystar-docs/en/connections/basics
-- Data Structure: https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure
-- Overview: https://aptly-technology.github.io/aptlystar-docs/en/connections
-  Connect your blocks to one another.
-- Tags: https://aptly-technology.github.io/aptlystar-docs/en/connections/tags
-
-### Credentials
-
-- Secrets: https://aptly-technology.github.io/aptlystar-docs/en/credentials
-  Manage API keys and environment variables for your workflows
 
 ### Blocks
 
@@ -179,24 +168,20 @@ This file provides an overview of our documentation. For full content of all pag
 - Workflow Block: https://aptly-technology.github.io/aptlystar-docs/en/blocks/workflow
   Run another workflow inside the current flow
 
-### Enterprise
+### Connections
 
-- Access Control: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control
-  Restrict which models, blocks, and platform features each group of users can access
-- Audit Logs: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs
-  Track every action taken across your organization's workspaces
-- Data Retention: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention
-  Control how long execution logs, deleted resources, and astrax data are kept before permanent deletion
-- Enterprise: https://aptly-technology.github.io/aptlystar-docs/en/enterprise
-  Enterprise features for business organizations
-- Single Sign-On (SSO): https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso
-  Configure SAML 2.0 or OIDC-based single sign-on for your organization
-- Whitelabeling: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling
-  Replace Aptlystar branding with your own logo, colors, and links
+- Accessing Data: https://aptly-technology.github.io/aptlystar-docs/en/connections/accessing-data
+- Basics: https://aptly-technology.github.io/aptlystar-docs/en/connections/basics
+- Best Practices: https://aptly-technology.github.io/aptlystar-docs/en/connections/best-practices
+- Data Structure: https://aptly-technology.github.io/aptlystar-docs/en/connections/data-structure
+- Overview: https://aptly-technology.github.io/aptlystar-docs/en/connections
+  Connect your blocks to one another.
+- Tags: https://aptly-technology.github.io/aptlystar-docs/en/connections/tags
 
-### Getting Started
+### Credentials
 
-- Getting Started: https://aptly-technology.github.io/aptlystar-docs/en/getting-started
+- Secrets: https://aptly-technology.github.io/aptlystar-docs/en/credentials
+  Manage API keys and environment variables for your workflows
 
 ### Execution
 
@@ -210,25 +195,18 @@ This file provides an overview of our documentation. For full content of all pag
 - Overview: https://aptly-technology.github.io/aptlystar-docs/en/execution
 - Logging: https://aptly-technology.github.io/aptlystar-docs/en/execution/logging
 
-### Integrations
+### Getting Started
 
-- Google Service Accounts: https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account
-  Set up Google service accounts with domain-wide delegation for Gmail, Sheets, Drive, Calendar, and other Google services
-- Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations
-  Connect third-party services and OAuth accounts for your workflows
-- Create OAuth Apps For Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide
-  What to create for each OAuth integration, which keys to collect, and how to get them
-- Create OAuth Apps For Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration
-  What to create for each OAuth integration, which keys to collect, and how to get them
+- Getting Started: https://aptly-technology.github.io/aptlystar-docs/en/getting-started
 
 ### Introduction
 
 - Introduction: https://aptly-technology.github.io/aptlystar-docs/en/introduction
 
-### Mailer
+### Keyboard Shortcuts
 
-- Aptlystar Mailer: https://aptly-technology.github.io/aptlystar-docs/en/mailer
-  Send emails to your workspace and let Aptlystar handle them as tasks.
+- Keyboard Shortcuts: https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts
+  Master the workflow canvas with keyboard shortcuts and mouse controls
 
 ### Knowledgebase
 
@@ -240,6 +218,22 @@ This file provides an overview of our documentation. For full content of all pag
   Upload, process, and search through your documents with intelligent vector search and chunking
 - Tags and Filtering: https://aptly-technology.github.io/aptlystar-docs/en/knowledgebase/tags
 
+### Mailer
+
+- Aptlystar Mailer: https://aptly-technology.github.io/aptlystar-docs/en/mailer
+  Send emails to your workspace and let Aptlystar handle them as tasks.
+
+### Integrations
+
+- Google Service Accounts: https://aptly-technology.github.io/aptlystar-docs/en/integrations/google-service-account
+  Set up Google service accounts with domain-wide delegation for Gmail, Sheets, Drive, Calendar, and other Google services
+- Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations
+  Connect third-party services and OAuth accounts for your workflows
+- Create OAuth Apps For Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration-guide
+  What to create for each OAuth integration, which keys to collect, and how to get them
+- Create OAuth Apps For Integrations: https://aptly-technology.github.io/aptlystar-docs/en/integrations/oauth-app-registration
+  What to create for each OAuth integration, which keys to collect, and how to get them
+
 ### Mcp
 
 - Deploy Workflows as MCP: https://aptly-technology.github.io/aptlystar-docs/en/mcp/deploy-workflows
@@ -247,33 +241,25 @@ This file provides an overview of our documentation. For full content of all pag
 - Using MCP Tools: https://aptly-technology.github.io/aptlystar-docs/en/mcp
   Connect external tools and services using the Model Context Protocol
 
-### Keyboard Shortcuts
-
-- Keyboard Shortcuts: https://aptly-technology.github.io/aptlystar-docs/en/keyboard-shortcuts
-  Master the workflow canvas with keyboard shortcuts and mouse controls
-
-### Quick Reference
-
-- Quick Reference: https://aptly-technology.github.io/aptlystar-docs/en/quick-reference
-  Essential actions for navigating and using the Aptlystar workflow editor
-
 ### Permissions
 
+- Permissions: https://aptly-technology.github.io/aptlystar-docs/en/permissions
+  Control who can access your organizations, workspaces, and credentials.
 - Roles and Permissions: https://aptly-technology.github.io/aptlystar-docs/en/permissions/roles-and-permissions
 
 ### Skills
 
 - Agent Skills: https://aptly-technology.github.io/aptlystar-docs/en/skills
 
-### Variables
-
-- Variables: https://aptly-technology.github.io/aptlystar-docs/en/variables
-- Workflow Variables: https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables
-
 ### Tables
 
 - Tables: https://aptly-technology.github.io/aptlystar-docs/en/tables
   Store, query, and manage structured data directly within your workspace
+
+### Quick Reference
+
+- Quick Reference: https://aptly-technology.github.io/aptlystar-docs/en/quick-reference
+  Essential actions for navigating and using the Aptlystar workflow editor
 
 ### Triggers
 
@@ -400,6 +386,21 @@ This file provides an overview of our documentation. For full content of all pag
 - Zoom: https://aptly-technology.github.io/aptlystar-docs/en/triggers/zoom
   Available Zoom triggers for automating workflows
 
+### Enterprise
+
+- Access Control: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/access-control
+  Restrict which models, blocks, and platform features each group of users can access
+- Audit Logs: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/audit-logs
+  Track every action taken across your organization's workspaces
+- Data Retention: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/data-retention
+  Control how long execution logs, deleted resources, and astrax data are kept before permanent deletion
+- Enterprise: https://aptly-technology.github.io/aptlystar-docs/en/enterprise
+  Enterprise features for business organizations
+- Single Sign-On (SSO): https://aptly-technology.github.io/aptlystar-docs/en/enterprise/sso
+  Configure SAML 2.0 or OIDC-based single sign-on for your organization
+- Whitelabeling: https://aptly-technology.github.io/aptlystar-docs/en/enterprise/whitelabeling
+  Replace Aptlystar branding with your own logo, colors, and links
+
 ### Tools
 
 - A2A: https://aptly-technology.github.io/aptlystar-docs/en/tools/a2a
@@ -523,7 +524,7 @@ This file provides an overview of our documentation. For full content of all pag
 - Email Bison: https://aptly-technology.github.io/aptlystar-docs/en/tools/emailbison
   Manage Email Bison leads, campaigns, replies, and tags
 - Enrich: https://aptly-technology.github.io/aptlystar-docs/en/tools/enrich
-  B2B data enrichment and LinkedIn intelligence with Enrich.so
+  B2B data enrichment with Enrich.so
 - Data Enrichment: https://aptly-technology.github.io/aptlystar-docs/en/tools/enrichment
   Enrich data with a Data enrichment
 - Enrow: https://aptly-technology.github.io/aptlystar-docs/en/tools/enrow
@@ -889,6 +890,11 @@ This file provides an overview of our documentation. For full content of all pag
 - ZoomInfo: https://aptly-technology.github.io/aptlystar-docs/en/tools/zoominfo
   Search and enrich B2B company and contact data with ZoomInfo.
 
+### Variables
+
+- Variables: https://aptly-technology.github.io/aptlystar-docs/en/variables
+- Workflow Variables: https://aptly-technology.github.io/aptlystar-docs/en/variables/workflow-variables
+
 ## Additional Resources
 
 - Full documentation content: https://aptly-technology.github.io/aptlystar-docs/llms-full.txt
@@ -898,11 +904,11 @@ This file provides an overview of our documentation. For full content of all pag
 
 ## Statistics
 
-- Total pages: 424 (English only)
+- Total pages: 428 (English only)
 - Other languages available at: https://aptly-technology.github.io/aptlystar-docs/[lang]/ (es, fr, de, ja, zh)
 
 ---
 
-Generated: 2026-08-12T18:06:01.960Z
+Generated: 2026-09-16T02:23:54.443Z
 Format: llms.txt v0.1.0
 See: https://llmstxt.org for specification
